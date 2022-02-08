@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-08T12:04:23.881Z</updated>
+    <updated>2022-02-08T13:09:01.352Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[2월 14일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🙅🏻‍♂️ 거절 잘하는 방법 | 에너지 관리 워크샵 1부  🙅🏻‍♀️]]></title>
-        <id>https://festa.io/events/2099</id>
-        <link href="https://festa.io/events/2099"/>
-        <updated>2022-01-27T11:12:29.099Z</updated>
-        <content type="html"><![CDATA[2월 8일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[리얼리눅스 온라인: 수준별 리눅스 교육 2월 모집]]></title>
         <id>https://festa.io/events/2097</id>
         <link href="https://festa.io/events/2097"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2094"/>
         <updated>2022-01-27T11:12:29.107Z</updated>
         <content type="html"><![CDATA[1월 23일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDG Korea WebTech Online Lightning Talk 2022]]></title>
+        <id>https://festa.io/events/2078</id>
+        <link href="https://festa.io/events/2078"/>
+        <updated>2022-02-08T13:09:00.599Z</updated>
+        <content type="html"><![CDATA[2월 12일 (토) · 온라인]]></content>
     </entry>
 </feed>
