@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-09T10:02:07.304Z</updated>
+    <updated>2022-02-09T11:02:00.469Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[메가존소프트] GCP 입문을 위한 hands-on Labs day 2022 seanson1 웨비나에 초대합니다]]></title>
+        <id>https://festa.io/events/2112</id>
+        <link href="https://festa.io/events/2112"/>
+        <updated>2022-02-09T11:01:59.754Z</updated>
+        <content type="html"><![CDATA[2월 24일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[과학기술정보통신부] 경북·강원·대구 지역 AI(인공지능)교육과정(기본·중급) 2021년 4기 교육생 모집(~6/14)]]></title>
         <id>https://festa.io/events/2108</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2094"/>
         <updated>2022-01-27T11:12:29.107Z</updated>
         <content type="html"><![CDATA[1월 23일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDG Korea WebTech Online Lightning Talk 2022]]></title>
-        <id>https://festa.io/events/2078</id>
-        <link href="https://festa.io/events/2078"/>
-        <updated>2022-02-08T13:09:00.599Z</updated>
-        <content type="html"><![CDATA[2월 12일 (토) · 온라인]]></content>
     </entry>
 </feed>
