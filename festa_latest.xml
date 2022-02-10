@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-10T02:19:48.400Z</updated>
+    <updated>2022-02-10T03:03:19.270Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[2월 24일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[웨비나] [Talk&Talk] 고성능 컴퓨터, HPC 쉽게 알아보기]]></title>
-        <id>https://festa.io/events/2103</id>
-        <link href="https://festa.io/events/2103"/>
-        <updated>2022-01-28T08:03:08.411Z</updated>
-        <content type="html"><![CDATA[2월 10일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집(무료)]]></title>
         <id>https://festa.io/events/2101</id>
         <link href="https://festa.io/events/2101"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2094"/>
         <updated>2022-01-27T11:12:29.107Z</updated>
         <content type="html"><![CDATA[1월 23일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDG Korea WebTech Online Lightning Talk 2022]]></title>
+        <id>https://festa.io/events/2078</id>
+        <link href="https://festa.io/events/2078"/>
+        <updated>2022-02-10T03:03:18.507Z</updated>
+        <content type="html"><![CDATA[2월 12일 (토) · 온라인]]></content>
     </entry>
 </feed>
