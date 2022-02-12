@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-12T06:02:32.479Z</updated>
+    <updated>2022-02-12T07:02:07.807Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GDG Korea WebTech Online Lightning Talk 2022]]></title>
+        <id>https://festa.io/events/2078</id>
+        <link href="https://festa.io/events/2078"/>
+        <updated>2022-02-12T07:02:07.168Z</updated>
+        <content type="html"><![CDATA[2월 12일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[모집] 리더를 위한 회의의 기술 온라인 강의]]></title>
         <id>https://festa.io/events/2116</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2097"/>
         <updated>2022-01-27T11:12:29.099Z</updated>
         <content type="html"><![CDATA[1월 24일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프로모션] CRM은 역시 세일즈포인트! Salespoint로 영업관리의 포인트를 찍어보세요!]]></title>
-        <id>https://festa.io/events/2094</id>
-        <link href="https://festa.io/events/2094"/>
-        <updated>2022-01-27T11:12:29.107Z</updated>
-        <content type="html"><![CDATA[1월 23일 (일) · 온라인]]></content>
     </entry>
 </feed>
