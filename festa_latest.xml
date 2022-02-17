@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-17T12:05:33.197Z</updated>
+    <updated>2022-02-17T13:09:21.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[당근마켓] 프론트엔드 개발자 라이브 QnA 세션]]></title>
+        <id>https://festa.io/events/2123</id>
+        <link href="https://festa.io/events/2123"/>
+        <updated>2022-02-17T13:09:21.395Z</updated>
+        <content type="html"><![CDATA[2월 25일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액 무료] 실무 프로젝트부터 채용 매칭까지 웹 개발 풀코스 교육! 엘리스 SW 엔지니어 트랙 2기 모집]]></title>
         <id>https://festa.io/events/2127</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2105"/>
         <updated>2022-02-04T06:02:17.050Z</updated>
         <content type="html"><![CDATA[2월 24일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집(무료)]]></title>
-        <id>https://festa.io/events/2101</id>
-        <link href="https://festa.io/events/2101"/>
-        <updated>2022-02-17T03:03:27.074Z</updated>
-        <content type="html"><![CDATA[2월 14일 (월) · 온라인]]></content>
     </entry>
 </feed>
