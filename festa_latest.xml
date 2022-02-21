@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-21T04:04:46.444Z</updated>
+    <updated>2022-02-21T05:02:49.378Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[프로모션] 10분이면 충분! 모바일 앱 보안 서비스 앱실링 🔐]]></title>
+        <id>https://festa.io/events/2132</id>
+        <link href="https://festa.io/events/2132"/>
+        <updated>2022-02-21T05:02:48.723Z</updated>
+        <content type="html"><![CDATA[2월 20일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[3040 싱글여성들! 질투받는 여자가 되라! "매력세공연구소" 의 무료 ebook 신청하기]]></title>
         <id>https://festa.io/events/2131</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2124"/>
         <updated>2022-02-15T15:02:12.038Z</updated>
         <content type="html"><![CDATA[3월 31일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA AI 개발자 밋업 - 음성 AI]]></title>
-        <id>https://festa.io/events/2113</id>
-        <link href="https://festa.io/events/2113"/>
-        <updated>2022-02-13T07:02:05.129Z</updated>
-        <content type="html"><![CDATA[2월 24일 (목) · 온라인]]></content>
     </entry>
 </feed>
