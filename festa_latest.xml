@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-23T04:05:23.849Z</updated>
+    <updated>2022-02-23T05:03:26.613Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA['애자일 코리아 & mySUNI' 3월 밋업]]></title>
+        <id>https://festa.io/events/2134</id>
+        <link href="https://festa.io/events/2134"/>
+        <updated>2022-02-23T05:03:25.990Z</updated>
+        <content type="html"><![CDATA[3월 8일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[프로모션] 10분이면 충분! 모바일 앱 보안 서비스 앱실링 🔐]]></title>
         <id>https://festa.io/events/2132</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2125"/>
         <updated>2022-02-16T06:04:08.851Z</updated>
         <content type="html"><![CDATA[8월 30일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚀 Golang 1.18 Release Party]]></title>
-        <id>https://festa.io/events/2124</id>
-        <link href="https://festa.io/events/2124"/>
-        <updated>2022-02-15T15:02:12.038Z</updated>
-        <content type="html"><![CDATA[3월 31일 (목) · 온라인]]></content>
     </entry>
 </feed>
