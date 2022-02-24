@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-24T05:02:39.997Z</updated>
+    <updated>2022-02-24T06:05:46.627Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[전액 무료] 신입 웹 개발자 취업, 경력에 필요한 실무 경험 쌓아 성공하세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2137</id>
+        <link href="https://festa.io/events/2137"/>
+        <updated>2022-02-24T06:05:45.980Z</updated>
+        <content type="html"><![CDATA[4월 4일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[웨비나] 네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #1 (이론편) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2136</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2123"/>
         <updated>2022-02-17T13:09:21.395Z</updated>
         <content type="html"><![CDATA[2월 25일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 무료] 실무 프로젝트부터 채용 매칭까지 웹 개발 풀코스 교육! 엘리스 SW 엔지니어 트랙 2기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2127</id>
-        <link href="https://festa.io/events/2127"/>
-        <updated>2022-02-16T10:04:07.192Z</updated>
-        <content type="html"><![CDATA[2월 13일 (일) · 온라인]]></content>
     </entry>
 </feed>
