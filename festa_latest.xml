@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-24T01:59:50.794Z</updated>
+    <updated>2022-02-24T02:33:49.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[웨비나] 네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #1 (이론편)]]></title>
+        <id>https://festa.io/events/2136</id>
+        <link href="https://festa.io/events/2136"/>
+        <updated>2022-02-24T02:33:46.840Z</updated>
+        <content type="html"><![CDATA[3월 3일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA['애자일 코리아 & mySUNI' 3월 밋업]]></title>
         <id>https://festa.io/events/2134</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2127"/>
         <updated>2022-02-16T10:04:07.192Z</updated>
         <content type="html"><![CDATA[2월 13일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🎉프로모션] 실거래 데이터 기반 자동 검증 솔루션 PerfecTwin 🔎]]></title>
-        <id>https://festa.io/events/2125</id>
-        <link href="https://festa.io/events/2125"/>
-        <updated>2022-02-16T06:04:08.851Z</updated>
-        <content type="html"><![CDATA[8월 30일 (화) · 온라인]]></content>
     </entry>
 </feed>
