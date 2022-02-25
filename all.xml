@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-02-25T11:02:17.682Z</updated>
+    <updated>2022-02-25T12:10:41.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[전액 무료] 신입 웹 개발자 취업, 경력에 필요한 실무 경험 쌓아 성공하세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -54,10 +54,10 @@
         <content type="html"><![CDATA[3월 19일 (토) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[당근마켓] 프론트엔드 개발자 라이브 QnA 세션 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2123</id>
-        <link href="https://festa.io/events/2123"/>
-        <updated>2022-02-17T13:09:21.395Z</updated>
-        <content type="html"><![CDATA[2월 25일 (금) · 온라인]]></content>
+        <title type="html"><![CDATA[[전액 무료] 실무 프로젝트부터 채용 매칭까지 웹 개발 풀코스 교육! 엘리스 SW 엔지니어 트랙 2기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2127</id>
+        <link href="https://festa.io/events/2127"/>
+        <updated>2022-02-25T12:10:40.472Z</updated>
+        <content type="html"><![CDATA[2월 13일 (일) · 온라인]]></content>
     </entry>
 </feed>
