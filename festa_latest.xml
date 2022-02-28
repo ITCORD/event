@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-02-28T04:04:26.794Z</updated>
+    <updated>2022-02-28T05:03:29.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[🎉프로모션] 웹기반 RPA 솔루션 웍트로닉스로 업무 자동화를 손쉽게! 🤖]]></title>
+        <id>https://festa.io/events/2140</id>
+        <link href="https://festa.io/events/2140"/>
+        <updated>2022-02-28T05:03:28.619Z</updated>
+        <content type="html"><![CDATA[2월 27일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액 무료] 신입 웹 개발자 취업, 경력에 필요한 실무 경험 쌓아 성공하세요!]]></title>
         <id>https://festa.io/events/2137</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2121"/>
         <updated>2022-02-20T08:03:45.584Z</updated>
         <content type="html"><![CDATA[3월 19일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 무료] 실무 프로젝트부터 채용 매칭까지 웹 개발 풀코스 교육! 엘리스 SW 엔지니어 트랙 2기 모집]]></title>
-        <id>https://festa.io/events/2127</id>
-        <link href="https://festa.io/events/2127"/>
-        <updated>2022-02-25T12:10:40.472Z</updated>
-        <content type="html"><![CDATA[2월 13일 (일) · 온라인]]></content>
     </entry>
 </feed>
