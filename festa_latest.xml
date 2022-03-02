@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-02T07:04:17.498Z</updated>
+    <updated>2022-03-02T08:12:12.351Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[문체부] 2022 문화∙체육∙관광 분야 사회적경제기업 우수 사례 발굴 공모전 (~3/31)]]></title>
+        <id>https://festa.io/events/2147</id>
+        <link href="https://festa.io/events/2147"/>
+        <updated>2022-03-02T08:12:11.486Z</updated>
+        <content type="html"><![CDATA[3월 1일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[프로그램] NAVER Cloud가 하면 다르다! 새롭게 선보이는 SaaS N 프로그램와 함께 성공적인 글로벌 진출을 경험하세요🌏]]></title>
         <id>https://festa.io/events/2145</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2131"/>
         <updated>2022-02-21T03:04:29.231Z</updated>
         <content type="html"><![CDATA[2월 28일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 PDF]나에게 딱 맞는 창업아이템 찾기!]]></title>
-        <id>https://festa.io/events/2129</id>
-        <link href="https://festa.io/events/2129"/>
-        <updated>2022-02-20T18:03:01.917Z</updated>
-        <content type="html"><![CDATA[2월 27일 (일) · 온라인]]></content>
     </entry>
 </feed>
