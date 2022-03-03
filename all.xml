@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-03T02:05:28.433Z</updated>
+    <updated>2022-03-03T04:04:35.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[🎮사전등록 중] 게임 업계 종사자라면 주목! GAME INDUSTRY DAY | 3월 31일 (목) 14:00 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,13 +40,6 @@
         <content type="html"><![CDATA[4월 4일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[웨비나] 네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #1 (이론편) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2136</id>
-        <link href="https://festa.io/events/2136"/>
-        <updated>2022-02-24T02:33:46.840Z</updated>
-        <content type="html"><![CDATA[3월 3일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA['애자일 코리아 & mySUNI' 3월 밋업 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2134</id>
         <link href="https://festa.io/events/2134"/>
@@ -59,5 +52,12 @@
         <link href="https://festa.io/events/2132"/>
         <updated>2022-02-21T05:02:48.723Z</updated>
         <content type="html"><![CDATA[2월 20일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3040 싱글여성들! 질투받는 여자가 되라! "매력세공연구소" 의 무료 ebook 신청하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2131</id>
+        <link href="https://festa.io/events/2131"/>
+        <updated>2022-03-03T04:04:35.185Z</updated>
+        <content type="html"><![CDATA[2월 28일 (월) · 온라인]]></content>
     </entry>
 </feed>
