@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-03T10:03:32.872Z</updated>
+    <updated>2022-03-03T11:03:45.053Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인 강의: 수준별 리눅스 교육 3월 모집 (임베디드,쉘,도커&쿠버네티스,시스템,네트워크)]]></title>
+        <id>https://festa.io/events/2149</id>
+        <link href="https://festa.io/events/2149"/>
+        <updated>2022-03-03T11:03:44.531Z</updated>
+        <content type="html"><![CDATA[4월 1일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🎮사전등록 중] 게임 업계 종사자라면 주목! GAME INDUSTRY DAY | 3월 31일 (목) 14:00]]></title>
         <id>https://festa.io/events/2144</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2132"/>
         <updated>2022-02-21T05:02:48.723Z</updated>
         <content type="html"><![CDATA[2월 20일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3040 싱글여성들! 질투받는 여자가 되라! "매력세공연구소" 의 무료 ebook 신청하기]]></title>
-        <id>https://festa.io/events/2131</id>
-        <link href="https://festa.io/events/2131"/>
-        <updated>2022-03-03T04:04:35.185Z</updated>
-        <content type="html"><![CDATA[2월 28일 (월) · 온라인]]></content>
     </entry>
 </feed>
