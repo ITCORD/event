@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-04T08:05:49.061Z</updated>
+    <updated>2022-03-04T09:02:38.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[데이콘 스쿨 3기] 물류 유통량 예측 AI경진대회]]></title>
+        <id>https://festa.io/events/2148</id>
+        <link href="https://festa.io/events/2148"/>
+        <updated>2022-03-04T09:02:37.913Z</updated>
+        <content type="html"><![CDATA[3월 20일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온라인 강의: 수준별 리눅스 교육 3월 모집 (임베디드,쉘,도커&쿠버네티스,시스템,네트워크)]]></title>
         <id>https://festa.io/events/2149</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2134"/>
         <updated>2022-02-23T05:03:25.990Z</updated>
         <content type="html"><![CDATA[3월 8일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프로모션] 10분이면 충분! 모바일 앱 보안 서비스 앱실링 🔐]]></title>
-        <id>https://festa.io/events/2132</id>
-        <link href="https://festa.io/events/2132"/>
-        <updated>2022-02-21T05:02:48.723Z</updated>
-        <content type="html"><![CDATA[2월 20일 (일) · 온라인]]></content>
     </entry>
 </feed>
