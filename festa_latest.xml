@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-07T11:03:05.468Z</updated>
+    <updated>2022-03-07T12:09:47.055Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Flutter Festival Daejeon 🚀]]></title>
+        <id>https://festa.io/events/2150</id>
+        <link href="https://festa.io/events/2150"/>
+        <updated>2022-03-07T12:09:46.431Z</updated>
+        <content type="html"><![CDATA[3월 12일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[프로그램] 네이버클라우드와 협업을 통해 성장할 기업을 찾습니다! (2022년도 창업도약패키지 지원기업 모집✨)]]></title>
         <id>https://festa.io/events/2152</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2145"/>
         <updated>2022-03-02T06:12:43.796Z</updated>
         <content type="html"><![CDATA[3월 8일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🎉프로모션] 웹기반 RPA 솔루션 웍트로닉스로 업무 자동화를 손쉽게! 🤖]]></title>
-        <id>https://festa.io/events/2140</id>
-        <link href="https://festa.io/events/2140"/>
-        <updated>2022-03-07T11:03:04.661Z</updated>
-        <content type="html"><![CDATA[2월 27일 (일) · 온라인]]></content>
     </entry>
 </feed>
