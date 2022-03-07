@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-07T05:02:49.402Z</updated>
+    <updated>2022-03-07T06:12:52.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Flutter Festival Daejeon 🚀]]></title>
+        <id>https://festa.io/events/2150</id>
+        <link href="https://festa.io/events/2150"/>
+        <updated>2022-03-07T06:12:52.011Z</updated>
+        <content type="html"><![CDATA[3월 12일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[데이콘 스쿨 3기] 물류 유통량 예측 AI경진대회]]></title>
         <id>https://festa.io/events/2148</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2137"/>
         <updated>2022-02-24T06:05:45.980Z</updated>
         <content type="html"><![CDATA[4월 4일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['애자일 코리아 & mySUNI' 3월 밋업]]></title>
-        <id>https://festa.io/events/2134</id>
-        <link href="https://festa.io/events/2134"/>
-        <updated>2022-02-23T05:03:25.990Z</updated>
-        <content type="html"><![CDATA[3월 8일 (화) · 온라인]]></content>
     </entry>
 </feed>
