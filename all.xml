@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-07T06:12:52.677Z</updated>
+    <updated>2022-03-07T07:03:29.185Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[웨비나] 네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #2 (실전편) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2151</id>
+        <link href="https://festa.io/events/2151"/>
+        <updated>2022-03-07T07:03:28.463Z</updated>
+        <content type="html"><![CDATA[3월 10일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter Festival Daejeon 🚀 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2150</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2140"/>
         <updated>2022-02-28T05:03:28.619Z</updated>
         <content type="html"><![CDATA[2월 27일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 무료] 신입 웹 개발자 취업, 경력에 필요한 실무 경험 쌓아 성공하세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2137</id>
-        <link href="https://festa.io/events/2137"/>
-        <updated>2022-02-24T06:05:45.980Z</updated>
-        <content type="html"><![CDATA[4월 4일 (월) · 온라인]]></content>
     </entry>
 </feed>
