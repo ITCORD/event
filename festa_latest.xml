@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-08T07:03:02.719Z</updated>
+    <updated>2022-03-08T08:08:24.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[협업툴 WORK 5.0 팀 목표와 워크레시피]]></title>
+        <id>https://festa.io/events/2153</id>
+        <link href="https://festa.io/events/2153"/>
+        <updated>2022-03-08T08:08:23.643Z</updated>
+        <content type="html"><![CDATA[4월 21일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter Festival Daejeon 🚀]]></title>
         <id>https://festa.io/events/2150</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2147"/>
         <updated>2022-03-02T08:12:11.486Z</updated>
         <content type="html"><![CDATA[3월 1일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프로그램] NAVER Cloud가 하면 다르다! 새롭게 선보이는 SaaS N 프로그램와 함께 성공적인 글로벌 진출을 경험하세요🌏]]></title>
-        <id>https://festa.io/events/2145</id>
-        <link href="https://festa.io/events/2145"/>
-        <updated>2022-03-02T06:12:43.796Z</updated>
-        <content type="html"><![CDATA[3월 8일 (화) · 온라인]]></content>
     </entry>
 </feed>
