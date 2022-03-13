@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-13T06:11:49.432Z</updated>
+    <updated>2022-03-13T07:03:25.313Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[4월 21일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Flutter Festival Daejeon 🚀]]></title>
-        <id>https://festa.io/events/2150</id>
-        <link href="https://festa.io/events/2150"/>
-        <updated>2022-03-07T12:09:46.431Z</updated>
-        <content type="html"><![CDATA[3월 12일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[프로그램] 네이버클라우드와 협업을 통해 성장할 기업을 찾습니다! (2022년도 창업도약패키지 지원기업 모집✨)]]></title>
         <id>https://festa.io/events/2152</id>
         <link href="https://festa.io/events/2152"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2149"/>
         <updated>2022-03-03T11:03:44.531Z</updated>
         <content type="html"><![CDATA[4월 1일 (금) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[🎮사전등록 중] 게임 업계 종사자라면 주목! GAME INDUSTRY DAY | 3월 31일 (목) 14:00]]></title>
+        <id>https://festa.io/events/2144</id>
+        <link href="https://festa.io/events/2144"/>
+        <updated>2022-03-13T07:03:24.682Z</updated>
+        <content type="html"><![CDATA[3월 31일 (목) · 온라인]]></content>
     </entry>
 </feed>
