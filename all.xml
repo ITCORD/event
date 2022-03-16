@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-16T08:08:06.071Z</updated>
+    <updated>2022-03-16T09:03:56.738Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[세미나] 네이버클라우드 대구 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2165</id>
+        <link href="https://festa.io/events/2165"/>
+        <updated>2022-03-16T09:03:55.992Z</updated>
+        <content type="html"><![CDATA[4월 13일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitlab Korea 밋업 #10 -  깃랩 백엔드 개발자의 일상 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2161</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2148"/>
         <updated>2022-03-04T09:02:37.913Z</updated>
         <content type="html"><![CDATA[3월 20일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 강의: 수준별 리눅스 교육 3월 모집 (임베디드,쉘,도커&쿠버네티스,시스템,네트워크) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2149</id>
-        <link href="https://festa.io/events/2149"/>
-        <updated>2022-03-03T11:03:44.531Z</updated>
-        <content type="html"><![CDATA[4월 1일 (금) · 온라인]]></content>
     </entry>
 </feed>
