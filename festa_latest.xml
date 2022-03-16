@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-16T09:03:56.736Z</updated>
+    <updated>2022-03-16T10:03:49.300Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[[세미나] 네이버클라우드 대구 세미나]]></title>
+        <title type="html"><![CDATA[[세미나] 네이버클라우드 대구 세미나｜ 2022. 4. 13. (수) 대구 메리어트 호텔 1F 그랜드볼룸]]></title>
         <id>https://festa.io/events/2165</id>
         <link href="https://festa.io/events/2165"/>
         <updated>2022-03-16T09:03:55.992Z</updated>
