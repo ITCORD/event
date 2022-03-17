@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-17T02:08:54.452Z</updated>
+    <updated>2022-03-17T03:08:20.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://festa.io/events/2160"/>
         <updated>2022-03-12T15:02:56.550Z</updated>
         <content type="html"><![CDATA[4월 3일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[웨비나] 누구나 쉽게 이해할 수 있는 IT인프라 정복하기 #1편]]></title>
-        <id>https://festa.io/events/2157</id>
-        <link href="https://festa.io/events/2157"/>
-        <updated>2022-03-10T06:07:36.620Z</updated>
-        <content type="html"><![CDATA[3월 17일 (목) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리얼리눅스 3월 리눅스 교육  모집]]></title>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2148"/>
         <updated>2022-03-04T09:02:37.913Z</updated>
         <content type="html"><![CDATA[3월 20일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[온라인 강의: 수준별 리눅스 교육 3월 모집 (임베디드,쉘,도커&쿠버네티스,시스템,네트워크)]]></title>
+        <id>https://festa.io/events/2149</id>
+        <link href="https://festa.io/events/2149"/>
+        <updated>2022-03-17T03:08:19.702Z</updated>
+        <content type="html"><![CDATA[4월 1일 (금) · 온라인]]></content>
     </entry>
 </feed>
