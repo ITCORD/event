@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-23T07:04:44.456Z</updated>
+    <updated>2022-03-23T08:09:37.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[엘리스] 소프트웨어 교육자 채용]]></title>
+        <id>https://festa.io/events/2183</id>
+        <link href="https://festa.io/events/2183"/>
+        <updated>2022-03-23T08:09:36.920Z</updated>
+        <content type="html"><![CDATA[4월 30일 (토) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDG Korea WebTech Online 이력서 멘토링 2022]]></title>
+        <id>https://festa.io/events/2164</id>
+        <link href="https://festa.io/events/2164"/>
+        <updated>2022-03-23T08:09:36.920Z</updated>
+        <content type="html"><![CDATA[4월 23일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Solutions Showcase] 시스템 오픈? 이거 하나면 두렵지 않다! 실거래 자동검증 솔루션 PerfecTwin]]></title>
         <id>https://festa.io/events/2178</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/2168"/>
         <updated>2022-03-18T00:59:30.734Z</updated>
         <content type="html"><![CDATA[3월 24일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[세미나] 네이버클라우드 대구 세미나｜ 2022. 4. 13. (수) 대구 메리어트 호텔 1F 그랜드볼룸]]></title>
-        <id>https://festa.io/events/2165</id>
-        <link href="https://festa.io/events/2165"/>
-        <updated>2022-03-16T09:03:55.992Z</updated>
-        <content type="html"><![CDATA[4월 13일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab Korea 밋업 #10 -  깃랩 백엔드 개발자의 일상]]></title>
-        <id>https://festa.io/events/2161</id>
-        <link href="https://festa.io/events/2161"/>
-        <updated>2022-03-15T03:08:23.541Z</updated>
-        <content type="html"><![CDATA[3월 29일 (화) · 온라인]]></content>
     </entry>
 </feed>
