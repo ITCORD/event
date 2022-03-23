@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-23T12:12:36.840Z</updated>
+    <updated>2022-03-23T13:19:43.508Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[오프라인 교육 과정] 실무에 적용 가능한 분산 신원(DID) 기초와 구현 실습]]></title>
+        <id>https://festa.io/events/2185</id>
+        <link href="https://festa.io/events/2185"/>
+        <updated>2022-03-23T13:19:42.892Z</updated>
+        <content type="html"><![CDATA[5월 28일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🎉프로모션] 500만 원 크레딧 받고, 공공 SaaS 보안 인증 심사 통과하자!]]></title>
         <id>https://festa.io/events/2184</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2176"/>
         <updated>2022-03-21T03:17:07.445Z</updated>
         <content type="html"><![CDATA[3월 25일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[안녕하세요 Korea, from W&B]]></title>
-        <id>https://festa.io/events/2174</id>
-        <link href="https://festa.io/events/2174"/>
-        <updated>2022-03-20T14:04:03.835Z</updated>
-        <content type="html"><![CDATA[3월 26일 (토) · 온라인]]></content>
     </entry>
 </feed>
