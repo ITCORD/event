@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-28T06:09:12.986Z</updated>
+    <updated>2022-03-28T07:05:22.278Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[과기정통부/KAIT] 인공지능 서비스 기획 교육생 모집(무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2193</id>
+        <link href="https://festa.io/events/2193"/>
+        <updated>2022-03-28T07:05:21.633Z</updated>
+        <content type="html"><![CDATA[4월 25일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 1회 정보검색사례연구회 소모임 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2191</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2164"/>
         <updated>2022-03-23T08:09:36.920Z</updated>
         <content type="html"><![CDATA[4월 23일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Solutions Showcase] 시스템 오픈? 이거 하나면 두렵지 않다! 실거래 자동검증 솔루션 PerfecTwin (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2178</id>
-        <link href="https://festa.io/events/2178"/>
-        <updated>2022-03-22T02:20:06.950Z</updated>
-        <content type="html"><![CDATA[3월 31일 (목) · 온라인]]></content>
     </entry>
 </feed>
