@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-03-28T02:26:44.747Z</updated>
+    <updated>2022-03-28T03:24:31.787Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제 1회 정보검색사례연구회 소모임 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2191</id>
+        <link href="https://festa.io/events/2191"/>
+        <updated>2022-03-28T03:24:31.165Z</updated>
+        <content type="html"><![CDATA[4월 28일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 adiOS Intro (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2192</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2178"/>
         <updated>2022-03-22T02:20:06.950Z</updated>
         <content type="html"><![CDATA[3월 31일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Central MakeUs Challenge Demo Day (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2156</id>
-        <link href="https://festa.io/events/2156"/>
-        <updated>2022-03-21T10:04:59.409Z</updated>
-        <content type="html"><![CDATA[4월 9일 (토) · 오프라인]]></content>
     </entry>
 </feed>
