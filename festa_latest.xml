@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-03-31T07:04:00.485Z</updated>
+    <updated>2022-03-31T08:07:55.765Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[XR, 메타버스 분야 글로벌 네트워크의 시작 - AWE Nite Seoul 1]]></title>
+        <id>https://festa.io/events/2198</id>
+        <link href="https://festa.io/events/2198"/>
+        <updated>2022-03-31T08:07:55.111Z</updated>
+        <content type="html"><![CDATA[4월 21일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[ 해외 전문가 초청 웨비나 / 통역 제공 ] 유럽 디지털 신원]]></title>
         <id>https://festa.io/events/2195</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2183"/>
         <updated>2022-03-23T08:09:36.920Z</updated>
         <content type="html"><![CDATA[4월 30일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDG Korea WebTech Online 이력서 멘토링 2022]]></title>
-        <id>https://festa.io/events/2164</id>
-        <link href="https://festa.io/events/2164"/>
-        <updated>2022-03-31T04:04:56.817Z</updated>
-        <content type="html"><![CDATA[4월 23일 (토) · 온라인]]></content>
     </entry>
 </feed>
