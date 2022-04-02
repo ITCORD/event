@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-02T19:02:28.722Z</updated>
+    <updated>2022-04-02T20:03:09.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[온라인모객으로 1달 안에 고객 1000명 모으기]]></title>
+        <id>https://festa.io/events/2203</id>
+        <link href="https://festa.io/events/2203"/>
+        <updated>2022-04-02T20:03:09.151Z</updated>
+        <content type="html"><![CDATA[4월 29일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[저자와 함께 하는 온라인 북토크] 마스터링 자기주권신원]]></title>
         <id>https://festa.io/events/2202</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2193"/>
         <updated>2022-03-28T07:05:21.633Z</updated>
         <content type="html"><![CDATA[4월 25일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 1회 정보검색사례연구회 소모임]]></title>
-        <id>https://festa.io/events/2191</id>
-        <link href="https://festa.io/events/2191"/>
-        <updated>2022-03-28T03:24:31.165Z</updated>
-        <content type="html"><![CDATA[4월 28일 (목) · 온라인]]></content>
     </entry>
 </feed>
