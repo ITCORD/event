@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-02T06:07:34.478Z</updated>
+    <updated>2022-04-02T07:02:59.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[저자와 함께 하는 온라인 북토크] 마스터링 자기주권신원]]></title>
+        <id>https://festa.io/events/2202</id>
+        <link href="https://festa.io/events/2202"/>
+        <updated>2022-04-02T07:02:58.922Z</updated>
+        <content type="html"><![CDATA[5월 29일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[웨비나] [Talk&Talk] 누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처(MSA) #2편]]></title>
         <id>https://festa.io/events/2201</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2191"/>
         <updated>2022-03-28T03:24:31.165Z</updated>
         <content type="html"><![CDATA[4월 28일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 adiOS Intro]]></title>
-        <id>https://festa.io/events/2192</id>
-        <link href="https://festa.io/events/2192"/>
-        <updated>2022-03-27T14:04:00.051Z</updated>
-        <content type="html"><![CDATA[4월 9일 (토) · 온라인]]></content>
     </entry>
 </feed>
