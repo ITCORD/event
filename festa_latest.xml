@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-04T04:05:03.353Z</updated>
+    <updated>2022-04-04T05:03:21.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA AI 개발자 밋업 - TensorRT/Triton]]></title>
+        <id>https://festa.io/events/2205</id>
+        <link href="https://festa.io/events/2205"/>
+        <updated>2022-04-04T05:03:20.340Z</updated>
+        <content type="html"><![CDATA[4월 21일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버웍스 세미나 “성장하는 기업이 일하는 방법”]]></title>
         <id>https://festa.io/events/2204</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2198"/>
         <updated>2022-03-31T08:07:55.111Z</updated>
         <content type="html"><![CDATA[4월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ 해외 전문가 초청 웨비나 / 통역 제공 ] 유럽 디지털 신원]]></title>
-        <id>https://festa.io/events/2195</id>
-        <link href="https://festa.io/events/2195"/>
-        <updated>2022-03-30T15:03:17.737Z</updated>
-        <content type="html"><![CDATA[4월 22일 (금) · 온라인]]></content>
     </entry>
 </feed>
