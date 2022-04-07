@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-07T07:03:34.427Z</updated>
+    <updated>2022-04-07T08:08:08.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Binaural Ambisonics기반 XR콘텐츠의 공간인지 입체음향 제작기술]]></title>
+        <id>https://festa.io/events/2212</id>
+        <link href="https://festa.io/events/2212"/>
+        <updated>2022-04-07T08:08:07.860Z</updated>
+        <content type="html"><![CDATA[5월 2일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[내가 원하는 남자한테 무조건 사랑 받는 연애 노하우 / "3040대 여성전문" 4월 무료 PDF 증정]]></title>
         <id>https://festa.io/events/2210</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2202"/>
         <updated>2022-04-02T07:02:58.922Z</updated>
         <content type="html"><![CDATA[5월 29일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스 건축 비즈니스를 위한 XRlize, 홀로렌즈2 활용 Building Information Modeling 교육]]></title>
-        <id>https://festa.io/events/2200</id>
-        <link href="https://festa.io/events/2200"/>
-        <updated>2022-04-07T03:20:32.741Z</updated>
-        <content type="html"><![CDATA[4월 27일 (수) · 오프라인]]></content>
     </entry>
 </feed>
