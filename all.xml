@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-07T02:19:13.797Z</updated>
+    <updated>2022-04-07T03:20:33.496Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[내가 원하는 남자한테 무조건 사랑 받는 연애 노하우 / "3040대 여성전문" 4월 무료 PDF 증정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -54,10 +54,10 @@
         <content type="html"><![CDATA[5월 29일 (일) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[웨비나] [Talk&Talk] 누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처(MSA) #2편 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2201</id>
-        <link href="https://festa.io/events/2201"/>
-        <updated>2022-04-01T09:04:11.515Z</updated>
-        <content type="html"><![CDATA[4월 7일 (목) · 온라인]]></content>
+        <title type="html"><![CDATA[메타버스 건축 비즈니스를 위한 XRlize, 홀로렌즈2 활용 Building Information Modeling 교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2200</id>
+        <link href="https://festa.io/events/2200"/>
+        <updated>2022-04-07T03:20:32.741Z</updated>
+        <content type="html"><![CDATA[4월 27일 (수) · 오프라인]]></content>
     </entry>
 </feed>
