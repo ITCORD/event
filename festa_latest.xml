@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-11T04:08:08.777Z</updated>
+    <updated>2022-04-11T05:02:47.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[웨비나] 네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #1 (이론편)]]></title>
+        <id>https://festa.io/events/2220</id>
+        <link href="https://festa.io/events/2220"/>
+        <updated>2022-04-11T05:02:47.417Z</updated>
+        <content type="html"><![CDATA[4월 14일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[LG Solution Day 손쉬운 클라우드/MSA 변환] 사전등록하고 스벅커피 받아가자!]]></title>
         <id>https://festa.io/events/2219</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2204"/>
         <updated>2022-04-04T02:31:00.795Z</updated>
         <content type="html"><![CDATA[4월 12일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인모객으로 1달 안에 고객 1000명 모으기]]></title>
-        <id>https://festa.io/events/2203</id>
-        <link href="https://festa.io/events/2203"/>
-        <updated>2022-04-02T20:03:09.151Z</updated>
-        <content type="html"><![CDATA[4월 29일 (금) · 온라인]]></content>
     </entry>
 </feed>
