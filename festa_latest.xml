@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-15T04:25:41.170Z</updated>
+    <updated>2022-04-15T05:13:38.396Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[퇴근길 테크밋업] 클라우드 엔지니어에게 클라우드를 묻다 (feat. Ncloud 마스터)｜4/20(수) 저녁 7시]]></title>
+        <id>https://festa.io/events/2230</id>
+        <link href="https://festa.io/events/2230"/>
+        <updated>2022-04-15T05:13:37.691Z</updated>
+        <content type="html"><![CDATA[4월 20일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[취준심판: 취준과 생존 걱정은 이제 끝]]></title>
         <id>https://festa.io/events/2229</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2210"/>
         <updated>2022-04-06T07:03:44.458Z</updated>
         <content type="html"><![CDATA[4월 13일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[메타버스 환경 디지털 전환을 위한 홀로렌즈2 활용 Dynamics365 과정]]></title>
-        <id>https://festa.io/events/2207</id>
-        <link href="https://festa.io/events/2207"/>
-        <updated>2022-04-04T06:07:46.470Z</updated>
-        <content type="html"><![CDATA[5월 2일 (월) · 오프라인]]></content>
     </entry>
 </feed>
