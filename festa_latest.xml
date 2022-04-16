@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-16T06:04:06.427Z</updated>
+    <updated>2022-04-16T07:03:44.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -18,13 +18,6 @@
         <link href="https://festa.io/events/2230"/>
         <updated>2022-04-15T05:13:37.691Z</updated>
         <content type="html"><![CDATA[4월 20일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[취준심판: 취준과 생존 걱정은 이제 끝]]></title>
-        <id>https://festa.io/events/2229</id>
-        <link href="https://festa.io/events/2229"/>
-        <updated>2022-04-14T09:04:13.193Z</updated>
-        <content type="html"><![CDATA[4월 16일 (토) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[세미나] HR 인사 담당자를 위한 세미나 「우리는 이렇게 일합니다」 : 네이버클라우드, 그리고 잘나가는 기업들의 일하는 방식]]></title>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2212"/>
         <updated>2022-04-07T08:08:07.860Z</updated>
         <content type="html"><![CDATA[5월 2일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[내가 원하는 남자한테 무조건 사랑 받는 연애 노하우 / "3040대 여성전문" 4월 무료 PDF 증정]]></title>
+        <id>https://festa.io/events/2210</id>
+        <link href="https://festa.io/events/2210"/>
+        <updated>2022-04-16T07:03:43.430Z</updated>
+        <content type="html"><![CDATA[4월 13일 (수) · 온라인]]></content>
     </entry>
 </feed>
