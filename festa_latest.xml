@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-18T06:08:14.857Z</updated>
+    <updated>2022-04-18T07:04:07.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -48,17 +48,17 @@
         <content type="html"><![CDATA[5월 10일 (화) · 오프라인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[데이콘 스쿨 4기] AI & Data Science 교육(자체 실무 역량 강화)]]></title>
+        <id>https://festa.io/events/2221</id>
+        <link href="https://festa.io/events/2221"/>
+        <updated>2022-04-18T07:04:06.667Z</updated>
+        <content type="html"><![CDATA[5월 2일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[LG Solution Day 손쉬운 클라우드/MSA 변환] 사전등록하고 스벅커피 받아가자!]]></title>
         <id>https://festa.io/events/2219</id>
         <link href="https://festa.io/events/2219"/>
         <updated>2022-04-11T02:38:10.394Z</updated>
         <content type="html"><![CDATA[4월 11일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Binaural Ambisonics기반 XR콘텐츠의 공간인지 입체음향 제작기술]]></title>
-        <id>https://festa.io/events/2212</id>
-        <link href="https://festa.io/events/2212"/>
-        <updated>2022-04-07T08:08:07.860Z</updated>
-        <content type="html"><![CDATA[5월 2일 (월) · 오프라인]]></content>
     </entry>
 </feed>
