@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-19T06:07:54.028Z</updated>
+    <updated>2022-04-19T07:04:04.747Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[데이콘 스쿨 4기] AI & Data Science 입문 기초 교육]]></title>
+        <id>https://festa.io/events/2249</id>
+        <link href="https://festa.io/events/2249"/>
+        <updated>2022-04-19T07:04:04.046Z</updated>
+        <content type="html"><![CDATA[5월 2일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[테헤란로런치클럽: 중국 상하이 소식과 한국 스타트업 생존기]]></title>
         <id>https://festa.io/events/2236</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2223"/>
         <updated>2022-04-12T06:07:45.242Z</updated>
         <content type="html"><![CDATA[5월 10일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[데이콘 스쿨 4기] AI & Data Science 교육(자체 실무 역량 강화)]]></title>
-        <id>https://festa.io/events/2221</id>
-        <link href="https://festa.io/events/2221"/>
-        <updated>2022-04-18T07:04:06.667Z</updated>
-        <content type="html"><![CDATA[5월 2일 (월) · 오프라인]]></content>
     </entry>
 </feed>
