@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-20T11:02:11.738Z</updated>
+    <updated>2022-04-20T12:10:00.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -48,17 +48,17 @@
         <content type="html"><![CDATA[4월 21일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[퇴근길 테크밋업] 클라우드 엔지니어에게 클라우드를 묻다 (feat. Ncloud 마스터)｜4/20(수) 저녁 7시]]></title>
-        <id>https://festa.io/events/2230</id>
-        <link href="https://festa.io/events/2230"/>
-        <updated>2022-04-15T05:13:37.691Z</updated>
-        <content type="html"><![CDATA[4월 20일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[세미나] HR 인사 담당자를 위한 세미나 「우리는 이렇게 일합니다」 : 네이버클라우드, 그리고 잘나가는 기업들의 일하는 방식]]></title>
         <id>https://festa.io/events/2228</id>
         <link href="https://festa.io/events/2228"/>
         <updated>2022-04-14T07:03:25.075Z</updated>
         <content type="html"><![CDATA[4월 27일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Solutions Showcase] 데이터 보안의 새로운 패러다임! Petra & Petra Cipher]]></title>
+        <id>https://festa.io/events/2227</id>
+        <link href="https://festa.io/events/2227"/>
+        <updated>2022-04-20T12:10:00.220Z</updated>
+        <content type="html"><![CDATA[4월 28일 (목) · 온라인]]></content>
     </entry>
 </feed>
