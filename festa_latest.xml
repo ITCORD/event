@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-04-21T02:52:38.634Z</updated>
+    <updated>2022-04-21T03:53:31.122Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[4월 28일 (목) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[웨비나] 네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #3 (응용편)]]></title>
-        <id>https://festa.io/events/2231</id>
-        <link href="https://festa.io/events/2231"/>
-        <updated>2022-04-15T09:04:29.760Z</updated>
-        <content type="html"><![CDATA[4월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[세미나] HR 인사 담당자를 위한 세미나 「우리는 이렇게 일합니다」 : 네이버클라우드, 그리고 잘나가는 기업들의 일하는 방식]]></title>
         <id>https://festa.io/events/2228</id>
         <link href="https://festa.io/events/2228"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2227"/>
         <updated>2022-04-20T12:10:00.220Z</updated>
         <content type="html"><![CDATA[4월 28일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메타버스 플랫폼을 위한 NFT 활용기술 이용자 창작(UGC) 과정]]></title>
+        <id>https://festa.io/events/2223</id>
+        <link href="https://festa.io/events/2223"/>
+        <updated>2022-04-21T03:53:30.417Z</updated>
+        <content type="html"><![CDATA[5월 10일 (화) · 오프라인]]></content>
     </entry>
 </feed>
