@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-04-27T08:07:57.387Z</updated>
+    <updated>2022-04-27T09:08:12.889Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[웹 3D 라이브러리(Three.js)를 이용한 메타버스 환경 구축 및 인터랙티브 웹 개발 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2264</id>
-        <link href="https://festa.io/events/2264"/>
-        <updated>2022-04-26T08:08:34.746Z</updated>
-        <content type="html"><![CDATA[5월 25일 (수) · 오프라인]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[.NET Conf Mini 22.05 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2259</id>
         <link href="https://festa.io/events/2259"/>
         <updated>2022-04-25T11:03:10.773Z</updated>
         <content type="html"><![CDATA[5월 6일 (금) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹 3D 라이브러리(Three.js)를 이용한 메타버스 환경 구축 및 인터랙티브 웹 개발 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2264</id>
+        <link href="https://festa.io/events/2264"/>
+        <updated>2022-04-26T08:08:34.746Z</updated>
+        <content type="html"><![CDATA[5월 25일 (수) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[아름다운재단] 2022 공익단체 인큐베이팅 지원사업 온라인 사업설명회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
