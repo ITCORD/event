@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-06T05:09:12.211Z</updated>
+    <updated>2022-05-06T06:08:40.471Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[고대구로병원] 『G밸리의료기기개발지원센터』 기업 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2279</id>
+        <link href="https://festa.io/events/2279"/>
+        <updated>2022-05-06T06:08:39.731Z</updated>
+        <content type="html"><![CDATA[5월 17일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 ASC 학생모집 설명회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2278</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2259"/>
         <updated>2022-04-25T11:03:10.773Z</updated>
         <content type="html"><![CDATA[5월 6일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹 3D 라이브러리(Three.js)를 이용한 메타버스 환경 구축 및 인터랙티브 웹 개발 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2264</id>
-        <link href="https://festa.io/events/2264"/>
-        <updated>2022-04-26T08:08:34.746Z</updated>
-        <content type="html"><![CDATA[5월 25일 (수) · 오프라인]]></content>
     </entry>
 </feed>
