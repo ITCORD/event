@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-10T06:08:17.683Z</updated>
+    <updated>2022-05-10T07:07:44.329Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지 올인원 부트캠프! 엘리스 AI 트랙 5기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2286</id>
+        <link href="https://festa.io/events/2286"/>
+        <updated>2022-05-10T07:07:43.652Z</updated>
+        <content type="html"><![CDATA[6월 26일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Terraform on NAVER Cloud Platform 워크샵 (5/19, 강남) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2285</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2272"/>
         <updated>2022-05-02T05:22:19.366Z</updated>
         <content type="html"><![CDATA[5월 18일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[웨비나] 네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #3 (응용편) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2269</id>
-        <link href="https://festa.io/events/2269"/>
-        <updated>2022-04-29T02:55:02.814Z</updated>
-        <content type="html"><![CDATA[5월 12일 (목) · 온라인]]></content>
     </entry>
 </feed>
