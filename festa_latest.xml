@@ -2,15 +2,50 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-05-12T23:03:42.208Z</updated>
+    <updated>2022-05-22T17:17:17.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[CJ제일제당 마케터의 취업 이야기 : HOLIX 라이브세션]]></title>
-        <id>https://festa.io/events/2294</id>
-        <link href="https://festa.io/events/2294"/>
-        <updated>2022-05-12T08:15:56.402Z</updated>
-        <content type="html"><![CDATA[5월 15일 (일) · 온라인]]></content>
+        <title type="html"><![CDATA[Ubuntu 22.04 LTS Release Party + InstallFest]]></title>
+        <id>https://festa.io/events/2313</id>
+        <link href="https://festa.io/events/2313"/>
+        <updated>2022-05-22T17:17:16.489Z</updated>
+        <content type="html"><![CDATA[6월 4일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[SSAFY] 강사 양성 과정]]></title>
+        <id>https://festa.io/events/2312</id>
+        <link href="https://festa.io/events/2312"/>
+        <updated>2022-05-22T17:17:16.492Z</updated>
+        <content type="html"><![CDATA[5월 30일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[코딩이랑 무관합니다만 X 마켓컬리]커리어패스와 무관합니다만,]]></title>
+        <id>https://festa.io/events/2310</id>
+        <link href="https://festa.io/events/2310"/>
+        <updated>2022-05-22T17:17:16.492Z</updated>
+        <content type="html"><![CDATA[5월 27일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Solutions Showcase] 이커머스 마케터를 위한 마케팅 자동화 솔루션, 빅인(bigin)]]></title>
+        <id>https://festa.io/events/2306</id>
+        <link href="https://festa.io/events/2306"/>
+        <updated>2022-05-22T17:17:16.493Z</updated>
+        <content type="html"><![CDATA[5월 26일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitlab Korea 밋업 #11 -  고가용성 GitLab을 만드는 방법]]></title>
+        <id>https://festa.io/events/2302</id>
+        <link href="https://festa.io/events/2302"/>
+        <updated>2022-05-22T17:17:16.494Z</updated>
+        <content type="html"><![CDATA[5월 30일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[아날로그/디지털 홀로그램 기초 이론 및 시뮬레이션 실습 교육]]></title>
+        <id>https://festa.io/events/2300</id>
+        <link href="https://festa.io/events/2300"/>
+        <updated>2022-05-22T17:17:16.495Z</updated>
+        <content type="html"><![CDATA[6월 15일 (수) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[월 150만원 지원] 미디어아트 신진작가 양성 프로그램 참가자 모집]]></title>
@@ -25,40 +60,5 @@
         <link href="https://festa.io/events/2292"/>
         <updated>2022-05-12T02:45:40.873Z</updated>
         <content type="html"><![CDATA[5월 23일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인모객으로 1달 안에 고객 1000명 모으기]]></title>
-        <id>https://festa.io/events/2290</id>
-        <link href="https://festa.io/events/2290"/>
-        <updated>2022-05-11T21:08:13.553Z</updated>
-        <content type="html"><![CDATA[5월 11일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실감형 콘텐츠 제작을 위한 포토그래메트리 기술 교육 Reality Capture 및 드론 활용]]></title>
-        <id>https://festa.io/events/2288</id>
-        <link href="https://festa.io/events/2288"/>
-        <updated>2022-05-11T07:08:29.236Z</updated>
-        <content type="html"><![CDATA[6월 7일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테스트]]></title>
-        <id>https://festa.io/events/2289</id>
-        <link href="https://festa.io/events/2289"/>
-        <updated>2022-05-11T06:09:26.429Z</updated>
-        <content type="html"><![CDATA[5월 18일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Shall we Nest.js?]]></title>
-        <id>https://festa.io/events/2225</id>
-        <link href="https://festa.io/events/2225"/>
-        <updated>2022-05-10T09:06:58.121Z</updated>
-        <content type="html"><![CDATA[5월 18일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지 올인원 부트캠프! 엘리스 AI 트랙 5기 모집]]></title>
-        <id>https://festa.io/events/2286</id>
-        <link href="https://festa.io/events/2286"/>
-        <updated>2022-05-10T07:07:43.652Z</updated>
-        <content type="html"><![CDATA[6월 26일 (일) · 온라인]]></content>
     </entry>
 </feed>
