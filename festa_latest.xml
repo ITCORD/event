@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-05-24T10:09:25.518Z</updated>
+    <updated>2022-05-24T11:02:44.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -18,6 +18,13 @@
         <link href="https://festa.io/events/2321"/>
         <updated>2022-05-24T03:45:50.385Z</updated>
         <content type="html"><![CDATA[6월 16일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[송파 클로저] Clojure 밋업 1회]]></title>
+        <id>https://festa.io/events/2320</id>
+        <link href="https://festa.io/events/2320"/>
+        <updated>2022-05-24T11:02:43.949Z</updated>
+        <content type="html"><![CDATA[6월 10일 (금) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Ubuntu 22.04 LTS Release Party + InstallFest]]></title>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2302"/>
         <updated>2022-05-22T17:17:16.494Z</updated>
         <content type="html"><![CDATA[5월 30일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아날로그/디지털 홀로그램 기초 이론 및 시뮬레이션 실습 교육]]></title>
-        <id>https://festa.io/events/2300</id>
-        <link href="https://festa.io/events/2300"/>
-        <updated>2022-05-22T17:17:16.495Z</updated>
-        <content type="html"><![CDATA[6월 15일 (수) · 오프라인]]></content>
     </entry>
 </feed>
