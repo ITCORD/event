@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-05-24T02:53:33.145Z</updated>
+    <updated>2022-05-24T03:45:51.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[🔥사전등록 중] 게임사들을 위한 보안 완.전.정.복 컨퍼런스! GAME X SECURITY]]></title>
+        <id>https://festa.io/events/2321</id>
+        <link href="https://festa.io/events/2321"/>
+        <updated>2022-05-24T03:45:50.385Z</updated>
+        <content type="html"><![CDATA[6월 16일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubuntu 22.04 LTS Release Party + InstallFest]]></title>
         <id>https://festa.io/events/2313</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2293"/>
         <updated>2022-05-12T06:16:40.143Z</updated>
         <content type="html"><![CDATA[6월 7일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 서울시 뉴딜일자리 '블록체인 기술사업화 및 dApp 개발 전문 인력 양성' 교육생 모집]]></title>
-        <id>https://festa.io/events/2292</id>
-        <link href="https://festa.io/events/2292"/>
-        <updated>2022-05-12T02:45:40.873Z</updated>
-        <content type="html"><![CDATA[6월 2일 (목) · 오프라인]]></content>
     </entry>
 </feed>
