@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-05-25T05:12:29.950Z</updated>
+    <updated>2022-05-25T06:08:33.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편]]></title>
+        <id>https://festa.io/events/2324</id>
+        <link href="https://festa.io/events/2324"/>
+        <updated>2022-05-25T06:08:32.699Z</updated>
+        <content type="html"><![CDATA[6월 2일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월간 네이버웍스 : 5월 [EP.1 외부 사용자와 대화하기] 편]]></title>
         <id>https://festa.io/events/2322</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2306"/>
         <updated>2022-05-22T17:17:16.493Z</updated>
         <content type="html"><![CDATA[5월 26일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab Korea 밋업 #11 -  고가용성 GitLab을 만드는 방법]]></title>
-        <id>https://festa.io/events/2302</id>
-        <link href="https://festa.io/events/2302"/>
-        <updated>2022-05-22T17:17:16.494Z</updated>
-        <content type="html"><![CDATA[5월 30일 (월) · 온라인]]></content>
     </entry>
 </feed>
