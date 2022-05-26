@@ -2,63 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-05-26T18:09:01.281Z</updated>
+    <updated>2022-05-26T19:01:59.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[2022 서울국제도서전 [다시, 이 책] 『마음의 평균율』 저자 낭독회]]></title>
-        <id>https://festa.io/events/2327</id>
-        <link href="https://festa.io/events/2327"/>
-        <updated>2022-05-26T18:09:00.618Z</updated>
-        <content type="html"><![CDATA[6월 1일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HR담당자의 업스킬, 리스킬을 위한 SHRM자격증소개 세미나]]></title>
-        <id>https://festa.io/events/2328</id>
-        <link href="https://festa.io/events/2328"/>
-        <updated>2022-05-26T18:09:00.618Z</updated>
-        <content type="html"><![CDATA[6월 23일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ 해외 전문가 초청 월간 웨비나 (2022년 7월) / 통역 제공 ] 자기주권신원으로 수익을 창출하는 방안]]></title>
-        <id>https://festa.io/events/2326</id>
-        <link href="https://festa.io/events/2326"/>
-        <updated>2022-05-26T18:09:00.619Z</updated>
-        <content type="html"><![CDATA[7월 20일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편]]></title>
-        <id>https://festa.io/events/2324</id>
-        <link href="https://festa.io/events/2324"/>
-        <updated>2022-05-26T18:09:00.620Z</updated>
-        <content type="html"><![CDATA[6월 2일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월간 네이버웍스 : 5월 [EP.1 외부 사용자와 대화하기] 편]]></title>
-        <id>https://festa.io/events/2322</id>
-        <link href="https://festa.io/events/2322"/>
-        <updated>2022-05-26T18:09:00.621Z</updated>
-        <content type="html"><![CDATA[5월 31일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🔥사전등록 중] 게임사들을 위한 보안 완.전.정.복 컨퍼런스! GAME X SECURITY]]></title>
-        <id>https://festa.io/events/2321</id>
-        <link href="https://festa.io/events/2321"/>
-        <updated>2022-05-26T18:09:00.622Z</updated>
-        <content type="html"><![CDATA[6월 16일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[송파 클로저] Clojure 밋업 1회]]></title>
-        <id>https://festa.io/events/2320</id>
-        <link href="https://festa.io/events/2320"/>
-        <updated>2022-05-26T18:09:00.624Z</updated>
-        <content type="html"><![CDATA[6월 10일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 22.04 LTS Release Party + InstallFest]]></title>
-        <id>https://festa.io/events/2313</id>
-        <link href="https://festa.io/events/2313"/>
-        <updated>2022-05-26T18:09:00.625Z</updated>
-        <content type="html"><![CDATA[6월 4일 (토) · 오프라인]]></content>
-    </entry>
 </feed>
