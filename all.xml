@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-05-27T05:13:12.149Z</updated>
+    <updated>2022-05-27T07:05:03.449Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[네이버클라우드] 출연(연) 과학기술자를 위한 정부/민간 클라우드 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2331</id>
+        <link href="https://festa.io/events/2331"/>
+        <updated>2022-05-27T07:05:02.677Z</updated>
+        <content type="html"><![CDATA[6월 21일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Live 온라인: 오픈소스 개발자로 취업하는 방법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2329</id>
+        <link href="https://festa.io/events/2329"/>
+        <updated>2022-05-27T07:05:02.679Z</updated>
+        <content type="html"><![CDATA[6월 8일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GDG 썸머 해커톤 : 오프티벌 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2314</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/2322"/>
         <updated>2022-05-26T22:05:44.316Z</updated>
         <content type="html"><![CDATA[5월 31일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🔥사전등록 중] 게임사들을 위한 보안 완.전.정.복 컨퍼런스! GAME X SECURITY (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2321</id>
-        <link href="https://festa.io/events/2321"/>
-        <updated>2022-05-26T22:05:44.317Z</updated>
-        <content type="html"><![CDATA[6월 16일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[송파 클로저] Clojure 밋업 1회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2320</id>
-        <link href="https://festa.io/events/2320"/>
-        <updated>2022-05-26T22:05:44.335Z</updated>
-        <content type="html"><![CDATA[6월 10일 (금) · 온라인]]></content>
     </entry>
 </feed>
