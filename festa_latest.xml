@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-05-29T23:02:55.290Z</updated>
+    <updated>2022-05-30T00:35:21.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[3억 명 플랫폼 제페토 홍보용 월드 및 아이템 제작 기술 교육]]></title>
+        <id>https://festa.io/events/2334</id>
+        <link href="https://festa.io/events/2334"/>
+        <updated>2022-05-30T00:35:21.242Z</updated>
+        <content type="html"><![CDATA[6월 25일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[네이버클라우드] 출연(연) 과학기술자를 위한 정부/민간 클라우드 세미나]]></title>
         <id>https://festa.io/events/2331</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2324"/>
         <updated>2022-05-26T22:05:44.314Z</updated>
         <content type="html"><![CDATA[6월 2일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월간 네이버웍스 : 5월 [EP.1 외부 사용자와 대화하기] 편]]></title>
-        <id>https://festa.io/events/2322</id>
-        <link href="https://festa.io/events/2322"/>
-        <updated>2022-05-26T22:05:44.316Z</updated>
-        <content type="html"><![CDATA[5월 31일 (화) · 온라인]]></content>
     </entry>
 </feed>
