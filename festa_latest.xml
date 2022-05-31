@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-05-31T05:14:21.858Z</updated>
+    <updated>2022-05-31T06:08:33.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 콘스텔레이션코리아 주최 블록체인 해커톤]]></title>
+        <id>https://festa.io/events/2342</id>
+        <link href="https://festa.io/events/2342"/>
+        <updated>2022-05-31T06:08:32.397Z</updated>
+        <content type="html"><![CDATA[5월 15일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사실적인 3D 버츄얼 휴먼 제작 방법 Ⅰ (Character Creator4, Maya, Zbrush)]]></title>
         <id>https://festa.io/events/2340</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2327"/>
         <updated>2022-05-26T22:05:44.308Z</updated>
         <content type="html"><![CDATA[6월 1일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HR담당자의 업스킬, 리스킬을 위한 SHRM자격증소개 세미나]]></title>
-        <id>https://festa.io/events/2328</id>
-        <link href="https://festa.io/events/2328"/>
-        <updated>2022-05-26T22:05:44.309Z</updated>
-        <content type="html"><![CDATA[6월 23일 (목) · 온라인]]></content>
     </entry>
 </feed>
