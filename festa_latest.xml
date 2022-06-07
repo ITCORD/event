@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-07T07:11:17.565Z</updated>
+    <updated>2022-06-07T08:08:01.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[💬HR 고민상담소] 인사 담당자를 위한 세미나 : 신규 구성원의 입사부터 퇴사까지]]></title>
+        <id>https://festa.io/events/2364</id>
+        <link href="https://festa.io/events/2364"/>
+        <updated>2022-06-07T08:08:00.882Z</updated>
+        <content type="html"><![CDATA[6월 15일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데잇걸즈6기 모집 (데이터 분석가)]]></title>
         <id>https://festa.io/events/2362</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2349"/>
         <updated>2022-06-02T05:23:25.455Z</updated>
         <content type="html"><![CDATA[6월 9일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA AI 개발자 밋업 - TAO Toolkit]]></title>
-        <id>https://festa.io/events/2348</id>
-        <link href="https://festa.io/events/2348"/>
-        <updated>2022-06-01T14:20:33.501Z</updated>
-        <content type="html"><![CDATA[6월 21일 (화) · 온라인]]></content>
     </entry>
 </feed>
