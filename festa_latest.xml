@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-10T07:03:56.124Z</updated>
+    <updated>2022-06-10T08:09:06.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[AWS X 솔트웨어] AWS 클라우드 비용절감 웨비나]]></title>
+        <id>https://festa.io/events/2375</id>
+        <link href="https://festa.io/events/2375"/>
+        <updated>2022-06-10T08:09:05.832Z</updated>
+        <content type="html"><![CDATA[6월 13일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🎁프로모션] 핀테크 비즈니스는 네이버클라우드에서!]]></title>
         <id>https://festa.io/events/2374</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2364"/>
         <updated>2022-06-07T08:08:00.882Z</updated>
         <content type="html"><![CDATA[6월 15일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데잇걸즈6기 모집 (데이터 분석가)]]></title>
-        <id>https://festa.io/events/2362</id>
-        <link href="https://festa.io/events/2362"/>
-        <updated>2022-06-06T16:04:36.834Z</updated>
-        <content type="html"><![CDATA[5월 31일 (화) · 온라인]]></content>
     </entry>
 </feed>
