@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-11T06:08:08.518Z</updated>
+    <updated>2022-06-11T07:02:31.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -55,10 +55,10 @@
         <content type="html"><![CDATA[6월 23일 (목) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[파이썬사랑방 오픈 기념 - PyScript 키노트 같이 보기]]></title>
-        <id>https://festa.io/events/2365</id>
-        <link href="https://festa.io/events/2365"/>
-        <updated>2022-06-07T15:03:18.544Z</updated>
-        <content type="html"><![CDATA[6월 11일 (토) · 오프라인]]></content>
+        <title type="html"><![CDATA[[💬HR 고민상담소] 인사 담당자를 위한 세미나 : 신규 구성원의 입사부터 퇴사까지]]></title>
+        <id>https://festa.io/events/2364</id>
+        <link href="https://festa.io/events/2364"/>
+        <updated>2022-06-11T07:02:30.874Z</updated>
+        <content type="html"><![CDATA[6월 15일 (수) · 온라인]]></content>
     </entry>
 </feed>
