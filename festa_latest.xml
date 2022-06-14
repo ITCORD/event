@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-14T00:35:31.955Z</updated>
+    <updated>2022-06-14T03:03:13.956Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[2022 상명SW중심대학과 함께하는 GDSC Sangmyung 해커톤]]></title>
-        <id>https://festa.io/events/2224</id>
-        <link href="https://festa.io/events/2224"/>
-        <updated>2022-06-13T13:33:05.704Z</updated>
-        <content type="html"><![CDATA[7월 9일 (토) · 오프라인]]></content>
+        <title type="html"><![CDATA[하시코프 사용자 모임 2022년 6월 서울 밋업]]></title>
+        <id>https://festa.io/events/2383</id>
+        <link href="https://festa.io/events/2383"/>
+        <updated>2022-06-14T03:03:13.254Z</updated>
+        <content type="html"><![CDATA[6월 22일 (수) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Flutter I/O Extended Korea 2022]]></title>
