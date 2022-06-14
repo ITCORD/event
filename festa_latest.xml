@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-14T04:39:15.028Z</updated>
+    <updated>2022-06-14T05:22:58.839Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[6월 20일 (월) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[현업 개발자에게 듣는, 모바일 개발자의 삶과 매력]]></title>
-        <id>https://festa.io/events/2372</id>
-        <link href="https://festa.io/events/2372"/>
-        <updated>2022-06-10T09:03:10.054Z</updated>
-        <content type="html"><![CDATA[6월 14일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[AWS X 솔트웨어] AWS 클라우드 비용절감 웨비나]]></title>
         <id>https://festa.io/events/2375</id>
         <link href="https://festa.io/events/2375"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2373"/>
         <updated>2022-06-10T05:02:40.083Z</updated>
         <content type="html"><![CDATA[6월 9일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Talk&Talk] 고성능 컴퓨터, HPC 쉽게 알아보기]]></title>
+        <id>https://festa.io/events/2370</id>
+        <link href="https://festa.io/events/2370"/>
+        <updated>2022-06-14T05:22:58.166Z</updated>
+        <content type="html"><![CDATA[6월 16일 (목) · 온라인]]></content>
     </entry>
 </feed>
