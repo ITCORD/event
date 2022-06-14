@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-14T11:04:24.255Z</updated>
+    <updated>2022-06-14T12:09:45.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Microsoft Build 2022 After Party]]></title>
+        <id>https://festa.io/events/2378</id>
+        <link href="https://festa.io/events/2378"/>
+        <updated>2022-06-14T12:09:44.967Z</updated>
+        <content type="html"><![CDATA[6월 25일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<잘 읽히는 본문 디자인을 위한 한글 타이포그래피> | 2022 출판도시 인문학당]]></title>
         <id>https://festa.io/events/2382</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2371"/>
         <updated>2022-06-12T14:03:04.003Z</updated>
         <content type="html"><![CDATA[6월 20일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🎁프로모션] 핀테크 비즈니스는 네이버클라우드에서!]]></title>
-        <id>https://festa.io/events/2374</id>
-        <link href="https://festa.io/events/2374"/>
-        <updated>2022-06-10T07:03:55.328Z</updated>
-        <content type="html"><![CDATA[5월 31일 (화) · 온라인]]></content>
     </entry>
 </feed>
