@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-14T05:22:58.839Z</updated>
+    <updated>2022-06-14T06:07:52.778Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 상명SW중심대학과 함께하는 GDSC Sangmyung 해커톤]]></title>
+        <id>https://festa.io/events/2224</id>
+        <link href="https://festa.io/events/2224"/>
+        <updated>2022-06-14T06:07:52.121Z</updated>
+        <content type="html"><![CDATA[7월 9일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부스트캠프 웹・모바일 수료생 MeetUP]]></title>
+        <id>https://festa.io/events/2385</id>
+        <link href="https://festa.io/events/2385"/>
+        <updated>2022-06-14T06:07:52.124Z</updated>
+        <content type="html"><![CDATA[6월 16일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하시코프 사용자 모임 2022년 6월 서울 밋업]]></title>
         <id>https://festa.io/events/2383</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/2374"/>
         <updated>2022-06-10T07:03:55.328Z</updated>
         <content type="html"><![CDATA[5월 31일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🎁프로모션] 매니지드 보안 모니터링 서비스 7개월 무료 사용 신청하세요!]]></title>
-        <id>https://festa.io/events/2373</id>
-        <link href="https://festa.io/events/2373"/>
-        <updated>2022-06-10T05:02:40.083Z</updated>
-        <content type="html"><![CDATA[6월 9일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Talk&Talk] 고성능 컴퓨터, HPC 쉽게 알아보기]]></title>
-        <id>https://festa.io/events/2370</id>
-        <link href="https://festa.io/events/2370"/>
-        <updated>2022-06-14T05:22:58.166Z</updated>
-        <content type="html"><![CDATA[6월 16일 (목) · 온라인]]></content>
     </entry>
 </feed>
