@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-14T06:07:52.781Z</updated>
+    <updated>2022-06-14T08:09:38.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[<잘 읽히는 본문 디자인을 위한 한글 타이포그래피> | 2022 출판도시 인문학당 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2382</id>
+        <link href="https://festa.io/events/2382"/>
+        <updated>2022-06-14T08:09:38.219Z</updated>
+        <content type="html"><![CDATA[6월 22일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 상명SW중심대학과 함께하는 GDSC Sangmyung 해커톤 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2224</id>
@@ -45,13 +52,6 @@
         <link href="https://festa.io/events/2371"/>
         <updated>2022-06-12T14:03:04.003Z</updated>
         <content type="html"><![CDATA[6월 20일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AWS X 솔트웨어] AWS 클라우드 비용절감 웨비나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2375</id>
-        <link href="https://festa.io/events/2375"/>
-        <updated>2022-06-10T08:09:05.832Z</updated>
-        <content type="html"><![CDATA[6월 13일 (월) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[🎁프로모션] 핀테크 비즈니스는 네이버클라우드에서! (페스타 ─ 최신 밋업과 이벤트)]]></title>
