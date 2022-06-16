@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-16T07:03:16.637Z</updated>
+    <updated>2022-06-16T08:08:28.799Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🎉Google I/O Extended 2022 Cloud Busan🎉]]></title>
+        <id>https://festa.io/events/2389</id>
+        <link href="https://festa.io/events/2389"/>
+        <updated>2022-06-16T08:08:28.007Z</updated>
+        <content type="html"><![CDATA[6월 30일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AIAI: Deep Learning Summer School]]></title>
         <id>https://festa.io/events/2391</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2385"/>
         <updated>2022-06-14T06:07:52.124Z</updated>
         <content type="html"><![CDATA[6월 16일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하시코프 사용자 모임 2022년 6월 서울 밋업]]></title>
-        <id>https://festa.io/events/2383</id>
-        <link href="https://festa.io/events/2383"/>
-        <updated>2022-06-14T03:03:13.254Z</updated>
-        <content type="html"><![CDATA[6월 22일 (수) · 오프라인]]></content>
     </entry>
 </feed>
