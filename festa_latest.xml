@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-18T06:04:12.886Z</updated>
+    <updated>2022-06-18T07:02:28.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://festa.io/events/2395"/>
         <updated>2022-06-17T07:02:56.234Z</updated>
         <content type="html"><![CDATA[6월 23일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<취준심판> 6개월 후 취업, 그리고 2년 후 연봉 7000의 비밀]]></title>
-        <id>https://festa.io/events/2394</id>
-        <link href="https://festa.io/events/2394"/>
-        <updated>2022-06-17T05:09:49.112Z</updated>
-        <content type="html"><![CDATA[6월 18일 (토) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[과학기술정보통신부] 경북·강원·대구권 인공지능 3차 교육생 모집(~7/10)]]></title>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2382"/>
         <updated>2022-06-14T08:09:38.219Z</updated>
         <content type="html"><![CDATA[6월 22일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022 상명SW중심대학과 함께하는 GDSC Sangmyung 해커톤]]></title>
+        <id>https://festa.io/events/2224</id>
+        <link href="https://festa.io/events/2224"/>
+        <updated>2022-06-18T07:02:27.378Z</updated>
+        <content type="html"><![CDATA[7월 9일 (토) · 오프라인]]></content>
     </entry>
 </feed>
