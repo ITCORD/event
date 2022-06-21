@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-21T12:14:08.750Z</updated>
+    <updated>2022-06-21T13:32:50.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[도서리딩 #1 <클론코딩 줌> + 핸즈온랩]]></title>
+        <id>https://festa.io/events/2396</id>
+        <link href="https://festa.io/events/2396"/>
+        <updated>2022-06-21T13:32:49.922Z</updated>
+        <content type="html"><![CDATA[7월 2일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[도서리딩 #2 <소플의 처음 만난 리액트>]]></title>
         <id>https://festa.io/events/2405</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2393"/>
         <updated>2022-06-16T11:02:35.053Z</updated>
         <content type="html"><![CDATA[6월 14일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎉Google I/O Extended 2022 Cloud Busan🎉]]></title>
-        <id>https://festa.io/events/2389</id>
-        <link href="https://festa.io/events/2389"/>
-        <updated>2022-06-16T08:08:28.007Z</updated>
-        <content type="html"><![CDATA[6월 30일 (목) · 오프라인]]></content>
     </entry>
 </feed>
