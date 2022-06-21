@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-21T06:09:45.500Z</updated>
+    <updated>2022-06-21T08:08:13.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[도서리딩 #1 <소플의 처음 만난 리액트> (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2405</id>
+        <link href="https://festa.io/events/2405"/>
+        <updated>2022-06-21T08:08:12.495Z</updated>
+        <content type="html"><![CDATA[7월 4일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI in Medicine 2022 라이브 클래스 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2403</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2389"/>
         <updated>2022-06-16T08:08:28.007Z</updated>
         <content type="html"><![CDATA[6월 30일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIAI: Deep Learning Summer School (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2391</id>
-        <link href="https://festa.io/events/2391"/>
-        <updated>2022-06-16T07:03:15.900Z</updated>
-        <content type="html"><![CDATA[7월 18일 (월) · 온라인]]></content>
     </entry>
 </feed>
