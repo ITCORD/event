@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-23T06:09:21.445Z</updated>
+    <updated>2022-06-23T07:02:30.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[월간 네이버웍스 : 6월 <EP.2 템플릿 200% 활용하기> 편]]></title>
+        <id>https://festa.io/events/2413</id>
+        <link href="https://festa.io/events/2413"/>
+        <updated>2022-06-23T07:02:29.608Z</updated>
+        <content type="html"><![CDATA[6월 28일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Google I/O Extended in Daejeon]]></title>
         <id>https://festa.io/events/2411</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2399"/>
         <updated>2022-06-20T03:37:22.108Z</updated>
         <content type="html"><![CDATA[6월 28일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[과학기술정보통신부] 경북·강원·대구권 인공지능 3차 교육생 모집(~7/10)]]></title>
-        <id>https://festa.io/events/2393</id>
-        <link href="https://festa.io/events/2393"/>
-        <updated>2022-06-23T03:53:54.075Z</updated>
-        <content type="html"><![CDATA[6월 14일 (화) · 온라인]]></content>
     </entry>
 </feed>
