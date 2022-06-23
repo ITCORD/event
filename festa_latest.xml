@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-23T12:11:12.867Z</updated>
+    <updated>2022-06-23T13:31:42.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[VIMRC 2022]]></title>
+        <id>https://festa.io/events/2412</id>
+        <link href="https://festa.io/events/2412"/>
+        <updated>2022-06-23T13:31:41.822Z</updated>
+        <content type="html"><![CDATA[7월 23일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[월간 네이버웍스 : 6월 <EP.2 템플릿 200% 활용하기> 편]]></title>
         <id>https://festa.io/events/2413</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2401"/>
         <updated>2022-06-20T08:08:25.664Z</updated>
         <content type="html"><![CDATA[7월 14일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AIAI: Healthcare Workshop]]></title>
-        <id>https://festa.io/events/2399</id>
-        <link href="https://festa.io/events/2399"/>
-        <updated>2022-06-20T03:37:22.108Z</updated>
-        <content type="html"><![CDATA[6월 28일 (화) · 온라인]]></content>
     </entry>
 </feed>
