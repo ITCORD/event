@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-06-23T02:59:49.401Z</updated>
+    <updated>2022-06-23T03:53:54.614Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -55,10 +55,10 @@
         <content type="html"><![CDATA[6월 28일 (화) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[Solutions Showcase] 이커머스 마케터를 위한 마케팅 자동화 솔루션, 빅인(bigin)]]></title>
-        <id>https://festa.io/events/2395</id>
-        <link href="https://festa.io/events/2395"/>
-        <updated>2022-06-17T07:02:56.234Z</updated>
-        <content type="html"><![CDATA[6월 23일 (목) · 온라인]]></content>
+        <title type="html"><![CDATA[[과학기술정보통신부] 경북·강원·대구권 인공지능 3차 교육생 모집(~7/10)]]></title>
+        <id>https://festa.io/events/2393</id>
+        <link href="https://festa.io/events/2393"/>
+        <updated>2022-06-23T03:53:54.075Z</updated>
+        <content type="html"><![CDATA[6월 14일 (화) · 온라인]]></content>
     </entry>
 </feed>
