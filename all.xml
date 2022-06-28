@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-06-28T06:07:51.426Z</updated>
+    <updated>2022-06-28T07:02:20.547Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[Solutions Showcase] 지능형 웹방화벽 WAPPLES SA와 함께 클라우드 환경을 안전하게 지키는 법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -17,13 +17,6 @@
         <link href="https://festa.io/events/2412"/>
         <updated>2022-06-23T13:31:41.822Z</updated>
         <content type="html"><![CDATA[7월 23일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월간 네이버웍스 : 6월 <EP.2 템플릿 200% 활용하기> 편 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2413</id>
-        <link href="https://festa.io/events/2413"/>
-        <updated>2022-06-23T07:02:29.608Z</updated>
-        <content type="html"><![CDATA[6월 28일 (화) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Google I/O Extended in Daejeon (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -59,5 +52,12 @@
         <link href="https://festa.io/events/2401"/>
         <updated>2022-06-26T15:02:38.818Z</updated>
         <content type="html"><![CDATA[7월 14일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AIAI: Healthcare Workshop (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2399</id>
+        <link href="https://festa.io/events/2399"/>
+        <updated>2022-06-28T07:02:19.974Z</updated>
+        <content type="html"><![CDATA[6월 28일 (화) · 온라인]]></content>
     </entry>
 </feed>
