@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-04T09:13:28.582Z</updated>
+    <updated>2022-07-04T10:17:33.581Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[KAIT/과기정통부] 전액 무료! 인공지능(AI) 서비스 개발 과정 수강생 모집중 (~7/19)]]></title>
+        <id>https://festa.io/events/2432</id>
+        <link href="https://festa.io/events/2432"/>
+        <updated>2022-07-04T10:17:32.954Z</updated>
+        <content type="html"><![CDATA[7월 25일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022년 글로벌 신산업, 신기술 세미나 제 7차 로봇/로보틱스]]></title>
         <id>https://festa.io/events/2427</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2403"/>
         <updated>2022-06-21T03:52:20.761Z</updated>
         <content type="html"><![CDATA[7월 5일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현대모비스] ESG 아이디어톤 참가자 모집 (~6/26)]]></title>
-        <id>https://festa.io/events/2401</id>
-        <link href="https://festa.io/events/2401"/>
-        <updated>2022-07-01T12:10:38.682Z</updated>
-        <content type="html"><![CDATA[7월 14일 (목) · 오프라인]]></content>
     </entry>
 </feed>
