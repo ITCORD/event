@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-05T10:04:02.074Z</updated>
+    <updated>2022-07-05T11:02:02.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -13,7 +13,7 @@
         <content type="html"><![CDATA[7월 18일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I/O Exnteded Golang Korea 2022]]></title>
+        <title type="html"><![CDATA[I/O Extended Golang Korea 2022]]></title>
         <id>https://festa.io/events/2360</id>
         <link href="https://festa.io/events/2360"/>
         <updated>2022-07-04T23:02:59.572Z</updated>
