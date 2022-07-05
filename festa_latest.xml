@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-05T05:12:01.269Z</updated>
+    <updated>2022-07-05T06:09:56.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA DLI 앰배서더 챌린지 2022 - Round 2]]></title>
+        <id>https://festa.io/events/2434</id>
+        <link href="https://festa.io/events/2434"/>
+        <updated>2022-07-05T06:09:55.561Z</updated>
+        <content type="html"><![CDATA[7월 18일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I/O Exnteded Golang Korea 2022]]></title>
         <id>https://festa.io/events/2360</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2396"/>
         <updated>2022-06-21T13:32:49.922Z</updated>
         <content type="html"><![CDATA[7월 2일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[도서리딩 #2 <소플의 처음 만난 리액트>]]></title>
-        <id>https://festa.io/events/2405</id>
-        <link href="https://festa.io/events/2405"/>
-        <updated>2022-06-21T08:08:12.495Z</updated>
-        <content type="html"><![CDATA[7월 11일 (월) · 오프라인]]></content>
     </entry>
 </feed>
