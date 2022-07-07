@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-07-07T00:35:43.977Z</updated>
+    <updated>2022-07-07T03:10:27.253Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[소주콘 Shot 1 : 진로 빨간 뚜껑 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,13 +40,6 @@
         <content type="html"><![CDATA[7월 15일 (금) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2425</id>
-        <link href="https://festa.io/events/2425"/>
-        <updated>2022-06-30T10:05:45.375Z</updated>
-        <content type="html"><![CDATA[7월 7일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[NVIDIA Jetson 개발자 밋업 - IVA/Robotics (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2387</id>
         <link href="https://festa.io/events/2387"/>
@@ -59,5 +52,12 @@
         <link href="https://festa.io/events/2412"/>
         <updated>2022-06-23T13:31:41.822Z</updated>
         <content type="html"><![CDATA[7월 23일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[도서리딩 #1 <클론코딩 줌> + 핸즈온랩 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2396</id>
+        <link href="https://festa.io/events/2396"/>
+        <updated>2022-07-07T03:10:26.581Z</updated>
+        <content type="html"><![CDATA[7월 2일 (토) · 오프라인]]></content>
     </entry>
 </feed>
