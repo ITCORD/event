@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-12T05:31:15.223Z</updated>
+    <updated>2022-07-12T06:12:37.979Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[『책의 형태에 관하여』에 관하여 (온라인)]]></title>
+        <id>https://festa.io/events/2460</id>
+        <link href="https://festa.io/events/2460"/>
+        <updated>2022-07-12T06:12:37.159Z</updated>
+        <content type="html"><![CDATA[7월 23일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애자일 코리아 7월 밋업 ‘Business agility transformation’]]></title>
         <id>https://festa.io/events/2463</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2360"/>
         <updated>2022-07-04T23:02:59.572Z</updated>
         <content type="html"><![CDATA[7월 17일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAIT/과기정통부] 전액 무료! 인공지능(AI) 서비스 개발 과정 수강생 모집중 (~7/19)]]></title>
-        <id>https://festa.io/events/2432</id>
-        <link href="https://festa.io/events/2432"/>
-        <updated>2022-07-04T10:17:32.954Z</updated>
-        <content type="html"><![CDATA[7월 25일 (월) · 온라인]]></content>
     </entry>
 </feed>
