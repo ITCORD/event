@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-13T23:04:15.100Z</updated>
+    <updated>2022-07-14T00:35:23.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -13,10 +13,10 @@
         <content type="html"><![CDATA[7월 20일 (수) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[『책의 형태에 관하여』에 관하여 (온라인)]]></title>
-        <id>https://festa.io/events/2460</id>
-        <link href="https://festa.io/events/2460"/>
-        <updated>2022-07-12T06:12:37.159Z</updated>
+        <title type="html"><![CDATA[『책의 형태에 관하여』에 관하여]]></title>
+        <id>https://festa.io/events/2431</id>
+        <link href="https://festa.io/events/2431"/>
+        <updated>2022-07-14T00:35:22.727Z</updated>
         <content type="html"><![CDATA[7월 23일 (토) · 온라인]]></content>
     </entry>
     <entry>
