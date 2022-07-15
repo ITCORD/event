@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-15T03:13:14.837Z</updated>
+    <updated>2022-07-15T04:53:26.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Solutions Showcase] 클라우드 환경에서의 지능형 웹방화벽, WAPPLES SA]]></title>
+        <id>https://festa.io/events/2471</id>
+        <link href="https://festa.io/events/2471"/>
+        <updated>2022-07-15T04:53:25.669Z</updated>
+        <content type="html"><![CDATA[7월 21일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎉[온라인] 클라우드 스터디 잼 - 구글 클라우드 입문🎉]]></title>
         <id>https://festa.io/events/2468</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2433"/>
         <updated>2022-07-06T06:08:07.601Z</updated>
         <content type="html"><![CDATA[7월 19일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA DLI 앰배서더 챌린지 2022 - Round 2]]></title>
-        <id>https://festa.io/events/2434</id>
-        <link href="https://festa.io/events/2434"/>
-        <updated>2022-07-05T06:09:55.561Z</updated>
-        <content type="html"><![CDATA[7월 18일 (월) · 온라인]]></content>
     </entry>
 </feed>
