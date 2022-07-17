@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-17T11:02:12.150Z</updated>
+    <updated>2022-07-17T12:09:09.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[JUNCTION ASIA 2022]]></title>
+        <id>https://festa.io/events/2449</id>
+        <link href="https://festa.io/events/2449"/>
+        <updated>2022-07-17T12:09:08.579Z</updated>
+        <content type="html"><![CDATA[8월 19일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 CMC Surmmer DemoDay]]></title>
         <id>https://festa.io/events/2473</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2463"/>
         <updated>2022-07-11T14:11:48.191Z</updated>
         <content type="html"><![CDATA[7월 27일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[노마드들의 축제 <스티치 노마드 위크> in 제주]]></title>
-        <id>https://festa.io/events/2462</id>
-        <link href="https://festa.io/events/2462"/>
-        <updated>2022-07-11T07:02:25.489Z</updated>
-        <content type="html"><![CDATA[7월 19일 (화) · 오프라인]]></content>
     </entry>
 </feed>
