@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-19T08:08:17.483Z</updated>
+    <updated>2022-07-19T09:08:27.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DX Sprint]]></title>
+        <id>https://festa.io/events/2483</id>
+        <link href="https://festa.io/events/2483"/>
+        <updated>2022-07-19T09:08:26.626Z</updated>
+        <content type="html"><![CDATA[8월 5일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[뉴노멀시대의 베트남 투자전략 세미나]]></title>
+        <id>https://festa.io/events/2484</id>
+        <link href="https://festa.io/events/2484"/>
+        <updated>2022-07-19T09:08:26.629Z</updated>
+        <content type="html"><![CDATA[8월 18일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Solutions Showcase] Work Anywhere, Cloud X로 만드는 완벽한 스마트워크 환경]]></title>
         <id>https://festa.io/events/2482</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/2472"/>
         <updated>2022-07-15T12:11:59.820Z</updated>
         <content type="html"><![CDATA[8월 9일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Solutions Showcase] 클라우드 환경에서의 지능형 웹방화벽, WAPPLES SA]]></title>
-        <id>https://festa.io/events/2471</id>
-        <link href="https://festa.io/events/2471"/>
-        <updated>2022-07-15T04:53:25.669Z</updated>
-        <content type="html"><![CDATA[7월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🎉[온라인] 클라우드 스터디 잼 - 구글 클라우드 입문🎉]]></title>
-        <id>https://festa.io/events/2468</id>
-        <link href="https://festa.io/events/2468"/>
-        <updated>2022-07-14T05:22:20.863Z</updated>
-        <content type="html"><![CDATA[8월 6일 (토) · 온라인]]></content>
     </entry>
 </feed>
