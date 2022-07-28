@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-07-28T08:08:28.519Z</updated>
+    <updated>2022-07-28T09:03:14.356Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #1편]]></title>
+        <id>https://festa.io/events/2500</id>
+        <link href="https://festa.io/events/2500"/>
+        <updated>2022-07-28T09:03:13.791Z</updated>
+        <content type="html"><![CDATA[8월 4일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[소풍 • 크립톤 • D3쥬빌리파트너스 • 디스콰이엇] 여성 창업가 네트워킹]]></title>
         <id>https://festa.io/events/2499</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2485"/>
         <updated>2022-07-20T05:16:33.368Z</updated>
         <content type="html"><![CDATA[7월 29일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DX Sprint - 2주 앱 개발 해커톤]]></title>
-        <id>https://festa.io/events/2483</id>
-        <link href="https://festa.io/events/2483"/>
-        <updated>2022-07-19T09:08:26.626Z</updated>
-        <content type="html"><![CDATA[8월 5일 (금) · 오프라인]]></content>
     </entry>
 </feed>
