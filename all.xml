@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-03T11:03:19.832Z</updated>
+    <updated>2022-08-03T12:10:56.244Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Hadoop ecosystem을 활용한 빅데이터 다루기 with Cloud Hadoop #2편 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -33,13 +33,6 @@
         <content type="html"><![CDATA[8월 4일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[소풍 • 크립톤 • D3쥬빌리파트너스 • 디스콰이엇] 여성 창업가 네트워킹 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2499</id>
-        <link href="https://festa.io/events/2499"/>
-        <updated>2022-07-27T10:07:21.978Z</updated>
-        <content type="html"><![CDATA[8월 3일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[다양한 개발도구를 활용한 AR 콘텐츠의 이해 및 개발 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2498</id>
         <link href="https://festa.io/events/2498"/>
@@ -59,5 +52,12 @@
         <link href="https://festa.io/events/2495"/>
         <updated>2022-07-25T10:04:05.107Z</updated>
         <content type="html"><![CDATA[7월 23일 (토) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2022년 글로벌 신산업, 신기술 세미나 제 8차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2494</id>
+        <link href="https://festa.io/events/2494"/>
+        <updated>2022-08-03T12:10:55.553Z</updated>
+        <content type="html"><![CDATA[8월 5일 (금) · 온라인]]></content>
     </entry>
 </feed>
