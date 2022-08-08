@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-08T00:29:32.422Z</updated>
+    <updated>2022-08-08T03:00:54.705Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[부산코딩경진대회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2510</id>
+        <link href="https://festa.io/events/2510"/>
+        <updated>2022-08-08T03:00:53.953Z</updated>
+        <content type="html"><![CDATA[8월 27일 (토) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[플로우의 영업! 톡투유 웨비나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2507</id>
+        <link href="https://festa.io/events/2507"/>
+        <updated>2022-08-08T03:00:53.955Z</updated>
+        <content type="html"><![CDATA[8월 18일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA AI 개발자 밋업 - KISTI Hackathon 특집! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2509</id>
+        <link href="https://festa.io/events/2509"/>
+        <updated>2022-08-08T03:00:53.955Z</updated>
+        <content type="html"><![CDATA[8월 30일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지, 경력에 필요한 경험을 쌓는 길! 엘리스 SW 엔지니어 트랙 3기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2506</id>
@@ -38,26 +59,5 @@
         <link href="https://festa.io/events/2498"/>
         <updated>2022-07-27T05:23:43.206Z</updated>
         <content type="html"><![CDATA[8월 22일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 adiOS ASAP🥄 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2466</id>
-        <link href="https://festa.io/events/2466"/>
-        <updated>2022-07-28T13:32:48.143Z</updated>
-        <content type="html"><![CDATA[9월 3일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAIT/과기정통부] 제 2기 인공지능(AI) 서비스 개발과정 수강생 모집(전액무료/8.17 마감) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2495</id>
-        <link href="https://festa.io/events/2495"/>
-        <updated>2022-07-25T10:04:05.107Z</updated>
-        <content type="html"><![CDATA[7월 23일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KOPIS 빅데이터 분석 공모전 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2489</id>
-        <link href="https://festa.io/events/2489"/>
-        <updated>2022-08-05T03:06:45.916Z</updated>
-        <content type="html"><![CDATA[7월 31일 (일) · 온라인]]></content>
     </entry>
 </feed>
