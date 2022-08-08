@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-08T03:57:14.783Z</updated>
+    <updated>2022-08-08T04:25:59.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[부산코딩경진대회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -12,7 +12,7 @@
         <content type="html"><![CDATA[8월 27일 (토) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[플로우의 영업! 톡투유 웨비나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <title type="html"><![CDATA[[플로우 웨비나] 톡투유, 영업사원 모여라 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2507</id>
         <link href="https://festa.io/events/2507"/>
         <updated>2022-08-08T03:00:53.955Z</updated>
