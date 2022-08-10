@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-10T04:07:55.477Z</updated>
+    <updated>2022-08-10T05:03:21.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[NFT를 활용한 커뮤니티 제작 및 기업 매니지먼트 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2515</id>
+        <link href="https://festa.io/events/2515"/>
+        <updated>2022-08-10T05:03:21.291Z</updated>
+        <content type="html"><![CDATA[9월 1일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[메이커챌린지 IV (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2514</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2505"/>
         <updated>2022-08-03T09:03:45.654Z</updated>
         <content type="html"><![CDATA[8월 11일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[super.init() (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2503</id>
-        <link href="https://festa.io/events/2503"/>
-        <updated>2022-08-02T03:25:37.970Z</updated>
-        <content type="html"><![CDATA[8월 14일 (일) · 오프라인]]></content>
     </entry>
 </feed>
