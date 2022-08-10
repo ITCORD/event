@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-08-10T07:03:15.472Z</updated>
+    <updated>2022-08-10T08:08:19.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Solutions Showcase] Work Anywhere, Cloud X로 만드는 완벽한 스마트워크 환경]]></title>
+        <id>https://festa.io/events/2517</id>
+        <link href="https://festa.io/events/2517"/>
+        <updated>2022-08-10T08:08:18.586Z</updated>
+        <content type="html"><![CDATA[8월 18일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세미나홍보] 2022년 글로벌 신산업, 신기술 세미나 제 9차  #특허 #지식재산권 #유럽특허]]></title>
         <id>https://festa.io/events/2516</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2509"/>
         <updated>2022-08-08T03:00:53.955Z</updated>
         <content type="html"><![CDATA[8월 30일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지, 경력에 필요한 경험을 쌓는 길! 엘리스 SW 엔지니어 트랙 3기 모집]]></title>
-        <id>https://festa.io/events/2506</id>
-        <link href="https://festa.io/events/2506"/>
-        <updated>2022-08-04T07:03:17.413Z</updated>
-        <content type="html"><![CDATA[8월 11일 (목) · 온라인]]></content>
     </entry>
 </feed>
