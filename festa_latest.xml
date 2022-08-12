@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-08-12T09:03:21.383Z</updated>
+    <updated>2022-08-12T10:07:42.679Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지, 경력에 필요한 경험을 쌓는 길! 엘리스 SW 엔지니어 트랙 3기 모집]]></title>
+        <id>https://festa.io/events/2524</id>
+        <link href="https://festa.io/events/2524"/>
+        <updated>2022-08-12T10:07:41.910Z</updated>
+        <content type="html"><![CDATA[8월 7일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2022년 8월 모임]]></title>
         <id>https://festa.io/events/2520</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2510"/>
         <updated>2022-08-08T03:00:53.953Z</updated>
         <content type="html"><![CDATA[8월 27일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[플로우 웨비나] 톡투유, 영업사원 모여라]]></title>
-        <id>https://festa.io/events/2507</id>
-        <link href="https://festa.io/events/2507"/>
-        <updated>2022-08-08T03:00:53.955Z</updated>
-        <content type="html"><![CDATA[8월 18일 (목) · 온라인]]></content>
     </entry>
 </feed>
