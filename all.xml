@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-15T11:02:23.882Z</updated>
+    <updated>2022-08-15T12:11:37.983Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Code Action 1 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2526</id>
+        <link href="https://festa.io/events/2526"/>
+        <updated>2022-08-15T12:11:37.280Z</updated>
+        <content type="html"><![CDATA[8월 27일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지, 경력에 필요한 경험을 쌓는 길! 엘리스 SW 엔지니어 트랙 3기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2524</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2513"/>
         <updated>2022-08-09T09:03:29.093Z</updated>
         <content type="html"><![CDATA[8월 22일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산코딩경진대회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2510</id>
-        <link href="https://festa.io/events/2510"/>
-        <updated>2022-08-08T03:00:53.953Z</updated>
-        <content type="html"><![CDATA[8월 27일 (토) · 온라인]]></content>
     </entry>
 </feed>
