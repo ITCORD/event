@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-08-17T00:34:30.944Z</updated>
+    <updated>2022-08-17T03:18:53.408Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[2022년 해외선진기술교육 워크숍] Zero Density 버추얼 프로덕션 워크숍]]></title>
+        <id>https://festa.io/events/2530</id>
+        <link href="https://festa.io/events/2530"/>
+        <updated>2022-08-17T03:18:52.753Z</updated>
+        <content type="html"><![CDATA[10월 5일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[10배경매학교 113기(9/1,목)]]></title>
         <id>https://festa.io/events/2529</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2516"/>
         <updated>2022-08-10T07:03:14.826Z</updated>
         <content type="html"><![CDATA[8월 19일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NFT를 활용한 커뮤니티 제작 및 기업 매니지먼트 과정]]></title>
-        <id>https://festa.io/events/2515</id>
-        <link href="https://festa.io/events/2515"/>
-        <updated>2022-08-10T05:03:21.291Z</updated>
-        <content type="html"><![CDATA[9월 1일 (목) · 오프라인]]></content>
     </entry>
 </feed>
