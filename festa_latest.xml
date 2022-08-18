@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-08-18T00:34:59.329Z</updated>
+    <updated>2022-08-18T03:22:11.818Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2022 공개SW 기술컨설팅 모집 설명회]]></title>
+        <id>https://festa.io/events/2535</id>
+        <link href="https://festa.io/events/2535"/>
+        <updated>2022-08-18T03:22:11.118Z</updated>
+        <content type="html"><![CDATA[9월 6일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Node.js 클라우드 서버리스  RESTFul 서비스 구현 핸즈온랩 세미나]]></title>
         <id>https://festa.io/events/2534</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2524"/>
         <updated>2022-08-12T10:07:41.910Z</updated>
         <content type="html"><![CDATA[8월 7일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2022년 8월 모임]]></title>
-        <id>https://festa.io/events/2520</id>
-        <link href="https://festa.io/events/2520"/>
-        <updated>2022-08-11T10:04:14.966Z</updated>
-        <content type="html"><![CDATA[8월 29일 (월) · 오프라인]]></content>
     </entry>
 </feed>
