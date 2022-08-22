@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-08-22T07:06:11.001Z</updated>
+    <updated>2022-08-22T08:08:47.180Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[과기정통부/KAIT] 내일배움카드 필요없는 무료 인공지능 서비스 기획 강의! 수강생 모집중 (~9/14)]]></title>
+        <id>https://festa.io/events/2546</id>
+        <link href="https://festa.io/events/2546"/>
+        <updated>2022-08-22T08:08:46.374Z</updated>
+        <content type="html"><![CDATA[8월 11일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[느슨해진 웹 개발에 긴장감을 넣어주는 A-Frame]]></title>
         <id>https://festa.io/events/2542</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2530"/>
         <updated>2022-08-17T03:18:52.753Z</updated>
         <content type="html"><![CDATA[10월 5일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10배경매학교 113기(9/1,목)]]></title>
-        <id>https://festa.io/events/2529</id>
-        <link href="https://festa.io/events/2529"/>
-        <updated>2022-08-16T08:06:13.240Z</updated>
-        <content type="html"><![CDATA[9월 1일 (목) · 오프라인]]></content>
     </entry>
 </feed>
