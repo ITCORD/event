@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-08-23T00:40:03.873Z</updated>
+    <updated>2022-08-23T03:25:31.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[AI OCR 도입 성공 방정식 (페스타 ─ 최신 밋업과 이벤트)]]></title>
