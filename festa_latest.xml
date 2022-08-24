@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-08-24T00:35:32.947Z</updated>
+    <updated>2022-08-24T03:26:33.883Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Zbrush를 활용한 메타버스 디지털 캐릭터 제작과정]]></title>
+        <id>https://festa.io/events/2549</id>
+        <link href="https://festa.io/events/2549"/>
+        <updated>2022-08-24T03:26:33.300Z</updated>
+        <content type="html"><![CDATA[9월 17일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[웨비나] 프로젝트 생존을 위한 리서치 전략 세미나]]></title>
         <id>https://festa.io/events/2543</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2521"/>
         <updated>2022-08-18T07:04:46.690Z</updated>
         <content type="html"><![CDATA[9월 1일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 공개SW 기술컨설팅 모집 설명회]]></title>
-        <id>https://festa.io/events/2535</id>
-        <link href="https://festa.io/events/2535"/>
-        <updated>2022-08-18T03:22:11.118Z</updated>
-        <content type="html"><![CDATA[9월 6일 (화) · 온라인]]></content>
     </entry>
 </feed>
