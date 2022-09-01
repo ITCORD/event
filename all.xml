@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-01T10:06:40.023Z</updated>
+    <updated>2022-09-01T11:02:57.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[KAIT/과기정통부] 전액 무료! 인공지능(AI) 서비스 개발 과정 수강생 모집중 (~9/21) (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -33,6 +33,13 @@
         <content type="html"><![CDATA[9월 17일 (토) · 오프라인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[분산 신원(DID)/자기주권신원(SSI) 이론 기초 및 구현 데모 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2561</id>
+        <link href="https://festa.io/events/2561"/>
+        <updated>2022-09-01T11:02:56.662Z</updated>
+        <content type="html"><![CDATA[9월 24일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[포토그래메트리를 활용한 실감형 디지털 리소스(3D 에셋) 제작 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2560</id>
         <link href="https://festa.io/events/2560"/>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2556"/>
         <updated>2022-08-26T03:32:19.747Z</updated>
         <content type="html"><![CDATA[9월 19일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022년 글로벌 신산업 신기술 세미나 <제 10 차> 스마트제조 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2555</id>
-        <link href="https://festa.io/events/2555"/>
-        <updated>2022-08-26T03:32:19.750Z</updated>
-        <content type="html"><![CDATA[9월 2일 (금) · 온라인]]></content>
     </entry>
 </feed>
