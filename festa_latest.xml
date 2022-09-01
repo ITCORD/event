@@ -2,7 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-09-01T20:06:13.519Z</updated>
+    <updated>2022-09-01T21:05:22.628Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[KAIT/과기정통부] 전액 무료! 인공지능(AI) 서비스 개발 과정 수강생 모집중 (~9/21)]]></title>
+        <id>https://festa.io/events/2569</id>
+        <link href="https://festa.io/events/2569"/>
+        <updated>2022-09-01T21:05:22.038Z</updated>
+        <content type="html"><![CDATA[8월 30일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[안랩 장학코스] IT 직무전문가 & SW.AI 교육전문가 양성과정 안랩샘아카데미 15기]]></title>
+        <id>https://festa.io/events/2568</id>
+        <link href="https://festa.io/events/2568"/>
+        <updated>2022-09-01T21:05:22.038Z</updated>
+        <content type="html"><![CDATA[9월 30일 (금) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[블렌더 3D와 Daz 3D를 활용한 디지털 휴먼 제작과정]]></title>
+        <id>https://festa.io/events/2566</id>
+        <link href="https://festa.io/events/2566"/>
+        <updated>2022-09-01T21:05:22.038Z</updated>
+        <content type="html"><![CDATA[9월 22일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Meetup - Incheon]]></title>
+        <id>https://festa.io/events/2562</id>
+        <link href="https://festa.io/events/2562"/>
+        <updated>2022-09-01T21:05:22.038Z</updated>
+        <content type="html"><![CDATA[9월 17일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[분산 신원(DID)/자기주권신원(SSI) 이론 기초 및 구현 데모]]></title>
+        <id>https://festa.io/events/2561</id>
+        <link href="https://festa.io/events/2561"/>
+        <updated>2022-09-01T21:05:22.038Z</updated>
+        <content type="html"><![CDATA[9월 24일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포토그래메트리를 활용한 실감형 디지털 리소스(3D 에셋) 제작]]></title>
+        <id>https://festa.io/events/2560</id>
+        <link href="https://festa.io/events/2560"/>
+        <updated>2022-09-01T21:05:22.039Z</updated>
+        <content type="html"><![CDATA[9월 19일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제7회 한국 리눅스 커널 개발자 모임]]></title>
+        <id>https://festa.io/events/2557</id>
+        <link href="https://festa.io/events/2557"/>
+        <updated>2022-09-01T21:05:22.039Z</updated>
+        <content type="html"><![CDATA[9월 29일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[과기정통부/KAIT] 내일배움카드X, 전공 무관! 국비 무료 인공지능 서비스 기획과정 교육생 모집]]></title>
+        <id>https://festa.io/events/2556</id>
+        <link href="https://festa.io/events/2556"/>
+        <updated>2022-09-01T21:05:22.045Z</updated>
+        <content type="html"><![CDATA[9월 19일 (월) · 온라인]]></content>
+    </entry>
 </feed>
