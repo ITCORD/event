@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-09-06T11:03:17.637Z</updated>
+    <updated>2022-09-06T12:13:24.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://festa.io/events/2575"/>
         <updated>2022-09-04T12:10:44.989Z</updated>
         <content type="html"><![CDATA[10월 4일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kotlin Night 2022 Seoul]]></title>
-        <id>https://festa.io/events/2572</id>
-        <link href="https://festa.io/events/2572"/>
-        <updated>2022-09-02T08:08:39.525Z</updated>
-        <content type="html"><![CDATA[9월 6일 (화) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hadoop ecosystem 을 활용한 빅데이터 다루기 with Cloud Hadoop #2편]]></title>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/2566"/>
         <updated>2022-09-01T21:05:22.038Z</updated>
         <content type="html"><![CDATA[9월 22일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Meetup - Incheon]]></title>
+        <id>https://festa.io/events/2562</id>
+        <link href="https://festa.io/events/2562"/>
+        <updated>2022-09-06T12:13:23.789Z</updated>
+        <content type="html"><![CDATA[9월 17일 (토) · 오프라인]]></content>
     </entry>
 </feed>
