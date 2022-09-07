@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-07T05:24:20.020Z</updated>
+    <updated>2022-09-07T06:48:51.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[서울시X SBA무료교육]UXUI 웹앱 디자이너 실무 프로젝트 교육생 모집중 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2595</id>
+        <link href="https://festa.io/events/2595"/>
+        <updated>2022-09-07T06:48:50.851Z</updated>
+        <content type="html"><![CDATA[9월 26일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[웹 모의해킹 시큐어코딩 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2594</id>
+        <link href="https://festa.io/events/2594"/>
+        <updated>2022-09-07T06:48:50.857Z</updated>
+        <content type="html"><![CDATA[10월 29일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[기업데이터보호 커리어 역량강화 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2593</id>
+        <link href="https://festa.io/events/2593"/>
+        <updated>2022-09-07T06:48:50.857Z</updated>
+        <content type="html"><![CDATA[10월 17일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Flutter 앱 개발 교육과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2591</id>
+        <link href="https://festa.io/events/2591"/>
+        <updated>2022-09-07T06:48:50.859Z</updated>
+        <content type="html"><![CDATA[10월 15일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 에듀테크 코리아 포럼 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2582</id>
@@ -31,33 +59,5 @@
         <link href="https://festa.io/events/2571"/>
         <updated>2022-09-02T05:17:09.695Z</updated>
         <content type="html"><![CDATA[9월 8일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAIT/과기정통부] 전액 무료! 인공지능(AI) 서비스 개발 과정 수강생 모집중 (~9/21) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2569</id>
-        <link href="https://festa.io/events/2569"/>
-        <updated>2022-09-01T21:05:22.038Z</updated>
-        <content type="html"><![CDATA[8월 30일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안랩 장학코스] IT 직무전문가 & SW.AI 교육전문가 양성과정 안랩샘아카데미 15기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2568</id>
-        <link href="https://festa.io/events/2568"/>
-        <updated>2022-09-01T21:05:22.038Z</updated>
-        <content type="html"><![CDATA[9월 30일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[블렌더 3D와 Daz 3D를 활용한 디지털 휴먼 제작과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2566</id>
-        <link href="https://festa.io/events/2566"/>
-        <updated>2022-09-01T21:05:22.038Z</updated>
-        <content type="html"><![CDATA[9월 22일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Machine Learning Meetup - Incheon (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2562</id>
-        <link href="https://festa.io/events/2562"/>
-        <updated>2022-09-06T12:13:23.789Z</updated>
-        <content type="html"><![CDATA[9월 17일 (토) · 오프라인]]></content>
     </entry>
 </feed>
