@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-09-13T23:07:31.215Z</updated>
+    <updated>2022-09-14T00:34:53.299Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[파이콘 한국 2022 - [얼리버드]]]></title>
+        <id>https://festa.io/events/2603</id>
+        <link href="https://festa.io/events/2603"/>
+        <updated>2022-09-14T00:34:52.745Z</updated>
+        <content type="html"><![CDATA[10월 1일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA GTC 2022 (+한국어로 편하게 즐기는 Watch Party와 이벤트 정보)]]></title>
+        <id>https://festa.io/events/2567</id>
+        <link href="https://festa.io/events/2567"/>
+        <updated>2022-09-14T00:34:52.746Z</updated>
+        <content type="html"><![CDATA[9월 18일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2022년 9월 모임]]></title>
         <id>https://festa.io/events/2604</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/2593"/>
         <updated>2022-09-07T06:48:50.857Z</updated>
         <content type="html"><![CDATA[10월 17일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter 앱 개발 교육과정]]></title>
-        <id>https://festa.io/events/2591</id>
-        <link href="https://festa.io/events/2591"/>
-        <updated>2022-09-07T06:48:50.859Z</updated>
-        <content type="html"><![CDATA[10월 15일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2022 에듀테크 코리아 포럼]]></title>
-        <id>https://festa.io/events/2582</id>
-        <link href="https://festa.io/events/2582"/>
-        <updated>2022-09-06T06:48:39.550Z</updated>
-        <content type="html"><![CDATA[9월 21일 (수) · 온라인]]></content>
     </entry>
 </feed>
