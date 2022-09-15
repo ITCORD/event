@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-15T05:14:52.488Z</updated>
+    <updated>2022-09-15T06:33:13.560Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #3 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2614</id>
+        <link href="https://festa.io/events/2614"/>
+        <updated>2022-09-15T06:33:13.005Z</updated>
+        <content type="html"><![CDATA[9월 22일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data-centric AI의 필요성과 핵심 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2613</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2604"/>
         <updated>2022-09-12T15:07:07.537Z</updated>
         <content type="html"><![CDATA[9월 26일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[NIPA](하반기 1차/~9.20)공개SW AI 실무교육, AI 오픈소스 실전 아카데미 모집 공고 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2592</id>
-        <link href="https://festa.io/events/2592"/>
-        <updated>2022-09-07T07:33:16.304Z</updated>
-        <content type="html"><![CDATA[9월 7일 (수) · 온라인]]></content>
     </entry>
 </feed>
