@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-09-15T00:38:40.380Z</updated>
+    <updated>2022-09-15T03:38:55.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Data-centric AI의 필요성과 핵심]]></title>
+        <id>https://festa.io/events/2613</id>
+        <link href="https://festa.io/events/2613"/>
+        <updated>2022-09-15T03:38:55.075Z</updated>
+        <content type="html"><![CDATA[9월 22일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[문화예술 데이터 공모전] <제3회 예술데이터가 바꾸는 세상> 참가자 모집(~09/25)]]></title>
+        <id>https://festa.io/events/2565</id>
+        <link href="https://festa.io/events/2565"/>
+        <updated>2022-09-15T03:38:55.076Z</updated>
+        <content type="html"><![CDATA[8월 25일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[2022년 해외선진기술교육 워크숍] 4DViews 볼류메트릭 캡쳐 워크숍]]></title>
+        <id>https://festa.io/events/2612</id>
+        <link href="https://festa.io/events/2612"/>
+        <updated>2022-09-15T03:38:55.078Z</updated>
+        <content type="html"><![CDATA[10월 11일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오늘폰트] 폰알못을 위한 폰트 유치원 : 폰치원 - 온라인]]></title>
         <id>https://festa.io/events/2611</id>
@@ -34,31 +55,10 @@
         <content type="html"><![CDATA[9월 26일 (월) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[시공간 제약 없이 누구나 바로 사용할 수 있는 화상 미팅 서비스, Hello]]></title>
-        <id>https://festa.io/events/2600</id>
-        <link href="https://festa.io/events/2600"/>
-        <updated>2022-09-08T09:08:33.603Z</updated>
-        <content type="html"><![CDATA[9월 15일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[NIPA](하반기 1차/~9.20)공개SW AI 실무교육, AI 오픈소스 실전 아카데미 모집 공고]]></title>
         <id>https://festa.io/events/2592</id>
         <link href="https://festa.io/events/2592"/>
         <updated>2022-09-07T07:33:16.304Z</updated>
         <content type="html"><![CDATA[9월 7일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울시X SBA무료교육]UXUI 웹앱 디자이너 실무 프로젝트 교육생 모집중]]></title>
-        <id>https://festa.io/events/2595</id>
-        <link href="https://festa.io/events/2595"/>
-        <updated>2022-09-07T06:48:50.851Z</updated>
-        <content type="html"><![CDATA[9월 26일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹 모의해킹 시큐어코딩 과정]]></title>
-        <id>https://festa.io/events/2594</id>
-        <link href="https://festa.io/events/2594"/>
-        <updated>2022-09-07T06:48:50.857Z</updated>
-        <content type="html"><![CDATA[10월 29일 (토) · 오프라인]]></content>
     </entry>
 </feed>
