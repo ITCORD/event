@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-09-20T05:16:44.381Z</updated>
+    <updated>2022-09-20T06:39:22.715Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[무료세미나 : "개방형OS 사용해야 하는 이유"]]></title>
+        <id>https://festa.io/events/2622</id>
+        <link href="https://festa.io/events/2622"/>
+        <updated>2022-09-20T06:39:22.153Z</updated>
+        <content type="html"><![CDATA[10월 26일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[22.09 대학생의 오픈스택 이야기]]></title>
         <id>https://festa.io/events/2621</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/2614</id>
         <link href="https://festa.io/events/2614"/>
         <updated>2022-09-15T06:33:13.005Z</updated>
-        <content type="html"><![CDATA[9월 22일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data-centric AI의 필요성과 핵심]]></title>
-        <id>https://festa.io/events/2613</id>
-        <link href="https://festa.io/events/2613"/>
-        <updated>2022-09-15T03:38:55.075Z</updated>
         <content type="html"><![CDATA[9월 22일 (목) · 온라인]]></content>
     </entry>
 </feed>
