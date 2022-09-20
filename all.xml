@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-09-20T00:37:31.448Z</updated>
+    <updated>2022-09-20T03:31:41.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[22.09 대학생의 오픈스택 이야기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2621</id>
+        <link href="https://festa.io/events/2621"/>
+        <updated>2022-09-20T03:31:40.961Z</updated>
+        <content type="html"><![CDATA[9월 29일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파이콘 한국 2022 - [일반] (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2605</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/2613"/>
         <updated>2022-09-15T03:38:55.075Z</updated>
         <content type="html"><![CDATA[9월 22일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화예술 데이터 공모전] <제3회 예술데이터가 바꾸는 세상> 참가자 모집(~09/25) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2565</id>
-        <link href="https://festa.io/events/2565"/>
-        <updated>2022-09-15T03:38:55.076Z</updated>
-        <content type="html"><![CDATA[8월 25일 (목) · 오프라인]]></content>
     </entry>
 </feed>
