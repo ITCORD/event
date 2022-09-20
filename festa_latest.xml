@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-09-20T06:39:22.715Z</updated>
+    <updated>2022-09-20T07:18:17.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Cloud Service for Startups]]></title>
+        <id>https://festa.io/events/2623</id>
+        <link href="https://festa.io/events/2623"/>
+        <updated>2022-09-20T07:18:16.565Z</updated>
+        <content type="html"><![CDATA[9월 27일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무료세미나 : "개방형OS 사용해야 하는 이유"]]></title>
         <id>https://festa.io/events/2622</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2615"/>
         <updated>2022-09-15T08:10:07.254Z</updated>
         <content type="html"><![CDATA[10월 12일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 데이터를 활용하여 비즈니스 인사이트 얻기! Cloud Data Box #3]]></title>
-        <id>https://festa.io/events/2614</id>
-        <link href="https://festa.io/events/2614"/>
-        <updated>2022-09-15T06:33:13.005Z</updated>
-        <content type="html"><![CDATA[9월 22일 (목) · 온라인]]></content>
     </entry>
 </feed>
