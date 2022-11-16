@@ -2,6 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-11-16T16:10:58.934Z</updated>
+    <updated>2022-11-16T17:20:34.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] AI비전공자로 AI논문쓰기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2886</id>
+        <link href="https://festa.io/events/2886"/>
+        <updated>2022-11-16T17:20:33.549Z</updated>
+        <content type="html"><![CDATA[11월 22일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Gitlab Korea 밋업 #13 - DevSecOps 파이프라인 2탄 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2856</id>
+        <link href="https://festa.io/events/2856"/>
+        <updated>2022-11-16T17:20:33.550Z</updated>
+        <content type="html"><![CDATA[11월 29일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Meet in Busan] 🌊HAEVENUE🌊퀴즈 이벤트 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2884</id>
+        <link href="https://festa.io/events/2884"/>
+        <updated>2022-11-16T17:20:33.552Z</updated>
+        <content type="html"><![CDATA[11월 15일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포스트 팬데믹 시대, 지속적 성장과 생존전략을 위한 경제전망, 창업트렌드 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2883</id>
+        <link href="https://festa.io/events/2883"/>
+        <updated>2022-11-16T17:20:33.554Z</updated>
+        <content type="html"><![CDATA[11월 28일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[Solutions Showcase] 이메일 보안의 새로운 패러다임, RealMail (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2881</id>
+        <link href="https://festa.io/events/2881"/>
+        <updated>2022-11-16T17:20:33.555Z</updated>
+        <content type="html"><![CDATA[11월 24일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[BOOK TALK - 누구나 쉽게 배우는 인공지능 스타트 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2874</id>
+        <link href="https://festa.io/events/2874"/>
+        <updated>2022-11-16T17:20:33.557Z</updated>
+        <content type="html"><![CDATA[11월 22일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[레츠스위프트 2022 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2868</id>
+        <link href="https://festa.io/events/2868"/>
+        <updated>2022-11-16T17:20:33.558Z</updated>
+        <content type="html"><![CDATA[11월 30일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NeurIPS 2022 AI Leaders Forum (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2870</id>
+        <link href="https://festa.io/events/2870"/>
+        <updated>2022-11-16T17:20:33.560Z</updated>
+        <content type="html"><![CDATA[12월 13일 (화) · 온라인]]></content>
+    </entry>
 </feed>
