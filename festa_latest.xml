@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-11-18T15:03:14.230Z</updated>
+    <updated>2022-11-18T16:07:42.890Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[C++ Korea 2022 Meet-Up]]></title>
+        <id>https://festa.io/events/2872</id>
+        <link href="https://festa.io/events/2872"/>
+        <updated>2022-11-18T16:07:42.371Z</updated>
+        <content type="html"><![CDATA[12월 3일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[체험! 인공지능] NAVER 'HyperCLOVA' 신기술 세미나]]></title>
         <id>https://festa.io/events/2849</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2883"/>
         <updated>2022-11-16T17:20:33.554Z</updated>
         <content type="html"><![CDATA[11월 28일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Solutions Showcase] 이메일 보안의 새로운 패러다임, RealMail]]></title>
-        <id>https://festa.io/events/2881</id>
-        <link href="https://festa.io/events/2881"/>
-        <updated>2022-11-16T17:20:33.555Z</updated>
-        <content type="html"><![CDATA[11월 24일 (목) · 온라인]]></content>
     </entry>
 </feed>
