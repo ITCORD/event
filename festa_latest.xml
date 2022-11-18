@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-11-18T09:04:10.420Z</updated>
+    <updated>2022-11-18T10:05:09.726Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[체험! 인공지능] NAVER 'HyperCLOVA' 신기술 세미나]]></title>
+        <id>https://festa.io/events/2849</id>
+        <link href="https://festa.io/events/2849"/>
+        <updated>2022-11-18T10:05:09.033Z</updated>
+        <content type="html"><![CDATA[11월 23일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[liftIO 2022]]></title>
         <id>https://festa.io/events/2876</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2881"/>
         <updated>2022-11-16T17:20:33.555Z</updated>
         <content type="html"><![CDATA[11월 24일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BOOK TALK - 누구나 쉽게 배우는 인공지능 스타트]]></title>
-        <id>https://festa.io/events/2874</id>
-        <link href="https://festa.io/events/2874"/>
-        <updated>2022-11-16T17:20:33.557Z</updated>
-        <content type="html"><![CDATA[11월 22일 (화) · 오프라인]]></content>
     </entry>
 </feed>
