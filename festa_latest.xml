@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-11-21T03:40:33.560Z</updated>
+    <updated>2022-11-21T04:14:56.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[소주톤 : 얼레벌레크리스마스]]></title>
+        <id>https://festa.io/events/2892</id>
+        <link href="https://festa.io/events/2892"/>
+        <updated>2022-11-21T04:14:55.924Z</updated>
+        <content type="html"><![CDATA[12월 3일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2022 연말 파이썬 파티]]></title>
         <id>https://festa.io/events/2889</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2856"/>
         <updated>2022-11-16T17:20:33.550Z</updated>
         <content type="html"><![CDATA[11월 29일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Meet in Busan] 🌊HAEVENUE🌊퀴즈 이벤트]]></title>
-        <id>https://festa.io/events/2884</id>
-        <link href="https://festa.io/events/2884"/>
-        <updated>2022-11-16T17:20:33.552Z</updated>
-        <content type="html"><![CDATA[11월 15일 (화) · 온라인]]></content>
     </entry>
 </feed>
