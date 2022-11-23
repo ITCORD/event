@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-11-23T10:05:31.138Z</updated>
+    <updated>2022-11-23T11:02:21.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -48,17 +48,17 @@
         <content type="html"><![CDATA[11월 24일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[체험! 인공지능] NAVER 'HyperCLOVA' 신기술 세미나]]></title>
-        <id>https://festa.io/events/2849</id>
-        <link href="https://festa.io/events/2849"/>
-        <updated>2022-11-18T10:05:09.033Z</updated>
-        <content type="html"><![CDATA[11월 23일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[소주톤 : 얼레벌레크리스마스]]></title>
         <id>https://festa.io/events/2892</id>
         <link href="https://festa.io/events/2892"/>
         <updated>2022-11-23T08:08:27.104Z</updated>
         <content type="html"><![CDATA[12월 3일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[GDGXGDSC Merry Careermas (메리 커리어마스)]]></title>
+        <id>https://festa.io/events/2898</id>
+        <link href="https://festa.io/events/2898"/>
+        <updated>2022-11-23T11:02:21.297Z</updated>
+        <content type="html"><![CDATA[12월 17일 (토) · 오프라인]]></content>
     </entry>
 </feed>
