@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-11-24T03:17:52.850Z</updated>
+    <updated>2022-11-24T04:07:19.746Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[메타버스 플랫폼의 이해와 실시간 엔진 활용 가상공간 제작 과정]]></title>
+        <id>https://festa.io/events/2913</id>
+        <link href="https://festa.io/events/2913"/>
+        <updated>2022-11-24T04:07:19.143Z</updated>
+        <content type="html"><![CDATA[12월 12일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Hyperledger Meetup Korea #32 - NFT]]></title>
+        <id>https://festa.io/events/2912</id>
+        <link href="https://festa.io/events/2912"/>
+        <updated>2022-11-24T04:07:19.143Z</updated>
+        <content type="html"><![CDATA[12월 8일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회고콘서트, REWIND 2022]]></title>
         <id>https://festa.io/events/2911</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/2875"/>
         <updated>2022-11-22T07:03:43.188Z</updated>
         <content type="html"><![CDATA[12월 4일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevFest 2022 WebTech]]></title>
-        <id>https://festa.io/events/2893</id>
-        <link href="https://festa.io/events/2893"/>
-        <updated>2022-11-22T05:04:47.244Z</updated>
-        <content type="html"><![CDATA[12월 10일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Meet in Busan] GET Net-zero in MIB 인증샷 이벤트 참여하고 선물이 와르르르🎁]]></title>
-        <id>https://festa.io/events/2899</id>
-        <link href="https://festa.io/events/2899"/>
-        <updated>2022-11-21T15:04:14.159Z</updated>
-        <content type="html"><![CDATA[11월 24일 (목) · 온라인]]></content>
     </entry>
 </feed>
