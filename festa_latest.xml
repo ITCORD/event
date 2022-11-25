@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-11-25T08:08:22.516Z</updated>
+    <updated>2022-11-25T09:02:57.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[오프라인/50명 무료] KOREN 기술세미나 뉴노멀시대, 디지털이 표준이다]]></title>
+        <id>https://festa.io/events/2921</id>
+        <link href="https://festa.io/events/2921"/>
+        <updated>2022-11-25T09:02:57.265Z</updated>
+        <content type="html"><![CDATA[12월 22일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devfest 2022 Seoul]]></title>
         <id>https://festa.io/events/2873</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2799"/>
         <updated>2022-11-23T13:20:39.098Z</updated>
         <content type="html"><![CDATA[11월 3일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[STEM(과학, 기술, 공학, 수학) 전공자를 위한 DLI 전문가 직강 워크숍]]></title>
-        <id>https://festa.io/events/2907</id>
-        <link href="https://festa.io/events/2907"/>
-        <updated>2022-11-23T06:07:57.193Z</updated>
-        <content type="html"><![CDATA[12월 2일 (금) · 온라인]]></content>
     </entry>
 </feed>
