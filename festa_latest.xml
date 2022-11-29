@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-11-29T08:08:43.720Z</updated>
+    <updated>2022-11-29T09:03:01.296Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[QA Korea Conference 2023]]></title>
+        <id>https://festa.io/events/2919</id>
+        <link href="https://festa.io/events/2919"/>
+        <updated>2022-11-29T09:03:00.616Z</updated>
+        <content type="html"><![CDATA[1월 28일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[동양미래대학교 AWS DeepRacer League]]></title>
         <id>https://festa.io/events/2936</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2922"/>
         <updated>2022-11-26T18:05:00.362Z</updated>
         <content type="html"><![CDATA[12월 15일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오프라인/50명 무료] KOREN 기술세미나 뉴노멀시대, 디지털이 표준이다]]></title>
-        <id>https://festa.io/events/2921</id>
-        <link href="https://festa.io/events/2921"/>
-        <updated>2022-11-25T09:02:57.265Z</updated>
-        <content type="html"><![CDATA[12월 22일 (목) · 오프라인]]></content>
     </entry>
 </feed>
