@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-11-30T03:16:03.657Z</updated>
+    <updated>2022-11-30T04:07:47.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[부트캠프vs솔데스크]]></title>
+        <id>https://festa.io/events/2942</id>
+        <link href="https://festa.io/events/2942"/>
+        <updated>2022-11-30T04:07:47.150Z</updated>
+        <content type="html"><![CDATA[12월 6일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] 개발자의 강화학습]]></title>
         <id>https://festa.io/events/2937</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2925"/>
         <updated>2022-11-28T02:21:29.956Z</updated>
         <content type="html"><![CDATA[12월 13일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스위프트 코딩클럽 송년회]]></title>
-        <id>https://festa.io/events/2924</id>
-        <link href="https://festa.io/events/2924"/>
-        <updated>2022-11-27T13:14:18.038Z</updated>
-        <content type="html"><![CDATA[12월 17일 (토) · 오프라인]]></content>
     </entry>
 </feed>
