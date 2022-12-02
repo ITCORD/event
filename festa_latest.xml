@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-02T04:07:08.923Z</updated>
+    <updated>2022-12-02T05:02:23.664Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[카페24 NFT 활용 이커머스 성공전략 웨비나]]></title>
+        <id>https://festa.io/events/2947</id>
+        <link href="https://festa.io/events/2947"/>
+        <updated>2022-12-02T05:02:22.966Z</updated>
+        <content type="html"><![CDATA[12월 15일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT전문 교육기관 스나이퍼팩토리 서포터즈 1기 모집]]></title>
         <id>https://festa.io/events/2946</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2937"/>
         <updated>2022-11-29T12:10:15.474Z</updated>
         <content type="html"><![CDATA[12월 6일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[QA Korea Conference 2023]]></title>
-        <id>https://festa.io/events/2919</id>
-        <link href="https://festa.io/events/2919"/>
-        <updated>2022-11-29T09:03:00.616Z</updated>
-        <content type="html"><![CDATA[1월 28일 (토) · 온라인]]></content>
     </entry>
 </feed>
