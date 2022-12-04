@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-04T22:02:18.166Z</updated>
+    <updated>2022-12-04T23:02:07.257Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[회고콘서트, REWIND 2022]]></title>
+        <id>https://festa.io/events/2911</id>
+        <link href="https://festa.io/events/2911"/>
+        <updated>2022-12-04T23:02:06.493Z</updated>
+        <content type="html"><![CDATA[12월 8일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI와 디지털로 맞이하는 K-Beauty AI Conference (Day 2)]]></title>
         <id>https://festa.io/events/2950</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2944"/>
         <updated>2022-12-01T05:03:23.654Z</updated>
         <content type="html"><![CDATA[12월 8일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구·경북 퍼실리테이션의 밤 참여자 모집 (~12/08)]]></title>
-        <id>https://festa.io/events/2943</id>
-        <link href="https://festa.io/events/2943"/>
-        <updated>2022-11-30T11:03:00.044Z</updated>
-        <content type="html"><![CDATA[12월 10일 (토) · 오프라인]]></content>
     </entry>
 </feed>
