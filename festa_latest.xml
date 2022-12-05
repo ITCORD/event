@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-05T14:02:18.235Z</updated>
+    <updated>2022-12-05T15:03:02.894Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[청년 IT 커리어 패널 토크 by 마이크로소프트 MVPs]]></title>
+        <id>https://festa.io/events/2959</id>
+        <link href="https://festa.io/events/2959"/>
+        <updated>2022-12-05T15:03:02.270Z</updated>
+        <content type="html"><![CDATA[12월 17일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[세미나홍보] 2022년 글로벌 신산업, 신기술 세미나 제 16차 스마트팜]]></title>
         <id>https://festa.io/events/2958</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2911"/>
         <updated>2022-12-04T23:02:06.493Z</updated>
         <content type="html"><![CDATA[12월 8일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI와 디지털로 맞이하는 K-Beauty AI Conference (Day 2)]]></title>
-        <id>https://festa.io/events/2950</id>
-        <link href="https://festa.io/events/2950"/>
-        <updated>2022-12-02T08:07:44.115Z</updated>
-        <content type="html"><![CDATA[12월 7일 (수) · 오프라인]]></content>
     </entry>
 </feed>
