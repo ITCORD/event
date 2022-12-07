@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-07T05:02:18.367Z</updated>
+    <updated>2022-12-07T06:07:40.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Omniverse seminar]]></title>
+        <id>https://festa.io/events/2963</id>
+        <link href="https://festa.io/events/2963"/>
+        <updated>2022-12-07T06:07:40.458Z</updated>
+        <content type="html"><![CDATA[12월 12일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[BUSAN DATA WEEK 2022]]></title>
         <id>https://festa.io/events/2961</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2952"/>
         <updated>2022-12-05T03:06:17.151Z</updated>
         <content type="html"><![CDATA[12월 13일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카페24-YouTube 파트너십 기념] 100만 크리에이터 커머스 성공 전략 공개]]></title>
-        <id>https://festa.io/events/2951</id>
-        <link href="https://festa.io/events/2951"/>
-        <updated>2022-12-05T00:27:49.066Z</updated>
-        <content type="html"><![CDATA[12월 20일 (화) · 오프라인]]></content>
     </entry>
 </feed>
