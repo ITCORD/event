@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-11T15:02:17.555Z</updated>
+    <updated>2022-12-11T16:03:18.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료 웨비나] 좋은 데이터는 누가, 어떻게 만드는가]]></title>
+        <id>https://festa.io/events/2975</id>
+        <link href="https://festa.io/events/2975"/>
+        <updated>2022-12-11T16:03:17.420Z</updated>
+        <content type="html"><![CDATA[12월 20일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아동권리 인식 확산과 아동의 인권 보장을 위한 인천시 학부모, 일반인 대상 강연]]></title>
         <id>https://festa.io/events/2979</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2920"/>
         <updated>2022-12-08T08:07:55.320Z</updated>
         <content type="html"><![CDATA[1월 26일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Omniverse seminar]]></title>
-        <id>https://festa.io/events/2963</id>
-        <link href="https://festa.io/events/2963"/>
-        <updated>2022-12-07T06:07:40.458Z</updated>
-        <content type="html"><![CDATA[12월 12일 (월) · 오프라인]]></content>
     </entry>
 </feed>
