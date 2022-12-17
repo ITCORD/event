@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-17T08:04:25.229Z</updated>
+    <updated>2022-12-17T09:02:48.129Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[Talk&Talk] 누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처(MSA) #2편 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -47,17 +47,17 @@
         <content type="html"><![CDATA[12월 23일 (금) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2022년 해외선진기술교육 워크숍] Digital Human Evolution From 3D Graphics to AI Synthesis (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2971</id>
-        <link href="https://festa.io/events/2971"/>
-        <updated>2022-12-08T05:02:19.680Z</updated>
-        <content type="html"><![CDATA[12월 16일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Spark AR Creator Days (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2966</id>
         <link href="https://festa.io/events/2966"/>
         <updated>2022-12-15T03:12:02.662Z</updated>
         <content type="html"><![CDATA[12월 21일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Jetson 개발자 밋업 - Edge AI 마켓 : 트렌드 리뷰부터 적용 사례까지 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2920</id>
+        <link href="https://festa.io/events/2920"/>
+        <updated>2022-12-17T09:02:47.375Z</updated>
+        <content type="html"><![CDATA[1월 26일 (목) · 오프라인]]></content>
     </entry>
 </feed>
