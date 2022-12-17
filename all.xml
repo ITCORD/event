@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-17T06:03:43.870Z</updated>
+    <updated>2022-12-17T07:02:06.252Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[Talk&Talk] 누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처(MSA) #2편 (페스타 ─ 최신 밋업과 이벤트)]]></title>
