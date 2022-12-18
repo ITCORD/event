@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-18T07:02:04.165Z</updated>
+    <updated>2022-12-18T08:03:40.291Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스 무료세미나: 임베디드/IoT/서버 직장인을 위한 리눅스 커널교육]]></title>
+        <id>https://festa.io/events/2993</id>
+        <link href="https://festa.io/events/2993"/>
+        <updated>2022-12-18T08:03:39.697Z</updated>
+        <content type="html"><![CDATA[1월 11일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Talk&Talk] 누구나 쉽게 이해할 수 있는 마이크로서비스 아키텍처(MSA) #2편]]></title>
         <id>https://festa.io/events/2991</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/2966"/>
         <updated>2022-12-15T03:12:02.662Z</updated>
         <content type="html"><![CDATA[12월 21일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA Jetson 개발자 밋업 - Edge AI 마켓 : 트렌드 리뷰부터 적용 사례까지]]></title>
-        <id>https://festa.io/events/2920</id>
-        <link href="https://festa.io/events/2920"/>
-        <updated>2022-12-17T09:02:47.375Z</updated>
-        <content type="html"><![CDATA[1월 26일 (목) · 오프라인]]></content>
     </entry>
 </feed>
