@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-22T04:04:44.186Z</updated>
+    <updated>2022-12-22T05:02:51.632Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -27,7 +27,7 @@
         <content type="html"><![CDATA[12월 24일 (토) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[2기 모집중!] 업계 유일 데이터 기반의 퀀트투자를 배울 수 있는 가장 쉬운 전문가 양성 과정]]></title>
+        <title type="html"><![CDATA[두물머리 데이터 기반 퀀트 투자 전문가 - 제 2기 모집]]></title>
         <id>https://festa.io/events/2997</id>
         <link href="https://festa.io/events/2997"/>
         <updated>2022-12-19T10:07:16.230Z</updated>
