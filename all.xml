@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2022-12-25T00:30:16.294Z</updated>
+    <updated>2022-12-25T02:07:39.440Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지! #2편 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,13 +40,6 @@
         <content type="html"><![CDATA[1월 12일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[코무X윤성국핵심관계자모임]크리스마스의 패배자들(모여서각자해커톤) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/2998</id>
-        <link href="https://festa.io/events/2998"/>
-        <updated>2022-12-19T12:09:27.206Z</updated>
-        <content type="html"><![CDATA[12월 24일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[두물머리 데이터 기반 퀀트 투자 전문가 - 제 2기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/2997</id>
         <link href="https://festa.io/events/2997"/>
@@ -59,5 +52,12 @@
         <link href="https://festa.io/events/2996"/>
         <updated>2022-12-19T04:04:43.805Z</updated>
         <content type="html"><![CDATA[12월 27일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스 무료세미나: 임베디드/IoT/서버 직장인을 위한 리눅스 커널교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/2993</id>
+        <link href="https://festa.io/events/2993"/>
+        <updated>2022-12-25T02:07:38.858Z</updated>
+        <content type="html"><![CDATA[1월 11일 (수) · 온라인]]></content>
     </entry>
 </feed>
