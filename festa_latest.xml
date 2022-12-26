@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-26T07:04:10.805Z</updated>
+    <updated>2022-12-26T08:08:37.144Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[마소캠퍼스]슬기로운 겨울 특강: 데이터를 매출로 이어주는 데이터 활용법 플립러닝(실시간 강의+VOD 강의)]]></title>
+        <id>https://festa.io/events/3008</id>
+        <link href="https://festa.io/events/3008"/>
+        <updated>2022-12-26T08:08:36.371Z</updated>
+        <content type="html"><![CDATA[1월 11일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[.NET Conf 2023 x Seoul]]></title>
         <id>https://festa.io/events/2923</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3001"/>
         <updated>2022-12-21T06:07:53.916Z</updated>
         <content type="html"><![CDATA[1월 12일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[두물머리 데이터 기반 퀀트 투자 전문가 - 제 2기 모집]]></title>
-        <id>https://festa.io/events/2997</id>
-        <link href="https://festa.io/events/2997"/>
-        <updated>2022-12-19T10:07:16.230Z</updated>
-        <content type="html"><![CDATA[1월 26일 (목) · 오프라인]]></content>
     </entry>
 </feed>
