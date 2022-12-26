@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-26T05:02:38.325Z</updated>
+    <updated>2022-12-26T06:08:12.869Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[.NET Conf 2023 x Seoul]]></title>
+        <id>https://festa.io/events/2923</id>
+        <link href="https://festa.io/events/2923"/>
+        <updated>2022-12-26T06:08:12.107Z</updated>
+        <content type="html"><![CDATA[1월 19일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마소캠퍼스]슬기로운 겨울 특강: 데이터 사이언스, 디지털 마케팅, 스마트 워킹 플립러닝(실시간 강의+VOD 강의)]]></title>
+        <id>https://festa.io/events/3007</id>
+        <link href="https://festa.io/events/3007"/>
+        <updated>2022-12-26T06:08:12.110Z</updated>
+        <content type="html"><![CDATA[1월 10일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지! #2편]]></title>
         <id>https://festa.io/events/3004</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/2997"/>
         <updated>2022-12-19T10:07:16.230Z</updated>
         <content type="html"><![CDATA[1월 26일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국소프트웨어산업협회x솔데스크 무료취업예정자 교육]]></title>
-        <id>https://festa.io/events/2996</id>
-        <link href="https://festa.io/events/2996"/>
-        <updated>2022-12-19T04:04:43.805Z</updated>
-        <content type="html"><![CDATA[12월 27일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스 무료세미나: 임베디드/IoT/서버 직장인을 위한 리눅스 커널교육]]></title>
-        <id>https://festa.io/events/2993</id>
-        <link href="https://festa.io/events/2993"/>
-        <updated>2022-12-25T02:07:38.858Z</updated>
-        <content type="html"><![CDATA[1월 11일 (수) · 온라인]]></content>
     </entry>
 </feed>
