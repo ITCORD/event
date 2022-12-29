@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-29T04:06:19.394Z</updated>
+    <updated>2022-12-29T05:02:10.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Wonder 베타 테스터 모집]]></title>
+        <id>https://festa.io/events/3013</id>
+        <link href="https://festa.io/events/3013"/>
+        <updated>2022-12-29T05:02:10.262Z</updated>
+        <content type="html"><![CDATA[12월 28일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[1/12 (목)] OKR 코치 Mee-Up 2회차 / OKR 제목 잡는 방법 사례 공유]]></title>
         <id>https://festa.io/events/3010</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3002"/>
         <updated>2022-12-22T08:08:12.897Z</updated>
         <content type="html"><![CDATA[12월 22일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퀀트투자 전문가 강연 사전설명회]]></title>
-        <id>https://festa.io/events/2989</id>
-        <link href="https://festa.io/events/2989"/>
-        <updated>2022-12-29T03:03:49.886Z</updated>
-        <content type="html"><![CDATA[1월 18일 (수) · 오프라인]]></content>
     </entry>
 </feed>
