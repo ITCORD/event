@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-29T02:06:15.517Z</updated>
+    <updated>2022-12-29T03:03:50.516Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[1월 27일 (금) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지! #2편]]></title>
-        <id>https://festa.io/events/3004</id>
-        <link href="https://festa.io/events/3004"/>
-        <updated>2022-12-23T06:08:10.270Z</updated>
-        <content type="html"><![CDATA[12월 29일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[kosa]한국소프트웨어산업협회x솔데스크 무료취업예정자 교육(~12.26)]]></title>
         <id>https://festa.io/events/3003</id>
         <link href="https://festa.io/events/3003"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/3002"/>
         <updated>2022-12-22T08:08:12.897Z</updated>
         <content type="html"><![CDATA[12월 22일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퀀트투자 전문가 강연 사전설명회]]></title>
+        <id>https://festa.io/events/2989</id>
+        <link href="https://festa.io/events/2989"/>
+        <updated>2022-12-29T03:03:49.886Z</updated>
+        <content type="html"><![CDATA[1월 18일 (수) · 오프라인]]></content>
     </entry>
 </feed>
