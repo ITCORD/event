@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-30T07:02:07.357Z</updated>
+    <updated>2022-12-30T08:07:37.924Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Certificate Manager로 인증서 쉽게 관리하기]]></title>
+        <id>https://festa.io/events/3020</id>
+        <link href="https://festa.io/events/3020"/>
+        <updated>2022-12-30T08:07:37.281Z</updated>
+        <content type="html"><![CDATA[1월 5일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<무료 웨비나> 개발자 물경력 탈출 비밀 노하우]]></title>
         <id>https://festa.io/events/3017</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3006"/>
         <updated>2022-12-26T12:09:47.809Z</updated>
         <content type="html"><![CDATA[1월 27일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[kosa]한국소프트웨어산업협회x솔데스크 무료취업예정자 교육(~12.26)]]></title>
-        <id>https://festa.io/events/3003</id>
-        <link href="https://festa.io/events/3003"/>
-        <updated>2022-12-23T04:04:46.699Z</updated>
-        <content type="html"><![CDATA[12월 27일 (화) · 온라인]]></content>
     </entry>
 </feed>
