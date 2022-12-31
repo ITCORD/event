@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2022-12-31T06:03:42.959Z</updated>
+    <updated>2022-12-31T07:02:13.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료상담] 직장인 고민상담 코칭]]></title>
+        <id>https://festa.io/events/3021</id>
+        <link href="https://festa.io/events/3021"/>
+        <updated>2022-12-31T07:02:13.247Z</updated>
+        <content type="html"><![CDATA[12월 31일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Certificate Manager로 인증서 쉽게 관리하기]]></title>
         <id>https://festa.io/events/3020</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3007"/>
         <updated>2022-12-26T06:08:12.110Z</updated>
         <content type="html"><![CDATA[1월 10일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPARCS 2023 StartUp Hackathon]]></title>
-        <id>https://festa.io/events/3006</id>
-        <link href="https://festa.io/events/3006"/>
-        <updated>2022-12-26T12:09:47.809Z</updated>
-        <content type="html"><![CDATA[1월 27일 (금) · 오프라인]]></content>
     </entry>
 </feed>
