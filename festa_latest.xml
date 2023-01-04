@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-04T16:09:21.812Z</updated>
+    <updated>2023-01-04T17:08:35.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[스위프트 코딩클럽 3기]]></title>
+        <title type="html"><![CDATA[스위프트 코딩클럽 2023 1분기 활동멤버 모집]]></title>
         <id>https://festa.io/events/3040</id>
         <link href="https://festa.io/events/3040"/>
         <updated>2023-01-04T16:09:21.072Z</updated>
