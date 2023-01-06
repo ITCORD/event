@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-06T00:29:51.254Z</updated>
+    <updated>2023-01-06T02:12:16.998Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[마소캠퍼스]슬기로운 겨울 특강: 내 업무를 해결하는 데이터 분석 실무 클래스 플립러닝(실시간 강의+VOD 강의)]]></title>
+        <id>https://festa.io/events/3044</id>
+        <link href="https://festa.io/events/3044"/>
+        <updated>2023-01-06T02:12:16.395Z</updated>
+        <content type="html"><![CDATA[1월 18일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마소캠퍼스]슬기로운 겨울 특강: 통계로 한 단계 성장하는 데이터 사이언스 클래스 플립러닝(실시간 강의+VOD 강의)]]></title>
+        <id>https://festa.io/events/3043</id>
+        <link href="https://festa.io/events/3043"/>
+        <updated>2023-01-06T02:12:16.397Z</updated>
+        <content type="html"><![CDATA[1월 18일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마소캠퍼스]슬기로운 겨울 특강: 초격차 디지털 마케팅 클래스 플립러닝(실시간 강의+VOD 강의)]]></title>
+        <id>https://festa.io/events/3042</id>
+        <link href="https://festa.io/events/3042"/>
+        <updated>2023-01-06T02:12:16.399Z</updated>
+        <content type="html"><![CDATA[1월 16일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스위프트 코딩클럽 2023 1분기 활동멤버 모집]]></title>
         <id>https://festa.io/events/3040</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/3031"/>
         <updated>2023-01-04T02:08:18.085Z</updated>
         <content type="html"><![CDATA[1월 10일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperledger Meetup Korea #33 - 메타버스, STO, Hyperledger, BTC]]></title>
-        <id>https://festa.io/events/3032</id>
-        <link href="https://festa.io/events/3032"/>
-        <updated>2023-01-03T16:06:42.831Z</updated>
-        <content type="html"><![CDATA[1월 12일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[솔데스크]멀티 클라우드 Azure_MS . AWS 취업무료교육_25.26기(~02.07)]]></title>
-        <id>https://festa.io/events/3028</id>
-        <link href="https://festa.io/events/3028"/>
-        <updated>2023-01-03T04:03:36.323Z</updated>
-        <content type="html"><![CDATA[1월 17일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오피스빅뱅 - 협업툴로 2배 목표 키우기 2023]]></title>
-        <id>https://festa.io/events/3027</id>
-        <link href="https://festa.io/events/3027"/>
-        <updated>2023-01-03T00:28:11.983Z</updated>
-        <content type="html"><![CDATA[1월 13일 (금) · 오프라인]]></content>
     </entry>
 </feed>
