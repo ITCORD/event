@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-09T05:02:36.345Z</updated>
+    <updated>2023-01-09T06:07:59.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[솔데스크]CAL일본취업 채용확정자 교육_23년 상반기]]></title>
+        <id>https://festa.io/events/3049</id>
+        <link href="https://festa.io/events/3049"/>
+        <updated>2023-01-09T06:07:58.703Z</updated>
+        <content type="html"><![CDATA[2월 28일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<앵콜 무료 웨비나> 개발자 물경력 탈출 비밀 노하우]]></title>
         <id>https://festa.io/events/3047</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3038"/>
         <updated>2023-01-04T10:04:39.482Z</updated>
         <content type="html"><![CDATA[1월 11일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KCDMA 오픈 세미나] 작은 회사가 물건을 파는 방법 '브랜디드 콘텐츠']]></title>
-        <id>https://festa.io/events/3036</id>
-        <link href="https://festa.io/events/3036"/>
-        <updated>2023-01-04T09:03:13.813Z</updated>
-        <content type="html"><![CDATA[1월 18일 (수) · 온라인]]></content>
     </entry>
 </feed>
