@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-10T13:15:21.464Z</updated>
+    <updated>2023-01-10T14:05:40.302Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 1월 모임]]></title>
+        <id>https://festa.io/events/3058</id>
+        <link href="https://festa.io/events/3058"/>
+        <updated>2023-01-10T14:05:39.733Z</updated>
+        <content type="html"><![CDATA[1월 30일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지 올인원 부트캠프! 엘리스 SW4기 모집]]></title>
         <id>https://festa.io/events/3051</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3042"/>
         <updated>2023-01-06T02:12:16.399Z</updated>
         <content type="html"><![CDATA[1월 16일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스위프트 코딩클럽 2023 1분기 활동멤버 모집]]></title>
-        <id>https://festa.io/events/3040</id>
-        <link href="https://festa.io/events/3040"/>
-        <updated>2023-01-04T16:09:21.072Z</updated>
-        <content type="html"><![CDATA[2월 4일 (토) · 온라인]]></content>
     </entry>
 </feed>
