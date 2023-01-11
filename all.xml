@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-11T07:02:42.177Z</updated>
+    <updated>2023-01-11T08:08:53.528Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[데이터 속도, 확장성, 유용성, 단순성의 새로운 시대! Elastic Search를 만나보세요 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3060</id>
+        <link href="https://festa.io/events/3060"/>
+        <updated>2023-01-11T08:08:52.814Z</updated>
+        <content type="html"><![CDATA[1월 19일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[월간 네이버웍스] EP.9 : 네이버웍스 관리자 마스터 (Admin A to Z) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3061</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/3044</id>
         <link href="https://festa.io/events/3044"/>
         <updated>2023-01-06T02:12:16.395Z</updated>
-        <content type="html"><![CDATA[1월 18일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마소캠퍼스]슬기로운 겨울 특강: 통계로 한 단계 성장하는 데이터 사이언스 클래스 플립러닝(실시간 강의+VOD 강의) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3043</id>
-        <link href="https://festa.io/events/3043"/>
-        <updated>2023-01-06T02:12:16.397Z</updated>
         <content type="html"><![CDATA[1월 18일 (수) · 온라인]]></content>
     </entry>
 </feed>
