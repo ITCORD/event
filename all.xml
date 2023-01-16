@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-16T07:02:30.050Z</updated>
+    <updated>2023-01-16T08:08:52.004Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023 BUNNYTHON[0] (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -23,6 +23,13 @@
         <id>https://festa.io/events/3061</id>
         <link href="https://festa.io/events/3061"/>
         <updated>2023-01-11T07:02:41.505Z</updated>
+        <content type="html"><![CDATA[1월 31일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[춘’s 티키테크] AWS & LG CNS’s Pick! ’23년 AWS 핵심 서비스 4가지 (feat. Lambda, EKS 등) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3057</id>
+        <link href="https://festa.io/events/3057"/>
+        <updated>2023-01-16T08:08:51.444Z</updated>
         <content type="html"><![CDATA[1월 31일 (화) · 온라인]]></content>
     </entry>
     <entry>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3049"/>
         <updated>2023-01-09T06:07:58.703Z</updated>
         <content type="html"><![CDATA[2월 28일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마소캠퍼스]슬기로운 겨울 특강: 내 업무를 해결하는 데이터 분석 실무 클래스 플립러닝(실시간 강의+VOD 강의) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3044</id>
-        <link href="https://festa.io/events/3044"/>
-        <updated>2023-01-06T02:12:16.395Z</updated>
-        <content type="html"><![CDATA[1월 18일 (수) · 온라인]]></content>
     </entry>
 </feed>
