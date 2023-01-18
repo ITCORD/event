@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-01-18T19:02:49.436Z</updated>
+    <updated>2023-01-18T20:03:27.736Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[춘’s 티키테크] AWS & LG CNS’s Pick! ’23년 AWS 핵심 서비스 4가지 (feat. Lambda, EKS 등) (페스타 ─ 최신 밋업과 이벤트)]]></title>
