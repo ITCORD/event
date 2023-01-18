@@ -2,14 +2,14 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-18T05:03:00.896Z</updated>
+    <updated>2023-01-18T06:07:59.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[[춘’s 티키테크] AWS & LG CNS’s Pick! ’23년 AWS 핵심 서비스 4가지 (feat. Lambda, EKS 등)]]></title>
-        <id>https://festa.io/events/3064</id>
-        <link href="https://festa.io/events/3064"/>
-        <updated>2023-01-17T05:03:19.190Z</updated>
+        <title type="html"><![CDATA[[솔데스크]멀티 클라우드 Azure_MS . AWS 취업무료교육_25.26기(~02.07)]]></title>
+        <id>https://festa.io/events/3065</id>
+        <link href="https://festa.io/events/3065"/>
+        <updated>2023-01-18T06:07:59.020Z</updated>
         <content type="html"><![CDATA[1월 31일 (화) · 온라인]]></content>
     </entry>
     <entry>
