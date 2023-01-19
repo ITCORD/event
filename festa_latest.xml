@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-19T08:08:22.465Z</updated>
+    <updated>2023-01-19T09:03:33.695Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] 커뮤니티로 AI 필드 스며들기 : 실전가이드]]></title>
+        <id>https://festa.io/events/3070</id>
+        <link href="https://festa.io/events/3070"/>
+        <updated>2023-01-19T09:03:33.131Z</updated>
+        <content type="html"><![CDATA[1월 31일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사내 독서모임]]></title>
         <id>https://festa.io/events/3073</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3035"/>
         <updated>2023-01-13T12:17:06.727Z</updated>
         <content type="html"><![CDATA[1월 26일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[월간 네이버웍스] EP.9 : 네이버웍스 관리자 마스터 (Admin A to Z)]]></title>
-        <id>https://festa.io/events/3061</id>
-        <link href="https://festa.io/events/3061"/>
-        <updated>2023-01-11T07:02:41.505Z</updated>
-        <content type="html"><![CDATA[1월 31일 (화) · 온라인]]></content>
     </entry>
 </feed>
