@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-19T02:14:51.948Z</updated>
+    <updated>2023-01-19T03:09:52.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[1월 26일 (목) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[데이터 속도, 확장성, 유용성, 단순성의 새로운 시대! Elastic Search를 만나보세요]]></title>
-        <id>https://festa.io/events/3060</id>
-        <link href="https://festa.io/events/3060"/>
-        <updated>2023-01-11T08:08:52.814Z</updated>
-        <content type="html"><![CDATA[1월 19일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[월간 네이버웍스] EP.9 : 네이버웍스 관리자 마스터 (Admin A to Z)]]></title>
         <id>https://festa.io/events/3061</id>
         <link href="https://festa.io/events/3061"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/3058"/>
         <updated>2023-01-10T14:05:39.733Z</updated>
         <content type="html"><![CDATA[1월 30일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지 올인원 부트캠프! 엘리스 SW4기 모집]]></title>
+        <id>https://festa.io/events/3051</id>
+        <link href="https://festa.io/events/3051"/>
+        <updated>2023-01-19T03:09:51.826Z</updated>
+        <content type="html"><![CDATA[1월 9일 (월) · 온라인]]></content>
     </entry>
 </feed>
