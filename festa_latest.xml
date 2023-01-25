@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-25T11:02:30.985Z</updated>
+    <updated>2023-01-25T12:10:41.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -11,13 +11,6 @@
         <link href="https://festa.io/events/3086"/>
         <updated>2023-01-24T06:07:40.699Z</updated>
         <content type="html"><![CDATA[2월 14일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<앵콜 무료 웨비나> 개발자 물경력 탈출 비밀 노하우]]></title>
-        <id>https://festa.io/events/3079</id>
-        <link href="https://festa.io/events/3079"/>
-        <updated>2023-01-20T10:04:02.461Z</updated>
-        <content type="html"><![CDATA[1월 25일 (수) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지 #2편]]></title>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/3063"/>
         <updated>2023-01-17T02:09:41.056Z</updated>
         <content type="html"><![CDATA[3월 26일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[{모집마감}2023 BUNNYTHON[0]]]></title>
+        <id>https://festa.io/events/3035</id>
+        <link href="https://festa.io/events/3035"/>
+        <updated>2023-01-25T12:10:41.150Z</updated>
+        <content type="html"><![CDATA[1월 26일 (목) · 오프라인]]></content>
     </entry>
 </feed>
