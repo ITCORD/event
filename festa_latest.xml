@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-26T04:05:24.731Z</updated>
+    <updated>2023-01-26T05:02:33.944Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Data Forest & AI Forest로 빅데이터 분석부터 머신러닝까지 #1편]]></title>
+        <id>https://festa.io/events/3092</id>
+        <link href="https://festa.io/events/3092"/>
+        <updated>2023-01-26T05:02:33.330Z</updated>
+        <content type="html"><![CDATA[2월 2일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액지원] 백엔드 기반 웹개발 전문 교육]]></title>
         <id>https://festa.io/events/3091</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3065"/>
         <updated>2023-01-18T06:07:59.020Z</updated>
         <content type="html"><![CDATA[1월 31일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 1회 정기 세미나 by iOS Daejeon Club]]></title>
-        <id>https://festa.io/events/3063</id>
-        <link href="https://festa.io/events/3063"/>
-        <updated>2023-01-17T02:09:41.056Z</updated>
-        <content type="html"><![CDATA[3월 26일 (일) · 오프라인]]></content>
     </entry>
 </feed>
