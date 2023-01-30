@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-01-30T11:02:39.399Z</updated>
+    <updated>2023-01-30T12:10:14.879Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ITMONEY 직무 멘토링]]></title>
+        <id>https://festa.io/events/3107</id>
+        <link href="https://festa.io/events/3107"/>
+        <updated>2023-01-30T12:10:14.156Z</updated>
+        <content type="html"><![CDATA[2월 25일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비전공자를 위한 자바스크립트 풀스택 개발자 무료 교육과정]]></title>
         <id>https://festa.io/events/3106</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3091"/>
         <updated>2023-01-26T03:03:15.183Z</updated>
         <content type="html"><![CDATA[2월 22일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액지원] 빅데이터 분석 교육을 찾고 있다면 ?]]></title>
-        <id>https://festa.io/events/3090</id>
-        <link href="https://festa.io/events/3090"/>
-        <updated>2023-01-26T03:03:15.185Z</updated>
-        <content type="html"><![CDATA[2월 7일 (화) · 오프라인]]></content>
     </entry>
 </feed>
