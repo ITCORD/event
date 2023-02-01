@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T12:10:21.032Z</updated>
+    <updated>2023-02-01T13:15:42.669Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] 구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax (페스타 ─ 최신 밋업과 이벤트)]]></title>
