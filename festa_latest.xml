@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-01T04:07:30.507Z</updated>
+    <updated>2023-02-01T05:02:30.075Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 2월 모임]]></title>
+        <id>https://festa.io/events/3115</id>
+        <link href="https://festa.io/events/3115"/>
+        <updated>2023-02-01T05:02:29.483Z</updated>
+        <content type="html"><![CDATA[2월 27일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TypeScript로 기초부터 현업까지 웹개발 무게중심 클래스]]></title>
         <id>https://festa.io/events/3114</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3103"/>
         <updated>2023-01-30T13:17:16.847Z</updated>
         <content type="html"><![CDATA[2월 8일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[솔데스크]x고용노동부 자바웹개발자 취업반]]></title>
-        <id>https://festa.io/events/3102</id>
-        <link href="https://festa.io/events/3102"/>
-        <updated>2023-01-30T03:03:58.326Z</updated>
-        <content type="html"><![CDATA[2월 21일 (화) · 온라인]]></content>
     </entry>
 </feed>
