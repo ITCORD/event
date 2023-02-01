@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-01T09:03:46.592Z</updated>
+    <updated>2023-02-01T10:03:27.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] 구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3118</id>
+        <link href="https://festa.io/events/3118"/>
+        <updated>2023-02-01T10:03:26.254Z</updated>
+        <content type="html"><![CDATA[2월 7일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 성빈랜드 컨퍼런스 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3117</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3112"/>
         <updated>2023-01-31T16:06:27.764Z</updated>
         <content type="html"><![CDATA[2월 25일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Korea 2023 2월 Meet-Up (1/6) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3105</id>
-        <link href="https://festa.io/events/3105"/>
-        <updated>2023-01-30T13:17:16.845Z</updated>
-        <content type="html"><![CDATA[2월 11일 (토) · 오프라인]]></content>
     </entry>
 </feed>
