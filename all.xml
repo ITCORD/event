@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-02T10:04:34.524Z</updated>
+    <updated>2023-02-02T11:03:09.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[하루만에 AI 실습 프로젝트 찍먹하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3126</id>
+        <link href="https://festa.io/events/3126"/>
+        <updated>2023-02-02T11:03:08.693Z</updated>
+        <content type="html"><![CDATA[2월 10일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지 올인원 부트캠프! 엘리스 AI 7기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3123</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3111"/>
         <updated>2023-02-01T06:08:44.079Z</updated>
         <content type="html"><![CDATA[2월 27일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데이터 속도, 확장성, 유용성, 단순성의 새로운 시대! Elastic Search를 만나보세요. (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3116</id>
-        <link href="https://festa.io/events/3116"/>
-        <updated>2023-02-01T06:08:44.079Z</updated>
-        <content type="html"><![CDATA[2월 9일 (목) · 온라인]]></content>
     </entry>
 </feed>
