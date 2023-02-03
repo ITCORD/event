@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-03T07:02:18.346Z</updated>
+    <updated>2023-02-03T08:08:12.752Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[특별세미나]AI 기초 개념부터 커리어 탐색까지]]></title>
+        <id>https://festa.io/events/3122</id>
+        <link href="https://festa.io/events/3122"/>
+        <updated>2023-02-03T08:08:12.127Z</updated>
+        <content type="html"><![CDATA[2월 9일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[대구 듀니콘 파티]]></title>
         <id>https://festa.io/events/3130</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3119"/>
         <updated>2023-02-01T15:03:36.495Z</updated>
         <content type="html"><![CDATA[2월 9일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] 구글과 HuggingFace에서 밀고 있는 고성능 딥러닝 프레임워크 : JAX/Flax]]></title>
-        <id>https://festa.io/events/3118</id>
-        <link href="https://festa.io/events/3118"/>
-        <updated>2023-02-01T10:03:26.254Z</updated>
-        <content type="html"><![CDATA[2월 7일 (화) · 오프라인]]></content>
     </entry>
 </feed>
