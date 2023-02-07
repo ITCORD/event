@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-07T06:08:24.041Z</updated>
+    <updated>2023-02-07T07:03:19.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 비즈니스 트렌드 전망 [빨간토끼, 트렌드를 묻다]]]></title>
+        <id>https://festa.io/events/3143</id>
+        <link href="https://festa.io/events/3143"/>
+        <updated>2023-02-07T07:03:18.829Z</updated>
+        <content type="html"><![CDATA[2월 15일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[LIVE/무료] 스타트업과 적정기술 : 성공적으로 신기술을 도입하는 법]]></title>
         <id>https://festa.io/events/3142</id>
@@ -39,13 +46,6 @@
         <link href="https://festa.io/events/3067"/>
         <updated>2023-02-04T02:06:14.365Z</updated>
         <content type="html"><![CDATA[2월 15일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대구 듀니콘 파티]]></title>
-        <id>https://festa.io/events/3130</id>
-        <link href="https://festa.io/events/3130"/>
-        <updated>2023-02-03T03:11:23.821Z</updated>
-        <content type="html"><![CDATA[2월 8일 (수) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Hyperledger Meetup Korea #34 - Brand NFT, STO]]></title>
