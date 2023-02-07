@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-07T00:30:25.324Z</updated>
+    <updated>2023-02-07T02:08:15.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GitHub Universe Recap Webinar]]></title>
+        <id>https://festa.io/events/3139</id>
+        <link href="https://festa.io/events/3139"/>
+        <updated>2023-02-07T02:08:14.800Z</updated>
+        <content type="html"><![CDATA[2월 23일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TCN meetup 2023.02]]></title>
         <id>https://festa.io/events/3099</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/3123</id>
         <link href="https://festa.io/events/3123"/>
         <updated>2023-02-02T08:08:07.472Z</updated>
-        <content type="html"><![CDATA[2월 9일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마감임박] 실무 개발 프로젝트부터 채용 매칭까지 올인원 부트캠프! 엘리스 SW4기 모집]]></title>
-        <id>https://festa.io/events/3124</id>
-        <link href="https://festa.io/events/3124"/>
-        <updated>2023-02-02T08:08:07.473Z</updated>
         <content type="html"><![CDATA[2월 9일 (목) · 온라인]]></content>
     </entry>
 </feed>
