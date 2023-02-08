@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-08T09:03:13.318Z</updated>
+    <updated>2023-02-08T10:07:13.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우드로 쉽게 만드는 AI 고객센터 CLOVA AiCall]]></title>
+        <id>https://festa.io/events/3150</id>
+        <link href="https://festa.io/events/3150"/>
+        <updated>2023-02-08T10:07:12.672Z</updated>
+        <content type="html"><![CDATA[2월 16일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[⏰마감임박!]🚀개발자 부트캠프, 엘리스 SW 트랙 4기 모집👉들어올 땐 취준생 나갈 땐 개발자 되고 싶다면 지금 바로 합류하세요!]]></title>
+        <id>https://festa.io/events/3149</id>
+        <link href="https://festa.io/events/3149"/>
+        <updated>2023-02-08T10:07:12.673Z</updated>
+        <content type="html"><![CDATA[2월 27일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[⏰마감임박!]🚀개발자 부트캠프, 엘리스 AI 트랙 7기 모집👉들어올 땐 취준생 나갈 땐 개발자 되고 싶다면 지금 바로 합류하세요!]]></title>
+        <id>https://festa.io/events/3148</id>
+        <link href="https://festa.io/events/3148"/>
+        <updated>2023-02-08T10:07:12.674Z</updated>
+        <content type="html"><![CDATA[2월 26일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 스타트업 스케일업(Scale-up) 챌린지]]></title>
         <id>https://festa.io/events/3147</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/3142"/>
         <updated>2023-02-07T14:02:39.164Z</updated>
         <content type="html"><![CDATA[2월 15일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Universe Recap Webinar]]></title>
-        <id>https://festa.io/events/3139</id>
-        <link href="https://festa.io/events/3139"/>
-        <updated>2023-02-07T14:02:39.180Z</updated>
-        <content type="html"><![CDATA[2월 23일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCN meetup 2023.02]]></title>
-        <id>https://festa.io/events/3099</id>
-        <link href="https://festa.io/events/3099"/>
-        <updated>2023-02-07T14:02:39.182Z</updated>
-        <content type="html"><![CDATA[2월 15일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무료 파이썬 교육]]></title>
-        <id>https://festa.io/events/3136</id>
-        <link href="https://festa.io/events/3136"/>
-        <updated>2023-02-07T14:02:39.184Z</updated>
-        <content type="html"><![CDATA[2월 6일 (월) · 온라인]]></content>
     </entry>
 </feed>
