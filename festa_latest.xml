@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-08T02:15:18.138Z</updated>
+    <updated>2023-02-08T03:10:35.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] 메타버스와 교육]]></title>
+        <id>https://festa.io/events/3146</id>
+        <link href="https://festa.io/events/3146"/>
+        <updated>2023-02-08T03:10:34.619Z</updated>
+        <content type="html"><![CDATA[2월 14일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[iOS - SKAdNetwork 전략 가이드 (아드리엘 아카데미 #5)]]></title>
+        <id>https://festa.io/events/3120</id>
+        <link href="https://festa.io/events/3120"/>
+        <updated>2023-02-08T03:10:34.621Z</updated>
+        <content type="html"><![CDATA[2월 15일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 비즈니스 트렌드 전망 [빨간토끼, 트렌드를 묻다]]]></title>
         <id>https://festa.io/events/3143</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3067"/>
         <updated>2023-02-07T14:02:39.191Z</updated>
         <content type="html"><![CDATA[2월 15일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Hyperledger Meetup Korea #34 - Brand NFT, STO]]></title>
-        <id>https://festa.io/events/3127</id>
-        <link href="https://festa.io/events/3127"/>
-        <updated>2023-02-07T14:02:39.192Z</updated>
-        <content type="html"><![CDATA[2월 14일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루만에 AI 실습 프로젝트 찍먹하기]]></title>
-        <id>https://festa.io/events/3126</id>
-        <link href="https://festa.io/events/3126"/>
-        <updated>2023-02-07T14:02:39.194Z</updated>
-        <content type="html"><![CDATA[2월 10일 (금) · 오프라인]]></content>
     </entry>
 </feed>
