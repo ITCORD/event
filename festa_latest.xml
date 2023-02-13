@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-13T05:03:19.865Z</updated>
+    <updated>2023-02-13T06:08:37.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자바(Java)&안드로이드 개발자 양성과정 ▶ 04월05일 개강]]></title>
+        <id>https://festa.io/events/3160</id>
+        <link href="https://festa.io/events/3160"/>
+        <updated>2023-02-13T06:08:37.334Z</updated>
+        <content type="html"><![CDATA[4월 5일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[솔데스크[CCIE-SP 시험대비반 할인 프로모션]]></title>
+        <id>https://festa.io/events/3159</id>
+        <link href="https://festa.io/events/3159"/>
+        <updated>2023-02-13T06:08:37.335Z</updated>
+        <content type="html"><![CDATA[3월 12일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소주콘 Shot 3 : 처음처럼 새로 소주 - 2023에 새로 한잔!]]></title>
         <id>https://festa.io/events/3151</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3149"/>
         <updated>2023-02-08T10:07:12.673Z</updated>
         <content type="html"><![CDATA[2월 27일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[⏰마감임박!]🚀개발자 부트캠프, 엘리스 AI 트랙 7기 모집👉들어올 땐 취준생 나갈 땐 개발자 되고 싶다면 지금 바로 합류하세요!]]></title>
-        <id>https://festa.io/events/3148</id>
-        <link href="https://festa.io/events/3148"/>
-        <updated>2023-02-08T10:07:12.674Z</updated>
-        <content type="html"><![CDATA[2월 26일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 스타트업 스케일업(Scale-up) 챌린지]]></title>
-        <id>https://festa.io/events/3147</id>
-        <link href="https://festa.io/events/3147"/>
-        <updated>2023-02-08T04:06:56.128Z</updated>
-        <content type="html"><![CDATA[2월 21일 (화) · 오프라인]]></content>
     </entry>
 </feed>
