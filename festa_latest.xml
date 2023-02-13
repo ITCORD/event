@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-13T07:03:17.117Z</updated>
+    <updated>2023-02-13T08:09:00.591Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] StableDiffusion과 ChatGPT]]></title>
+        <id>https://festa.io/events/3163</id>
+        <link href="https://festa.io/events/3163"/>
+        <updated>2023-02-13T08:09:00.004Z</updated>
+        <content type="html"><![CDATA[3월 7일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[선배가 알려주는 아이펠(AIFFEL) 학습부터 취업까지!]]></title>
+        <id>https://festa.io/events/3161</id>
+        <link href="https://festa.io/events/3161"/>
+        <updated>2023-02-13T08:09:00.005Z</updated>
+        <content type="html"><![CDATA[2월 16일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자바(Java)&안드로이드 개발자 양성과정 ▶ 04월05일 개강]]></title>
         <id>https://festa.io/events/3160</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3153"/>
         <updated>2023-02-10T07:02:32.092Z</updated>
         <content type="html"><![CDATA[2월 17일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우드로 쉽게 만드는 AI 고객센터 CLOVA AiCall]]></title>
-        <id>https://festa.io/events/3150</id>
-        <link href="https://festa.io/events/3150"/>
-        <updated>2023-02-08T10:07:12.672Z</updated>
-        <content type="html"><![CDATA[2월 16일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[⏰마감임박!]🚀개발자 부트캠프, 엘리스 SW 트랙 4기 모집👉들어올 땐 취준생 나갈 땐 개발자 되고 싶다면 지금 바로 합류하세요!]]></title>
-        <id>https://festa.io/events/3149</id>
-        <link href="https://festa.io/events/3149"/>
-        <updated>2023-02-08T10:07:12.673Z</updated>
-        <content type="html"><![CDATA[2월 27일 (월) · 온라인]]></content>
     </entry>
 </feed>
