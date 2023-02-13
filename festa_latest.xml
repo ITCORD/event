@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-13T04:08:12.321Z</updated>
+    <updated>2023-02-13T05:03:19.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[소주콘 Shot 3 : 처음처럼 새로 소주 - 2023에 새로 한잔!]]></title>
+        <id>https://festa.io/events/3151</id>
+        <link href="https://festa.io/events/3151"/>
+        <updated>2023-02-13T05:03:15.177Z</updated>
+        <content type="html"><![CDATA[2월 28일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애자일 코리아 밋업 2월 "애자일 프레이밍(Agile Framing)"]]></title>
         <id>https://festa.io/events/3157</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3147"/>
         <updated>2023-02-08T04:06:56.128Z</updated>
         <content type="html"><![CDATA[2월 21일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] 메타버스와 교육]]></title>
-        <id>https://festa.io/events/3146</id>
-        <link href="https://festa.io/events/3146"/>
-        <updated>2023-02-08T03:10:34.619Z</updated>
-        <content type="html"><![CDATA[2월 14일 (화) · 오프라인]]></content>
     </entry>
 </feed>
