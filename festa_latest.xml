@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-14T05:03:23.908Z</updated>
+    <updated>2023-02-14T06:08:46.139Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[선배가 알려주는 아이펠(AIFFEL) 학습부터 취업까지!]]></title>
+        <id>https://festa.io/events/3161</id>
+        <link href="https://festa.io/events/3161"/>
+        <updated>2023-02-14T06:08:45.487Z</updated>
+        <content type="html"><![CDATA[2월 20일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 Flutter 앱 개발 과정 수강생 모집]]></title>
         <id>https://festa.io/events/3166</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3157"/>
         <updated>2023-02-12T14:02:42.540Z</updated>
         <content type="html"><![CDATA[2월 22일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이썬의 ㅍ부터 탄탄하게 파이썬 무게중심 클래스 기초편]]></title>
-        <id>https://festa.io/events/3156</id>
-        <link href="https://festa.io/events/3156"/>
-        <updated>2023-02-12T13:13:15.928Z</updated>
-        <content type="html"><![CDATA[3월 4일 (토) · 온라인]]></content>
     </entry>
 </feed>
