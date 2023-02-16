@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-16T04:08:07.048Z</updated>
+    <updated>2023-02-16T05:03:19.260Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[Solutions Showcase] 게임 개발자와 이용자 모두를 위한 모바일 게임 보안 서비스, 앱실링 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3175</id>
+        <link href="https://festa.io/events/3175"/>
+        <updated>2023-02-16T05:03:18.513Z</updated>
+        <content type="html"><![CDATA[2월 23일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] 빨리 뛰어서 딥러닝 속으로 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3170</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3160"/>
         <updated>2023-02-13T06:08:37.334Z</updated>
         <content type="html"><![CDATA[4월 5일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[솔데스크[CCIE-SP 시험대비반 할인 프로모션 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3159</id>
-        <link href="https://festa.io/events/3159"/>
-        <updated>2023-02-13T06:08:37.335Z</updated>
-        <content type="html"><![CDATA[3월 12일 (일) · 온라인]]></content>
     </entry>
 </feed>
