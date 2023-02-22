@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-22T06:08:46.999Z</updated>
+    <updated>2023-02-22T07:03:19.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[streamlit으로 구현한 데이터 대시보드를 네이버 클라우드 서비스로 운영해 보기 (입문)]]></title>
+        <id>https://festa.io/events/3193</id>
+        <link href="https://festa.io/events/3193"/>
+        <updated>2023-02-22T07:03:18.992Z</updated>
+        <content type="html"><![CDATA[3월 11일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT전문 교육기관 스나이퍼팩토리 대학생 디자이너 모집]]></title>
         <id>https://festa.io/events/3187</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3166"/>
         <updated>2023-02-14T02:16:24.032Z</updated>
         <content type="html"><![CDATA[3월 22일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab Korea 밋업 #14 - 깃랩의 방향성에 대한 리뷰]]></title>
-        <id>https://festa.io/events/3164</id>
-        <link href="https://festa.io/events/3164"/>
-        <updated>2023-02-13T14:03:05.546Z</updated>
-        <content type="html"><![CDATA[2월 28일 (화) · 온라인]]></content>
     </entry>
 </feed>
