@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-24T23:02:33.781Z</updated>
+    <updated>2023-02-25T00:30:59.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CloudCon in GO]]></title>
+        <id>https://festa.io/events/3199</id>
+        <link href="https://festa.io/events/3199"/>
+        <updated>2023-02-25T00:30:58.960Z</updated>
+        <content type="html"><![CDATA[3월 11일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제로 to 백 웨비나👩‍💻 | 제로트러스트로 백프로 안전한 사내 인프라 구축하기]]></title>
         <id>https://festa.io/events/3195</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3176"/>
         <updated>2023-02-16T09:03:57.667Z</updated>
         <content type="html"><![CDATA[3월 11일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Global AI Bootcamp - Busan!]]></title>
-        <id>https://festa.io/events/3168</id>
-        <link href="https://festa.io/events/3168"/>
-        <updated>2023-02-15T06:08:39.815Z</updated>
-        <content type="html"><![CDATA[3월 3일 (금) · 오프라인]]></content>
     </entry>
 </feed>
