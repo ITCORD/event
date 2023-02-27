@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-02-27T05:03:16.807Z</updated>
+    <updated>2023-02-27T06:09:35.825Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[KCDMA 아카데미] Customer Analytics & Strategy Part I (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3202</id>
+        <link href="https://festa.io/events/3202"/>
+        <updated>2023-02-27T06:09:35.091Z</updated>
+        <content type="html"><![CDATA[3월 24일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CloudCon in GO (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3199</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3176"/>
         <updated>2023-02-16T09:03:57.667Z</updated>
         <content type="html"><![CDATA[3월 11일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Global AI Bootcamp - Busan! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3168</id>
-        <link href="https://festa.io/events/3168"/>
-        <updated>2023-02-25T04:07:31.325Z</updated>
-        <content type="html"><![CDATA[3월 3일 (금) · 오프라인]]></content>
     </entry>
 </feed>
