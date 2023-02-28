@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-02-28T02:15:23.847Z</updated>
+    <updated>2023-02-28T03:12:30.188Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[LIVE/무료] 기술 부채를 바라보는 다른 시각]]></title>
+        <id>https://festa.io/events/3204</id>
+        <link href="https://festa.io/events/3204"/>
+        <updated>2023-02-28T03:12:29.473Z</updated>
+        <content type="html"><![CDATA[3월 8일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KCDMA 아카데미] Customer Analytics & Strategy Part I]]></title>
         <id>https://festa.io/events/3202</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3176"/>
         <updated>2023-02-16T09:03:57.667Z</updated>
         <content type="html"><![CDATA[3월 11일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 Global AI Bootcamp - Busan!]]></title>
-        <id>https://festa.io/events/3168</id>
-        <link href="https://festa.io/events/3168"/>
-        <updated>2023-02-27T12:10:53.962Z</updated>
-        <content type="html"><![CDATA[3월 3일 (금) · 오프라인]]></content>
     </entry>
 </feed>
