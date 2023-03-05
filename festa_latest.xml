@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-05T07:02:46.035Z</updated>
+    <updated>2023-03-05T08:08:11.074Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[파이토치 한국 사용자 모임 제2회 세미나]]></title>
+        <id>https://festa.io/events/3220</id>
+        <link href="https://festa.io/events/3220"/>
+        <updated>2023-03-05T08:08:10.196Z</updated>
+        <content type="html"><![CDATA[3월 18일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우분투한국커뮤니티 2023 정기총회(겸 세미나)]]></title>
         <id>https://festa.io/events/3216</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3199"/>
         <updated>2023-02-25T00:30:58.960Z</updated>
         <content type="html"><![CDATA[3월 11일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제로 to 백 웨비나👩‍💻 | 제로트러스트로 백프로 안전한 사내 인프라 구축하기]]></title>
-        <id>https://festa.io/events/3195</id>
-        <link href="https://festa.io/events/3195"/>
-        <updated>2023-02-24T02:13:45.591Z</updated>
-        <content type="html"><![CDATA[3월 14일 (화) · 온라인]]></content>
     </entry>
 </feed>
