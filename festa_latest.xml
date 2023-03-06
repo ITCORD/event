@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-06T05:03:32.488Z</updated>
+    <updated>2023-03-06T06:09:18.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<무료 웨비나> SI 탈출용 백엔드 학습 공략집]]></title>
+        <id>https://festa.io/events/3224</id>
+        <link href="https://festa.io/events/3224"/>
+        <updated>2023-03-06T06:09:17.375Z</updated>
+        <content type="html"><![CDATA[3월 9일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Charming Swift : iOS 스터터들의 Hello World부터 앱 출시까지!]]></title>
         <id>https://festa.io/events/3218</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3204"/>
         <updated>2023-02-28T03:12:29.473Z</updated>
         <content type="html"><![CDATA[3월 8일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KCDMA 아카데미] Customer Analytics & Strategy Part I]]></title>
-        <id>https://festa.io/events/3202</id>
-        <link href="https://festa.io/events/3202"/>
-        <updated>2023-02-27T06:09:35.091Z</updated>
-        <content type="html"><![CDATA[3월 24일 (금) · 오프라인]]></content>
     </entry>
 </feed>
