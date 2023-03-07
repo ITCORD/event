@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-07T11:02:38.289Z</updated>
+    <updated>2023-03-07T12:11:40.255Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[카카오브레인] AI 이미지 생성&편집 서비스 'B^ EDIT' 오픈 베타 이벤트]]></title>
+        <id>https://festa.io/events/3229</id>
+        <link href="https://festa.io/events/3229"/>
+        <updated>2023-03-07T12:11:39.501Z</updated>
+        <content type="html"><![CDATA[3월 6일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[텐서플로우. 리눅스. 도커 쿠버네티스 아마존AWS 재직자무료교육]]></title>
         <id>https://festa.io/events/3228</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3220"/>
         <updated>2023-03-05T08:08:10.196Z</updated>
         <content type="html"><![CDATA[3월 18일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우분투한국커뮤니티 2023 정기총회(겸 세미나)]]></title>
-        <id>https://festa.io/events/3216</id>
-        <link href="https://festa.io/events/3216"/>
-        <updated>2023-03-04T09:03:03.312Z</updated>
-        <content type="html"><![CDATA[3월 25일 (토) · 오프라인]]></content>
     </entry>
 </feed>
