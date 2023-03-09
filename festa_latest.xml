@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-09T05:03:28.237Z</updated>
+    <updated>2023-03-09T06:08:57.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[KIC캠퍼스] 백엔드 & 빅데이터 분석과정 개강 ▶ 04월 26일 개강]]></title>
+        <id>https://festa.io/events/3238</id>
+        <link href="https://festa.io/events/3238"/>
+        <updated>2023-03-09T06:08:57.348Z</updated>
+        <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[온라인] 2023년 Flutter 앱 개발 과정 수강생 모집]]></title>
         <id>https://festa.io/events/3237</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3226"/>
         <updated>2023-03-07T06:08:44.307Z</updated>
         <content type="html"><![CDATA[4월 5일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Product Fine Tuners' Networking Party]]></title>
-        <id>https://festa.io/events/3209</id>
-        <link href="https://festa.io/events/3209"/>
-        <updated>2023-03-07T03:22:24.212Z</updated>
-        <content type="html"><![CDATA[3월 31일 (금) · 오프라인]]></content>
     </entry>
 </feed>
