@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-14T06:09:37.754Z</updated>
+    <updated>2023-03-14T07:04:40.370Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<무료 웨비나> 개발자 물경력 탈출 비밀 노하우]]></title>
+        <id>https://festa.io/events/3252</id>
+        <link href="https://festa.io/events/3252"/>
+        <updated>2023-03-14T07:04:39.659Z</updated>
+        <content type="html"><![CDATA[3월 16일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA["부산 가명정보 활용 지원센터"  가명정보 교육 및 활용 사례 세미나]]></title>
         <id>https://festa.io/events/3247</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3238"/>
         <updated>2023-03-09T06:08:57.348Z</updated>
         <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[온라인] 2023년 Flutter 앱 개발 과정 수강생 모집]]></title>
-        <id>https://festa.io/events/3237</id>
-        <link href="https://festa.io/events/3237"/>
-        <updated>2023-03-09T05:03:27.471Z</updated>
-        <content type="html"><![CDATA[3월 22일 (수) · 온라인]]></content>
     </entry>
 </feed>
