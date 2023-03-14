@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-14T08:09:28.823Z</updated>
+    <updated>2023-03-14T09:04:49.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울시 뉴딜일자리] 메타버스 핵심기술, 블록체인 기반의 기술사업화 양성과정 교육생 모집]]></title>
+        <id>https://festa.io/events/3253</id>
+        <link href="https://festa.io/events/3253"/>
+        <updated>2023-03-14T09:04:48.537Z</updated>
+        <content type="html"><![CDATA[4월 3일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<무료 웨비나> 개발자 물경력 탈출 비밀 노하우]]></title>
         <id>https://festa.io/events/3252</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3239"/>
         <updated>2023-03-09T09:05:13.629Z</updated>
         <content type="html"><![CDATA[2월 26일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KIC캠퍼스] 백엔드 & 빅데이터 분석과정 개강 ▶ 04월 26일 개강]]></title>
-        <id>https://festa.io/events/3238</id>
-        <link href="https://festa.io/events/3238"/>
-        <updated>2023-03-09T06:08:57.348Z</updated>
-        <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
     </entry>
 </feed>
