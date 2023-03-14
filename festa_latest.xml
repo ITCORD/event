@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-13T23:02:53.080Z</updated>
+    <updated>2023-03-14T00:27:22.758Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[streamlit으로 구현한 데이터 대시보드를 네이버 클라우드 서비스로 운영해 보기 (입문)]]></title>
+        <id>https://festa.io/events/3249</id>
+        <link href="https://festa.io/events/3249"/>
+        <updated>2023-03-14T00:27:22.073Z</updated>
+        <content type="html"><![CDATA[3월 20일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[솔데스크]아마존AWS_Azure클라우드 자바개발자 국비무료교육 개강]]></title>
         <id>https://festa.io/events/3245</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3230"/>
         <updated>2023-03-07T18:08:23.299Z</updated>
         <content type="html"><![CDATA[3월 27일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[카카오브레인] AI 이미지 생성&편집 서비스 'B^ EDIT' 오픈 베타 이벤트]]></title>
-        <id>https://festa.io/events/3229</id>
-        <link href="https://festa.io/events/3229"/>
-        <updated>2023-03-13T09:05:39.196Z</updated>
-        <content type="html"><![CDATA[3월 6일 (월) · 온라인]]></content>
     </entry>
 </feed>
