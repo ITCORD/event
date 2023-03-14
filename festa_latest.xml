@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-14T09:04:49.357Z</updated>
+    <updated>2023-03-14T10:07:51.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] 글로벌 MLOps 트렌드와 한국형 MLOps 전략]]></title>
+        <id>https://festa.io/events/3255</id>
+        <link href="https://festa.io/events/3255"/>
+        <updated>2023-03-14T10:07:50.988Z</updated>
+        <content type="html"><![CDATA[3월 21일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울시 뉴딜일자리] 메타버스 핵심기술, 블록체인 기반의 기술사업화 양성과정 교육생 모집]]></title>
         <id>https://festa.io/events/3253</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/3240</id>
         <link href="https://festa.io/events/3240"/>
         <updated>2023-03-09T09:05:13.626Z</updated>
-        <content type="html"><![CDATA[2월 26일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료교육] 뉴딜_콘텐츠 퍼포먼스 마케팅 전문가 과정 모집중(~04.11)]]></title>
-        <id>https://festa.io/events/3239</id>
-        <link href="https://festa.io/events/3239"/>
-        <updated>2023-03-09T09:05:13.629Z</updated>
         <content type="html"><![CDATA[2월 26일 (일) · 오프라인]]></content>
     </entry>
 </feed>
