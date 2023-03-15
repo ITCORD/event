@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-15T05:03:10.358Z</updated>
+    <updated>2023-03-15T06:08:38.801Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[월간 네이버웍스] EP.11 : 근무제 변화 대비하기 #워크플레이스]]></title>
+        <id>https://festa.io/events/3260</id>
+        <link href="https://festa.io/events/3260"/>
+        <updated>2023-03-15T06:08:38.172Z</updated>
+        <content type="html"><![CDATA[3월 28일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[메가존소프트] 2023 채용전환형 구글 클라우드 엔지니어(GCP) 교육생 모집]]></title>
         <id>https://festa.io/events/3257</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3245"/>
         <updated>2023-03-13T04:07:38.096Z</updated>
         <content type="html"><![CDATA[4월 4일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Flutter Forward Extended Korea]]></title>
-        <id>https://festa.io/events/3201</id>
-        <link href="https://festa.io/events/3201"/>
-        <updated>2023-03-10T13:17:22.990Z</updated>
-        <content type="html"><![CDATA[4월 1일 (토) · 오프라인]]></content>
     </entry>
 </feed>
