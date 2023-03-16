@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-16T05:02:44.865Z</updated>
+    <updated>2023-03-16T06:08:48.159Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Women Techmakers Korea 2023 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3233</id>
+        <link href="https://festa.io/events/3233"/>
+        <updated>2023-03-16T06:08:47.338Z</updated>
+        <content type="html"><![CDATA[3월 31일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[3/28 웨비나ㅣ클라우드 개념부터 시나리오에 기반한 데모까지, 한 번에 정복! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3266</id>
+        <link href="https://festa.io/events/3266"/>
+        <updated>2023-03-16T06:08:47.340Z</updated>
+        <content type="html"><![CDATA[3월 28일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] 실리콘밸리 데이터 엔지니어의 Career Talk (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3264</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/3255"/>
         <updated>2023-03-14T10:07:50.988Z</updated>
         <content type="html"><![CDATA[3월 21일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울시 뉴딜일자리] 메타버스 핵심기술, 블록체인 기반의 기술사업화 양성과정 교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3253</id>
-        <link href="https://festa.io/events/3253"/>
-        <updated>2023-03-14T09:04:48.537Z</updated>
-        <content type="html"><![CDATA[4월 3일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<무료 웨비나> 개발자 물경력 탈출 비밀 노하우 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3252</id>
-        <link href="https://festa.io/events/3252"/>
-        <updated>2023-03-14T07:04:39.659Z</updated>
-        <content type="html"><![CDATA[3월 16일 (목) · 온라인]]></content>
     </entry>
 </feed>
