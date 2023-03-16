@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-03-16T19:02:52.078Z</updated>
+    <updated>2023-03-16T20:04:15.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[하우스 어셈블리 시즌5: 인류의 벗, AI 시대로 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3276</id>
+        <link href="https://festa.io/events/3276"/>
+        <updated>2023-03-16T20:04:14.858Z</updated>
+        <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하우스 어셈블리 시즌4: 저출생의 명암, 그리고 대책 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3275</id>
+        <link href="https://festa.io/events/3275"/>
+        <updated>2023-03-16T20:04:14.860Z</updated>
+        <content type="html"><![CDATA[6월 22일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하우스 어셈블리 시즌3: 탄소중립시대의 에너지 전환 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3274</id>
+        <link href="https://festa.io/events/3274"/>
+        <updated>2023-03-16T20:04:14.868Z</updated>
+        <content type="html"><![CDATA[5월 18일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하우스 어셈블리 시즌2: 선거구제의 진화 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3273</id>
+        <link href="https://festa.io/events/3273"/>
+        <updated>2023-03-16T20:04:14.871Z</updated>
+        <content type="html"><![CDATA[4월 20일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GDG Daejeon 주간 코드랩 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3269</id>
@@ -31,33 +59,5 @@
         <link href="https://festa.io/events/3267"/>
         <updated>2023-03-16T07:02:45.668Z</updated>
         <content type="html"><![CDATA[4월 1일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women Techmakers Korea 2023 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3233</id>
-        <link href="https://festa.io/events/3233"/>
-        <updated>2023-03-16T06:08:47.338Z</updated>
-        <content type="html"><![CDATA[3월 31일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[3/28 웨비나ㅣ클라우드 개념부터 시나리오에 기반한 데모까지, 한 번에 정복! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3266</id>
-        <link href="https://festa.io/events/3266"/>
-        <updated>2023-03-16T06:08:47.340Z</updated>
-        <content type="html"><![CDATA[3월 28일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] 실리콘밸리 데이터 엔지니어의 Career Talk (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3264</id>
-        <link href="https://festa.io/events/3264"/>
-        <updated>2023-03-16T04:07:26.720Z</updated>
-        <content type="html"><![CDATA[3월 28일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KBS비즈니스영상원] 메타연구소 블렌더AI코딩 중급 에자일 연구원 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3265</id>
-        <link href="https://festa.io/events/3265"/>
-        <updated>2023-03-16T04:07:26.721Z</updated>
-        <content type="html"><![CDATA[3월 25일 (토) · 오프라인]]></content>
     </entry>
 </feed>
