@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-17T06:05:05.814Z</updated>
+    <updated>2023-03-17T07:02:41.630Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 시대에 인공지능은 필수입니다 - 아이펠 교육생 모집]]></title>
+        <id>https://festa.io/events/3280</id>
+        <link href="https://festa.io/events/3280"/>
+        <updated>2023-03-17T07:02:40.933Z</updated>
+        <content type="html"><![CDATA[4월 24일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[백엔드 개발자 양성을 위한 부트캠프]]></title>
         <id>https://festa.io/events/3279</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3269"/>
         <updated>2023-03-16T10:04:03.451Z</updated>
         <content type="html"><![CDATA[3월 25일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[웨비나] 데이터 재해복구 어떻게 해야 할까요? 메가존클라우드가 알려드립니다.]]></title>
-        <id>https://festa.io/events/3270</id>
-        <link href="https://festa.io/events/3270"/>
-        <updated>2023-03-16T11:03:05.229Z</updated>
-        <content type="html"><![CDATA[3월 29일 (수) · 온라인]]></content>
     </entry>
 </feed>
