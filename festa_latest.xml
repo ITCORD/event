@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-17T00:30:09.923Z</updated>
+    <updated>2023-03-17T02:04:36.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[백엔드 개발자 양성을 위한 부트캠프]]></title>
+        <id>https://festa.io/events/3279</id>
+        <link href="https://festa.io/events/3279"/>
+        <updated>2023-03-17T02:04:35.403Z</updated>
+        <content type="html"><![CDATA[4월 19일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[모두를 위한 RDBMS 정규화 및 모델링 기술]]></title>
         <id>https://festa.io/events/3277</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3270"/>
         <updated>2023-03-16T11:03:05.229Z</updated>
         <content type="html"><![CDATA[3월 29일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP|BookTALK] 일과 삶에서 승률을 높이는 방법 <어치브모어>]]></title>
-        <id>https://festa.io/events/3268</id>
-        <link href="https://festa.io/events/3268"/>
-        <updated>2023-03-16T07:02:45.665Z</updated>
-        <content type="html"><![CDATA[3월 29일 (수) · 오프라인]]></content>
     </entry>
 </feed>
