@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-20T05:02:56.317Z</updated>
+    <updated>2023-03-20T06:09:02.763Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[성능 전문가가 알려주는 성능 튜닝 이야기]]></title>
+        <id>https://festa.io/events/3285</id>
+        <link href="https://festa.io/events/3285"/>
+        <updated>2023-03-20T06:09:01.973Z</updated>
+        <content type="html"><![CDATA[4월 7일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[백엔드개발자 취업연계 과정] k디지털트레이닝 ! 전액무료 국비지원]]></title>
         <id>https://festa.io/events/3283</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3274"/>
         <updated>2023-03-16T20:04:14.868Z</updated>
         <content type="html"><![CDATA[5월 18일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하우스 어셈블리 시즌2: 선거구제의 진화]]></title>
-        <id>https://festa.io/events/3273</id>
-        <link href="https://festa.io/events/3273"/>
-        <updated>2023-03-16T20:04:14.871Z</updated>
-        <content type="html"><![CDATA[4월 20일 (목) · 오프라인]]></content>
     </entry>
 </feed>
