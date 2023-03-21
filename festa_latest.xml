@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-21T06:08:12.624Z</updated>
+    <updated>2023-03-21T07:02:49.443Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중단없는 기업용 고성능 서비스가 필요 하다면, Fujitsu Enterprise Postgres]]></title>
+        <id>https://festa.io/events/3289</id>
+        <link href="https://festa.io/events/3289"/>
+        <updated>2023-03-21T07:02:48.760Z</updated>
+        <content type="html"><![CDATA[3월 30일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 클라우드 플랫폼 Media 상품으로 만드는 미디어 통합 환경]]></title>
         <id>https://festa.io/events/3288</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3276"/>
         <updated>2023-03-16T20:04:14.858Z</updated>
         <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하우스 어셈블리 시즌4: 저출생의 명암, 그리고 대책]]></title>
-        <id>https://festa.io/events/3275</id>
-        <link href="https://festa.io/events/3275"/>
-        <updated>2023-03-16T20:04:14.860Z</updated>
-        <content type="html"><![CDATA[6월 22일 (목) · 오프라인]]></content>
     </entry>
 </feed>
