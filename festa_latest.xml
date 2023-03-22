@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-22T04:03:52.025Z</updated>
+    <updated>2023-03-22T05:02:49.124Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[커리어세미나]AI로 취업할 수 있을까?]]></title>
+        <id>https://festa.io/events/3293</id>
+        <link href="https://festa.io/events/3293"/>
+        <updated>2023-03-22T05:02:48.390Z</updated>
+        <content type="html"><![CDATA[3월 30일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중단없는 기업용 고성능 서비스가 필요 하다면, Fujitsu Enterprise Postgres]]></title>
         <id>https://festa.io/events/3289</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3277"/>
         <updated>2023-03-17T00:30:09.280Z</updated>
         <content type="html"><![CDATA[3월 22일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하우스 어셈블리 시즌5: 인류의 벗, AI 시대로]]></title>
-        <id>https://festa.io/events/3276</id>
-        <link href="https://festa.io/events/3276"/>
-        <updated>2023-03-16T20:04:14.858Z</updated>
-        <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
     </entry>
 </feed>
