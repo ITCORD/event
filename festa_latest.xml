@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-26T14:02:02.706Z</updated>
+    <updated>2023-03-26T15:02:17.773Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제 1회 Swift Coding Club 오프라인 모임]]></title>
+        <id>https://festa.io/events/3316</id>
+        <link href="https://festa.io/events/3316"/>
+        <updated>2023-03-26T15:02:17.126Z</updated>
+        <content type="html"><![CDATA[4월 15일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 SAFe 커뮤니티 4월 밋업]]></title>
         <id>https://festa.io/events/3312</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3295"/>
         <updated>2023-03-22T06:08:06.693Z</updated>
         <content type="html"><![CDATA[2월 23일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[커리어세미나]AI로 취업할 수 있을까?]]></title>
-        <id>https://festa.io/events/3293</id>
-        <link href="https://festa.io/events/3293"/>
-        <updated>2023-03-22T05:02:48.390Z</updated>
-        <content type="html"><![CDATA[3월 30일 (목) · 오프라인]]></content>
     </entry>
 </feed>
