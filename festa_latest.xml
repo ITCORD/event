@@ -2,63 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-27T08:08:54.840Z</updated>
+    <updated>2023-03-27T09:03:32.458Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[[K디지털] 백엔드 자바개발자 양성과정 ▶ 04월 19일 개강]]></title>
-        <id>https://festa.io/events/3322</id>
-        <link href="https://festa.io/events/3322"/>
-        <updated>2023-03-27T07:03:18.210Z</updated>
-        <content type="html"><![CDATA[4월 19일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼슬리 모닝 회고(4월)]]></title>
-        <id>https://festa.io/events/3311</id>
-        <link href="https://festa.io/events/3311"/>
-        <updated>2023-03-27T04:05:42.306Z</updated>
-        <content type="html"><![CDATA[4월 3일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제2회 유니콘 메이커스 네트워킹]]></title>
-        <id>https://festa.io/events/3318</id>
-        <link href="https://festa.io/events/3318"/>
-        <updated>2023-03-27T04:05:42.308Z</updated>
-        <content type="html"><![CDATA[4월 7일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 1회 Swift Coding Club 오프라인 모임]]></title>
-        <id>https://festa.io/events/3316</id>
-        <link href="https://festa.io/events/3316"/>
-        <updated>2023-03-26T15:02:17.126Z</updated>
-        <content type="html"><![CDATA[4월 15일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한국 SAFe 커뮤니티 4월 밋업]]></title>
-        <id>https://festa.io/events/3312</id>
-        <link href="https://festa.io/events/3312"/>
-        <updated>2023-03-26T12:08:48.981Z</updated>
-        <content type="html"><![CDATA[4월 20일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[퇴근길 테크밋업] Cloud · AI 일타 강사와 함께하는  IT 기업 비개발자 모임]]></title>
-        <id>https://festa.io/events/3308</id>
-        <link href="https://festa.io/events/3308"/>
-        <updated>2023-03-24T09:03:18.601Z</updated>
-        <content type="html"><![CDATA[4월 20일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료교육] 성남시 SW 채용연계 부트캠프 1기]]></title>
-        <id>https://festa.io/events/3307</id>
-        <link href="https://festa.io/events/3307"/>
-        <updated>2023-03-24T02:01:10.445Z</updated>
-        <content type="html"><![CDATA[4월 5일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[네이버 커넥트재단] 코칭스터디 10기 : BEYOND AI BASIC 2023 모집]]></title>
-        <id>https://festa.io/events/3305</id>
-        <link href="https://festa.io/events/3305"/>
-        <updated>2023-03-23T13:14:09.473Z</updated>
-        <content type="html"><![CDATA[3월 23일 (목) · 온라인]]></content>
-    </entry>
 </feed>
