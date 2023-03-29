@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-03-29T11:02:40.514Z</updated>
+    <updated>2023-03-29T12:10:34.939Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버클라우드 기반 Spark 기초 무료 강의 홍보]]></title>
+        <id>https://festa.io/events/3327</id>
+        <link href="https://festa.io/events/3327"/>
+        <updated>2023-03-29T12:10:34.347Z</updated>
+        <content type="html"><![CDATA[4월 15일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료세미나] ML+QC]]></title>
         <id>https://festa.io/events/3325</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3318"/>
         <updated>2023-03-28T05:03:09.484Z</updated>
         <content type="html"><![CDATA[4월 7일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 1회 Swift Coding Club 오프라인 모임]]></title>
-        <id>https://festa.io/events/3316</id>
-        <link href="https://festa.io/events/3316"/>
-        <updated>2023-03-28T05:03:09.484Z</updated>
-        <content type="html"><![CDATA[4월 15일 (토) · 오프라인]]></content>
     </entry>
 </feed>
