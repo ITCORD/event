@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-02T13:05:41.852Z</updated>
+    <updated>2023-04-02T14:02:48.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Hyperledger Meetup Korea #35 - ChatGPT, ESG]]></title>
+        <id>https://festa.io/events/3336</id>
+        <link href="https://festa.io/events/3336"/>
+        <updated>2023-04-02T14:02:47.353Z</updated>
+        <content type="html"><![CDATA[4월 13일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA OMNIVERSE SEMINAR(M&E)]]></title>
         <id>https://festa.io/events/3332</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3325"/>
         <updated>2023-04-01T13:05:47.133Z</updated>
         <content type="html"><![CDATA[4월 4일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Dev 토크콘서트]]></title>
-        <id>https://festa.io/events/3306</id>
-        <link href="https://festa.io/events/3306"/>
-        <updated>2023-04-01T13:05:47.133Z</updated>
-        <content type="html"><![CDATA[4월 28일 (금) · 오프라인]]></content>
     </entry>
 </feed>
