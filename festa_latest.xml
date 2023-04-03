@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-03T05:02:28.797Z</updated>
+    <updated>2023-04-03T06:08:23.820Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[중단없는 기업용 고성능 서비스가 필요 하다면, Fujitsu Enterprise Postgres]]></title>
+        <id>https://festa.io/events/3341</id>
+        <link href="https://festa.io/events/3341"/>
+        <updated>2023-04-03T06:08:23.131Z</updated>
+        <content type="html"><![CDATA[4월 13일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[고객 취향을 고려하는 상품 개인화 추천 서비스, AiTEMS로 쉽게 시작하세요! #1]]></title>
         <id>https://festa.io/events/3338</id>
@@ -51,13 +58,6 @@
         <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지 올인원 부트캠프! 엘리스 AI 8기 모집]]></title>
         <id>https://festa.io/events/3329</id>
         <link href="https://festa.io/events/3329"/>
-        <updated>2023-04-01T13:05:47.133Z</updated>
-        <content type="html"><![CDATA[3월 27일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 무료] 실무 개발 프로젝트부터 채용 매칭까지 올인원 부트캠프! 엘리스 AI 8기 모집]]></title>
-        <id>https://festa.io/events/3328</id>
-        <link href="https://festa.io/events/3328"/>
         <updated>2023-04-01T13:05:47.133Z</updated>
         <content type="html"><![CDATA[3월 27일 (월) · 온라인]]></content>
     </entry>
