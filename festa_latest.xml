@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-04T00:28:03.489Z</updated>
+    <updated>2023-04-04T01:59:43.968Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[실전 산업형 메타버스를 위한 HoloLens2 & MR App 활용과 실습]]></title>
+        <id>https://festa.io/events/3346</id>
+        <link href="https://festa.io/events/3346"/>
+        <updated>2023-04-04T01:59:43.316Z</updated>
+        <content type="html"><![CDATA[4월 20일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[LIVE/무료] Go 언어, 어디에 써야 할까?]]></title>
         <id>https://festa.io/events/3344</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3336"/>
         <updated>2023-04-02T14:02:47.353Z</updated>
         <content type="html"><![CDATA[4월 13일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[NVIDIA OMNIVERSE SEMINAR(M&E)]]></title>
-        <id>https://festa.io/events/3332</id>
-        <link href="https://festa.io/events/3332"/>
-        <updated>2023-04-01T13:05:47.111Z</updated>
-        <content type="html"><![CDATA[4월 25일 (화) · 오프라인]]></content>
     </entry>
 </feed>
