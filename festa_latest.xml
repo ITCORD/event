@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-05T06:08:26.155Z</updated>
+    <updated>2023-04-05T07:02:44.000Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[K디지털] 백엔드 자바개발자 양성과정 ▶ 04월 19일 개강]]></title>
+        <id>https://festa.io/events/3357</id>
+        <link href="https://festa.io/events/3357"/>
+        <updated>2023-04-05T07:02:43.229Z</updated>
+        <content type="html"><![CDATA[4월 19일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KIC캠퍼스] 백엔드 & 빅데이터 분석과정 개강 ▶ 04월 26일 개강]]></title>
+        <id>https://festa.io/events/3356</id>
+        <link href="https://festa.io/events/3356"/>
+        <updated>2023-04-05T07:02:43.233Z</updated>
+        <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[창업가 X 개발자 네트워킹[피플 위드 클러치: 파우치]]]></title>
         <id>https://festa.io/events/3355</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3342"/>
         <updated>2023-04-03T08:08:49.913Z</updated>
         <content type="html"><![CDATA[5월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[중단없는 기업용 고성능 서비스가 필요 하다면, Fujitsu Enterprise Postgres]]></title>
-        <id>https://festa.io/events/3341</id>
-        <link href="https://festa.io/events/3341"/>
-        <updated>2023-04-03T06:08:23.131Z</updated>
-        <content type="html"><![CDATA[4월 13일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[고객 취향을 고려하는 상품 개인화 추천 서비스, AiTEMS로 쉽게 시작하세요! #1]]></title>
-        <id>https://festa.io/events/3338</id>
-        <link href="https://festa.io/events/3338"/>
-        <updated>2023-04-03T05:02:28.067Z</updated>
-        <content type="html"><![CDATA[4월 6일 (목) · 온라인]]></content>
     </entry>
 </feed>
