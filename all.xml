@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-10T09:03:23.461Z</updated>
+    <updated>2023-04-10T10:02:55.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOPxFlutter Seoul] Anatomy of  Riverpod (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3375</id>
+        <link href="https://festa.io/events/3375"/>
+        <updated>2023-04-10T10:02:55.221Z</updated>
+        <content type="html"><![CDATA[4월 18일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 ESG KOSME IR마트 데모데이 참관객 모집! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3374</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3358"/>
         <updated>2023-04-05T11:02:23.533Z</updated>
         <content type="html"><![CDATA[4월 11일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K디지털] 백엔드 자바개발자 양성과정 ▶ 04월 19일 개강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3357</id>
-        <link href="https://festa.io/events/3357"/>
-        <updated>2023-04-05T07:02:43.229Z</updated>
-        <content type="html"><![CDATA[4월 19일 (수) · 오프라인]]></content>
     </entry>
 </feed>
