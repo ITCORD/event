@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-11T10:03:00.819Z</updated>
+    <updated>2023-04-11T11:02:06.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[애자일 코리아 밋업 4월 "워터폴 PM이 애자일을 만났을 때"]]></title>
+        <id>https://festa.io/events/3385</id>
+        <link href="https://festa.io/events/3385"/>
+        <updated>2023-04-11T11:02:06.274Z</updated>
+        <content type="html"><![CDATA[4월 25일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[온라인 세미나:'든든'투자스쿨 - [채권편] 떠먹여주는 채권투자]]></title>
         <id>https://festa.io/events/3384</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3377"/>
         <updated>2023-04-11T01:57:00.549Z</updated>
         <content type="html"><![CDATA[4월 29일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 4월 모임]]></title>
-        <id>https://festa.io/events/3376</id>
-        <link href="https://festa.io/events/3376"/>
-        <updated>2023-04-10T11:02:09.672Z</updated>
-        <content type="html"><![CDATA[4월 27일 (목) · 오프라인]]></content>
     </entry>
 </feed>
