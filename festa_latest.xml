@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-11T03:03:11.710Z</updated>
+    <updated>2023-04-11T04:04:45.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[C++ Korea 2023 격월 Meet-Up(4월)]]></title>
+        <id>https://festa.io/events/3380</id>
+        <link href="https://festa.io/events/3380"/>
+        <updated>2023-04-11T04:04:44.668Z</updated>
+        <content type="html"><![CDATA[4월 21일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울시 2차 뉴딜일자리] 메타버스 핵심기술, 블록체인 기반의 기술사업화 양성과정 교육생 모집]]></title>
         <id>https://festa.io/events/3379</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3367"/>
         <updated>2023-04-07T08:07:26.582Z</updated>
         <content type="html"><![CDATA[5월 2일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 민관협력 오픈이노베이션 인사이트 컨퍼런스]]></title>
-        <id>https://festa.io/events/3365</id>
-        <link href="https://festa.io/events/3365"/>
-        <updated>2023-04-07T01:54:09.027Z</updated>
-        <content type="html"><![CDATA[4월 27일 (목) · 온라인]]></content>
     </entry>
 </feed>
