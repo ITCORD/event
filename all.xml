@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-13T07:03:09.290Z</updated>
+    <updated>2023-04-13T08:08:31.308Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[KIC캠퍼스] 백엔드 & 빅데이터 분석과정 개강 ▶ 04월 26일 개강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3392</id>
+        <link href="https://festa.io/events/3392"/>
+        <updated>2023-04-13T08:08:30.491Z</updated>
+        <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP x AI NODAJI]2023 봄 트렌드와 AI (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3391</id>
+        <link href="https://festa.io/events/3391"/>
+        <updated>2023-04-13T08:08:30.494Z</updated>
+        <content type="html"><![CDATA[4월 27일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사전 등록ㅣ금융 클라우드 추진 시 꼭 필요한 팩트를 공유합니다.(4/25) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3390</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/3385"/>
         <updated>2023-04-11T11:02:06.274Z</updated>
         <content type="html"><![CDATA[4월 25일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 세미나:'든든'투자스쿨 - [채권편] 떠먹여주는 채권투자 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3384</id>
-        <link href="https://festa.io/events/3384"/>
-        <updated>2023-04-11T08:08:20.732Z</updated>
-        <content type="html"><![CDATA[4월 17일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(무료)글로벌 위성 영상 1위! Maxar Webinar로 초대합니다 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3383</id>
-        <link href="https://festa.io/events/3383"/>
-        <updated>2023-04-11T08:08:20.732Z</updated>
-        <content type="html"><![CDATA[4월 26일 (수) · 온라인]]></content>
     </entry>
 </feed>
