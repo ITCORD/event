@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-17T12:10:48.563Z</updated>
+    <updated>2023-04-17T13:10:36.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[우분투 한국어 번역 워크샵 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3410</id>
+        <link href="https://festa.io/events/3410"/>
+        <updated>2023-04-17T13:10:35.516Z</updated>
+        <content type="html"><![CDATA[5월 13일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[하루만에 살펴보는 데이터분석 맛보기 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3408</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3397"/>
         <updated>2023-04-14T09:02:31.765Z</updated>
         <content type="html"><![CDATA[4월 20일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KIC캠퍼스] 백엔드 & 빅데이터 분석과정 개강 ▶ 04월 26일 개강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3392</id>
-        <link href="https://festa.io/events/3392"/>
-        <updated>2023-04-13T08:08:30.491Z</updated>
-        <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
     </entry>
 </feed>
