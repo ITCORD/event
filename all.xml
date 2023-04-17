@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-04-17T07:02:35.705Z</updated>
+    <updated>2023-04-17T08:08:46.437Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[하루만에 살펴보는 데이터분석 맛보기 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3408</id>
+        <link href="https://festa.io/events/3408"/>
+        <updated>2023-04-17T08:08:45.496Z</updated>
+        <content type="html"><![CDATA[5월 20일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이터와 알고리즘에 대한 이해를 기반으로 한 인공지능 활용 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3407</id>
+        <link href="https://festa.io/events/3407"/>
+        <updated>2023-04-17T08:08:45.501Z</updated>
+        <content type="html"><![CDATA[5월 9일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리액트를 활용한 웹 시스템 개발 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3406</id>
+        <link href="https://festa.io/events/3406"/>
+        <updated>2023-04-17T08:08:45.501Z</updated>
+        <content type="html"><![CDATA[5월 8일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA X EHWA AIX DAY (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3405</id>
+        <link href="https://festa.io/events/3405"/>
+        <updated>2023-04-17T08:08:45.507Z</updated>
+        <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Women Techmakers Korea 2023 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3401</id>
@@ -31,33 +59,5 @@
         <link href="https://festa.io/events/3392"/>
         <updated>2023-04-13T08:08:30.491Z</updated>
         <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP x AI NODAJI]2023 봄 트렌드와 AI (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3391</id>
-        <link href="https://festa.io/events/3391"/>
-        <updated>2023-04-13T08:08:30.494Z</updated>
-        <content type="html"><![CDATA[4월 27일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사전 등록ㅣ금융 클라우드 추진 시 꼭 필요한 팩트를 공유합니다.(4/25) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3390</id>
-        <link href="https://festa.io/events/3390"/>
-        <updated>2023-04-13T07:03:08.645Z</updated>
-        <content type="html"><![CDATA[4월 25일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 오픈 프런티어 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3389</id>
-        <link href="https://festa.io/events/3389"/>
-        <updated>2023-04-13T03:02:27.313Z</updated>
-        <content type="html"><![CDATA[3월 30일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Gitlab Korea 밋업 #15 - 깃랩이 옵저버빌리티를 만드는 방식 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3388</id>
-        <link href="https://festa.io/events/3388"/>
-        <updated>2023-04-13T01:56:17.059Z</updated>
-        <content type="html"><![CDATA[4월 27일 (목) · 온라인]]></content>
     </entry>
 </feed>
