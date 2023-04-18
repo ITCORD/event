@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-18T14:02:14.823Z</updated>
+    <updated>2023-04-18T15:04:22.790Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KotlinConf'23 Global in Songdo]]></title>
+        <id>https://festa.io/events/3416</id>
+        <link href="https://festa.io/events/3416"/>
+        <updated>2023-04-18T15:04:22.121Z</updated>
+        <content type="html"><![CDATA[5월 13일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KIC캠퍼스] 백엔드 & AI빅데이터 분석과정 개강 ▶ 04월 26일 개강]]></title>
         <id>https://festa.io/events/3414</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3405"/>
         <updated>2023-04-17T08:08:45.507Z</updated>
         <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women Techmakers Korea 2023]]></title>
-        <id>https://festa.io/events/3401</id>
-        <link href="https://festa.io/events/3401"/>
-        <updated>2023-04-16T15:02:09.731Z</updated>
-        <content type="html"><![CDATA[4월 28일 (금) · 오프라인]]></content>
     </entry>
 </feed>
