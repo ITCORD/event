@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-20T07:04:19.572Z</updated>
+    <updated>2023-04-20T08:07:49.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기업의 성장을 뒷받침 하는 그룹웨어, 워크쓰루(WORK THROUGH)]]></title>
+        <id>https://festa.io/events/3418</id>
+        <link href="https://festa.io/events/3418"/>
+        <updated>2023-04-20T08:07:48.838Z</updated>
+        <content type="html"><![CDATA[4월 27일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[kakao tech meet]]></title>
         <id>https://festa.io/events/3324</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3410"/>
         <updated>2023-04-17T13:10:35.516Z</updated>
         <content type="html"><![CDATA[5월 13일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루만에 살펴보는 데이터분석 맛보기 과정]]></title>
-        <id>https://festa.io/events/3408</id>
-        <link href="https://festa.io/events/3408"/>
-        <updated>2023-04-17T08:08:45.496Z</updated>
-        <content type="html"><![CDATA[5월 20일 (토) · 오프라인]]></content>
     </entry>
 </feed>
