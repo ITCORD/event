@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-21T06:08:48.609Z</updated>
+    <updated>2023-04-21T07:02:09.224Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 오픈 프런티어 모집]]></title>
+        <id>https://festa.io/events/3420</id>
+        <link href="https://festa.io/events/3420"/>
+        <updated>2023-04-21T07:02:08.509Z</updated>
+        <content type="html"><![CDATA[3월 29일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새싹(SeSAC) 마포캠퍼스 UIUX 퍼블리싱 실무 프로젝트 과정]]></title>
         <id>https://festa.io/events/3419</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3414"/>
         <updated>2023-04-18T09:03:13.387Z</updated>
         <content type="html"><![CDATA[4월 26일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털 트레이닝] 폴스택 개발자로의 성장 _국비과정]]></title>
-        <id>https://festa.io/events/3413</id>
-        <link href="https://festa.io/events/3413"/>
-        <updated>2023-04-18T06:08:37.115Z</updated>
-        <content type="html"><![CDATA[4월 17일 (월) · 오프라인]]></content>
     </entry>
 </feed>
