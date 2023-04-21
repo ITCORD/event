@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-21T00:27:32.774Z</updated>
+    <updated>2023-04-21T01:57:33.221Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[5월 11일 (목) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[1st DX Forum - ChatGPT 활용 사례로 보는 인공지능과 데이터의 미래]]></title>
+        <title type="html"><![CDATA[7th DX Forum - ChatGPT 활용 사례로 보는 인공지능과 데이터의 미래]]></title>
         <id>https://festa.io/events/3403</id>
         <link href="https://festa.io/events/3403"/>
         <updated>2023-04-19T09:08:14.914Z</updated>
