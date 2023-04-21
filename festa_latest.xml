@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-04-21T02:27:16.976Z</updated>
+    <updated>2023-04-21T03:03:02.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[새싹(SeSAC) 마포캠퍼스 UIUX 퍼블리싱 실무 프로젝트 과정]]></title>
+        <id>https://festa.io/events/3419</id>
+        <link href="https://festa.io/events/3419"/>
+        <updated>2023-04-21T03:03:01.807Z</updated>
+        <content type="html"><![CDATA[4월 9일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업의 성장을 뒷받침 하는 그룹웨어, 워크쓰루(WORK THROUGH)]]></title>
         <id>https://festa.io/events/3418</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3413"/>
         <updated>2023-04-18T06:08:37.115Z</updated>
         <content type="html"><![CDATA[4월 17일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우분투 한국어 번역 워크샵]]></title>
-        <id>https://festa.io/events/3410</id>
-        <link href="https://festa.io/events/3410"/>
-        <updated>2023-04-17T13:10:35.516Z</updated>
-        <content type="html"><![CDATA[5월 13일 (토) · 오프라인]]></content>
     </entry>
 </feed>
