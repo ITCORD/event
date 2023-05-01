@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-01T00:29:23.179Z</updated>
+    <updated>2023-05-01T01:59:37.131Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[메가존소프트] 금융기관을 위한 <클라우드 채택과 데이터 분석>]]></title>
+        <id>https://festa.io/events/3445</id>
+        <link href="https://festa.io/events/3445"/>
+        <updated>2023-05-01T01:59:36.387Z</updated>
+        <content type="html"><![CDATA[5월 11일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[기업 경영에 꼭 필요한 비용관리 엑셀 대시보드]]></title>
         <id>https://festa.io/events/3409</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/3324</id>
         <link href="https://festa.io/events/3324"/>
         <updated>2023-04-27T11:02:43.443Z</updated>
-        <content type="html"><![CDATA[5월 11일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5월 대한민국 OKR 코치 포럼 - OKR과 도전주의 평가보상]]></title>
-        <id>https://festa.io/events/3417</id>
-        <link href="https://festa.io/events/3417"/>
-        <updated>2023-04-28T15:02:45.251Z</updated>
         <content type="html"><![CDATA[5월 11일 (목) · 오프라인]]></content>
     </entry>
 </feed>
