@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-02T05:02:32.099Z</updated>
+    <updated>2023-05-02T06:08:07.342Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고객 취향을 고려하는 상품 개인화 추천 서비스, AiTEMS로 쉽게 시작하세요! #1]]></title>
+        <id>https://festa.io/events/3450</id>
+        <link href="https://festa.io/events/3450"/>
+        <updated>2023-05-02T06:08:06.441Z</updated>
+        <content type="html"><![CDATA[5월 4일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클라우드 유랑단 x 대전 유랑]]></title>
         <id>https://festa.io/events/3447</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3430"/>
         <updated>2023-04-24T02:31:58.737Z</updated>
         <content type="html"><![CDATA[5월 27일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사회복지 현장에 적용하기 위한 인공지능에게 올바르게 말하는 방법 – Prompt Engineering]]></title>
-        <id>https://festa.io/events/3424</id>
-        <link href="https://festa.io/events/3424"/>
-        <updated>2023-04-22T08:03:18.781Z</updated>
-        <content type="html"><![CDATA[5월 26일 (금) · 오프라인]]></content>
     </entry>
 </feed>
