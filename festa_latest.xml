@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-02T14:02:45.432Z</updated>
+    <updated>2023-05-02T15:02:40.929Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GDG Cloud Korea 모임 #1]]></title>
+        <id>https://festa.io/events/3456</id>
+        <link href="https://festa.io/events/3456"/>
+        <updated>2023-05-02T15:02:40.320Z</updated>
+        <content type="html"><![CDATA[5월 10일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] Papers with Authors]]></title>
         <id>https://festa.io/events/3449</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3445"/>
         <updated>2023-05-01T01:59:36.387Z</updated>
         <content type="html"><![CDATA[5월 11일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업 경영에 꼭 필요한 비용관리 엑셀 대시보드]]></title>
-        <id>https://festa.io/events/3409</id>
-        <link href="https://festa.io/events/3409"/>
-        <updated>2023-04-27T10:02:50.514Z</updated>
-        <content type="html"><![CDATA[5월 10일 (수) · 오프라인]]></content>
     </entry>
 </feed>
