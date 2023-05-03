@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-03T00:27:31.570Z</updated>
+    <updated>2023-05-03T01:56:53.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[KDT/내일배움카드] 클라우드기반 AI시스템 구축 실무자과정 (~6/25)]]></title>
+        <id>https://festa.io/events/3459</id>
+        <link href="https://festa.io/events/3459"/>
+        <updated>2023-05-03T01:56:52.936Z</updated>
+        <content type="html"><![CDATA[4월 30일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제7회 AI Security Day 세미나에 여러분을 초대합니다(5.11, 코엑스)]]></title>
+        <id>https://festa.io/events/3458</id>
+        <link href="https://festa.io/events/3458"/>
+        <updated>2023-05-03T01:56:52.936Z</updated>
+        <content type="html"><![CDATA[5월 11일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 5월 모임]]></title>
         <id>https://festa.io/events/3457</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[5월 9일 (화) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] 10주 완성! 프로젝트 캠프: 프론트엔드(리액트)]]></title>
+        <title type="html"><![CDATA[10주 완성! 프로젝트 캠프: 프론트엔드(리액트) 과정]]></title>
         <id>https://festa.io/events/3452</id>
         <link href="https://festa.io/events/3452"/>
         <updated>2023-05-02T07:02:19.368Z</updated>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3450"/>
         <updated>2023-05-02T06:08:06.441Z</updated>
         <content type="html"><![CDATA[5월 4일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[클라우드 유랑단 x 대전 유랑]]></title>
-        <id>https://festa.io/events/3447</id>
-        <link href="https://festa.io/events/3447"/>
-        <updated>2023-05-01T17:02:40.217Z</updated>
-        <content type="html"><![CDATA[5월 12일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023프론트엔드 트렌드 따라잡기]]></title>
-        <id>https://festa.io/events/3446</id>
-        <link href="https://festa.io/events/3446"/>
-        <updated>2023-05-01T12:09:53.087Z</updated>
-        <content type="html"><![CDATA[5월 31일 (수) · 오프라인]]></content>
     </entry>
 </feed>
