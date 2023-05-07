@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-07T15:02:33.207Z</updated>
+    <updated>2023-05-07T16:02:25.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료] 인공지능 개발 실무교육 및 취업과정 [인턴십 연계과정]]]></title>
+        <id>https://festa.io/events/3468</id>
+        <link href="https://festa.io/events/3468"/>
+        <updated>2023-05-07T16:02:25.231Z</updated>
+        <content type="html"><![CDATA[4월 28일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[저자 특강] 처음 배우는 NHN Cloud]]></title>
         <id>https://festa.io/events/3464</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3449"/>
         <updated>2023-05-02T07:02:19.366Z</updated>
         <content type="html"><![CDATA[5월 9일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10주 완성! 프로젝트 캠프: 프론트엔드(리액트) 과정]]></title>
-        <id>https://festa.io/events/3452</id>
-        <link href="https://festa.io/events/3452"/>
-        <updated>2023-05-02T07:02:19.368Z</updated>
-        <content type="html"><![CDATA[6월 5일 (월) · 오프라인]]></content>
     </entry>
 </feed>
