@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-09T08:07:56.432Z</updated>
+    <updated>2023-05-09T09:02:45.057Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료교육 / 인턴십] 2023 서울시 뉴딜일자리 빅데이터 분석 시각화 전문가 과정 모집(~5.11)]]></title>
+        <id>https://festa.io/events/3484</id>
+        <link href="https://festa.io/events/3484"/>
+        <updated>2023-05-09T09:02:44.085Z</updated>
+        <content type="html"><![CDATA[4월 30일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무료교육 / 인턴십] 2023 서울시 뉴딜일자리 콘텐츠 퍼포먼스 마케팅 전문가 과정 모집(~5.11)]]></title>
+        <id>https://festa.io/events/3483</id>
+        <link href="https://festa.io/events/3483"/>
+        <updated>2023-05-09T09:02:44.085Z</updated>
+        <content type="html"><![CDATA[4월 30일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[올빼미 클럽 제2회 [퍼스널 브랜딩 특강]]]></title>
         <id>https://festa.io/events/3480</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3472"/>
         <updated>2023-05-08T07:02:12.809Z</updated>
         <content type="html"><![CDATA[5월 10일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP X 마음AI] 새로운AI솔루션, 나만의AI]]></title>
-        <id>https://festa.io/events/3471</id>
-        <link href="https://festa.io/events/3471"/>
-        <updated>2023-05-08T03:03:08.813Z</updated>
-        <content type="html"><![CDATA[5월 30일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] AI연구원으로 일하는 법]]></title>
-        <id>https://festa.io/events/3434</id>
-        <link href="https://festa.io/events/3434"/>
-        <updated>2023-05-08T02:30:13.392Z</updated>
-        <content type="html"><![CDATA[5월 23일 (화) · 오프라인]]></content>
     </entry>
 </feed>
