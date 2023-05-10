@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-10T07:02:28.932Z</updated>
+    <updated>2023-05-10T08:07:25.473Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[모두의연구소] 초거대 생성형 AI의 윤리적 쟁점]]></title>
+        <id>https://festa.io/events/3489</id>
+        <link href="https://festa.io/events/3489"/>
+        <updated>2023-05-10T08:07:24.894Z</updated>
+        <content type="html"><![CDATA[5월 25일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[취업]기업연계형 UIUX 퍼블리싱 실무프로젝트 마포3기 모집중(~05/22)]]></title>
         <id>https://festa.io/events/3487</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3479"/>
         <updated>2023-05-08T14:02:46.402Z</updated>
         <content type="html"><![CDATA[5월 22일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부스트캠프 웹·모바일 8기 모집 온라인 설명회]]></title>
-        <id>https://festa.io/events/3477</id>
-        <link href="https://festa.io/events/3477"/>
-        <updated>2023-05-08T12:10:04.753Z</updated>
-        <content type="html"><![CDATA[5월 11일 (목) · 온라인]]></content>
     </entry>
 </feed>
