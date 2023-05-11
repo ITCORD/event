@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-11T02:26:12.479Z</updated>
+    <updated>2023-05-11T03:02:47.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[사업계획서 작성방법 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,13 +40,6 @@
         <content type="html"><![CDATA[5월 29일 (월) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[기업의 성장을 뒷받침 하는 그룹웨어, WORK THROUGH (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3485</id>
-        <link href="https://festa.io/events/3485"/>
-        <updated>2023-05-09T10:03:05.019Z</updated>
-        <content type="html"><![CDATA[5월 11일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[무료교육 / 인턴십] 2023 서울시 뉴딜일자리 빅데이터 분석 시각화 전문가 과정 모집(~5.11) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3484</id>
         <link href="https://festa.io/events/3484"/>
@@ -59,5 +52,12 @@
         <link href="https://festa.io/events/3483"/>
         <updated>2023-05-09T09:02:44.085Z</updated>
         <content type="html"><![CDATA[4월 30일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[올빼미 클럽 제2회 [퍼스널 브랜딩 특강] (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3480</id>
+        <link href="https://festa.io/events/3480"/>
+        <updated>2023-05-11T03:02:46.435Z</updated>
+        <content type="html"><![CDATA[5월 18일 (목) · 오프라인]]></content>
     </entry>
 </feed>
