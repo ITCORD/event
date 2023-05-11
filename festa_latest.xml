@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-11T00:27:00.064Z</updated>
+    <updated>2023-05-11T01:57:30.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[사업계획서 작성방법 특강]]></title>
+        <id>https://festa.io/events/3494</id>
+        <link href="https://festa.io/events/3494"/>
+        <updated>2023-05-11T01:57:29.887Z</updated>
+        <content type="html"><![CDATA[5월 31일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하루만에 살펴보는 데이터분석 맛보기 과정]]></title>
+        <id>https://festa.io/events/3493</id>
+        <link href="https://festa.io/events/3493"/>
+        <updated>2023-05-11T01:57:29.891Z</updated>
+        <content type="html"><![CDATA[5월 20일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애자일 코리아 밋업 5월 "Waterfall에 갇혀버린 OKR, Agile 조직을 위한 OKR 클리닉"]]></title>
         <id>https://festa.io/events/3492</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3483"/>
         <updated>2023-05-09T09:02:44.085Z</updated>
         <content type="html"><![CDATA[4월 30일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[올빼미 클럽 제2회 [퍼스널 브랜딩 특강]]]></title>
-        <id>https://festa.io/events/3480</id>
-        <link href="https://festa.io/events/3480"/>
-        <updated>2023-05-09T07:02:38.964Z</updated>
-        <content type="html"><![CDATA[5월 18일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소주콘 Shot 4 : 토이프로젝트, 좋은데이?!]]></title>
-        <id>https://festa.io/events/3470</id>
-        <link href="https://festa.io/events/3470"/>
-        <updated>2023-05-09T06:07:59.093Z</updated>
-        <content type="html"><![CDATA[5월 23일 (화) · 오프라인]]></content>
     </entry>
 </feed>
