@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-12T04:03:56.609Z</updated>
+    <updated>2023-05-12T05:02:59.049Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[무중단 배포가 가능한 API Gateway, NGINX Plus]]></title>
+        <id>https://festa.io/events/3499</id>
+        <link href="https://festa.io/events/3499"/>
+        <updated>2023-05-12T05:02:58.214Z</updated>
+        <content type="html"><![CDATA[5월 18일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무료 웨비나ㅣ5/30(화) 보안 담당자를 위한 NHN AppGuard 활용법을 알려드립니다.]]></title>
         <id>https://festa.io/events/3498</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3480"/>
         <updated>2023-05-11T03:02:46.435Z</updated>
         <content type="html"><![CDATA[5월 18일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소주콘 Shot 4 : 토이프로젝트, 좋은데이?!]]></title>
-        <id>https://festa.io/events/3470</id>
-        <link href="https://festa.io/events/3470"/>
-        <updated>2023-05-11T15:03:10.115Z</updated>
-        <content type="html"><![CDATA[5월 23일 (화) · 오프라인]]></content>
     </entry>
 </feed>
