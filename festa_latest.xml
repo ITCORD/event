@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-14T12:08:33.706Z</updated>
+    <updated>2023-05-14T13:04:35.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AUSGCON (아우쓱콘)]]></title>
+        <id>https://festa.io/events/3504</id>
+        <link href="https://festa.io/events/3504"/>
+        <updated>2023-05-14T13:04:34.368Z</updated>
+        <content type="html"><![CDATA[6월 3일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 아이가 (후원사용)]]></title>
         <id>https://festa.io/events/3506</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3494"/>
         <updated>2023-05-11T01:57:29.887Z</updated>
         <content type="html"><![CDATA[5월 31일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루만에 살펴보는 데이터분석 맛보기 과정]]></title>
-        <id>https://festa.io/events/3493</id>
-        <link href="https://festa.io/events/3493"/>
-        <updated>2023-05-11T01:57:29.891Z</updated>
-        <content type="html"><![CDATA[5월 20일 (토) · 오프라인]]></content>
     </entry>
 </feed>
