@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-15T07:02:29.106Z</updated>
+    <updated>2023-05-15T08:07:58.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[솔데스크 K-java 백엔드 스쿨 28기]]></title>
+        <id>https://festa.io/events/3515</id>
+        <link href="https://festa.io/events/3515"/>
+        <updated>2023-05-15T08:07:57.729Z</updated>
+        <content type="html"><![CDATA[6월 13일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DX Camp - 최고의 전문가와 함께하는 데이터 인재 인큐베이팅 프로그램]]></title>
         <id>https://festa.io/events/3508</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3498"/>
         <updated>2023-05-12T00:27:49.852Z</updated>
         <content type="html"><![CDATA[5월 11일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[사업계획서 작성방법 특강]]></title>
-        <id>https://festa.io/events/3494</id>
-        <link href="https://festa.io/events/3494"/>
-        <updated>2023-05-11T01:57:29.887Z</updated>
-        <content type="html"><![CDATA[5월 31일 (수) · 온라인]]></content>
     </entry>
 </feed>
