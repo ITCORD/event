@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-15T05:02:29.544Z</updated>
+    <updated>2023-05-15T06:08:20.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[DX Camp - 최고의 전문가와 함께하는 데이터 인재 인큐베이팅 프로그램 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3508</id>
+        <link href="https://festa.io/events/3508"/>
+        <updated>2023-05-15T06:08:19.493Z</updated>
+        <content type="html"><![CDATA[6월 19일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[iOS 아이가 (후원사용) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3506</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3494"/>
         <updated>2023-05-11T01:57:29.887Z</updated>
         <content type="html"><![CDATA[5월 31일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하루만에 살펴보는 데이터분석 맛보기 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3493</id>
-        <link href="https://festa.io/events/3493"/>
-        <updated>2023-05-14T15:02:39.173Z</updated>
-        <content type="html"><![CDATA[5월 20일 (토) · 오프라인]]></content>
     </entry>
 </feed>
