@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-17T06:07:54.308Z</updated>
+    <updated>2023-05-17T08:12:41.966Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제 3회 KOPIS 빅데이터 분석 공모전]]></title>
+        <id>https://festa.io/events/3533</id>
+        <link href="https://festa.io/events/3533"/>
+        <updated>2023-05-17T08:12:41.344Z</updated>
+        <content type="html"><![CDATA[5월 14일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[에이콘아카데미] 빅데이터분석(파이썬) & 자바 개발자 양성과정 ▶ 06월 29일 개강]]></title>
+        <id>https://festa.io/events/3532</id>
+        <link href="https://festa.io/events/3532"/>
+        <updated>2023-05-17T08:12:41.345Z</updated>
+        <content type="html"><![CDATA[6월 29일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023년 신기술 기반 콘텐츠 랩(하이브리드 매쉬업 콘랩 AI음악 x XR 영상 제작 프로젝트)]]></title>
+        <id>https://festa.io/events/3531</id>
+        <link href="https://festa.io/events/3531"/>
+        <updated>2023-05-17T08:12:41.345Z</updated>
+        <content type="html"><![CDATA[6월 1일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KDT/내일배움카드] 클라우드기반 AI시스템 구축 실무자과정 (~6/25)]]></title>
         <id>https://festa.io/events/3530</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/3517"/>
         <updated>2023-05-15T13:10:48.446Z</updated>
         <content type="html"><![CDATA[5월 24일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔데스크 K-java 백엔드 스쿨 28기]]></title>
-        <id>https://festa.io/events/3515</id>
-        <link href="https://festa.io/events/3515"/>
-        <updated>2023-05-15T08:07:57.729Z</updated>
-        <content type="html"><![CDATA[6월 13일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DX Camp - 최고의 전문가와 함께하는 데이터 인재 인큐베이팅 프로그램]]></title>
-        <id>https://festa.io/events/3508</id>
-        <link href="https://festa.io/events/3508"/>
-        <updated>2023-05-15T06:08:19.493Z</updated>
-        <content type="html"><![CDATA[6월 19일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUSGCON (아우쓱콘)]]></title>
-        <id>https://festa.io/events/3504</id>
-        <link href="https://festa.io/events/3504"/>
-        <updated>2023-05-15T10:03:47.362Z</updated>
-        <content type="html"><![CDATA[6월 3일 (토) · 오프라인]]></content>
     </entry>
 </feed>
