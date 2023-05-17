@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-17T04:04:12.830Z</updated>
+    <updated>2023-05-17T05:02:22.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[KDT/내일배움카드] 클라우드기반 AI시스템 구축 실무자과정 (~6/25) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3530</id>
+        <link href="https://festa.io/events/3530"/>
+        <updated>2023-05-17T05:02:21.205Z</updated>
+        <content type="html"><![CDATA[6월 26일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[GDG Campus Korea] 사람을 찾습니다 (사이드프로젝트 팀원만나기) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3454</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3504"/>
         <updated>2023-05-15T10:03:47.362Z</updated>
         <content type="html"><![CDATA[6월 3일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iOS 아이가 (후원사용) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3506</id>
-        <link href="https://festa.io/events/3506"/>
-        <updated>2023-05-14T11:02:08.021Z</updated>
-        <content type="html"><![CDATA[5월 21일 (일) · 오프라인]]></content>
     </entry>
 </feed>
