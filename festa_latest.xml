@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-19T05:03:13.716Z</updated>
+    <updated>2023-05-19T06:08:14.561Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[파이썬 & 자바 개발자 양성과정]]></title>
+        <id>https://festa.io/events/3538</id>
+        <link href="https://festa.io/events/3538"/>
+        <updated>2023-05-19T06:08:13.890Z</updated>
+        <content type="html"><![CDATA[6월 29일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자 글로벌 커리어 컨퍼런스]]></title>
         <id>https://festa.io/events/3529</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3531"/>
         <updated>2023-05-17T08:12:41.345Z</updated>
         <content type="html"><![CDATA[6월 1일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KDT/내일배움카드] 클라우드기반 AI시스템 구축 실무자과정 (~6/25)]]></title>
-        <id>https://festa.io/events/3530</id>
-        <link href="https://festa.io/events/3530"/>
-        <updated>2023-05-17T05:02:21.205Z</updated>
-        <content type="html"><![CDATA[6월 26일 (월) · 오프라인]]></content>
     </entry>
 </feed>
