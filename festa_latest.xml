@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-19T11:02:09.834Z</updated>
+    <updated>2023-05-19T12:09:08.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[수료생에게 직접 듣는 부스트캠프 웹·모바일 8기 지원 꿀팁 <수료생과의 밋업>]]></title>
+        <id>https://festa.io/events/3541</id>
+        <link href="https://festa.io/events/3541"/>
+        <updated>2023-05-19T12:09:08.061Z</updated>
+        <content type="html"><![CDATA[5월 25일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-컬처 브랜드 단하주단, 미미달 여성 창업가의 창업 인사이트 강연과 워크숍]]></title>
         <id>https://festa.io/events/3539</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3533"/>
         <updated>2023-05-17T08:12:41.344Z</updated>
         <content type="html"><![CDATA[5월 14일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에이콘아카데미] 빅데이터분석(파이썬) & 자바 개발자 양성과정 ▶ 06월 29일 개강]]></title>
-        <id>https://festa.io/events/3532</id>
-        <link href="https://festa.io/events/3532"/>
-        <updated>2023-05-17T08:12:41.345Z</updated>
-        <content type="html"><![CDATA[6월 29일 (목) · 오프라인]]></content>
     </entry>
 </feed>
