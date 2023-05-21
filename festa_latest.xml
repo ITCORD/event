@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-21T09:02:13.123Z</updated>
+    <updated>2023-05-21T10:02:35.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Google I/O Extended Daejeon 2023]]></title>
+        <id>https://festa.io/events/3537</id>
+        <link href="https://festa.io/events/3537"/>
+        <updated>2023-05-21T10:02:35.009Z</updated>
+        <content type="html"><![CDATA[6월 10일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제2회 EXCELCON]]></title>
         <id>https://festa.io/events/3544</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3534"/>
         <updated>2023-05-18T08:06:55.365Z</updated>
         <content type="html"><![CDATA[5월 18일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[채용확정/기업지원/국비] 풀스택 개발자 취업과정 선착순 모집]]></title>
-        <id>https://festa.io/events/3469</id>
-        <link href="https://festa.io/events/3469"/>
-        <updated>2023-05-18T07:02:46.342Z</updated>
-        <content type="html"><![CDATA[5월 15일 (월) · 오프라인]]></content>
     </entry>
 </feed>
