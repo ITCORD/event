@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-24T06:08:21.037Z</updated>
+    <updated>2023-05-24T07:03:01.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[채용확정형] 백엔드 개발자 취업 과정]]></title>
+        <id>https://festa.io/events/3557</id>
+        <link href="https://festa.io/events/3557"/>
+        <updated>2023-05-24T07:03:00.934Z</updated>
+        <content type="html"><![CDATA[6월 20일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[파이콘 US 2023 후기 공유 세미나]]></title>
         <id>https://festa.io/events/3554</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3541"/>
         <updated>2023-05-19T12:09:08.061Z</updated>
         <content type="html"><![CDATA[5월 25일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-컬처 브랜드 단하주단, 미미달 여성 창업가의 창업 인사이트 강연과 워크숍]]></title>
-        <id>https://festa.io/events/3539</id>
-        <link href="https://festa.io/events/3539"/>
-        <updated>2023-05-19T07:02:43.526Z</updated>
-        <content type="html"><![CDATA[6월 8일 (목) · 오프라인]]></content>
     </entry>
 </feed>
