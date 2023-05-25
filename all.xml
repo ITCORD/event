@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-25T02:29:56.547Z</updated>
+    <updated>2023-05-25T03:02:36.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[연세대학교와 함께하는 창업 교육 [2023 창업 온앤오프 O·Y·D] (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -54,10 +54,10 @@
         <content type="html"><![CDATA[7월 3일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[고객 취향을 고려한 상품 개인화 추천 서비스, AiTEMS로 쉽게 시작하세요! #2(실습편) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3546</id>
-        <link href="https://festa.io/events/3546"/>
-        <updated>2023-05-22T10:03:46.199Z</updated>
-        <content type="html"><![CDATA[5월 25일 (목) · 온라인]]></content>
+        <title type="html"><![CDATA[Google I/O Extended Daejeon 2023 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3537</id>
+        <link href="https://festa.io/events/3537"/>
+        <updated>2023-05-25T03:02:35.531Z</updated>
+        <content type="html"><![CDATA[6월 10일 (토) · 오프라인]]></content>
     </entry>
 </feed>
