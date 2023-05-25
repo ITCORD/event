@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-25T08:09:42.193Z</updated>
+    <updated>2023-05-25T09:03:54.703Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 adiOS Summore]]></title>
+        <id>https://festa.io/events/3556</id>
+        <link href="https://festa.io/events/3556"/>
+        <updated>2023-05-25T09:03:53.902Z</updated>
+        <content type="html"><![CDATA[6월 24일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[연세대학교와 함께하는 창업 교육 [2023 창업 온앤오프 O·Y·D]]]></title>
         <id>https://festa.io/events/3562</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3552"/>
         <updated>2023-05-23T07:07:05.227Z</updated>
         <content type="html"><![CDATA[7월 3일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google I/O Extended Daejeon 2023]]></title>
-        <id>https://festa.io/events/3537</id>
-        <link href="https://festa.io/events/3537"/>
-        <updated>2023-05-25T03:02:35.531Z</updated>
-        <content type="html"><![CDATA[6월 10일 (토) · 오프라인]]></content>
     </entry>
 </feed>
