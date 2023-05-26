@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-26T07:01:57.036Z</updated>
+    <updated>2023-05-26T08:08:20.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP X AF] 챗GPT MS애저톤 수상작 성과공유회]]></title>
+        <id>https://festa.io/events/3577</id>
+        <link href="https://festa.io/events/3577"/>
+        <updated>2023-05-26T08:08:19.005Z</updated>
+        <content type="html"><![CDATA[6월 27일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] 양자머신러닝 국내외 연구동향]]></title>
+        <id>https://festa.io/events/3576</id>
+        <link href="https://festa.io/events/3576"/>
+        <updated>2023-05-26T08:08:19.016Z</updated>
+        <content type="html"><![CDATA[6월 20일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP X AF] Microsoft Build 2023 Community-Led After Parties]]></title>
         <id>https://festa.io/events/3574</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3562"/>
         <updated>2023-05-25T01:59:39.699Z</updated>
         <content type="html"><![CDATA[6월 30일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 시대에 인공지능은 필수입니다 - 아이펠 교육생 모집]]></title>
-        <id>https://festa.io/events/3561</id>
-        <link href="https://festa.io/events/3561"/>
-        <updated>2023-05-24T09:02:27.905Z</updated>
-        <content type="html"><![CDATA[6월 19일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천스타트업파크 [청년·스타트업] 네트워킹 참여기업 모집]]></title>
-        <id>https://festa.io/events/3558</id>
-        <link href="https://festa.io/events/3558"/>
-        <updated>2023-05-24T08:07:42.504Z</updated>
-        <content type="html"><![CDATA[7월 10일 (월) · 오프라인]]></content>
     </entry>
 </feed>
