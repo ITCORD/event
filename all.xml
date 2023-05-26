@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-05-26T04:03:33.462Z</updated>
+    <updated>2023-05-26T05:03:03.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[1:1법률상담] 6/20 수서동 기업 무료 법률 라운지 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3573</id>
+        <link href="https://festa.io/events/3573"/>
+        <updated>2023-05-26T05:03:02.816Z</updated>
+        <content type="html"><![CDATA[6월 20일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[저자 특강] 처음 배우는 NHN Cloud (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3567</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3557"/>
         <updated>2023-05-24T07:03:00.934Z</updated>
         <content type="html"><![CDATA[6월 20일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이콘 US 2023 후기 공유 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3554</id>
-        <link href="https://festa.io/events/3554"/>
-        <updated>2023-05-23T12:11:10.920Z</updated>
-        <content type="html"><![CDATA[6월 3일 (토) · 오프라인]]></content>
     </entry>
 </feed>
