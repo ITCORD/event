@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-29T11:02:24.498Z</updated>
+    <updated>2023-05-29T12:09:26.936Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국 SAFe 커뮤니티 6월 밋업]]></title>
+        <id>https://festa.io/events/3584</id>
+        <link href="https://festa.io/events/3584"/>
+        <updated>2023-05-29T12:09:26.324Z</updated>
+        <content type="html"><![CDATA[6월 15일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[야너두 NestJS!]]></title>
+        <id>https://festa.io/events/3585</id>
+        <link href="https://festa.io/events/3585"/>
+        <updated>2023-05-29T12:09:26.326Z</updated>
+        <content type="html"><![CDATA[6월 15일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 클라우드 플랫폼 Media 상품으로 만드는 미디어 통합 환경]]></title>
         <id>https://festa.io/events/3583</id>
@@ -45,20 +59,6 @@
         <id>https://festa.io/events/3576</id>
         <link href="https://festa.io/events/3576"/>
         <updated>2023-05-26T08:08:19.016Z</updated>
-        <content type="html"><![CDATA[6월 20일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP X AF] Microsoft Build 2023 Community-Led After Parties]]></title>
-        <id>https://festa.io/events/3574</id>
-        <link href="https://festa.io/events/3574"/>
-        <updated>2023-05-26T07:01:56.403Z</updated>
-        <content type="html"><![CDATA[6월 13일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[1:1법률상담] 6/20 수서동 기업 무료 법률 라운지]]></title>
-        <id>https://festa.io/events/3573</id>
-        <link href="https://festa.io/events/3573"/>
-        <updated>2023-05-26T05:03:02.816Z</updated>
         <content type="html"><![CDATA[6월 20일 (화) · 오프라인]]></content>
     </entry>
 </feed>
