@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-05-31T09:09:17.300Z</updated>
+    <updated>2023-05-31T10:09:06.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[스파크 실무 노하우 오프라인 캠프]]></title>
+        <id>https://festa.io/events/3599</id>
+        <link href="https://festa.io/events/3599"/>
+        <updated>2023-05-31T10:09:05.950Z</updated>
+        <content type="html"><![CDATA[5월 29일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[쿠버네티스 자격증 오프라인 캠프]]></title>
         <id>https://festa.io/events/3592</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3583"/>
         <updated>2023-05-29T09:02:22.847Z</updated>
         <content type="html"><![CDATA[6월 1일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프로모션] 10분이면 충분! 모바일 앱 보안 서비스 앱실링 🔐]]></title>
-        <id>https://festa.io/events/3582</id>
-        <link href="https://festa.io/events/3582"/>
-        <updated>2023-05-29T09:02:22.855Z</updated>
-        <content type="html"><![CDATA[2월 22일 (수) · 온라인]]></content>
     </entry>
 </feed>
