@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-02T00:31:31.806Z</updated>
+    <updated>2023-06-02T02:17:08.796Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[챗GPT] 올빼미 클럽 3회차 세미나 '생성형 AI 기술분야 트렌드 동향']]></title>
+        <id>https://festa.io/events/3608</id>
+        <link href="https://festa.io/events/3608"/>
+        <updated>2023-06-02T02:17:08.160Z</updated>
+        <content type="html"><![CDATA[6월 15일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Build After Party 2023 x .NET Dev]]></title>
         <id>https://festa.io/events/3605</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3594"/>
         <updated>2023-05-30T08:08:09.702Z</updated>
         <content type="html"><![CDATA[5월 30일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이썬으로 쉽게 웹이든 데스크탑이든 GUI를 만들어봐요!]]></title>
-        <id>https://festa.io/events/3587</id>
-        <link href="https://festa.io/events/3587"/>
-        <updated>2023-05-30T02:05:11.375Z</updated>
-        <content type="html"><![CDATA[6월 8일 (목) · 오프라인]]></content>
     </entry>
 </feed>
