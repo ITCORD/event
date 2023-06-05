@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-05T10:03:09.100Z</updated>
+    <updated>2023-06-05T11:01:48.586Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA['진짜' 일잘러를 찾아라, 일잘러 퀴즈 대회]]></title>
+        <id>https://festa.io/events/3620</id>
+        <link href="https://festa.io/events/3620"/>
+        <updated>2023-06-05T11:01:47.995Z</updated>
+        <content type="html"><![CDATA[6월 24일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[무중단 배포가 가능한 API Gateway, NGINX Plus]]></title>
         <id>https://festa.io/events/3619</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3601"/>
         <updated>2023-06-01T02:43:37.364Z</updated>
         <content type="html"><![CDATA[6월 14일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스파크 실무 노하우 오프라인 캠프]]></title>
-        <id>https://festa.io/events/3599</id>
-        <link href="https://festa.io/events/3599"/>
-        <updated>2023-05-31T10:09:05.950Z</updated>
-        <content type="html"><![CDATA[5월 29일 (월) · 오프라인]]></content>
     </entry>
 </feed>
