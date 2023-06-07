@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-07T07:03:39.783Z</updated>
+    <updated>2023-06-07T09:03:28.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ChatGPT 시대에 인공지능은 필수입니다 - 아이펠 교육생 모집]]></title>
+        <id>https://festa.io/events/3627</id>
+        <link href="https://festa.io/events/3627"/>
+        <updated>2023-06-07T09:03:27.451Z</updated>
+        <content type="html"><![CDATA[6월 19일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA["아주-사적인" SV 네트워킹 with 투자자 패널톡]]></title>
+        <id>https://festa.io/events/3626</id>
+        <link href="https://festa.io/events/3626"/>
+        <updated>2023-06-07T09:03:27.451Z</updated>
+        <content type="html"><![CDATA[6월 8일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당근 SRE 밋업 제3회]]></title>
+        <id>https://festa.io/events/3600</id>
+        <link href="https://festa.io/events/3600"/>
+        <updated>2023-06-07T09:03:27.453Z</updated>
+        <content type="html"><![CDATA[6월 15일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 6월 모임]]></title>
         <id>https://festa.io/events/3624</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/3612"/>
         <updated>2023-06-02T08:05:48.308Z</updated>
         <content type="html"><![CDATA[6월 19일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챗GPT] 올빼미 클럽 3회차 세미나 '생성형 AI 기술분야 트렌드 동향']]></title>
-        <id>https://festa.io/events/3608</id>
-        <link href="https://festa.io/events/3608"/>
-        <updated>2023-06-02T02:17:08.160Z</updated>
-        <content type="html"><![CDATA[6월 15일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build After Party 2023 x .NET Dev]]></title>
-        <id>https://festa.io/events/3605</id>
-        <link href="https://festa.io/events/3605"/>
-        <updated>2023-06-01T10:03:04.876Z</updated>
-        <content type="html"><![CDATA[6월 10일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1개월 이내 매출 200만 원 만들기 강의 (6/8~)(feat 미친 스마트 스토어) (선착순 인원한정)]]></title>
-        <id>https://festa.io/events/3606</id>
-        <link href="https://festa.io/events/3606"/>
-        <updated>2023-06-01T10:03:04.877Z</updated>
-        <content type="html"><![CDATA[6월 8일 (목) · 오프라인]]></content>
     </entry>
 </feed>
