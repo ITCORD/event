@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-08T02:19:58.712Z</updated>
+    <updated>2023-06-08T03:12:08.685Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA와 함께하는 AI 스타트업 Meet up Day (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3631</id>
+        <link href="https://festa.io/events/3631"/>
+        <updated>2023-06-08T03:12:07.948Z</updated>
+        <content type="html"><![CDATA[6월 20일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[IT전문 교육기관 스나이퍼팩토리 서포터즈 '스팩타클' 3기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3630</id>
@@ -45,13 +52,6 @@
         <link href="https://festa.io/events/3620"/>
         <updated>2023-06-05T11:01:47.995Z</updated>
         <content type="html"><![CDATA[6월 24일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무중단 배포가 가능한 API Gateway, NGINX Plus (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3619</id>
-        <link href="https://festa.io/events/3619"/>
-        <updated>2023-06-05T10:03:08.344Z</updated>
-        <content type="html"><![CDATA[6월 8일 (목) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[제7회 MendIT Day] 기업 Digital Transformation 가속을 위한 Low-code 개발 플랫폼 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
