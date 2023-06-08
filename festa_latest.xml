@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-08T00:32:31.009Z</updated>
+    <updated>2023-06-08T02:19:58.710Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[IT전문 교육기관 스나이퍼팩토리 서포터즈 '스팩타클' 3기 모집]]></title>
+        <id>https://festa.io/events/3630</id>
+        <link href="https://festa.io/events/3630"/>
+        <updated>2023-06-08T02:19:58.085Z</updated>
+        <content type="html"><![CDATA[7월 3일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ChatGPT 시대에 인공지능은 필수입니다 - 아이펠 교육생 모집]]></title>
         <id>https://festa.io/events/3627</id>
@@ -48,17 +55,10 @@
         <content type="html"><![CDATA[6월 8일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[iOS meets ML]]></title>
-        <id>https://festa.io/events/3615</id>
-        <link href="https://festa.io/events/3615"/>
-        <updated>2023-06-04T12:08:54.547Z</updated>
-        <content type="html"><![CDATA[7월 8일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인덕대학교/무료] DCX기반 빅데이터 분석 실무 역량과정 (~6/18)]]></title>
-        <id>https://festa.io/events/3612</id>
-        <link href="https://festa.io/events/3612"/>
-        <updated>2023-06-02T08:05:48.308Z</updated>
-        <content type="html"><![CDATA[6월 19일 (월) · 오프라인]]></content>
+        <title type="html"><![CDATA[[제7회 MendIT Day] 기업 Digital Transformation 가속을 위한 Low-code 개발 플랫폼 세미나]]></title>
+        <id>https://festa.io/events/3616</id>
+        <link href="https://festa.io/events/3616"/>
+        <updated>2023-06-08T02:19:58.094Z</updated>
+        <content type="html"><![CDATA[6월 14일 (수) · 온라인]]></content>
     </entry>
 </feed>
