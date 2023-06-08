@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-08T04:03:17.536Z</updated>
+    <updated>2023-06-08T05:02:54.173Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[마감임박]ChatGPT 시대에 인공지능은 필수입니다 - 아이펠 교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -47,17 +47,17 @@
         <content type="html"><![CDATA[6월 8일 (목) · 오프라인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA['요금 폭탄 없이, 가성비 있게 AWS 쓰는 쉬운 방법' 웨비나 신청 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3625</id>
+        <link href="https://festa.io/events/3625"/>
+        <updated>2023-06-08T05:02:53.386Z</updated>
+        <content type="html"><![CDATA[6월 14일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[당근 SRE 밋업 제3회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3600</id>
         <link href="https://festa.io/events/3600"/>
         <updated>2023-06-07T09:03:27.453Z</updated>
         <content type="html"><![CDATA[6월 15일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 6월 모임 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3624</id>
-        <link href="https://festa.io/events/3624"/>
-        <updated>2023-06-06T07:02:07.461Z</updated>
-        <content type="html"><![CDATA[6월 29일 (목) · 오프라인]]></content>
     </entry>
 </feed>
