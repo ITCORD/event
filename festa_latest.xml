@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-08T03:12:08.683Z</updated>
+    <updated>2023-06-08T04:03:17.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[마감임박]ChatGPT 시대에 인공지능은 필수입니다 - 아이펠 교육생 모집]]></title>
+        <id>https://festa.io/events/3634</id>
+        <link href="https://festa.io/events/3634"/>
+        <updated>2023-06-08T04:03:16.957Z</updated>
+        <content type="html"><![CDATA[6월 15일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[월간 네이버웍스 [Expert Salon] : 마케터의 현업 이야기]]></title>
+        <id>https://festa.io/events/3632</id>
+        <link href="https://festa.io/events/3632"/>
+        <updated>2023-06-08T04:03:16.959Z</updated>
+        <content type="html"><![CDATA[6월 22일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무료] 우리는 왜 ChatGPT에 열광할까?]]></title>
+        <id>https://festa.io/events/3633</id>
+        <link href="https://festa.io/events/3633"/>
+        <updated>2023-06-08T04:03:16.962Z</updated>
+        <content type="html"><![CDATA[6월 21일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[NVIDIA와 함께하는 AI 스타트업 Meet up Day]]></title>
         <id>https://festa.io/events/3631</id>
@@ -18,13 +39,6 @@
         <link href="https://festa.io/events/3630"/>
         <updated>2023-06-08T02:19:58.085Z</updated>
         <content type="html"><![CDATA[7월 3일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ChatGPT 시대에 인공지능은 필수입니다 - 아이펠 교육생 모집]]></title>
-        <id>https://festa.io/events/3627</id>
-        <link href="https://festa.io/events/3627"/>
-        <updated>2023-06-07T09:03:27.451Z</updated>
-        <content type="html"><![CDATA[6월 19일 (월) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA["아주-사적인" SV 네트워킹 with 투자자 패널톡]]></title>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3624"/>
         <updated>2023-06-06T07:02:07.461Z</updated>
         <content type="html"><![CDATA[6월 29일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA['진짜' 일잘러를 찾아라, 일잘러 퀴즈 대회]]></title>
-        <id>https://festa.io/events/3620</id>
-        <link href="https://festa.io/events/3620"/>
-        <updated>2023-06-05T11:01:47.995Z</updated>
-        <content type="html"><![CDATA[6월 24일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제7회 MendIT Day] 기업 Digital Transformation 가속을 위한 Low-code 개발 플랫폼 세미나]]></title>
-        <id>https://festa.io/events/3616</id>
-        <link href="https://festa.io/events/3616"/>
-        <updated>2023-06-08T02:19:58.094Z</updated>
-        <content type="html"><![CDATA[6월 14일 (수) · 온라인]]></content>
     </entry>
 </feed>
