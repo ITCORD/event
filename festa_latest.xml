@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-11T16:03:08.443Z</updated>
+    <updated>2023-06-11T17:02:06.858Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제주도민 모두를 위한 제주를 커밋하다!]]></title>
+        <id>https://festa.io/events/3647</id>
+        <link href="https://festa.io/events/3647"/>
+        <updated>2023-06-11T17:02:06.148Z</updated>
+        <content type="html"><![CDATA[6월 24일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해커그라운드 컨퍼런스]]></title>
         <id>https://festa.io/events/3645</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3632"/>
         <updated>2023-06-08T04:03:16.959Z</updated>
         <content type="html"><![CDATA[6월 22일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료] 우리는 왜 ChatGPT에 열광할까?]]></title>
-        <id>https://festa.io/events/3633</id>
-        <link href="https://festa.io/events/3633"/>
-        <updated>2023-06-08T04:03:16.962Z</updated>
-        <content type="html"><![CDATA[6월 21일 (수) · 오프라인]]></content>
     </entry>
 </feed>
