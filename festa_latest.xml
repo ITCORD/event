@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-12T09:02:45.934Z</updated>
+    <updated>2023-06-12T10:03:02.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[AI 서비스 완성! AI+웹 개발 취업캠프 (프론트엔드&백엔드) [서울 ICT이노베이션스퀘어]]]></title>
-        <id>https://festa.io/events/3651</id>
-        <link href="https://festa.io/events/3651"/>
-        <updated>2023-06-12T08:08:19.128Z</updated>
-        <content type="html"><![CDATA[7월 17일 (월) · 온라인]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[방구석인디게임쇼 BIGS 2023]]></title>
         <id>https://festa.io/events/3650</id>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/3639"/>
         <updated>2023-06-09T03:15:20.736Z</updated>
         <content type="html"><![CDATA[6월 15일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인덕대학교/무료] AI 서비스 개발 실무 역량과정 (~7/19)]]></title>
+        <id>https://festa.io/events/3638</id>
+        <link href="https://festa.io/events/3638"/>
+        <updated>2023-06-12T10:03:01.532Z</updated>
+        <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
     </entry>
 </feed>
