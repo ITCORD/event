@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-12T05:02:38.781Z</updated>
+    <updated>2023-06-12T06:08:00.340Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방구석인디게임쇼 BIGS 2023]]></title>
+        <id>https://festa.io/events/3650</id>
+        <link href="https://festa.io/events/3650"/>
+        <updated>2023-06-12T06:07:59.692Z</updated>
+        <content type="html"><![CDATA[5월 30일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인천테크노파크 「청년-스타트업 네트워킹 프로그램」 참여 청년 모집]]></title>
+        <id>https://festa.io/events/3637</id>
+        <link href="https://festa.io/events/3637"/>
+        <updated>2023-06-12T06:07:59.694Z</updated>
+        <content type="html"><![CDATA[6월 8일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제주도민 모두를 위한 제주를 커밋하다!]]></title>
         <id>https://festa.io/events/3647</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3638"/>
         <updated>2023-06-09T03:15:20.742Z</updated>
         <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DCX기반 빅데이터 분석서비스 개발자과정]]></title>
-        <id>https://festa.io/events/3636</id>
-        <link href="https://festa.io/events/3636"/>
-        <updated>2023-06-09T02:21:20.862Z</updated>
-        <content type="html"><![CDATA[6월 9일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월간 네이버웍스 [Expert Salon] : 마케터의 현업 이야기]]></title>
-        <id>https://festa.io/events/3632</id>
-        <link href="https://festa.io/events/3632"/>
-        <updated>2023-06-08T04:03:16.959Z</updated>
-        <content type="html"><![CDATA[6월 22일 (목) · 온라인]]></content>
     </entry>
 </feed>
