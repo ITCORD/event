@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-13T12:10:38.829Z</updated>
+    <updated>2023-06-13T13:09:27.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[씨앗 아키텍처 소모임 (6월) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3655</id>
+        <link href="https://festa.io/events/3655"/>
+        <updated>2023-06-13T13:09:26.295Z</updated>
+        <content type="html"><![CDATA[6월 24일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 서비스 완성! AI+웹 개발 취업캠프 (프론트엔드&백엔드) [서울 ICT이노베이션스퀘어] (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3651</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3642"/>
         <updated>2023-06-09T05:02:41.623Z</updated>
         <content type="html"><![CDATA[7월 19일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마감임박]ChatGPT 시대에 인공지능은 필수입니다 - 아이펠 교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3641</id>
-        <link href="https://festa.io/events/3641"/>
-        <updated>2023-06-09T03:15:20.735Z</updated>
-        <content type="html"><![CDATA[6월 19일 (월) · 온라인]]></content>
     </entry>
 </feed>
