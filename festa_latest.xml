@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-13T16:04:47.373Z</updated>
+    <updated>2023-06-13T17:03:10.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[유월엔 아키텍처 소모임]]></title>
+        <title type="html"><![CDATA[유월엔 아키텍처]]></title>
         <id>https://festa.io/events/3655</id>
         <link href="https://festa.io/events/3655"/>
         <updated>2023-06-13T13:09:26.295Z</updated>
