@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-14T04:03:21.339Z</updated>
+    <updated>2023-06-14T05:03:11.319Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[KAIT/과기정통부] 디지털 마이더스 양성 교육 교육생 모집(전액무료)]]></title>
+        <id>https://festa.io/events/3657</id>
+        <link href="https://festa.io/events/3657"/>
+        <updated>2023-06-14T05:03:10.535Z</updated>
+        <content type="html"><![CDATA[6월 28일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GitHub Actions, Container Registry를 활용한 CI/CD 파이프라인 구축하기]]></title>
         <id>https://festa.io/events/3653</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3637"/>
         <updated>2023-06-12T06:07:59.694Z</updated>
         <content type="html"><![CDATA[6월 8일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제주도민 모두를 위한 제주를 커밋하다!]]></title>
-        <id>https://festa.io/events/3647</id>
-        <link href="https://festa.io/events/3647"/>
-        <updated>2023-06-11T17:02:06.148Z</updated>
-        <content type="html"><![CDATA[6월 24일 (토) · 오프라인]]></content>
     </entry>
 </feed>
