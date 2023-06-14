@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-14T09:02:34.826Z</updated>
+    <updated>2023-06-14T10:02:39.647Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[나만의 미디어 플레이어 제작하기 Video Player Enhancement (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3658</id>
+        <link href="https://festa.io/events/3658"/>
+        <updated>2023-06-14T10:02:39.022Z</updated>
+        <content type="html"><![CDATA[6월 22일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KAIT/과기정통부] 디지털 마이더스 양성 교육 교육생 모집(전액무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3657</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3650"/>
         <updated>2023-06-12T06:07:59.692Z</updated>
         <content type="html"><![CDATA[5월 30일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인천테크노파크 「청년-스타트업 네트워킹 프로그램」 참여 청년 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3637</id>
-        <link href="https://festa.io/events/3637"/>
-        <updated>2023-06-12T06:07:59.694Z</updated>
-        <content type="html"><![CDATA[6월 8일 (목) · 오프라인]]></content>
     </entry>
 </feed>
