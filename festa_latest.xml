@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-14T00:32:02.943Z</updated>
+    <updated>2023-06-14T02:08:25.814Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GitLab Korea Meetup #16 - GitLab + AI로 개발 생산성 높이기]]></title>
+        <id>https://festa.io/events/3656</id>
+        <link href="https://festa.io/events/3656"/>
+        <updated>2023-06-14T02:08:25.224Z</updated>
+        <content type="html"><![CDATA[6월 26일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유월엔 아키텍처]]></title>
         <id>https://festa.io/events/3655</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3645"/>
         <updated>2023-06-10T11:02:12.006Z</updated>
         <content type="html"><![CDATA[6월 21일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자바(JAVA)중심 풀스택 캠프]]></title>
-        <id>https://festa.io/events/3642</id>
-        <link href="https://festa.io/events/3642"/>
-        <updated>2023-06-09T05:02:41.623Z</updated>
-        <content type="html"><![CDATA[7월 19일 (수) · 오프라인]]></content>
     </entry>
 </feed>
