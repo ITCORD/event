@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-15T04:03:48.988Z</updated>
+    <updated>2023-06-15T05:02:43.847Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[[AWS] 2023 Busan Cloud Day에 초대합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <title type="html"><![CDATA[[AWS] 2023 부산 클라우드데이에 초대합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3661</id>
         <link href="https://festa.io/events/3661"/>
         <updated>2023-06-15T04:03:48.368Z</updated>
