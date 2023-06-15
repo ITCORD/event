@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-15T03:03:25.270Z</updated>
+    <updated>2023-06-15T04:03:48.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[AWS] 2023 Busan Cloud Day에 초대합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3661</id>
+        <link href="https://festa.io/events/3661"/>
+        <updated>2023-06-15T04:03:48.368Z</updated>
+        <content type="html"><![CDATA[7월 4일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[LIVE] 구글 엔지니어는 이렇게 일한다 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3659</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3655"/>
         <updated>2023-06-13T13:09:26.295Z</updated>
         <content type="html"><![CDATA[6월 24일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 서비스 완성! AI+웹 개발 취업캠프 (프론트엔드&백엔드) [서울 ICT이노베이션스퀘어] (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3651</id>
-        <link href="https://festa.io/events/3651"/>
-        <updated>2023-06-13T02:08:58.738Z</updated>
-        <content type="html"><![CDATA[7월 17일 (월) · 온라인]]></content>
     </entry>
 </feed>
