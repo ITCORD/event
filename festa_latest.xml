@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-15T08:07:57.221Z</updated>
+    <updated>2023-06-15T09:02:34.885Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023년 Flutter 모바일 어플리케이션 부트캠프 과정 3기 수강생 모집]]></title>
+        <id>https://festa.io/events/3664</id>
+        <link href="https://festa.io/events/3664"/>
+        <updated>2023-06-15T09:02:34.280Z</updated>
+        <content type="html"><![CDATA[7월 5일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔데스크 국비지원 - AWS-Azure 공인교육 7월과정]]></title>
+        <id>https://festa.io/events/3663</id>
+        <link href="https://festa.io/events/3663"/>
+        <updated>2023-06-15T09:02:34.289Z</updated>
+        <content type="html"><![CDATA[7월 4일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[1:1법률상담] 7/6 상가 독점영업권 분쟁 관련 무료 법률 라운지]]></title>
         <id>https://festa.io/events/3662</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3657"/>
         <updated>2023-06-14T05:03:10.535Z</updated>
         <content type="html"><![CDATA[6월 28일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitHub Actions, Container Registry를 활용한 CI/CD 파이프라인 구축하기]]></title>
-        <id>https://festa.io/events/3653</id>
-        <link href="https://festa.io/events/3653"/>
-        <updated>2023-06-14T04:03:20.537Z</updated>
-        <content type="html"><![CDATA[6월 27일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Korea Meetup #16 - GitLab + AI로 개발 생산성 높이기]]></title>
-        <id>https://festa.io/events/3656</id>
-        <link href="https://festa.io/events/3656"/>
-        <updated>2023-06-14T02:08:25.224Z</updated>
-        <content type="html"><![CDATA[6월 26일 (월) · 온라인]]></content>
     </entry>
 </feed>
