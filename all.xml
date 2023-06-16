@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-16T07:03:22.646Z</updated>
+    <updated>2023-06-16T08:08:00.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(무료)강사양성 교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3667</id>
+        <link href="https://festa.io/events/3667"/>
+        <updated>2023-06-16T08:07:59.450Z</updated>
+        <content type="html"><![CDATA[6월 16일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023년 Flutter 모바일 어플리케이션 부트캠프 과정 3기 수강생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3664</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3658"/>
         <updated>2023-06-14T10:02:39.022Z</updated>
         <content type="html"><![CDATA[6월 22일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAIT/과기정통부] 디지털 마이더스 양성 교육 교육생 모집(전액무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3657</id>
-        <link href="https://festa.io/events/3657"/>
-        <updated>2023-06-14T05:03:10.535Z</updated>
-        <content type="html"><![CDATA[6월 28일 (수) · 오프라인]]></content>
     </entry>
 </feed>
