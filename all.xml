@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-06-19T09:03:49.870Z</updated>
+    <updated>2023-06-19T10:03:00.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[웨비나 초대] 06/29(목) 락플레이스와 다이나트레이스의 첫 번째 웨비나에 여러분들을 초대합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3678</id>
+        <link href="https://festa.io/events/3678"/>
+        <updated>2023-06-19T10:02:59.461Z</updated>
+        <content type="html"><![CDATA[6월 29일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft Build Korea (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3684</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3662"/>
         <updated>2023-06-15T06:08:13.431Z</updated>
         <content type="html"><![CDATA[7월 6일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AWS] 2023 부산 클라우드데이에 초대합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3661</id>
-        <link href="https://festa.io/events/3661"/>
-        <updated>2023-06-15T04:03:48.368Z</updated>
-        <content type="html"><![CDATA[7월 4일 (화) · 오프라인]]></content>
     </entry>
 </feed>
