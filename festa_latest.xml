@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-20T04:04:28.526Z</updated>
+    <updated>2023-06-20T05:03:01.387Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[[개.똑.디] 디자인 시스템 웨비나, 지금 바로 초대합니다!+깜짝이벤트]]></title>
+        <title type="html"><![CDATA[[개.똑.디] 디자인 시스템 웨비나, 지금 바로 초대합니다!+깜짝이벤트(티켓 오류로 등록 못하신 분들! 지금 다시 한번 확인해보세요!)]]></title>
         <id>https://festa.io/events/3685</id>
         <link href="https://festa.io/events/3685"/>
         <updated>2023-06-20T02:03:25.593Z</updated>
