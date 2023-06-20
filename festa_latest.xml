@@ -2,15 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-20T02:03:26.267Z</updated>
+    <updated>2023-06-20T03:03:55.597Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[[개.똑.디] 디자인 시스템 웨비나]]></title>
+        <title type="html"><![CDATA[[개.똑.디] 디자인 시스템 웨비나, 지금 바로 초대합니다!+깜짝이벤트]]></title>
         <id>https://festa.io/events/3685</id>
         <link href="https://festa.io/events/3685"/>
         <updated>2023-06-20T02:03:25.593Z</updated>
-        <content type="html"><![CDATA[6월 19일 (월) · 온라인]]></content>
+        <content type="html"><![CDATA[6월 29일 (목) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[웨비나 초대] 06/29(목) 락플레이스와 다이나트레이스의 첫 번째 웨비나에 여러분들을 초대합니다!]]></title>
