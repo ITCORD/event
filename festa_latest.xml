@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-20T00:30:56.800Z</updated>
+    <updated>2023-06-20T02:03:26.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[개.똑.디] 디자인 시스템 웨비나]]></title>
+        <id>https://festa.io/events/3685</id>
+        <link href="https://festa.io/events/3685"/>
+        <updated>2023-06-20T02:03:25.593Z</updated>
+        <content type="html"><![CDATA[6월 19일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[웨비나 초대] 06/29(목) 락플레이스와 다이나트레이스의 첫 번째 웨비나에 여러분들을 초대합니다!]]></title>
         <id>https://festa.io/events/3678</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3663"/>
         <updated>2023-06-15T09:02:34.289Z</updated>
         <content type="html"><![CDATA[7월 4일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[1:1법률상담] 7/6 상가 독점영업권 분쟁 관련 무료 법률 라운지]]></title>
-        <id>https://festa.io/events/3662</id>
-        <link href="https://festa.io/events/3662"/>
-        <updated>2023-06-15T06:08:13.431Z</updated>
-        <content type="html"><![CDATA[7월 6일 (목) · 오프라인]]></content>
     </entry>
 </feed>
