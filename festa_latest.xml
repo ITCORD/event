@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-21T07:02:06.432Z</updated>
+    <updated>2023-06-21T08:08:28.097Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[NKHR] 제3국 출생 북한이탈주민 자녀의 안정적 정착을 위한 세미나]]></title>
+        <id>https://festa.io/events/3692</id>
+        <link href="https://festa.io/events/3692"/>
+        <updated>2023-06-21T08:08:27.210Z</updated>
+        <content type="html"><![CDATA[6월 29일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔데스크 재직자 AWS 리눅스 챗GPT 도커 쿠버네티스 서버가상화 CCNA 전액무료교육]]></title>
         <id>https://festa.io/events/3690</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/3685</id>
         <link href="https://festa.io/events/3685"/>
         <updated>2023-06-20T02:03:25.593Z</updated>
-        <content type="html"><![CDATA[6월 29일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[웨비나 초대] 06/29(목) 락플레이스와 다이나트레이스의 첫 번째 웨비나에 여러분들을 초대합니다!]]></title>
-        <id>https://festa.io/events/3678</id>
-        <link href="https://festa.io/events/3678"/>
-        <updated>2023-06-19T10:02:59.461Z</updated>
         <content type="html"><![CDATA[6월 29일 (목) · 온라인]]></content>
     </entry>
 </feed>
