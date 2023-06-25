@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-25T05:03:08.407Z</updated>
+    <updated>2023-06-25T06:08:28.909Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[C++ Korea 2023 격월 Meet-Up(6월)]]></title>
+        <id>https://festa.io/events/3676</id>
+        <link href="https://festa.io/events/3676"/>
+        <updated>2023-06-25T06:08:28.180Z</updated>
+        <content type="html"><![CDATA[7월 8일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[강의하는 것에 관심이 있는 사람들을 위한 정보공유 모임]]></title>
         <id>https://festa.io/events/3701</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3689"/>
         <updated>2023-06-21T02:05:31.904Z</updated>
         <content type="html"><![CDATA[7월 29일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT/창업 고등학생들과 현업 선배들이 연결되는 순간!]]></title>
-        <id>https://festa.io/events/3688</id>
-        <link href="https://festa.io/events/3688"/>
-        <updated>2023-06-21T02:05:31.906Z</updated>
-        <content type="html"><![CDATA[8월 4일 (금) · 오프라인]]></content>
     </entry>
 </feed>
