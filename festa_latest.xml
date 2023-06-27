@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-27T06:08:45.877Z</updated>
+    <updated>2023-06-27T07:02:47.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[국비지원]8월8일 무료교육 빅데이터 자바 백엔드 개발자 혼합훈련]]></title>
+        <id>https://festa.io/events/3711</id>
+        <link href="https://festa.io/events/3711"/>
+        <updated>2023-06-27T07:02:46.355Z</updated>
+        <content type="html"><![CDATA[6월 27일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[모두의연구소]실전 프로젝트로 성장하는 아이펠 쏘카캠퍼스 모집(~7/21)]]></title>
         <id>https://festa.io/events/3710</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3700"/>
         <updated>2023-06-23T09:04:10.024Z</updated>
         <content type="html"><![CDATA[7월 27일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CJ올리브네트웍스] AI/DATA 심화 교육생 모집 (~7.10)]]></title>
-        <id>https://festa.io/events/3697</id>
-        <link href="https://festa.io/events/3697"/>
-        <updated>2023-06-22T07:03:14.404Z</updated>
-        <content type="html"><![CDATA[7월 17일 (월) · 오프라인]]></content>
     </entry>
 </feed>
