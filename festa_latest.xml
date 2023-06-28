@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-28T07:03:13.494Z</updated>
+    <updated>2023-06-28T08:09:59.874Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[누구나 사용 가능한 클라우드 스토리지, 네이버 클라우드 플랫폼 Storage 서비스 알아보기]]></title>
+        <id>https://festa.io/events/3715</id>
+        <link href="https://festa.io/events/3715"/>
+        <updated>2023-06-28T08:09:59.008Z</updated>
+        <content type="html"><![CDATA[7월 13일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만의 미디어 플레이어 제작하기 Video Player Enhancement]]></title>
+        <id>https://festa.io/events/3714</id>
+        <link href="https://festa.io/events/3714"/>
+        <updated>2023-06-28T08:09:59.010Z</updated>
+        <content type="html"><![CDATA[7월 6일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 유니티(Unity)활용 실감형콘텐츠(메타버스/VR/AR) 제작]]></title>
         <id>https://festa.io/events/3713</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3703"/>
         <updated>2023-06-26T04:08:52.249Z</updated>
         <content type="html"><![CDATA[7월 18일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] 주식 초보를 위한 AI : 금융 특화 언어모델기반 서비스]]></title>
-        <id>https://festa.io/events/3702</id>
-        <link href="https://festa.io/events/3702"/>
-        <updated>2023-06-26T03:25:27.438Z</updated>
-        <content type="html"><![CDATA[7월 11일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Korea 2023 격월 Meet-Up(6월)]]></title>
-        <id>https://festa.io/events/3676</id>
-        <link href="https://festa.io/events/3676"/>
-        <updated>2023-06-25T06:08:28.180Z</updated>
-        <content type="html"><![CDATA[7월 8일 (토) · 오프라인]]></content>
     </entry>
 </feed>
