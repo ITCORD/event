@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-06-28T08:09:59.874Z</updated>
+    <updated>2023-06-28T09:03:57.596Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[영어 원서읽는 습관들이기 함께합시다!]]></title>
+        <id>https://festa.io/events/3707</id>
+        <link href="https://festa.io/events/3707"/>
+        <updated>2023-06-28T09:03:56.783Z</updated>
+        <content type="html"><![CDATA[7월 9일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[누구나 사용 가능한 클라우드 스토리지, 네이버 클라우드 플랫폼 Storage 서비스 알아보기]]></title>
         <id>https://festa.io/events/3715</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3706"/>
         <updated>2023-06-26T13:16:37.425Z</updated>
         <content type="html"><![CDATA[7월 21일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] Blockchain + AI | 블록체인과 AI가 만드는 스마트한 미래]]></title>
-        <id>https://festa.io/events/3703</id>
-        <link href="https://festa.io/events/3703"/>
-        <updated>2023-06-26T04:08:52.249Z</updated>
-        <content type="html"><![CDATA[7월 18일 (화) · 오프라인]]></content>
     </entry>
 </feed>
