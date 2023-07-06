@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-06T04:08:42.352Z</updated>
+    <updated>2023-07-06T05:04:07.672Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[방구석인디게임쇼 BIGS 2023]]></title>
+        <id>https://festa.io/events/3736</id>
+        <link href="https://festa.io/events/3736"/>
+        <updated>2023-07-06T05:04:07.051Z</updated>
+        <content type="html"><![CDATA[5월 31일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SEOULTECH-NVIDIA DLI 전문가 직강 워크숍-딥러닝의 기초]]></title>
         <id>https://festa.io/events/3734</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3720"/>
         <updated>2023-06-30T08:08:38.792Z</updated>
         <content type="html"><![CDATA[7월 7일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[개.똑.디 2탄!] 디자인 시스템 웨비나, 지금 바로 초대합니다!+깜짝이벤트있어요!]]></title>
-        <id>https://festa.io/events/3719</id>
-        <link href="https://festa.io/events/3719"/>
-        <updated>2023-06-30T06:08:59.104Z</updated>
-        <content type="html"><![CDATA[7월 6일 (목) · 온라인]]></content>
     </entry>
 </feed>
