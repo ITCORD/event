@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-06T02:24:51.804Z</updated>
+    <updated>2023-07-06T03:22:51.028Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SEOULTECH-NVIDIA DLI 전문가 직강 워크숍-딥러닝의 기초]]></title>
+        <id>https://festa.io/events/3734</id>
+        <link href="https://festa.io/events/3734"/>
+        <updated>2023-07-06T03:22:50.395Z</updated>
+        <content type="html"><![CDATA[7월 10일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[모두의연구소]실전 프로젝트로 성장하는 아이펠 쏘카캠퍼스 모집(~7/21)]]></title>
         <id>https://festa.io/events/3732</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3719"/>
         <updated>2023-06-30T06:08:59.104Z</updated>
         <content type="html"><![CDATA[7월 6일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TensorFlow Korea LLM Day]]></title>
-        <id>https://festa.io/events/3717</id>
-        <link href="https://festa.io/events/3717"/>
-        <updated>2023-06-29T08:18:28.554Z</updated>
-        <content type="html"><![CDATA[7월 13일 (목) · 오프라인]]></content>
     </entry>
 </feed>
