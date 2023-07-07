@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-07T06:08:54.153Z</updated>
+    <updated>2023-07-07T07:02:45.737Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA]]></title>
+        <id>https://festa.io/events/3709</id>
+        <link href="https://festa.io/events/3709"/>
+        <updated>2023-07-07T07:02:45.053Z</updated>
+        <content type="html"><![CDATA[7월 15일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 클라우드 플랫폼 Compute 상품 업데이트 내용 소개]]></title>
         <id>https://festa.io/events/3730</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3732"/>
         <updated>2023-07-05T09:03:51.667Z</updated>
         <content type="html"><![CDATA[6월 14일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IT/창업 고등학생들과 현업 선배들이 연결되는 순간!]]></title>
-        <id>https://festa.io/events/3688</id>
-        <link href="https://festa.io/events/3688"/>
-        <updated>2023-07-05T08:09:22.036Z</updated>
-        <content type="html"><![CDATA[8월 4일 (금) · 오프라인]]></content>
     </entry>
 </feed>
