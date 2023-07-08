@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-08T13:12:44.849Z</updated>
+    <updated>2023-07-08T14:02:19.193Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[하고 싶은 연구를 할 수 있도록, 연구 훈련 프로그램 모음]]></title>
+        <id>https://festa.io/events/3742</id>
+        <link href="https://festa.io/events/3742"/>
+        <updated>2023-07-08T14:02:18.361Z</updated>
+        <content type="html"><![CDATA[7월 10일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA]]></title>
         <id>https://festa.io/events/3709</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3734"/>
         <updated>2023-07-06T03:22:50.395Z</updated>
         <content type="html"><![CDATA[7월 10일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모두의연구소]실전 프로젝트로 성장하는 아이펠 쏘카캠퍼스 모집(~7/21)]]></title>
-        <id>https://festa.io/events/3732</id>
-        <link href="https://festa.io/events/3732"/>
-        <updated>2023-07-05T09:03:51.667Z</updated>
-        <content type="html"><![CDATA[6월 14일 (수) · 온라인]]></content>
     </entry>
 </feed>
