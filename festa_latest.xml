@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-10T12:11:22.394Z</updated>
+    <updated>2023-07-10T13:17:07.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://festa.io/events/3745"/>
         <updated>2023-07-10T07:04:24.905Z</updated>
         <content type="html"><![CDATA[7월 10일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하고 싶은 연구를 할 수 있도록, 연구 훈련 프로그램 모음]]></title>
-        <id>https://festa.io/events/3742</id>
-        <link href="https://festa.io/events/3742"/>
-        <updated>2023-07-08T14:02:18.361Z</updated>
-        <content type="html"><![CDATA[7월 10일 (월) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA]]></title>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/3741"/>
         <updated>2023-07-07T04:07:50.146Z</updated>
         <content type="html"><![CDATA[7월 13일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[프로젝트중심] 백엔드 자바개발자 양성과정]]></title>
+        <id>https://festa.io/events/3739</id>
+        <link href="https://festa.io/events/3739"/>
+        <updated>2023-07-10T13:17:07.127Z</updated>
+        <content type="html"><![CDATA[7월 31일 (월) · 오프라인]]></content>
     </entry>
 </feed>
