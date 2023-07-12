@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-11T23:02:36.891Z</updated>
+    <updated>2023-07-12T00:38:08.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[예비 창업자 맞춤 스터디 [올빼미 클럽🦉 4회 차] 참여 모집]]></title>
+        <id>https://festa.io/events/3754</id>
+        <link href="https://festa.io/events/3754"/>
+        <updated>2023-07-12T00:38:07.461Z</updated>
+        <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[TensorFlow Korea LLM Day]]></title>
         <id>https://festa.io/events/3717</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3709"/>
         <updated>2023-07-07T07:02:45.053Z</updated>
         <content type="html"><![CDATA[7월 15일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 클라우드 플랫폼 Compute 상품 업데이트 내용 소개]]></title>
-        <id>https://festa.io/events/3730</id>
-        <link href="https://festa.io/events/3730"/>
-        <updated>2023-07-07T06:08:53.290Z</updated>
-        <content type="html"><![CDATA[7월 4일 (화) · 온라인]]></content>
     </entry>
 </feed>
