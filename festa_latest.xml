@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-12T09:03:52.545Z</updated>
+    <updated>2023-07-12T10:04:44.225Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에밀 루더와 타이포그래피]]></title>
+        <id>https://festa.io/events/3738</id>
+        <link href="https://festa.io/events/3738"/>
+        <updated>2023-07-12T10:04:43.367Z</updated>
+        <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예비 창업자 맞춤 스터디 [올빼미 클럽🦉 4회 차] 참여 모집]]></title>
         <id>https://festa.io/events/3754</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3745"/>
         <updated>2023-07-10T07:04:24.905Z</updated>
         <content type="html"><![CDATA[7월 10일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Microsoft와 함께하는 대학생 AI & Cloud 러닝 캠프 by MLSA]]></title>
-        <id>https://festa.io/events/3709</id>
-        <link href="https://festa.io/events/3709"/>
-        <updated>2023-07-07T07:02:45.053Z</updated>
-        <content type="html"><![CDATA[7월 15일 (토) · 오프라인]]></content>
     </entry>
 </feed>
