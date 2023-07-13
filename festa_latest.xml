@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-13T06:08:38.544Z</updated>
+    <updated>2023-07-13T07:03:30.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] (머신러닝)의사결정나무에서 부스팅까지]]></title>
+        <id>https://festa.io/events/3758</id>
+        <link href="https://festa.io/events/3758"/>
+        <updated>2023-07-13T07:03:29.899Z</updated>
+        <content type="html"><![CDATA[7월 25일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[리스닝마인드 딥다이브 클럽] 고객 인텐트 기반의 온드미디어 마케팅 전략 (7월-웰니스)]]></title>
+        <id>https://festa.io/events/3757</id>
+        <link href="https://festa.io/events/3757"/>
+        <updated>2023-07-13T07:03:29.902Z</updated>
+        <content type="html"><![CDATA[7월 26일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[잠재력 1000% 극대화하기 (일)]]></title>
         <id>https://festa.io/events/3756</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3752"/>
         <updated>2023-07-11T10:03:55.889Z</updated>
         <content type="html"><![CDATA[7월 26일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데보션 7월 Tech 세미나 - 다가오는 Automated AI 시대, 그 기반 기술과 적용사례]]></title>
-        <id>https://festa.io/events/3751</id>
-        <link href="https://festa.io/events/3751"/>
-        <updated>2023-07-11T10:03:55.894Z</updated>
-        <content type="html"><![CDATA[7월 20일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구름 COMMIT] 데이터로 고객을 움직이는 팀이 되어가는 여정]]></title>
-        <id>https://festa.io/events/3747</id>
-        <link href="https://festa.io/events/3747"/>
-        <updated>2023-07-10T08:14:16.796Z</updated>
-        <content type="html"><![CDATA[7월 19일 (수) · 온라인]]></content>
     </entry>
 </feed>
