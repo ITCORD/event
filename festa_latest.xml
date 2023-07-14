@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-14T05:03:46.839Z</updated>
+    <updated>2023-07-14T06:09:02.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[제8회 MendIT Day] 기업 Digital Transformation 가속을 위한 Low-code 개발 플랫폼 세미나]]></title>
+        <id>https://festa.io/events/3765</id>
+        <link href="https://festa.io/events/3765"/>
+        <updated>2023-07-14T06:09:01.315Z</updated>
+        <content type="html"><![CDATA[8월 2일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[제8회 MendIT Day] 기업 Digital Transformation 가속을 위한 Low-code 개발 플랫폼 세미나]]></title>
+        <id>https://festa.io/events/3764</id>
+        <link href="https://festa.io/events/3764"/>
+        <updated>2023-07-14T06:09:01.316Z</updated>
+        <content type="html"><![CDATA[8월 2일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인덕대학교/무료] AI 서비스 개발 실무 역량과정 (~7/19)]]></title>
         <id>https://festa.io/events/3762</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3756"/>
         <updated>2023-07-12T13:18:05.246Z</updated>
         <content type="html"><![CDATA[7월 16일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에밀 루더와 타이포그래피]]></title>
-        <id>https://festa.io/events/3738</id>
-        <link href="https://festa.io/events/3738"/>
-        <updated>2023-07-12T10:04:43.367Z</updated>
-        <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예비 창업자 맞춤 스터디 [올빼미 클럽🦉 4회 차] 참여 모집]]></title>
-        <id>https://festa.io/events/3754</id>
-        <link href="https://festa.io/events/3754"/>
-        <updated>2023-07-12T00:38:07.461Z</updated>
-        <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
     </entry>
 </feed>
