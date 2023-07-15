@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-15T10:02:49.009Z</updated>
+    <updated>2023-07-15T11:02:12.898Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[제8회 MendIT Day] 기업 Digital Transformation 가속을 위한 Low-code 개발 플랫폼 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -26,11 +26,11 @@
         <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[취업지원/기업연계] 클라우드기반 AI시스템 구축 실무자과정 (~7/14) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <title type="html"><![CDATA[[취업지원/기업연계] 클라우드기반 AI시스템 구축 실무자과정 (~7/21) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3761</id>
         <link href="https://festa.io/events/3761"/>
         <updated>2023-07-14T02:24:40.456Z</updated>
-        <content type="html"><![CDATA[7월 17일 (월) · 오프라인]]></content>
+        <content type="html"><![CDATA[7월 24일 (월) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[7월 25일 웨비나ㅣ손쉽고 편리한 통합 메시징 플랫폼을 찾으셨다면? (페스타 ─ 최신 밋업과 이벤트)]]></title>
