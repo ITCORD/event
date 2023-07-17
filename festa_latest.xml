@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-17T00:38:03.229Z</updated>
+    <updated>2023-07-17T02:28:12.341Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 유니티(Unity)활용 실감형콘텐츠(메타버스/VR/AR) 제작]]></title>
+        <id>https://festa.io/events/3769</id>
+        <link href="https://festa.io/events/3769"/>
+        <updated>2023-07-17T02:28:11.589Z</updated>
+        <content type="html"><![CDATA[7월 16일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정]]></title>
+        <id>https://festa.io/events/3768</id>
+        <link href="https://festa.io/events/3768"/>
+        <updated>2023-07-17T02:28:11.591Z</updated>
+        <content type="html"><![CDATA[7월 16일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[제8회 MendIT Day] 기업 Digital Transformation 가속을 위한 Low-code 개발 플랫폼 세미나]]></title>
         <id>https://festa.io/events/3765</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3758"/>
         <updated>2023-07-13T07:03:29.899Z</updated>
         <content type="html"><![CDATA[7월 25일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리스닝마인드 딥다이브 클럽] 고객 인텐트 기반의 온드미디어 마케팅 전략 (7월-웰니스)]]></title>
-        <id>https://festa.io/events/3757</id>
-        <link href="https://festa.io/events/3757"/>
-        <updated>2023-07-13T07:03:29.902Z</updated>
-        <content type="html"><![CDATA[7월 26일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에밀 루더와 타이포그래피]]></title>
-        <id>https://festa.io/events/3738</id>
-        <link href="https://festa.io/events/3738"/>
-        <updated>2023-07-16T08:09:49.220Z</updated>
-        <content type="html"><![CDATA[7월 20일 (목) · 오프라인]]></content>
     </entry>
 </feed>
