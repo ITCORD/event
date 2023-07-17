@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-17T14:03:23.681Z</updated>
+    <updated>2023-07-17T15:03:56.189Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[대학생을 위한 클라우드 기반 개발 경험해 보기]]></title>
+        <id>https://festa.io/events/3774</id>
+        <link href="https://festa.io/events/3774"/>
+        <updated>2023-07-17T15:03:55.452Z</updated>
+        <content type="html"><![CDATA[8월 1일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[대학생을 위한 클라우드 기반 데이터 대시보드 만들기]]></title>
+        <id>https://festa.io/events/3773</id>
+        <link href="https://festa.io/events/3773"/>
+        <updated>2023-07-17T15:03:55.453Z</updated>
+        <content type="html"><![CDATA[8월 3일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[, [K-디지털 트레이닝] AWS클라우드 기반 자바 & 스프링활용 풀스택 개발자 양성과정]]></title>
         <id>https://festa.io/events/3768</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3761"/>
         <updated>2023-07-14T02:24:40.456Z</updated>
         <content type="html"><![CDATA[7월 24일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[7월 25일 웨비나ㅣ손쉽고 편리한 통합 메시징 플랫폼을 찾으셨다면?]]></title>
-        <id>https://festa.io/events/3759</id>
-        <link href="https://festa.io/events/3759"/>
-        <updated>2023-07-14T02:24:40.458Z</updated>
-        <content type="html"><![CDATA[7월 14일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] 의사결정나무에서 부스팅까지 변천사 살펴보기]]></title>
-        <id>https://festa.io/events/3758</id>
-        <link href="https://festa.io/events/3758"/>
-        <updated>2023-07-13T07:03:29.899Z</updated>
-        <content type="html"><![CDATA[7월 25일 (화) · 오프라인]]></content>
     </entry>
 </feed>
