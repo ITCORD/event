@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-17T07:03:39.848Z</updated>
+    <updated>2023-07-17T08:09:27.996Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -55,7 +55,7 @@
         <content type="html"><![CDATA[7월 14일 (금) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[MODUPOP] (머신러닝)의사결정나무에서 부스팅까지]]></title>
+        <title type="html"><![CDATA[[MODUPOP] 의사결정나무에서 부스팅까지 변천사 살펴보기]]></title>
         <id>https://festa.io/events/3758</id>
         <link href="https://festa.io/events/3758"/>
         <updated>2023-07-13T07:03:29.899Z</updated>
