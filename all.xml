@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-22T07:02:10.536Z</updated>
+    <updated>2023-07-22T08:03:57.656Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[Solutions Showcase] 클라우드에서 간편하게 구현하는 '이지서티' 개인정보 보호 솔루션 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,13 +40,6 @@
         <content type="html"><![CDATA[8월 1일 (화) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (토) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3785</id>
-        <link href="https://festa.io/events/3785"/>
-        <updated>2023-07-19T18:05:26.118Z</updated>
-        <content type="html"><![CDATA[7월 22일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[잠재력 1000% 극대화하기 (일) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3784</id>
         <link href="https://festa.io/events/3784"/>
@@ -59,5 +52,12 @@
         <link href="https://festa.io/events/3780"/>
         <updated>2023-07-20T05:03:02.003Z</updated>
         <content type="html"><![CDATA[8월 26일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[나만의 미디어 플레이어, Video Player Enhancement (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3783</id>
+        <link href="https://festa.io/events/3783"/>
+        <updated>2023-07-22T08:03:56.684Z</updated>
+        <content type="html"><![CDATA[8월 3일 (목) · 온라인]]></content>
     </entry>
 </feed>
