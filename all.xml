@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-24T05:02:37.224Z</updated>
+    <updated>2023-07-24T06:08:51.457Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (수) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3803</id>
+        <link href="https://festa.io/events/3803"/>
+        <updated>2023-07-24T06:08:50.421Z</updated>
+        <content type="html"><![CDATA[7월 26일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (토) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3802</id>
+        <link href="https://festa.io/events/3802"/>
+        <updated>2023-07-24T06:08:50.424Z</updated>
+        <content type="html"><![CDATA[7월 29일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (일) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3801</id>
+        <link href="https://festa.io/events/3801"/>
+        <updated>2023-07-24T06:08:50.427Z</updated>
+        <content type="html"><![CDATA[7월 30일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 유니티(Unity)활용 실감형콘텐츠(메타버스/VR/AR) 제작 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3800</id>
@@ -38,26 +59,5 @@
         <link href="https://festa.io/events/3789"/>
         <updated>2023-07-20T10:02:17.555Z</updated>
         <content type="html"><![CDATA[8월 21일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잔디콘 : 시즌8 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3790</id>
-        <link href="https://festa.io/events/3790"/>
-        <updated>2023-07-20T07:01:55.527Z</updated>
-        <content type="html"><![CDATA[7월 24일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛N MSA - #1 Debugger (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3760</id>
-        <link href="https://festa.io/events/3760"/>
-        <updated>2023-07-20T06:08:09.245Z</updated>
-        <content type="html"><![CDATA[8월 3일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울시여성가족재단 <2023 기업 프로젝트 실전과정> (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3787</id>
-        <link href="https://festa.io/events/3787"/>
-        <updated>2023-07-20T04:03:47.942Z</updated>
-        <content type="html"><![CDATA[8월 1일 (화) · 오프라인]]></content>
     </entry>
 </feed>
