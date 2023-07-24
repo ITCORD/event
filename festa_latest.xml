@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-24T07:02:30.204Z</updated>
+    <updated>2023-07-24T08:08:40.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -55,10 +55,10 @@
         <content type="html"><![CDATA[8월 10일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[메가존xAWS] 무료 IT 기초 교육 9주 과정! (~8/10(목))]]></title>
-        <id>https://festa.io/events/3789</id>
-        <link href="https://festa.io/events/3789"/>
-        <updated>2023-07-20T10:02:17.555Z</updated>
-        <content type="html"><![CDATA[8월 21일 (월) · 오프라인]]></content>
+        <title type="html"><![CDATA[[MODUPOP] 다양한 시나리오와 함께 하는 딥러닝을 활용한 이상 탐지]]></title>
+        <id>https://festa.io/events/3793</id>
+        <link href="https://festa.io/events/3793"/>
+        <updated>2023-07-24T08:08:39.601Z</updated>
+        <content type="html"><![CDATA[8월 22일 (화) · 오프라인]]></content>
     </entry>
 </feed>
