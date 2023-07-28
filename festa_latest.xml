@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-28T03:03:07.484Z</updated>
+    <updated>2023-07-28T04:03:46.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한빛N MSA - #2 TDD]]></title>
+        <id>https://festa.io/events/3791</id>
+        <link href="https://festa.io/events/3791"/>
+        <updated>2023-07-28T04:03:46.090Z</updated>
+        <content type="html"><![CDATA[8월 17일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 KoVAC Meta Connect 기술세미나 & 비지니스 매칭 DAY]]></title>
         <id>https://festa.io/events/3818</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3810"/>
         <updated>2023-07-26T09:01:57.297Z</updated>
         <content type="html"><![CDATA[8월 29일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] SSS급 의료인은 AI 연구원으로 전직했습니다: 흔들리지 않고 제대로 피봇팅하는 법]]></title>
-        <id>https://festa.io/events/3809</id>
-        <link href="https://festa.io/events/3809"/>
-        <updated>2023-07-26T06:07:55.119Z</updated>
-        <content type="html"><![CDATA[8월 8일 (화) · 오프라인]]></content>
     </entry>
 </feed>
