@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-07-28T01:54:11.993Z</updated>
+    <updated>2023-07-28T02:25:52.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023 KoVAC Meta Connect 기술세미나 & 비지니스 매칭 DAY (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,7 +40,7 @@
         <content type="html"><![CDATA[8월 18일 (금) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[ 취업률 90%] / k-디지털 트레이닝 2023 하반기 개발자 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <title type="html"><![CDATA[[구트아카데미] 취업률 90% / k-디지털트레이닝 풀스텍 개발자 양성 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3813</id>
         <link href="https://festa.io/events/3813"/>
         <updated>2023-07-27T09:02:59.806Z</updated>
