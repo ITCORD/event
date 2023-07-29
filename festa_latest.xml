@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-07-29T12:09:25.030Z</updated>
+    <updated>2023-07-29T13:04:06.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[I/O Extended 2023 Cloud Busan & Busan]]></title>
+        <id>https://festa.io/events/3820</id>
+        <link href="https://festa.io/events/3820"/>
+        <updated>2023-07-29T13:04:05.823Z</updated>
+        <content type="html"><![CDATA[9월 2일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛N MSA - #2 TDD]]></title>
         <id>https://festa.io/events/3791</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3813"/>
         <updated>2023-07-27T09:02:59.806Z</updated>
         <content type="html"><![CDATA[8월 14일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] 밑바닥부터 시작하는 AI 감정 분석]]></title>
-        <id>https://festa.io/events/3810</id>
-        <link href="https://festa.io/events/3810"/>
-        <updated>2023-07-26T09:01:57.297Z</updated>
-        <content type="html"><![CDATA[8월 29일 (화) · 오프라인]]></content>
     </entry>
 </feed>
