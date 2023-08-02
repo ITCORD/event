@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-02T06:07:50.750Z</updated>
+    <updated>2023-08-02T07:02:11.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -34,18 +34,11 @@
         <content type="html"><![CDATA[7월 24일 (월) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (목)]]></title>
+        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (사당)]]></title>
         <id>https://festa.io/events/3826</id>
         <link href="https://festa.io/events/3826"/>
         <updated>2023-07-31T12:10:55.325Z</updated>
         <content type="html"><![CDATA[8월 3일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (수)]]></title>
-        <id>https://festa.io/events/3825</id>
-        <link href="https://festa.io/events/3825"/>
-        <updated>2023-07-31T12:10:55.325Z</updated>
-        <content type="html"><![CDATA[8월 2일 (수) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[CJ올리브네트웍스] 해커톤 프로젝트 AI / Data 과정 (~08.23)]]></title>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/3820"/>
         <updated>2023-07-29T13:04:05.823Z</updated>
         <content type="html"><![CDATA[9월 2일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한빛N MSA - #2 TDD]]></title>
+        <id>https://festa.io/events/3791</id>
+        <link href="https://festa.io/events/3791"/>
+        <updated>2023-08-02T07:02:10.406Z</updated>
+        <content type="html"><![CDATA[8월 17일 (목) · 오프라인]]></content>
     </entry>
 </feed>
