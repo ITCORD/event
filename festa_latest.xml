@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-07T11:02:02.270Z</updated>
+    <updated>2023-08-07T12:10:22.988Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (사당)]]></title>
+        <id>https://festa.io/events/3845</id>
+        <link href="https://festa.io/events/3845"/>
+        <updated>2023-08-07T12:10:22.040Z</updated>
+        <content type="html"><![CDATA[8월 6일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 8월 모임]]></title>
+        <id>https://festa.io/events/3844</id>
+        <link href="https://festa.io/events/3844"/>
+        <updated>2023-08-07T12:10:22.043Z</updated>
+        <content type="html"><![CDATA[8월 31일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[예술경영지원센터] 2023 KOPIS 공연예술 데이터 포럼개최(8/23)]]></title>
         <id>https://festa.io/events/3843</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3822"/>
         <updated>2023-08-06T12:14:56.428Z</updated>
         <content type="html"><![CDATA[8월 31일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIPE Meetup - 너 (I)T야?]]></title>
-        <id>https://festa.io/events/3837</id>
-        <link href="https://festa.io/events/3837"/>
-        <updated>2023-08-06T11:02:11.533Z</updated>
-        <content type="html"><![CDATA[8월 26일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[GDG Campus Korea] Whatever you make - 6주 프로덕트 메이커 챌린지]]></title>
-        <id>https://festa.io/events/3733</id>
-        <link href="https://festa.io/events/3733"/>
-        <updated>2023-08-05T09:02:11.979Z</updated>
-        <content type="html"><![CDATA[8월 26일 (토) · 온라인]]></content>
     </entry>
 </feed>
