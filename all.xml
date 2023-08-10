@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-10T05:03:26.663Z</updated>
+    <updated>2023-08-10T06:08:32.007Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[6년 차 PO가 알려주는 실패 사례 분석을 통한 AI 성공 열쇠 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3865</id>
+        <link href="https://festa.io/events/3865"/>
+        <updated>2023-08-10T06:08:30.831Z</updated>
+        <content type="html"><![CDATA[8월 24일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[3시간 완성] 스프레드 시트를 활용한 운영비 대시보드 제작 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3863</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3778"/>
         <updated>2023-08-09T05:02:02.113Z</updated>
         <content type="html"><![CDATA[8월 21일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안랩 무료교육] 디지털 프로페셔널 양성과정 안랩샘아카데미 17기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3850</id>
-        <link href="https://festa.io/events/3850"/>
-        <updated>2023-08-08T09:02:17.319Z</updated>
-        <content type="html"><![CDATA[9월 6일 (수) · 온라인]]></content>
     </entry>
 </feed>
