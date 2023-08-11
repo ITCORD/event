@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-11T00:24:34.066Z</updated>
+    <updated>2023-08-11T01:37:06.974Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WEBFRONT-KS를 통한 웹/API 보안! 안정성 높은 클라우드 운영 환경 만들기]]></title>
+        <id>https://festa.io/events/3872</id>
+        <link href="https://festa.io/events/3872"/>
+        <updated>2023-08-11T01:37:05.992Z</updated>
+        <content type="html"><![CDATA[8월 31일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기]]></title>
+        <id>https://festa.io/events/3871</id>
+        <link href="https://festa.io/events/3871"/>
+        <updated>2023-08-11T01:37:06.007Z</updated>
+        <content type="html"><![CDATA[8월 24일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오뱅크 기술 밋업 #1 - 퇴근길 기술 한 잔 with iOS 앱 개발자]]></title>
+        <id>https://festa.io/events/3864</id>
+        <link href="https://festa.io/events/3864"/>
+        <updated>2023-08-11T01:37:06.014Z</updated>
+        <content type="html"><![CDATA[8월 30일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[6년 차 PO가 알려주는 실패 사례 분석을 통한 AI 성공 열쇠]]></title>
         <id>https://festa.io/events/3865</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/3857"/>
         <updated>2023-08-09T10:03:14.412Z</updated>
         <content type="html"><![CDATA[9월 5일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot)]]></title>
-        <id>https://festa.io/events/3856</id>
-        <link href="https://festa.io/events/3856"/>
-        <updated>2023-08-09T07:02:36.581Z</updated>
-        <content type="html"><![CDATA[8월 17일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터기반 AI알고리즘 서비스(추천,트레이딩)개발자 양성과정]]></title>
-        <id>https://festa.io/events/3855</id>
-        <link href="https://festa.io/events/3855"/>
-        <updated>2023-08-09T07:02:36.583Z</updated>
-        <content type="html"><![CDATA[8월 16일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]공공데이터를 활용한 데이터 분석 융합 웹 서비스 개발자 양성 과정 교육생 모집]]></title>
-        <id>https://festa.io/events/3778</id>
-        <link href="https://festa.io/events/3778"/>
-        <updated>2023-08-09T05:02:02.113Z</updated>
-        <content type="html"><![CDATA[8월 21일 (월) · 오프라인]]></content>
     </entry>
 </feed>
