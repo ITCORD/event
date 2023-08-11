@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-11T07:01:44.437Z</updated>
+    <updated>2023-08-11T08:07:56.712Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot)]]></title>
+        <id>https://festa.io/events/3878</id>
+        <link href="https://festa.io/events/3878"/>
+        <updated>2023-08-11T08:07:55.714Z</updated>
+        <content type="html"><![CDATA[8월 18일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터기반 AI알고리즘 서비스(추천,트레이딩)개발자 양성과정]]></title>
+        <id>https://festa.io/events/3877</id>
+        <link href="https://festa.io/events/3877"/>
+        <updated>2023-08-11T08:07:55.718Z</updated>
+        <content type="html"><![CDATA[8월 18일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛N MSA - #3 Code Review]]></title>
         <id>https://festa.io/events/3819</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3865"/>
         <updated>2023-08-10T06:08:30.831Z</updated>
         <content type="html"><![CDATA[8월 24일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[3시간 완성] 스프레드 시트를 활용한 운영비 대시보드 제작]]></title>
-        <id>https://festa.io/events/3863</id>
-        <link href="https://festa.io/events/3863"/>
-        <updated>2023-08-10T03:02:53.694Z</updated>
-        <content type="html"><![CDATA[8월 24일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구름 COMMIT] 테크 리드로 자라기 워크숍]]></title>
-        <id>https://festa.io/events/3862</id>
-        <link href="https://festa.io/events/3862"/>
-        <updated>2023-08-10T00:31:17.028Z</updated>
-        <content type="html"><![CDATA[8월 23일 (수) · 오프라인]]></content>
     </entry>
 </feed>
