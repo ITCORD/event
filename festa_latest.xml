@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-14T13:08:43.196Z</updated>
+    <updated>2023-08-14T14:02:59.478Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<앵콜 무료 웨비나> 개발자 물경력 탈출 비밀 노하우]]></title>
+        <id>https://festa.io/events/3889</id>
+        <link href="https://festa.io/events/3889"/>
+        <updated>2023-08-14T14:02:58.375Z</updated>
+        <content type="html"><![CDATA[8월 17일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PaperShop] 금융도메인에서의 생성형 언어모델의 역할과 미래]]></title>
         <id>https://festa.io/events/3886</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3872"/>
         <updated>2023-08-11T01:37:05.992Z</updated>
         <content type="html"><![CDATA[8월 31일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기]]></title>
-        <id>https://festa.io/events/3871</id>
-        <link href="https://festa.io/events/3871"/>
-        <updated>2023-08-11T01:37:06.007Z</updated>
-        <content type="html"><![CDATA[8월 24일 (목) · 온라인]]></content>
     </entry>
 </feed>
