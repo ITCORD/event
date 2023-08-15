@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-15T03:03:20.294Z</updated>
+    <updated>2023-08-15T04:04:08.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Go To Daejeon 2023]]></title>
+        <id>https://festa.io/events/3890</id>
+        <link href="https://festa.io/events/3890"/>
+        <updated>2023-08-15T04:04:07.931Z</updated>
+        <content type="html"><![CDATA[9월 16일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<앵콜 무료 웨비나> 개발자 물경력 탈출 비밀 노하우]]></title>
         <id>https://festa.io/events/3889</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3873"/>
         <updated>2023-08-11T02:10:36.153Z</updated>
         <content type="html"><![CDATA[9월 1일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEBFRONT-KS를 통한 웹/API 보안! 안정성 높은 클라우드 운영 환경 만들기]]></title>
-        <id>https://festa.io/events/3872</id>
-        <link href="https://festa.io/events/3872"/>
-        <updated>2023-08-11T01:37:05.992Z</updated>
-        <content type="html"><![CDATA[8월 31일 (목) · 온라인]]></content>
     </entry>
 </feed>
