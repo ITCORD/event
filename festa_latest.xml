@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-16T04:03:46.094Z</updated>
+    <updated>2023-08-16T05:02:21.788Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot)]]></title>
+        <id>https://festa.io/events/3893</id>
+        <link href="https://festa.io/events/3893"/>
+        <updated>2023-08-16T05:02:20.831Z</updated>
+        <content type="html"><![CDATA[9월 12일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터기반 AI알고리즘 서비스(추천,트레이딩)개발자 양성과정]]></title>
+        <id>https://festa.io/events/3892</id>
+        <link href="https://festa.io/events/3892"/>
+        <updated>2023-08-16T05:02:20.834Z</updated>
+        <content type="html"><![CDATA[8월 24일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[PaperShop] 금융도메인에서의 생성형 언어모델의 역할과 미래]]></title>
         <id>https://festa.io/events/3886</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3889"/>
         <updated>2023-08-14T14:02:58.375Z</updated>
         <content type="html"><![CDATA[8월 17일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소주톤 : 얼레벌레바캉스]]></title>
-        <id>https://festa.io/events/3827</id>
-        <link href="https://festa.io/events/3827"/>
-        <updated>2023-08-11T15:02:11.598Z</updated>
-        <content type="html"><![CDATA[9월 2일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot)]]></title>
-        <id>https://festa.io/events/3878</id>
-        <link href="https://festa.io/events/3878"/>
-        <updated>2023-08-11T08:07:55.714Z</updated>
-        <content type="html"><![CDATA[8월 18일 (금) · 오프라인]]></content>
     </entry>
 </feed>
