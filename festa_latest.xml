@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-17T05:01:55.832Z</updated>
+    <updated>2023-08-17T06:06:23.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제8회 한국 리눅스 커널 개발자 모임]]></title>
+        <id>https://festa.io/events/3901</id>
+        <link href="https://festa.io/events/3901"/>
+        <updated>2023-08-17T06:06:22.573Z</updated>
+        <content type="html"><![CDATA[9월 14일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[클라우드타입으로 Kubernetes에 개발자 PaaS플랫폼 쉽게 구축하기]]></title>
         <id>https://festa.io/events/3899</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3886"/>
         <updated>2023-08-14T11:01:45.797Z</updated>
         <content type="html"><![CDATA[8월 27일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DAY 2 , 8/24] 4th UMC DEMODAY]]></title>
-        <id>https://festa.io/events/3888</id>
-        <link href="https://festa.io/events/3888"/>
-        <updated>2023-08-16T00:24:23.260Z</updated>
-        <content type="html"><![CDATA[8월 24일 (목) · 오프라인]]></content>
     </entry>
 </feed>
