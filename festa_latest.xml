@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-17T04:02:23.304Z</updated>
+    <updated>2023-08-17T05:01:55.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우드타입으로 Kubernetes에 개발자 PaaS플랫폼 쉽게 구축하기]]></title>
+        <id>https://festa.io/events/3899</id>
+        <link href="https://festa.io/events/3899"/>
+        <updated>2023-08-17T05:01:54.966Z</updated>
+        <content type="html"><![CDATA[8월 29일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[대전] 모두해유 | 디자인시스템 관심있는 개발자는 CVA(Class Variance Authority)를 한다.]]></title>
         <id>https://festa.io/events/3900</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3888"/>
         <updated>2023-08-16T00:24:23.260Z</updated>
         <content type="html"><![CDATA[8월 24일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DAY 1 , 8/23] 4th UMC DEMODAY]]></title>
-        <id>https://festa.io/events/3884</id>
-        <link href="https://festa.io/events/3884"/>
-        <updated>2023-08-16T00:24:23.263Z</updated>
-        <content type="html"><![CDATA[8월 23일 (수) · 오프라인]]></content>
     </entry>
 </feed>
