@@ -2,11 +2,18 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-18T07:02:44.108Z</updated>
+    <updated>2023-08-18T08:07:44.267Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[제 2회 현대자동차그룹 Softeer Tech Meet-up (App 개발)]]></title>
+        <title type="html"><![CDATA[9th DX Forum - 데이터 기반의 ESG 디지털 전환]]></title>
+        <id>https://festa.io/events/3906</id>
+        <link href="https://festa.io/events/3906"/>
+        <updated>2023-08-18T08:07:43.372Z</updated>
+        <content type="html"><![CDATA[8월 31일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[App개발] 제 2회 현대자동차그룹 Softeer Tech Meet-up]]></title>
         <id>https://festa.io/events/3908</id>
         <link href="https://festa.io/events/3908"/>
         <updated>2023-08-18T07:02:43.137Z</updated>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3895"/>
         <updated>2023-08-16T10:01:44.765Z</updated>
         <content type="html"><![CDATA[8월 24일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(무료)한국저작권위원회 오픈소스SW 라이선스 컨설팅]]></title>
-        <id>https://festa.io/events/3894</id>
-        <link href="https://festa.io/events/3894"/>
-        <updated>2023-08-16T06:07:45.414Z</updated>
-        <content type="html"><![CDATA[8월 16일 (수) · 온라인]]></content>
     </entry>
 </feed>
