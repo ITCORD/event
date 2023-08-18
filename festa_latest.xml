@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-18T06:07:39.968Z</updated>
+    <updated>2023-08-18T07:02:44.108Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제 2회 현대자동차그룹 Softeer Tech Meet-up (App 개발)]]></title>
+        <id>https://festa.io/events/3908</id>
+        <link href="https://festa.io/events/3908"/>
+        <updated>2023-08-18T07:02:43.137Z</updated>
+        <content type="html"><![CDATA[9월 14일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<앵콜 무료 웨비나> 주니어 개발자 생존위기 극복 노하우 웨비나]]></title>
+        <id>https://festa.io/events/3912</id>
+        <link href="https://festa.io/events/3912"/>
+        <updated>2023-08-18T07:02:43.139Z</updated>
+        <content type="html"><![CDATA[8월 24일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Unity APAC Industry Summit 2023]]></title>
         <id>https://festa.io/events/3902</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3894"/>
         <updated>2023-08-16T06:07:45.414Z</updated>
         <content type="html"><![CDATA[8월 16일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot)]]></title>
-        <id>https://festa.io/events/3893</id>
-        <link href="https://festa.io/events/3893"/>
-        <updated>2023-08-16T05:02:20.831Z</updated>
-        <content type="html"><![CDATA[9월 12일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터기반 AI알고리즘 서비스(추천,트레이딩)개발자 양성과정]]></title>
-        <id>https://festa.io/events/3892</id>
-        <link href="https://festa.io/events/3892"/>
-        <updated>2023-08-16T05:02:20.834Z</updated>
-        <content type="html"><![CDATA[8월 24일 (목) · 오프라인]]></content>
     </entry>
 </feed>
