@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-22T05:02:23.594Z</updated>
+    <updated>2023-08-22T06:08:01.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한빛N MSA - #4 Copilot (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3923</id>
+        <link href="https://festa.io/events/3923"/>
+        <updated>2023-08-22T06:08:00.015Z</updated>
+        <content type="html"><![CDATA[9월 14일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 기상청 지진안전주간 토크콘서트 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3924</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3908"/>
         <updated>2023-08-18T07:02:43.137Z</updated>
         <content type="html"><![CDATA[9월 14일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<앵콜 무료 웨비나> 주니어 개발자 생존위기 극복 노하우 웨비나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3912</id>
-        <link href="https://festa.io/events/3912"/>
-        <updated>2023-08-18T07:02:43.139Z</updated>
-        <content type="html"><![CDATA[8월 24일 (목) · 온라인]]></content>
     </entry>
 </feed>
