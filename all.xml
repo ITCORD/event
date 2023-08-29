@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-29T04:03:28.941Z</updated>
+    <updated>2023-08-29T05:02:04.813Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3961</id>
+        <link href="https://festa.io/events/3961"/>
+        <updated>2023-08-29T05:02:03.834Z</updated>
+        <content type="html"><![CDATA[9월 21일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[보안의 새로운 패러다임, 제로 트러스트와 클라우드 구현 전략 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3960</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/3954"/>
         <updated>2023-08-27T16:02:38.811Z</updated>
         <content type="html"><![CDATA[9월 5일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[9월 랜덤 네트워킹] 일하는 사람들 사진전 특집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3953</id>
-        <link href="https://festa.io/events/3953"/>
-        <updated>2023-08-27T16:02:38.813Z</updated>
-        <content type="html"><![CDATA[9월 1일 (금) · 오프라인]]></content>
     </entry>
 </feed>
