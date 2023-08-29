@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-29T01:39:53.529Z</updated>
+    <updated>2023-08-29T02:43:00.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[WEBFRONT-KS를 통한 웹/API 보안! 안정성 높은 클라우드 운영 환경 만들기]]></title>
+        <id>https://festa.io/events/3959</id>
+        <link href="https://festa.io/events/3959"/>
+        <updated>2023-08-29T02:42:59.262Z</updated>
+        <content type="html"><![CDATA[9월 7일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kakao Tech Meet #3]]></title>
         <id>https://festa.io/events/3940</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3952"/>
         <updated>2023-08-27T16:02:38.815Z</updated>
         <content type="html"><![CDATA[9월 1일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⏰ 그로그루 X 세바시 북 네트워킹 : 나는 하루 5분만 바꾸기로 했다]]></title>
-        <id>https://festa.io/events/3950</id>
-        <link href="https://festa.io/events/3950"/>
-        <updated>2023-08-27T13:03:19.564Z</updated>
-        <content type="html"><![CDATA[9월 14일 (목) · 오프라인]]></content>
     </entry>
 </feed>
