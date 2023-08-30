@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-08-30T02:13:17.027Z</updated>
+    <updated>2023-08-30T03:02:46.978Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[써밋 테라스 캠핑]]></title>
+        <id>https://festa.io/events/3965</id>
+        <link href="https://festa.io/events/3965"/>
+        <updated>2023-08-30T03:02:46.259Z</updated>
+        <content type="html"><![CDATA[9월 9일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[머신러닝 입문자를 위한 9주 스터디]]></title>
         <id>https://festa.io/events/3963</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3955"/>
         <updated>2023-08-28T02:13:50.316Z</updated>
         <content type="html"><![CDATA[9월 4일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[먼슬리 모닝 회고]]></title>
-        <id>https://festa.io/events/3954</id>
-        <link href="https://festa.io/events/3954"/>
-        <updated>2023-08-27T16:02:38.811Z</updated>
-        <content type="html"><![CDATA[9월 5일 (화) · 오프라인]]></content>
     </entry>
 </feed>
