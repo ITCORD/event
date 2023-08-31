@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-08-31T08:07:49.742Z</updated>
+    <updated>2023-08-31T09:02:02.063Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[CJ올리브네트웍스] Switch ON! Your Network 네트워크 과정 2기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3975</id>
+        <link href="https://festa.io/events/3975"/>
+        <updated>2023-08-31T09:02:01.294Z</updated>
+        <content type="html"><![CDATA[9월 18일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[써밋 테라스 캠핑 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3965</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/3956</id>
         <link href="https://festa.io/events/3956"/>
         <updated>2023-08-28T02:13:50.314Z</updated>
-        <content type="html"><![CDATA[9월 4일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3955</id>
-        <link href="https://festa.io/events/3955"/>
-        <updated>2023-08-28T02:13:50.316Z</updated>
         <content type="html"><![CDATA[9월 4일 (월) · 오프라인]]></content>
     </entry>
 </feed>
