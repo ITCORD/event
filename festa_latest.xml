@@ -2,63 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-02T23:01:37.073Z</updated>
+    <updated>2023-09-03T00:29:10.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (사당)]]></title>
-        <id>https://festa.io/events/3977</id>
-        <link href="https://festa.io/events/3977"/>
-        <updated>2023-09-02T09:02:10.016Z</updated>
-        <content type="html"><![CDATA[9월 3일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 커넥트재단 부스트캠프 AI Tech 6기]]></title>
-        <id>https://festa.io/events/3976</id>
-        <link href="https://festa.io/events/3976"/>
-        <updated>2023-09-01T12:09:53.153Z</updated>
-        <content type="html"><![CDATA[8월 10일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CJ올리브네트웍스] Switch ON! Your Network 네트워크 과정 2기 모집]]></title>
-        <id>https://festa.io/events/3975</id>
-        <link href="https://festa.io/events/3975"/>
-        <updated>2023-08-31T09:02:01.294Z</updated>
-        <content type="html"><![CDATA[9월 18일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[써밋 테라스 캠핑]]></title>
-        <id>https://festa.io/events/3965</id>
-        <link href="https://festa.io/events/3965"/>
-        <updated>2023-08-30T03:02:46.259Z</updated>
-        <content type="html"><![CDATA[9월 9일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머신러닝 입문자를 위한 9주 스터디]]></title>
-        <id>https://festa.io/events/3963</id>
-        <link href="https://festa.io/events/3963"/>
-        <updated>2023-08-29T14:01:40.118Z</updated>
-        <content type="html"><![CDATA[9월 10일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요!]]></title>
-        <id>https://festa.io/events/3961</id>
-        <link href="https://festa.io/events/3961"/>
-        <updated>2023-08-29T05:02:03.834Z</updated>
-        <content type="html"><![CDATA[9월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안의 새로운 패러다임, 제로 트러스트와 클라우드 구현 전략]]></title>
-        <id>https://festa.io/events/3960</id>
-        <link href="https://festa.io/events/3960"/>
-        <updated>2023-08-29T04:03:28.066Z</updated>
-        <content type="html"><![CDATA[9월 14일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[WEBFRONT-KS를 통한 웹/API 보안! 안정성 높은 클라우드 운영 환경 만들기]]></title>
-        <id>https://festa.io/events/3959</id>
-        <link href="https://festa.io/events/3959"/>
-        <updated>2023-08-29T02:42:59.262Z</updated>
-        <content type="html"><![CDATA[9월 7일 (목) · 온라인]]></content>
-    </entry>
 </feed>
