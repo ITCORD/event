@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-04T03:02:56.934Z</updated>
+    <updated>2023-09-04T04:02:25.216Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 9월 모임]]></title>
+        <id>https://festa.io/events/3980</id>
+        <link href="https://festa.io/events/3980"/>
+        <updated>2023-09-04T04:02:24.436Z</updated>
+        <content type="html"><![CDATA[9월 21일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] 애플 Vision Pro 상세 기술 설명과 SW 개발 튜토리얼]]></title>
         <id>https://festa.io/events/3979</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3961"/>
         <updated>2023-09-04T01:40:18.598Z</updated>
         <content type="html"><![CDATA[9월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보안의 새로운 패러다임, 제로 트러스트와 클라우드 구현 전략]]></title>
-        <id>https://festa.io/events/3960</id>
-        <link href="https://festa.io/events/3960"/>
-        <updated>2023-09-04T01:40:18.600Z</updated>
-        <content type="html"><![CDATA[9월 14일 (목) · 온라인]]></content>
     </entry>
 </feed>
