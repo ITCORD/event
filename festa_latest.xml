@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-05T04:03:46.627Z</updated>
+    <updated>2023-09-05T05:02:39.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (사당)]]></title>
+        <id>https://festa.io/events/3985</id>
+        <link href="https://festa.io/events/3985"/>
+        <updated>2023-09-05T05:02:38.972Z</updated>
+        <content type="html"><![CDATA[9월 4일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생활코딩과 함께하는 원데이 특강 - Web 개발 입문]]></title>
+        <id>https://festa.io/events/3986</id>
+        <link href="https://festa.io/events/3986"/>
+        <updated>2023-09-05T05:02:38.981Z</updated>
+        <content type="html"><![CDATA[9월 9일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keepgoing-첫 오프라인 모임]]></title>
         <id>https://festa.io/events/3984</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/3979"/>
         <updated>2023-09-04T01:40:18.580Z</updated>
         <content type="html"><![CDATA[9월 5일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[잠재력 1000% 극대화하기 (사당)]]></title>
-        <id>https://festa.io/events/3977</id>
-        <link href="https://festa.io/events/3977"/>
-        <updated>2023-09-04T01:40:18.588Z</updated>
-        <content type="html"><![CDATA[9월 3일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 커넥트재단 부스트캠프 AI Tech 6기]]></title>
-        <id>https://festa.io/events/3976</id>
-        <link href="https://festa.io/events/3976"/>
-        <updated>2023-09-04T01:40:18.590Z</updated>
-        <content type="html"><![CDATA[8월 10일 (목) · 온라인]]></content>
     </entry>
 </feed>
