@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-06T11:02:15.748Z</updated>
+    <updated>2023-09-06T12:10:04.021Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Charming Swift: 스유가 왔스유~]]></title>
+        <id>https://festa.io/events/3898</id>
+        <link href="https://festa.io/events/3898"/>
+        <updated>2023-09-06T12:10:03.285Z</updated>
+        <content type="html"><![CDATA[9월 23일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트중심 백엔드 자바개발자 양성과정]]></title>
         <id>https://festa.io/events/3988</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3981"/>
         <updated>2023-09-04T08:09:26.979Z</updated>
         <content type="html"><![CDATA[9월 20일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 9월 모임]]></title>
-        <id>https://festa.io/events/3980</id>
-        <link href="https://festa.io/events/3980"/>
-        <updated>2023-09-04T04:02:24.436Z</updated>
-        <content type="html"><![CDATA[9월 21일 (목) · 오프라인]]></content>
     </entry>
 </feed>
