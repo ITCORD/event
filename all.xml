@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-07T08:08:26.760Z</updated>
+    <updated>2023-09-07T09:02:39.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[나다스 다이어트 커뮤니티 멤버 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3998</id>
+        <link href="https://festa.io/events/3998"/>
+        <updated>2023-09-07T09:02:38.793Z</updated>
+        <content type="html"><![CDATA[9월 13일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무료교육] 클라우드 전문가 양성과정(기초) 수강생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/3997</id>
+        <link href="https://festa.io/events/3997"/>
+        <updated>2023-09-07T09:02:38.797Z</updated>
+        <content type="html"><![CDATA[8월 16일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/3996</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/3989"/>
         <updated>2023-09-06T15:02:39.979Z</updated>
         <content type="html"><![CDATA[9월 3일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Charming Swift: 스유가 왔스유~ (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3898</id>
-        <link href="https://festa.io/events/3898"/>
-        <updated>2023-09-06T12:10:03.285Z</updated>
-        <content type="html"><![CDATA[9월 23일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로젝트중심 백엔드 자바개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/3988</id>
-        <link href="https://festa.io/events/3988"/>
-        <updated>2023-09-06T01:39:19.964Z</updated>
-        <content type="html"><![CDATA[9월 25일 (월) · 오프라인]]></content>
     </entry>
 </feed>
