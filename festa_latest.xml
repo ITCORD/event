@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-07T05:01:42.436Z</updated>
+    <updated>2023-09-07T06:08:03.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 대덕구 청년의날 청년들의 일상이 즐거운 대덕]]></title>
+        <id>https://festa.io/events/3992</id>
+        <link href="https://festa.io/events/3992"/>
+        <updated>2023-09-07T06:08:02.790Z</updated>
+        <content type="html"><![CDATA[9월 13일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광교/수원컨벤션센터] Autodesk BIM 로드쇼 2023-실무중심의 BIM 활용세미나, 소형건축사사무실에서 BIM운영 사례소개]]></title>
         <id>https://festa.io/events/3990</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3984"/>
         <updated>2023-09-05T04:03:45.759Z</updated>
         <content type="html"><![CDATA[9월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[IGM X Google Cloud] AI 기반 현장 중심의 디지털 전환]]></title>
-        <id>https://festa.io/events/3983</id>
-        <link href="https://festa.io/events/3983"/>
-        <updated>2023-09-05T01:37:55.600Z</updated>
-        <content type="html"><![CDATA[9월 19일 (화) · 오프라인]]></content>
     </entry>
 </feed>
