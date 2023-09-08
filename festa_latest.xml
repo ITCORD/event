@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-08T06:08:04.984Z</updated>
+    <updated>2023-09-08T07:02:17.564Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[CJ올리브네트웍스] CRUSH ON AI 프로젝트 교육생 모집]]></title>
+        <id>https://festa.io/events/4002</id>
+        <link href="https://festa.io/events/4002"/>
+        <updated>2023-09-08T07:02:16.716Z</updated>
+        <content type="html"><![CDATA[10월 16일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유데미x웅진씽크빅x스나이퍼팩토리] 프로젝트 캠프: 플러터(Flutter, 웹/앱 개발)]]></title>
         <id>https://festa.io/events/3999</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3992"/>
         <updated>2023-09-07T06:08:02.790Z</updated>
         <content type="html"><![CDATA[9월 13일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광교/수원컨벤션센터] Autodesk BIM 로드쇼 2023-실무중심의 BIM 활용세미나, 소형건축사사무실에서 BIM운영 사례소개]]></title>
-        <id>https://festa.io/events/3990</id>
-        <link href="https://festa.io/events/3990"/>
-        <updated>2023-09-07T05:01:41.663Z</updated>
-        <content type="html"><![CDATA[9월 15일 (금) · 오프라인]]></content>
     </entry>
 </feed>
