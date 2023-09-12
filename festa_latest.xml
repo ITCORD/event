@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-12T21:01:59.291Z</updated>
+    <updated>2023-09-12T22:02:05.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[일일특강] 방 한 칸 중고책으로 월 200만원 버는 노하우]]></title>
+        <id>https://festa.io/events/4011</id>
+        <link href="https://festa.io/events/4011"/>
+        <updated>2023-09-12T22:02:04.502Z</updated>
+        <content type="html"><![CDATA[9월 21일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AI학교 아이펠] 성장하는 AI개발자로의 6개월, 10년의 미래를 바꿉니다.]]></title>
         <id>https://festa.io/events/4010</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4005"/>
         <updated>2023-09-10T08:03:32.562Z</updated>
         <content type="html"><![CDATA[9월 22일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CJ올리브네트웍스] CRUSH ON AI 프로젝트 교육생 모집]]></title>
-        <id>https://festa.io/events/4002</id>
-        <link href="https://festa.io/events/4002"/>
-        <updated>2023-09-08T07:02:16.716Z</updated>
-        <content type="html"><![CDATA[10월 16일 (월) · 온라인]]></content>
     </entry>
 </feed>
