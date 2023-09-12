@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-12T04:03:38.670Z</updated>
+    <updated>2023-09-12T05:02:43.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 농식품창업콘테스트 결선&시상식 초대장]]></title>
+        <id>https://festa.io/events/4009</id>
+        <link href="https://festa.io/events/4009"/>
+        <updated>2023-09-12T05:02:42.913Z</updated>
+        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Keras Community Day in South Korea]]></title>
         <id>https://festa.io/events/4000</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/3999"/>
         <updated>2023-09-08T01:40:03.614Z</updated>
         <content type="html"><![CDATA[9월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나다스 다이어트 커뮤니티 멤버 모집]]></title>
-        <id>https://festa.io/events/3998</id>
-        <link href="https://festa.io/events/3998"/>
-        <updated>2023-09-07T09:02:38.793Z</updated>
-        <content type="html"><![CDATA[9월 13일 (수) · 오프라인]]></content>
     </entry>
 </feed>
