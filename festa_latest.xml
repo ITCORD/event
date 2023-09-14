@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-14T00:25:22.326Z</updated>
+    <updated>2023-09-14T01:39:35.066Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[취업률91%] 국비지원 자바백엔드 취업과정 / 빅데이터실무적인 프로젝트 진행]]></title>
+        <id>https://festa.io/events/4016</id>
+        <link href="https://festa.io/events/4016"/>
+        <updated>2023-09-14T01:39:33.897Z</updated>
+        <content type="html"><![CDATA[9월 13일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(무료/점심제공)굿브레인 2023콘퍼런스에 초대합니다!]]></title>
         <id>https://festa.io/events/4012</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4007"/>
         <updated>2023-09-11T08:10:00.473Z</updated>
         <content type="html"><![CDATA[10월 10일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 제3회 ICT콤플렉스 투자상담회]]></title>
-        <id>https://festa.io/events/4006</id>
-        <link href="https://festa.io/events/4006"/>
-        <updated>2023-09-11T07:02:24.181Z</updated>
-        <content type="html"><![CDATA[9월 11일 (월) · 오프라인]]></content>
     </entry>
 </feed>
