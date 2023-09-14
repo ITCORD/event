@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-14T08:08:32.160Z</updated>
+    <updated>2023-09-14T09:03:03.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[데보션 9월 Tech 세미나 - In-Memory Data Grid 기반 Smart Factory 아키텍처링 연구 사례 (페스타 ─ 최신 밋업과 이벤트)]]></title>
