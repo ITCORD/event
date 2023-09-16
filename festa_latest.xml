@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-16T11:01:44.485Z</updated>
+    <updated>2023-09-16T12:08:41.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Machine Learning Meetup In Songdo]]></title>
+        <id>https://festa.io/events/4014</id>
+        <link href="https://festa.io/events/4014"/>
+        <updated>2023-09-16T12:08:40.251Z</updated>
+        <content type="html"><![CDATA[10월 21일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정]]></title>
         <id>https://festa.io/events/4021</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4011"/>
         <updated>2023-09-12T22:02:04.502Z</updated>
         <content type="html"><![CDATA[9월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI학교 아이펠] 성장하는 AI개발자로의 6개월, 10년의 미래를 바꿉니다.]]></title>
-        <id>https://festa.io/events/4010</id>
-        <link href="https://festa.io/events/4010"/>
-        <updated>2023-09-12T09:03:11.837Z</updated>
-        <content type="html"><![CDATA[9월 3일 (일) · 온라인]]></content>
     </entry>
 </feed>
