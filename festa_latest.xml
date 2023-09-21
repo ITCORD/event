@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-21T04:04:47.233Z</updated>
+    <updated>2023-09-21T05:02:32.126Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요!]]></title>
+        <id>https://festa.io/events/4054</id>
+        <link href="https://festa.io/events/4054"/>
+        <updated>2023-09-21T05:02:31.348Z</updated>
+        <content type="html"><![CDATA[10월 19일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[💌23 Google Cloud NEXT Recap in Seoul]]></title>
+        <id>https://festa.io/events/4053</id>
+        <link href="https://festa.io/events/4053"/>
+        <updated>2023-09-21T05:02:31.348Z</updated>
+        <content type="html"><![CDATA[10월 12일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기]]></title>
+        <id>https://festa.io/events/4052</id>
+        <link href="https://festa.io/events/4052"/>
+        <updated>2023-09-21T05:02:31.356Z</updated>
+        <content type="html"><![CDATA[10월 12일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[보안의 새로운 패러다임, 제로 트러스트와 클라우드 구현 전략]]></title>
+        <id>https://festa.io/events/4051</id>
+        <link href="https://festa.io/events/4051"/>
+        <updated>2023-09-21T05:02:31.356Z</updated>
+        <content type="html"><![CDATA[10월 5일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
         <id>https://festa.io/events/4049</id>
@@ -32,33 +60,5 @@
         <link href="https://festa.io/events/4046"/>
         <updated>2023-09-20T08:08:55.922Z</updated>
         <content type="html"><![CDATA[9월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료/2주/주말] 인공지능 기초 기술 활용 특강]]></title>
-        <id>https://festa.io/events/4045</id>
-        <link href="https://festa.io/events/4045"/>
-        <updated>2023-09-20T08:08:55.931Z</updated>
-        <content type="html"><![CDATA[10월 14일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[케이디지털] 취업률91% 국비무료교육 풀스택 과정 / 구트와 함께하는 실무적 프로젝트]]></title>
-        <id>https://festa.io/events/4044</id>
-        <link href="https://festa.io/events/4044"/>
-        <updated>2023-09-20T04:04:19.079Z</updated>
-        <content type="html"><![CDATA[10월 17일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문제해결형 연구자 부트캠프 <연구원정> 사전설명회 ROUND TABLE]]></title>
-        <id>https://festa.io/events/4043</id>
-        <link href="https://festa.io/events/4043"/>
-        <updated>2023-09-20T04:04:19.081Z</updated>
-        <content type="html"><![CDATA[9월 25일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모두의연구소][등록금무료] AI학교 아이펠 7기 신입생 모집 (~10.20, 조기마감 가능)]]></title>
-        <id>https://festa.io/events/4042</id>
-        <link href="https://festa.io/events/4042"/>
-        <updated>2023-09-20T04:04:19.083Z</updated>
-        <content type="html"><![CDATA[10월 30일 (월) · 온라인]]></content>
     </entry>
 </feed>
