@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-21T07:03:35.172Z</updated>
+    <updated>2023-09-21T08:08:39.058Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[유료/3주/주말] 국가공인 네트워크 관리사 2급 필기/실기 특강]]></title>
+        <id>https://festa.io/events/4059</id>
+        <link href="https://festa.io/events/4059"/>
+        <updated>2023-09-21T08:08:38.185Z</updated>
+        <content type="html"><![CDATA[10월 14일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유료/4주/주말]자연어 처리 기반의 AI 교육 특강]]></title>
+        <id>https://festa.io/events/4058</id>
+        <link href="https://festa.io/events/4058"/>
+        <updated>2023-09-21T08:08:38.188Z</updated>
+        <content type="html"><![CDATA[10월 14일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유료/2일/평일] 판다스 기반 데이터 분석 및 시각화 특강]]></title>
         <id>https://festa.io/events/4057</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[10월 19일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[💌23 Google Cloud NEXT Recap in Seoul]]></title>
+        <title type="html"><![CDATA[💌23 구글 클라우드 NEXT Recap in Seoul]]></title>
         <id>https://festa.io/events/4053</id>
         <link href="https://festa.io/events/4053"/>
         <updated>2023-09-21T05:02:31.348Z</updated>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4051"/>
         <updated>2023-09-21T05:02:31.356Z</updated>
         <content type="html"><![CDATA[10월 5일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
-        <id>https://festa.io/events/4049</id>
-        <link href="https://festa.io/events/4049"/>
-        <updated>2023-09-20T08:08:55.905Z</updated>
-        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정]]></title>
-        <id>https://festa.io/events/4048</id>
-        <link href="https://festa.io/events/4048"/>
-        <updated>2023-09-20T08:08:55.912Z</updated>
-        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
     </entry>
 </feed>
