@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-22T06:08:13.877Z</updated>
+    <updated>2023-09-22T07:01:46.735Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[ETRI Open Source Tech Day 2023]]></title>
+        <id>https://festa.io/events/4067</id>
+        <link href="https://festa.io/events/4067"/>
+        <updated>2023-09-22T07:01:45.985Z</updated>
+        <content type="html"><![CDATA[10월 11일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[대전] 성장해유 | Kick-Quick-start! Python : 파이썬 기초 교육]]></title>
+        <id>https://festa.io/events/4063</id>
+        <link href="https://festa.io/events/4063"/>
+        <updated>2023-09-22T07:01:45.988Z</updated>
+        <content type="html"><![CDATA[10월 5일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[gdgd]]></title>
+        <id>https://festa.io/events/4064</id>
+        <link href="https://festa.io/events/4064"/>
+        <updated>2023-09-22T07:01:45.991Z</updated>
+        <content type="html"><![CDATA[9월 29일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] 쉽게 만드는 AI 스트리머: 버추얼 휴먼과 실시간 인터랙션까지]]></title>
         <id>https://festa.io/events/4061</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/4055"/>
         <updated>2023-09-21T06:08:02.527Z</updated>
         <content type="html"><![CDATA[10월 26일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요!]]></title>
-        <id>https://festa.io/events/4054</id>
-        <link href="https://festa.io/events/4054"/>
-        <updated>2023-09-21T05:02:31.348Z</updated>
-        <content type="html"><![CDATA[10월 19일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💌23 구글 클라우드 NEXT Recap in Seoul]]></title>
-        <id>https://festa.io/events/4053</id>
-        <link href="https://festa.io/events/4053"/>
-        <updated>2023-09-21T05:02:31.348Z</updated>
-        <content type="html"><![CDATA[10월 12일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기]]></title>
-        <id>https://festa.io/events/4052</id>
-        <link href="https://festa.io/events/4052"/>
-        <updated>2023-09-21T05:02:31.356Z</updated>
-        <content type="html"><![CDATA[10월 12일 (목) · 온라인]]></content>
     </entry>
 </feed>
