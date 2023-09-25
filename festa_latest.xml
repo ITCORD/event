@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-25T07:02:37.549Z</updated>
+    <updated>2023-09-25T08:08:46.087Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한빛N MSA - #4 Re-Search]]></title>
+        <id>https://festa.io/events/4050</id>
+        <link href="https://festa.io/events/4050"/>
+        <updated>2023-09-25T08:08:45.247Z</updated>
+        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[ETRI Open Source Tech Day 2023]]></title>
         <id>https://festa.io/events/4067</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4055"/>
         <updated>2023-09-21T06:08:02.527Z</updated>
         <content type="html"><![CDATA[10월 26일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요!]]></title>
-        <id>https://festa.io/events/4054</id>
-        <link href="https://festa.io/events/4054"/>
-        <updated>2023-09-22T11:01:41.727Z</updated>
-        <content type="html"><![CDATA[10월 19일 (목) · 온라인]]></content>
     </entry>
 </feed>
