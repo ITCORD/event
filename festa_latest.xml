@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-09-26T06:09:05.926Z</updated>
+    <updated>2023-09-26T07:02:31.727Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[기업맞춤형] 3D 인터렉티브 웹디자인&웹퍼블리셔(Three.js와 Blender활용)]]></title>
+        <id>https://festa.io/events/4080</id>
+        <link href="https://festa.io/events/4080"/>
+        <updated>2023-09-26T07:02:30.955Z</updated>
+        <content type="html"><![CDATA[10월 11일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자바 풀스택개발자(React.js+Springboot+엘라스틱 서치)취업과정]]></title>
+        <id>https://festa.io/events/4079</id>
+        <link href="https://festa.io/events/4079"/>
+        <updated>2023-09-26T07:02:30.956Z</updated>
+        <content type="html"><![CDATA[9월 26일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(멀티미디어)영상편집&콘텐츠제작(프리미어+애프터이펙트)]]></title>
+        <id>https://festa.io/events/4078</id>
+        <link href="https://festa.io/events/4078"/>
+        <updated>2023-09-26T07:02:30.965Z</updated>
+        <content type="html"><![CDATA[10월 11일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(실무 프로젝트기반) 자바 풀스택 개발자(React.js와 Springboot활용)]]></title>
+        <id>https://festa.io/events/4077</id>
+        <link href="https://festa.io/events/4077"/>
+        <updated>2023-09-26T07:02:30.965Z</updated>
+        <content type="html"><![CDATA[10월 17일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(디지털컨버전스)자바(JAVA)기반 풀스택 웹개발자(프론트엔드&백엔드)]]></title>
         <id>https://festa.io/events/4076</id>
@@ -32,33 +60,5 @@
         <link href="https://festa.io/events/4073"/>
         <updated>2023-09-26T06:09:04.962Z</updated>
         <content type="html"><![CDATA[11월 13일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DISQUIET*] Product Maker's Club * W23 Pre-Networking]]></title>
-        <id>https://festa.io/events/4072</id>
-        <link href="https://festa.io/events/4072"/>
-        <updated>2023-09-25T18:07:36.320Z</updated>
-        <content type="html"><![CDATA[10월 6일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛N MSA - #5 Re-Search]]></title>
-        <id>https://festa.io/events/4050</id>
-        <link href="https://festa.io/events/4050"/>
-        <updated>2023-09-25T08:08:45.247Z</updated>
-        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETRI Open Source Tech Day 2023]]></title>
-        <id>https://festa.io/events/4067</id>
-        <link href="https://festa.io/events/4067"/>
-        <updated>2023-09-22T07:01:45.985Z</updated>
-        <content type="html"><![CDATA[10월 11일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 성장해유 | Kick-Quick-start! Python : 파이썬 기초 교육]]></title>
-        <id>https://festa.io/events/4063</id>
-        <link href="https://festa.io/events/4063"/>
-        <updated>2023-09-22T07:01:45.988Z</updated>
-        <content type="html"><![CDATA[10월 5일 (목) · 오프라인]]></content>
     </entry>
 </feed>
