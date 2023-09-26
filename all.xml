@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-26T05:02:34.189Z</updated>
+    <updated>2023-09-26T06:09:05.931Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[(디지털컨버전스)자바(JAVA)기반 풀스택 웹개발자(프론트엔드&백엔드) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4076</id>
+        <link href="https://festa.io/events/4076"/>
+        <updated>2023-09-26T06:09:04.943Z</updated>
+        <content type="html"><![CDATA[10월 26일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(스마트웹&콘텐츠개발)자바기반 풀스택 웹개발자(프론트엔드&백엔드) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4075</id>
+        <link href="https://festa.io/events/4075"/>
+        <updated>2023-09-26T06:09:04.948Z</updated>
+        <content type="html"><![CDATA[10월 11일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(디지털디자인) Figma 활용 UI/UX 웹디자인&웹퍼블리셔 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4074</id>
+        <link href="https://festa.io/events/4074"/>
+        <updated>2023-09-26T06:09:04.956Z</updated>
+        <content type="html"><![CDATA[10월 4일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(K-디지털트레이닝) 인공지능(AI-X) 프로젝트 부트캠프 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4073</id>
+        <link href="https://festa.io/events/4073"/>
+        <updated>2023-09-26T06:09:04.962Z</updated>
+        <content type="html"><![CDATA[11월 13일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[DISQUIET*] Product Maker's Club * W23 Pre-Networking (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4072</id>
@@ -12,7 +40,7 @@
         <content type="html"><![CDATA[10월 6일 (금) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한빛N MSA - #4 Re-Search (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <title type="html"><![CDATA[한빛N MSA - #5 Re-Search (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4050</id>
         <link href="https://festa.io/events/4050"/>
         <updated>2023-09-25T08:08:45.247Z</updated>
@@ -31,33 +59,5 @@
         <link href="https://festa.io/events/4063"/>
         <updated>2023-09-22T07:01:45.988Z</updated>
         <content type="html"><![CDATA[10월 5일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] 쉽게 만드는 AI 스트리머: 버추얼 휴먼과 실시간 인터랙션까지 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4061</id>
-        <link href="https://festa.io/events/4061"/>
-        <updated>2023-09-21T18:07:36.097Z</updated>
-        <content type="html"><![CDATA[9월 26일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료/3주/주말] 국가공인 네트워크 관리사 2급 필기/실기 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4059</id>
-        <link href="https://festa.io/events/4059"/>
-        <updated>2023-09-21T08:08:38.185Z</updated>
-        <content type="html"><![CDATA[10월 14일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료/4주/주말]자연어 처리 기반의 AI 교육 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4058</id>
-        <link href="https://festa.io/events/4058"/>
-        <updated>2023-09-21T08:08:38.188Z</updated>
-        <content type="html"><![CDATA[10월 14일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료/2일/평일] 판다스 기반 데이터 분석 및 시각화 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4057</id>
-        <link href="https://festa.io/events/4057"/>
-        <updated>2023-09-21T06:08:02.525Z</updated>
-        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
     </entry>
 </feed>
