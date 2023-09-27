@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-27T04:02:43.913Z</updated>
+    <updated>2023-09-27T05:02:56.937Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[10th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4084</id>
+        <link href="https://festa.io/events/4084"/>
+        <updated>2023-09-27T05:02:55.940Z</updated>
+        <content type="html"><![CDATA[10월 10일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4088</id>
+        <link href="https://festa.io/events/4088"/>
+        <updated>2023-09-27T05:02:55.949Z</updated>
+        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4086</id>
+        <link href="https://festa.io/events/4086"/>
+        <updated>2023-09-27T05:02:55.954Z</updated>
+        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 기업프로젝트 기반 AI빅데이터 융합전문가 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4085</id>
+        <link href="https://festa.io/events/4085"/>
+        <updated>2023-09-27T05:02:55.957Z</updated>
+        <content type="html"><![CDATA[10월 16일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 23회 ICPC 한국 대학생 프로그래밍 경시대회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4083</id>
@@ -31,33 +59,5 @@
         <link href="https://festa.io/events/4080"/>
         <updated>2023-09-26T07:02:30.955Z</updated>
         <content type="html"><![CDATA[10월 11일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자바 풀스택개발자(React.js+Springboot+엘라스틱 서치)취업과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4079</id>
-        <link href="https://festa.io/events/4079"/>
-        <updated>2023-09-26T07:02:30.956Z</updated>
-        <content type="html"><![CDATA[9월 26일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(멀티미디어)영상편집&콘텐츠제작(프리미어+애프터이펙트) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4078</id>
-        <link href="https://festa.io/events/4078"/>
-        <updated>2023-09-26T07:02:30.965Z</updated>
-        <content type="html"><![CDATA[10월 11일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(실무 프로젝트기반) 자바 풀스택 개발자(React.js와 Springboot활용) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4077</id>
-        <link href="https://festa.io/events/4077"/>
-        <updated>2023-09-26T07:02:30.965Z</updated>
-        <content type="html"><![CDATA[10월 17일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(디지털컨버전스)자바(JAVA)기반 풀스택 웹개발자(프론트엔드&백엔드) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4076</id>
-        <link href="https://festa.io/events/4076"/>
-        <updated>2023-09-26T06:09:04.943Z</updated>
-        <content type="html"><![CDATA[10월 26일 (목) · 오프라인]]></content>
     </entry>
 </feed>
