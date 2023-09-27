@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-09-27T00:26:32.834Z</updated>
+    <updated>2023-09-27T01:41:48.594Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제 23회 ICPC 한국 대학생 프로그래밍 경시대회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4083</id>
+        <link href="https://festa.io/events/4083"/>
+        <updated>2023-09-27T01:41:47.554Z</updated>
+        <content type="html"><![CDATA[9월 26일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[모두의연구소][등록금무료] AI학교 아이펠 7기 신입생 모집 (~10.20, 조기마감 가능) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4081</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4076"/>
         <updated>2023-09-26T06:09:04.943Z</updated>
         <content type="html"><![CDATA[10월 26일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(스마트웹&콘텐츠개발)자바기반 풀스택 웹개발자(프론트엔드&백엔드) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4075</id>
-        <link href="https://festa.io/events/4075"/>
-        <updated>2023-09-26T06:09:04.948Z</updated>
-        <content type="html"><![CDATA[10월 11일 (수) · 오프라인]]></content>
     </entry>
 </feed>
