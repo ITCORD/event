@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-03T11:02:11.097Z</updated>
+    <updated>2023-10-03T12:10:27.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[9월 회고 모임]]></title>
+        <id>https://festa.io/events/4100</id>
+        <link href="https://festa.io/events/4100"/>
+        <updated>2023-10-03T12:10:26.329Z</updated>
+        <content type="html"><![CDATA[10월 7일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생성AI와 노코드로 '칼퇴&''N잡' 노하우 세미나]]></title>
         <id>https://festa.io/events/4097</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4086"/>
         <updated>2023-10-02T07:02:25.272Z</updated>
         <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 기업프로젝트 기반 AI빅데이터 융합전문가 양성과정]]></title>
-        <id>https://festa.io/events/4085</id>
-        <link href="https://festa.io/events/4085"/>
-        <updated>2023-10-02T07:02:25.275Z</updated>
-        <content type="html"><![CDATA[10월 16일 (월) · 오프라인]]></content>
     </entry>
 </feed>
