@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-03T15:01:53.785Z</updated>
+    <updated>2023-10-03T16:04:46.272Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 10월 모임]]></title>
+        <id>https://festa.io/events/4101</id>
+        <link href="https://festa.io/events/4101"/>
+        <updated>2023-10-03T16:04:45.464Z</updated>
+        <content type="html"><![CDATA[10월 26일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9월 회고 모임]]></title>
         <id>https://festa.io/events/4100</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/4088</id>
         <link href="https://festa.io/events/4088"/>
         <updated>2023-10-02T07:02:25.271Z</updated>
-        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정]]></title>
-        <id>https://festa.io/events/4086</id>
-        <link href="https://festa.io/events/4086"/>
-        <updated>2023-10-02T07:02:25.272Z</updated>
         <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
     </entry>
 </feed>
