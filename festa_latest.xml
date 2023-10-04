@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-03T23:02:20.035Z</updated>
+    <updated>2023-10-04T00:26:21.635Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Swift Coding Club 2023 하반기 중간 행사]]></title>
+        <id>https://festa.io/events/4068</id>
+        <link href="https://festa.io/events/4068"/>
+        <updated>2023-10-04T00:26:20.903Z</updated>
+        <content type="html"><![CDATA[10월 28일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 10월 모임]]></title>
         <id>https://festa.io/events/4101</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4084"/>
         <updated>2023-10-02T07:02:25.270Z</updated>
         <content type="html"><![CDATA[10월 10일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
-        <id>https://festa.io/events/4088</id>
-        <link href="https://festa.io/events/4088"/>
-        <updated>2023-10-02T07:02:25.271Z</updated>
-        <content type="html"><![CDATA[10월 12일 (목) · 오프라인]]></content>
     </entry>
 </feed>
