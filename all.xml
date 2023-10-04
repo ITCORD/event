@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-04T08:08:45.100Z</updated>
+    <updated>2023-10-04T09:03:16.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[전액무료] 스마트 도시인프라 유지관리 솔루션 과정(재직자 과정) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4105</id>
+        <link href="https://festa.io/events/4105"/>
+        <updated>2023-10-04T09:03:14.432Z</updated>
+        <content type="html"><![CDATA[10월 16일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[광주/풀스택 과정] AI 기반 빅데이터 분석 개발과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4104</id>
+        <link href="https://festa.io/events/4104"/>
+        <updated>2023-10-04T09:03:14.433Z</updated>
+        <content type="html"><![CDATA[11월 20일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Swift Coding Club 2023 하반기 중간 행사 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4068</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/4090"/>
         <updated>2023-10-02T07:02:25.269Z</updated>
         <content type="html"><![CDATA[10월 18일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Figma] Design Leaderes Meetup 서울, 지금 바로 신청하세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4089</id>
-        <link href="https://festa.io/events/4089"/>
-        <updated>2023-10-02T07:02:25.270Z</updated>
-        <content type="html"><![CDATA[10월 16일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4084</id>
-        <link href="https://festa.io/events/4084"/>
-        <updated>2023-10-02T07:02:25.270Z</updated>
-        <content type="html"><![CDATA[10월 10일 (화) · 오프라인]]></content>
     </entry>
 </feed>
