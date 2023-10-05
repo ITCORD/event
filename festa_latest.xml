@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-05T10:03:25.411Z</updated>
+    <updated>2023-10-05T11:02:36.397Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Seoul iOS Meetup [October 2023]]]></title>
+        <id>https://festa.io/events/4108</id>
+        <link href="https://festa.io/events/4108"/>
+        <updated>2023-10-05T11:02:35.613Z</updated>
+        <content type="html"><![CDATA[10월 26일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샹볼뮈지니 역삼점 1주년 행사]]></title>
         <id>https://festa.io/events/4107</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4091"/>
         <updated>2023-10-02T07:02:25.269Z</updated>
         <content type="html"><![CDATA[10월 17일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 웨비나] 구글 시트와 앱스스크립트를 활용한 업무자동화]]></title>
-        <id>https://festa.io/events/4090</id>
-        <link href="https://festa.io/events/4090"/>
-        <updated>2023-10-02T07:02:25.269Z</updated>
-        <content type="html"><![CDATA[10월 18일 (수) · 오프라인]]></content>
     </entry>
 </feed>
