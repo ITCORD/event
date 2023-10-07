@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-07T04:02:42.361Z</updated>
+    <updated>2023-10-07T05:01:47.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[샹볼뮈지니 역삼점 1주년 행사]]></title>
+        <id>https://festa.io/events/4111</id>
+        <link href="https://festa.io/events/4111"/>
+        <updated>2023-10-07T05:01:46.228Z</updated>
+        <content type="html"><![CDATA[10월 27일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[실무프로젝트]자바 웹개발자(React, Springboot, intelliJ, AWS)]]></title>
         <id>https://festa.io/events/4116</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4105"/>
         <updated>2023-10-04T09:03:14.432Z</updated>
         <content type="html"><![CDATA[10월 16일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주/풀스택 과정] AI 기반 빅데이터 분석 개발과정]]></title>
-        <id>https://festa.io/events/4104</id>
-        <link href="https://festa.io/events/4104"/>
-        <updated>2023-10-04T09:03:14.433Z</updated>
-        <content type="html"><![CDATA[11월 20일 (월) · 오프라인]]></content>
     </entry>
 </feed>
