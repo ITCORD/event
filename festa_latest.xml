@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-07T10:01:48.403Z</updated>
+    <updated>2023-10-07T11:01:50.416Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[TCN meetup 2023.10]]></title>
+        <id>https://festa.io/events/4118</id>
+        <link href="https://festa.io/events/4118"/>
+        <updated>2023-10-07T11:01:49.595Z</updated>
+        <content type="html"><![CDATA[10월 26일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[샹볼뮈지니 역삼점 1주년 행사]]></title>
         <id>https://festa.io/events/4111</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4108"/>
         <updated>2023-10-05T11:02:35.613Z</updated>
         <content type="html"><![CDATA[10월 26일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액무료] 스마트 도시인프라 유지관리 솔루션 과정(재직자 과정)]]></title>
-        <id>https://festa.io/events/4105</id>
-        <link href="https://festa.io/events/4105"/>
-        <updated>2023-10-04T09:03:14.432Z</updated>
-        <content type="html"><![CDATA[10월 16일 (월) · 오프라인]]></content>
     </entry>
 </feed>
