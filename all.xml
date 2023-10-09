@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-09T08:10:00.241Z</updated>
+    <updated>2023-10-09T09:02:47.556Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[3D 인터렉티브 웹디자인&웹퍼블리셔(Three.js와 Blender활용) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4121</id>
+        <link href="https://festa.io/events/4121"/>
+        <updated>2023-10-09T09:02:46.827Z</updated>
+        <content type="html"><![CDATA[11월 14일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] 플러터 개발자의 커리어 여정: 주니어가 전하는 경험담과 가이드 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4119</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4109"/>
         <updated>2023-10-07T18:04:01.924Z</updated>
         <content type="html"><![CDATA[10월 21일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스 10월 무료세미나: 초보자를 위한 Git 협업개발 핵심 포인트 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4110</id>
-        <link href="https://festa.io/events/4110"/>
-        <updated>2023-10-07T18:04:01.927Z</updated>
-        <content type="html"><![CDATA[10월 31일 (화) · 온라인]]></content>
     </entry>
 </feed>
