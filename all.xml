@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-10T01:41:01.667Z</updated>
+    <updated>2023-10-10T02:14:48.505Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것> (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4125</id>
+        <link href="https://festa.io/events/4125"/>
+        <updated>2023-10-10T02:14:47.555Z</updated>
+        <content type="html"><![CDATA[11월 2일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[C++ Korea 2023 격월 Meet-Up(10월) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4117</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4111"/>
         <updated>2023-10-07T18:04:01.908Z</updated>
         <content type="html"><![CDATA[10월 27일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[실무프로젝트]자바 웹개발자(React, Springboot, intelliJ, AWS) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4116</id>
-        <link href="https://festa.io/events/4116"/>
-        <updated>2023-10-07T18:04:01.910Z</updated>
-        <content type="html"><![CDATA[10월 6일 (금) · 오프라인]]></content>
     </entry>
 </feed>
