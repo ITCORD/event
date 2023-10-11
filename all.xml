@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-11T10:03:11.687Z</updated>
+    <updated>2023-10-11T11:01:59.673Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[엘리스 Cloud 트랙 1기, IoT 트랙 2기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4139</id>
+        <link href="https://festa.io/events/4139"/>
+        <updated>2023-10-11T11:01:58.898Z</updated>
+        <content type="html"><![CDATA[10월 11일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛N MSA - #6 Open Source (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4129</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4127"/>
         <updated>2023-10-10T05:03:00.280Z</updated>
         <content type="html"><![CDATA[10월 14일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것> (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4125</id>
-        <link href="https://festa.io/events/4125"/>
-        <updated>2023-10-10T02:14:47.555Z</updated>
-        <content type="html"><![CDATA[11월 2일 (목) · 오프라인]]></content>
     </entry>
 </feed>
