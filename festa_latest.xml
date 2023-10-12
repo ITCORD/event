@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-12T01:39:10.402Z</updated>
+    <updated>2023-10-12T02:14:04.833Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료 교육] NHN Cloud Hands on Lab 첫걸음]]></title>
+        <id>https://festa.io/events/4152</id>
+        <link href="https://festa.io/events/4152"/>
+        <updated>2023-10-12T02:14:03.690Z</updated>
+        <content type="html"><![CDATA[10월 18일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[종로][국기](클라우드 운영관리)도커와 쿠버네티스를 활용한 클라우드 전문가 양성과정(스마트)]]></title>
+        <id>https://festa.io/events/4151</id>
+        <link href="https://festa.io/events/4151"/>
+        <updated>2023-10-12T02:14:03.693Z</updated>
+        <content type="html"><![CDATA[10월 23일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[부산][국기][스마트혼합](디지털컨버전스) 전자정부기반e커머스 융합sw개발자 양성]]></title>
+        <id>https://festa.io/events/4150</id>
+        <link href="https://festa.io/events/4150"/>
+        <updated>2023-10-12T02:14:03.693Z</updated>
+        <content type="html"><![CDATA[12월 6일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[취업/무료] SeSAC 마포DT4기_ 기업연계형 UIUX퍼블리싱 실무프로젝트 과정 모집중(~11/20)]]></title>
+        <id>https://festa.io/events/4149</id>
+        <link href="https://festa.io/events/4149"/>
+        <updated>2023-10-12T02:14:03.693Z</updated>
+        <content type="html"><![CDATA[12월 4일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노량진][K-디지털]퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 2회차]]></title>
+        <id>https://festa.io/events/4148</id>
+        <link href="https://festa.io/events/4148"/>
+        <updated>2023-10-12T02:14:03.696Z</updated>
+        <content type="html"><![CDATA[12월 6일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[노량진][K-디지털]퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 1회차]]></title>
+        <id>https://festa.io/events/4147</id>
+        <link href="https://festa.io/events/4147"/>
+        <updated>2023-10-12T02:14:03.696Z</updated>
+        <content type="html"><![CDATA[10월 23일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[노량진][과정평가형]응용SW 개발자를 위한 정보처리산업기사 취득 과정 A]]></title>
         <id>https://festa.io/events/4146</id>
@@ -18,47 +60,5 @@
         <link href="https://festa.io/events/4145"/>
         <updated>2023-10-12T01:39:09.621Z</updated>
         <content type="html"><![CDATA[12월 14일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남][국기](클라우드 운영관리)도커와 쿠버네티스를 활용한 클라우드 전문가 양성과정]]></title>
-        <id>https://festa.io/events/4144</id>
-        <link href="https://festa.io/events/4144"/>
-        <updated>2023-10-12T01:39:09.623Z</updated>
-        <content type="html"><![CDATA[12월 6일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남][K- 디지털]공공데이터 기반 AI 챗봇 및 추천 모델 구현 분석 과정 2회차]]></title>
-        <id>https://festa.io/events/4143</id>
-        <link href="https://festa.io/events/4143"/>
-        <updated>2023-10-12T01:39:09.623Z</updated>
-        <content type="html"><![CDATA[12월 6일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남][K- 디지털]공공데이터 기반 AI 챗봇 및 추천 모델 구현 분석 과정 1회차]]></title>
-        <id>https://festa.io/events/4142</id>
-        <link href="https://festa.io/events/4142"/>
-        <updated>2023-10-12T01:39:09.633Z</updated>
-        <content type="html"><![CDATA[11월 8일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SaaS로 시작하는 공공디지털 혁신 웨비나]]></title>
-        <id>https://festa.io/events/4136</id>
-        <link href="https://festa.io/events/4136"/>
-        <updated>2023-10-12T01:39:09.635Z</updated>
-        <content type="html"><![CDATA[10월 20일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유데미x웅진씽크빅x스나이퍼팩토리] UI/UX 인턴형 프로그램 과정]]></title>
-        <id>https://festa.io/events/4141</id>
-        <link href="https://festa.io/events/4141"/>
-        <updated>2023-10-12T01:39:09.637Z</updated>
-        <content type="html"><![CDATA[10월 30일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘리스 Cloud 트랙 1기, IoT 트랙 2기 모집]]></title>
-        <id>https://festa.io/events/4139</id>
-        <link href="https://festa.io/events/4139"/>
-        <updated>2023-10-11T11:01:58.898Z</updated>
-        <content type="html"><![CDATA[10월 11일 (수) · 온라인]]></content>
     </entry>
 </feed>
