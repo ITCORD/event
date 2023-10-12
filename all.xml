@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-12T04:03:59.059Z</updated>
+    <updated>2023-10-12T05:02:52.759Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[Sound Art X Tech : 사운드 기술 활용 예술 창작의 미래] 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4154</id>
+        <link href="https://festa.io/events/4154"/>
+        <updated>2023-10-12T05:02:51.925Z</updated>
+        <content type="html"><![CDATA[10월 13일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2023 Devfest WebTech (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4069</id>
+        <link href="https://festa.io/events/4069"/>
+        <updated>2023-10-12T05:02:51.927Z</updated>
+        <content type="html"><![CDATA[10월 28일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료 교육] NHN Cloud Hands on Lab 첫걸음 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4152</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/4147"/>
         <updated>2023-10-12T02:14:03.696Z</updated>
         <content type="html"><![CDATA[10월 23일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[노량진][과정평가형]응용SW 개발자를 위한 정보처리산업기사 취득 과정 A (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4146</id>
-        <link href="https://festa.io/events/4146"/>
-        <updated>2023-10-12T01:39:09.621Z</updated>
-        <content type="html"><![CDATA[12월 6일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남][국기](클라우드 운영관리)멀티 클라우드를 활용한 클라우드 전문가 양성과정 D (스마트) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4145</id>
-        <link href="https://festa.io/events/4145"/>
-        <updated>2023-10-12T01:39:09.621Z</updated>
-        <content type="html"><![CDATA[12월 14일 (목) · 오프라인]]></content>
     </entry>
 </feed>
