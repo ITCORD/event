@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-13T05:02:10.825Z</updated>
+    <updated>2023-10-13T06:08:55.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] SAM(Segment Anything Model)과 친해지기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4160</id>
+        <link href="https://festa.io/events/4160"/>
+        <updated>2023-10-13T06:08:55.106Z</updated>
+        <content type="html"><![CDATA[10월 16일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것> (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4125</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4152"/>
         <updated>2023-10-12T02:14:03.690Z</updated>
         <content type="html"><![CDATA[10월 18일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[종로][국기](클라우드 운영관리)도커와 쿠버네티스를 활용한 클라우드 전문가 양성과정(스마트) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4151</id>
-        <link href="https://festa.io/events/4151"/>
-        <updated>2023-10-12T02:14:03.693Z</updated>
-        <content type="html"><![CDATA[10월 23일 (월) · 오프라인]]></content>
     </entry>
 </feed>
