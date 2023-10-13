@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-13T00:27:07.298Z</updated>
+    <updated>2023-10-13T01:44:05.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버클라우드 퇴근길 테크밋업 <Technical Writing의 모든 것>]]></title>
+        <id>https://festa.io/events/4125</id>
+        <link href="https://festa.io/events/4125"/>
+        <updated>2023-10-13T01:44:05.086Z</updated>
+        <content type="html"><![CDATA[11월 2일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 전북 TMC 투자유치 IR 데모데이 기업 모집]]></title>
         <id>https://festa.io/events/4158</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4151"/>
         <updated>2023-10-12T02:14:03.693Z</updated>
         <content type="html"><![CDATA[10월 23일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산][국기][스마트혼합](디지털컨버전스) 전자정부기반e커머스 융합sw개발자 양성]]></title>
-        <id>https://festa.io/events/4150</id>
-        <link href="https://festa.io/events/4150"/>
-        <updated>2023-10-12T02:14:03.693Z</updated>
-        <content type="html"><![CDATA[12월 6일 (수) · 오프라인]]></content>
     </entry>
 </feed>
