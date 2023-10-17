@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-17T05:01:57.829Z</updated>
+    <updated>2023-10-17T06:08:34.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[솔데스크] 시스코 클라우드 통합1기 국비교육]]></title>
+        <id>https://festa.io/events/4178</id>
+        <link href="https://festa.io/events/4178"/>
+        <updated>2023-10-17T06:08:33.927Z</updated>
+        <content type="html"><![CDATA[11월 7일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 ABB Hackathon (AI, 빅데이터, 블록체인 해커톤)]]></title>
         <id>https://festa.io/events/4177</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4167"/>
         <updated>2023-10-16T05:03:22.321Z</updated>
         <content type="html"><![CDATA[10월 23일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제5회 데보션 테크 데이 - 기술 커뮤니티를 통한 성장]]></title>
-        <id>https://festa.io/events/4166</id>
-        <link href="https://festa.io/events/4166"/>
-        <updated>2023-10-16T05:03:22.324Z</updated>
-        <content type="html"><![CDATA[10월 20일 (금) · 오프라인]]></content>
     </entry>
 </feed>
