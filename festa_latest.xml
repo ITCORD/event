@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-18T07:02:03.429Z</updated>
+    <updated>2023-10-18T08:08:14.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -48,17 +48,17 @@
         <content type="html"><![CDATA[11월 7일 (화) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정]]></title>
-        <id>https://festa.io/events/4168</id>
-        <link href="https://festa.io/events/4168"/>
-        <updated>2023-10-16T05:03:22.319Z</updated>
-        <content type="html"><![CDATA[10월 18일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 기업프로젝트 기반 AI빅데이터 융합전문가 양성과정]]></title>
         <id>https://festa.io/events/4167</id>
         <link href="https://festa.io/events/4167"/>
         <updated>2023-10-16T05:03:22.321Z</updated>
         <content type="html"><![CDATA[10월 23일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제5회 데보션 테크 데이 - 기술 커뮤니티를 통한 성장]]></title>
+        <id>https://festa.io/events/4166</id>
+        <link href="https://festa.io/events/4166"/>
+        <updated>2023-10-18T08:08:14.046Z</updated>
+        <content type="html"><![CDATA[10월 20일 (금) · 오프라인]]></content>
     </entry>
 </feed>
