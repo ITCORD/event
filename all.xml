@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-19T10:02:59.158Z</updated>
+    <updated>2023-10-19T11:01:59.379Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[엘리스 Cloud 트랙 1기, IoT 트랙 2기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4139</id>
+        <link href="https://festa.io/events/4139"/>
+        <updated>2023-10-19T11:01:58.507Z</updated>
+        <content type="html"><![CDATA[10월 11일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 강원-경남-전북 국립대학교 Tech Meetup Day 기술설명회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4184</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4175"/>
         <updated>2023-10-17T01:42:38.010Z</updated>
         <content type="html"><![CDATA[10월 25일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[광주/풀스택 과정] AI 기반 빅데이터 분석 개발과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4174</id>
-        <link href="https://festa.io/events/4174"/>
-        <updated>2023-10-17T01:42:38.017Z</updated>
-        <content type="html"><![CDATA[10월 1일 (일) · 오프라인]]></content>
     </entry>
 </feed>
