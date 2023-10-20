@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-20T01:41:13.060Z</updated>
+    <updated>2023-10-20T02:14:51.509Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[위시켓 x AWS] 초기 성장을 위한 전략 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4186</id>
+        <link href="https://festa.io/events/4186"/>
+        <updated>2023-10-20T02:14:50.636Z</updated>
+        <content type="html"><![CDATA[10월 30일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 SAFe 커뮤니티 11월 밋업 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4165</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4177"/>
         <updated>2023-10-17T04:06:14.002Z</updated>
         <content type="html"><![CDATA[11월 9일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구름 COMMIT] 리그 오브 레전드가 성공한 이유, 플레이어 중심주의 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4175</id>
-        <link href="https://festa.io/events/4175"/>
-        <updated>2023-10-17T01:42:38.010Z</updated>
-        <content type="html"><![CDATA[10월 25일 (수) · 오프라인]]></content>
     </entry>
 </feed>
