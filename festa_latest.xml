@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-23T13:09:34.621Z</updated>
+    <updated>2023-10-23T14:02:45.519Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[헬렌의 임프라브 과정 모집]]></title>
+        <id>https://festa.io/events/4197</id>
+        <link href="https://festa.io/events/4197"/>
+        <updated>2023-10-23T14:02:44.667Z</updated>
+        <content type="html"><![CDATA[11월 21일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛N MSA - #7 Documentation]]></title>
         <id>https://festa.io/events/4198</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4192"/>
         <updated>2023-10-23T05:02:44.871Z</updated>
         <content type="html"><![CDATA[11월 16일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[MODUPOP] 현실적인 풀스택 개발자 직무 전환 & 취업 과정]]></title>
-        <id>https://festa.io/events/4189</id>
-        <link href="https://festa.io/events/4189"/>
-        <updated>2023-10-20T14:02:05.634Z</updated>
-        <content type="html"><![CDATA[10월 24일 (화) · 오프라인]]></content>
     </entry>
 </feed>
