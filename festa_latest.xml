@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-23T09:02:40.066Z</updated>
+    <updated>2023-10-23T10:02:39.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한빛N MSA - #7 Documentation]]></title>
+        <id>https://festa.io/events/4198</id>
+        <link href="https://festa.io/events/4198"/>
+        <updated>2023-10-23T10:02:38.492Z</updated>
+        <content type="html"><![CDATA[11월 9일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[광주 | 고용노동부] AI 기반 빅데이터 분석 개발과정 교육생 모집 (~12/17)]]></title>
         <id>https://festa.io/events/4201</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4189"/>
         <updated>2023-10-20T14:02:05.634Z</updated>
         <content type="html"><![CDATA[10월 24일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KDT/내일배움카드] 클라우드기반 AI시스템 구축 실무과정 8기 모집]]></title>
-        <id>https://festa.io/events/4187</id>
-        <link href="https://festa.io/events/4187"/>
-        <updated>2023-10-20T10:02:32.493Z</updated>
-        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
     </entry>
 </feed>
