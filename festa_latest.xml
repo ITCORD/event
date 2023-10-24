@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-24T06:08:40.669Z</updated>
+    <updated>2023-10-24T07:03:26.020Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기 #2]]></title>
+        <id>https://festa.io/events/4217</id>
+        <link href="https://festa.io/events/4217"/>
+        <updated>2023-10-24T07:03:25.051Z</updated>
+        <content type="html"><![CDATA[11월 30일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Java 유료화와 성능 고민! Azul로 한 방에 해결하세요]]></title>
+        <id>https://festa.io/events/4216</id>
+        <link href="https://festa.io/events/4216"/>
+        <updated>2023-10-24T07:03:25.052Z</updated>
+        <content type="html"><![CDATA[11월 23일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제2회 디지털 대전환 컨퍼런스 부산 2023]]></title>
         <id>https://festa.io/events/4215</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4209"/>
         <updated>2023-10-24T05:02:20.640Z</updated>
         <content type="html"><![CDATA[11월 13일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[헬렌의 임프라브 과정 모집]]></title>
-        <id>https://festa.io/events/4197</id>
-        <link href="https://festa.io/events/4197"/>
-        <updated>2023-10-23T14:02:44.667Z</updated>
-        <content type="html"><![CDATA[11월 21일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛N MSA - #7 Documentation]]></title>
-        <id>https://festa.io/events/4198</id>
-        <link href="https://festa.io/events/4198"/>
-        <updated>2023-10-23T10:02:38.492Z</updated>
-        <content type="html"><![CDATA[11월 9일 (목) · 오프라인]]></content>
     </entry>
 </feed>
