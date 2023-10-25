@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-25T10:03:49.632Z</updated>
+    <updated>2023-10-25T11:02:39.201Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Flutter Developer Meetup - Seoul]]></title>
+        <id>https://festa.io/events/4202</id>
+        <link href="https://festa.io/events/4202"/>
+        <updated>2023-10-25T11:02:38.206Z</updated>
+        <content type="html"><![CDATA[11월 10일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고용노동부 | 한국경영인증원] 클라우드기반 AI시스템 구축 실무과정 8기 모집(~12/17)]]></title>
         <id>https://festa.io/events/4226</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4214"/>
         <updated>2023-10-24T06:08:39.699Z</updated>
         <content type="html"><![CDATA[11월 16일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국표준협회] 2023년 섬유패션 AI기반 품질검사를 위한 분류 기법 이해 및 실습]]></title>
-        <id>https://festa.io/events/4211</id>
-        <link href="https://festa.io/events/4211"/>
-        <updated>2023-10-24T06:08:39.701Z</updated>
-        <content type="html"><![CDATA[12월 6일 (수) · 오프라인]]></content>
     </entry>
 </feed>
