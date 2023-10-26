@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-26T02:13:58.696Z</updated>
+    <updated>2023-10-26T03:03:42.649Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[고용노동부 | 현대전문직업학교] JAVA, Python 기반 빅데이터 분석 개발과정 교육생 모집 (~12/17)]]></title>
+        <id>https://festa.io/events/4232</id>
+        <link href="https://festa.io/events/4232"/>
+        <updated>2023-10-26T03:03:40.973Z</updated>
+        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter Developer Meetup - Seoul]]></title>
         <id>https://festa.io/events/4202</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4215"/>
         <updated>2023-10-24T06:08:39.696Z</updated>
         <content type="html"><![CDATA[11월 16일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기]]></title>
-        <id>https://festa.io/events/4214</id>
-        <link href="https://festa.io/events/4214"/>
-        <updated>2023-10-24T06:08:39.699Z</updated>
-        <content type="html"><![CDATA[11월 16일 (목) · 온라인]]></content>
     </entry>
 </feed>
