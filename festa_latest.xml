@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-27T00:25:38.376Z</updated>
+    <updated>2023-10-27T01:39:55.092Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MODUPOP] 초거대 AI시대 대체불가 개발자로 살아가기]]></title>
+        <id>https://festa.io/events/4237</id>
+        <link href="https://festa.io/events/4237"/>
+        <updated>2023-10-27T01:39:54.016Z</updated>
+        <content type="html"><![CDATA[10월 31일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[trend:NEXT 위디엑스 디자인 트렌드 컨퍼런스]]></title>
         <id>https://festa.io/events/4231</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4221"/>
         <updated>2023-10-24T08:09:00.263Z</updated>
         <content type="html"><![CDATA[10월 27일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기 #2]]></title>
-        <id>https://festa.io/events/4217</id>
-        <link href="https://festa.io/events/4217"/>
-        <updated>2023-10-24T07:03:25.051Z</updated>
-        <content type="html"><![CDATA[11월 30일 (목) · 온라인]]></content>
     </entry>
 </feed>
