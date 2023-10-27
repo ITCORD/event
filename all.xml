@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-10-27T03:03:24.882Z</updated>
+    <updated>2023-10-27T04:04:49.842Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[현직자성장세미나]ChatGPT 시대 AI 개발자 성장 전략 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4236</id>
+        <link href="https://festa.io/events/4236"/>
+        <updated>2023-10-27T04:04:49.063Z</updated>
+        <content type="html"><![CDATA[11월 8일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MODUPOP] 초거대 AI시대 대체불가 개발자로 살아가기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4237</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4225"/>
         <updated>2023-10-25T08:08:36.361Z</updated>
         <content type="html"><![CDATA[11월 7일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 클라우드 플랫폼에서 1시간 안에 나만의 챗봇 만들기 #2 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4217</id>
-        <link href="https://festa.io/events/4217"/>
-        <updated>2023-10-27T03:03:24.084Z</updated>
-        <content type="html"><![CDATA[11월 30일 (목) · 온라인]]></content>
     </entry>
 </feed>
