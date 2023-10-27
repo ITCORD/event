@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-27T08:07:54.665Z</updated>
+    <updated>2023-10-27T09:01:41.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[KDT 최초 대통령 표창 수상] 모두의연구소 오름캠프 ‘플러터 모바일 앱 과정’ 1기 모집 (-11/22)]]></title>
+        <id>https://festa.io/events/4241</id>
+        <link href="https://festa.io/events/4241"/>
+        <updated>2023-10-27T09:01:40.990Z</updated>
+        <content type="html"><![CDATA[11월 27일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[조선.해양 스마트제조 시스템 보안 관리자 양성과정(RHCSA)]]></title>
+        <id>https://festa.io/events/4240</id>
+        <link href="https://festa.io/events/4240"/>
+        <updated>2023-10-27T09:01:40.997Z</updated>
+        <content type="html"><![CDATA[10월 28일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[현직자성장세미나]ChatGPT 시대 AI 개발자 성장 전략]]></title>
         <id>https://festa.io/events/4236</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4202"/>
         <updated>2023-10-25T11:02:38.206Z</updated>
         <content type="html"><![CDATA[11월 10일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고용노동부 | 한국경영인증원] 클라우드기반 AI시스템 구축 실무과정 8기 모집(~12/17)]]></title>
-        <id>https://festa.io/events/4226</id>
-        <link href="https://festa.io/events/4226"/>
-        <updated>2023-10-25T08:08:36.354Z</updated>
-        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
-        <id>https://festa.io/events/4225</id>
-        <link href="https://festa.io/events/4225"/>
-        <updated>2023-10-25T08:08:36.361Z</updated>
-        <content type="html"><![CDATA[11월 7일 (화) · 오프라인]]></content>
     </entry>
 </feed>
