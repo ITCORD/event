@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-30T03:04:39.188Z</updated>
+    <updated>2023-10-30T04:06:46.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[강사되는 방법, 강의하는 방법, 발표잘하는 방법]]></title>
+        <id>https://festa.io/events/4208</id>
+        <link href="https://festa.io/events/4208"/>
+        <updated>2023-10-30T04:06:45.236Z</updated>
+        <content type="html"><![CDATA[11월 11일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스마트웹&콘텐츠개발)UI/UX웹디자인&웹퍼블리셔1]]></title>
         <id>https://festa.io/events/4244</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4231"/>
         <updated>2023-10-26T09:02:43.438Z</updated>
         <content type="html"><![CDATA[11월 25일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDSC DGU 11월 Open Seminar]]></title>
-        <id>https://festa.io/events/4233</id>
-        <link href="https://festa.io/events/4233"/>
-        <updated>2023-10-26T04:04:48.743Z</updated>
-        <content type="html"><![CDATA[11월 10일 (금) · 오프라인]]></content>
     </entry>
 </feed>
