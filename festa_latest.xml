@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-30T05:02:41.725Z</updated>
+    <updated>2023-10-30T06:09:11.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -48,17 +48,17 @@
         <content type="html"><![CDATA[10월 28일 (토) · 오프라인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[[현직자성장세미나]ChatGPT 시대 AI 개발자 성장 전략]]></title>
+        <id>https://festa.io/events/4236</id>
+        <link href="https://festa.io/events/4236"/>
+        <updated>2023-10-30T06:09:10.570Z</updated>
+        <content type="html"><![CDATA[11월 8일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[MODUPOP] 초거대 AI시대 대체불가 개발자로 살아가기]]></title>
         <id>https://festa.io/events/4237</id>
         <link href="https://festa.io/events/4237"/>
         <updated>2023-10-27T01:39:54.016Z</updated>
         <content type="html"><![CDATA[10월 31일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[trend:NEXT 위디엑스 디자인 트렌드 컨퍼런스]]></title>
-        <id>https://festa.io/events/4231</id>
-        <link href="https://festa.io/events/4231"/>
-        <updated>2023-10-26T09:02:43.438Z</updated>
-        <content type="html"><![CDATA[11월 25일 (토) · 오프라인]]></content>
     </entry>
 </feed>
