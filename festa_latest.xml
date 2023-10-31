@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-10-31T03:03:17.869Z</updated>
+    <updated>2023-10-31T04:06:01.077Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[실무 웹 풀스택 핸즈온랩 세미나2 : 사용자 인증과 권한 구현하기]]></title>
+        <id>https://festa.io/events/4253</id>
+        <link href="https://festa.io/events/4253"/>
+        <updated>2023-10-31T04:06:00.146Z</updated>
+        <content type="html"><![CDATA[11월 15일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[실무 웹 풀스택 핸즈온랩 세미나1 - 사용자 데이터 관리 및 구현]]></title>
+        <id>https://festa.io/events/4252</id>
+        <link href="https://festa.io/events/4252"/>
+        <updated>2023-10-31T04:06:00.157Z</updated>
+        <content type="html"><![CDATA[11월 8일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
         <id>https://festa.io/events/4250</id>
@@ -27,7 +41,7 @@
         <content type="html"><![CDATA[10월 29일 (일) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[DevFest 2023 in Busan]]></title>
+        <title type="html"><![CDATA[DevFest Busan 2023]]></title>
         <id>https://festa.io/events/4248</id>
         <link href="https://festa.io/events/4248"/>
         <updated>2023-10-30T15:02:57.576Z</updated>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4244"/>
         <updated>2023-10-30T02:16:29.578Z</updated>
         <content type="html"><![CDATA[12월 29일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[10월 회고 모임]]></title>
-        <id>https://festa.io/events/4242</id>
-        <link href="https://festa.io/events/4242"/>
-        <updated>2023-10-28T17:02:06.782Z</updated>
-        <content type="html"><![CDATA[11월 4일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[엘리스 코딩 챌린지]]></title>
-        <id>https://festa.io/events/4239</id>
-        <link href="https://festa.io/events/4239"/>
-        <updated>2023-10-27T10:02:48.609Z</updated>
-        <content type="html"><![CDATA[10월 26일 (목) · 온라인]]></content>
     </entry>
 </feed>
