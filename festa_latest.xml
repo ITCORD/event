@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-03T10:02:30.383Z</updated>
+    <updated>2023-11-03T11:02:19.199Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GraphQL: Inevitable Next Wave]]></title>
+        <id>https://festa.io/events/4279</id>
+        <link href="https://festa.io/events/4279"/>
+        <updated>2023-11-03T11:02:18.232Z</updated>
+        <content type="html"><![CDATA[11월 15일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[위스키 클래스 <온더락 원데이 클래스>]]></title>
         <id>https://festa.io/events/4278</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4271"/>
         <updated>2023-11-02T07:02:15.687Z</updated>
         <content type="html"><![CDATA[11월 14일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[챗GPT 러닝데이] 개발자에게 부탁하기 두려웠던 나머지...(더보기)]]></title>
-        <id>https://festa.io/events/4268</id>
-        <link href="https://festa.io/events/4268"/>
-        <updated>2023-11-02T03:02:27.562Z</updated>
-        <content type="html"><![CDATA[11월 2일 (목) · 온라인]]></content>
     </entry>
 </feed>
