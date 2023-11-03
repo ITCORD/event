@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-03T00:26:44.394Z</updated>
+    <updated>2023-11-03T01:41:41.777Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DevFest on GDSC KNU]]></title>
+        <id>https://festa.io/events/4062</id>
+        <link href="https://festa.io/events/4062"/>
+        <updated>2023-11-03T01:41:41.177Z</updated>
+        <content type="html"><![CDATA[11월 24일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Code Free, Think Freely 노코딩으로 시작하는 나의 첫 서비스]]></title>
         <id>https://festa.io/events/4274</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/4263</id>
         <link href="https://festa.io/events/4263"/>
         <updated>2023-11-02T02:15:29.540Z</updated>
-        <content type="html"><![CDATA[11월 16일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 앱 보안 고민이 있다면? G-Star 2023 앱실링 부스로!]]></title>
-        <id>https://festa.io/events/4251</id>
-        <link href="https://festa.io/events/4251"/>
-        <updated>2023-11-02T01:40:45.010Z</updated>
         <content type="html"><![CDATA[11월 16일 (목) · 오프라인]]></content>
     </entry>
 </feed>
