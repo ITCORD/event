@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-03T09:02:23.258Z</updated>
+    <updated>2023-11-03T10:02:30.383Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[위스키 클래스 <온더락 원데이 클래스>]]></title>
+        <id>https://festa.io/events/4278</id>
+        <link href="https://festa.io/events/4278"/>
+        <updated>2023-11-03T10:02:29.630Z</updated>
+        <content type="html"><![CDATA[11월 11일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[평균 취업률91%] 국비지원 자바백엔드 취업과정 / 빅데이터실무적인 프로젝트 진행]]></title>
         <id>https://festa.io/events/4275</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4268"/>
         <updated>2023-11-02T03:02:27.562Z</updated>
         <content type="html"><![CDATA[11월 2일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유데미x웅진씽크빅x스팩] 교육관련 앱/웹 서비스 제작 주니어 해커톤]]></title>
-        <id>https://festa.io/events/4266</id>
-        <link href="https://festa.io/events/4266"/>
-        <updated>2023-11-02T02:15:29.540Z</updated>
-        <content type="html"><![CDATA[11월 20일 (월) · 온라인]]></content>
     </entry>
 </feed>
