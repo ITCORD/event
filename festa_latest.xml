@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-06T15:04:20.531Z</updated>
+    <updated>2023-11-06T16:07:23.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[코틀린 함수형 프로그래밍 스터디]]></title>
+        <id>https://festa.io/events/4288</id>
+        <link href="https://festa.io/events/4288"/>
+        <updated>2023-11-06T16:07:22.765Z</updated>
+        <content type="html"><![CDATA[11월 18일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 10월 모임]]></title>
         <id>https://festa.io/events/4287</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4275"/>
         <updated>2023-11-03T04:06:16.538Z</updated>
         <content type="html"><![CDATA[11월 3일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevFest on GDSC KNU]]></title>
-        <id>https://festa.io/events/4062</id>
-        <link href="https://festa.io/events/4062"/>
-        <updated>2023-11-03T01:41:41.177Z</updated>
-        <content type="html"><![CDATA[11월 24일 (금) · 오프라인]]></content>
     </entry>
 </feed>
