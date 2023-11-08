@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-08T01:43:05.084Z</updated>
+    <updated>2023-11-08T02:16:16.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 SLAM KR Offline Event (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4260</id>
+        <link href="https://festa.io/events/4260"/>
+        <updated>2023-11-08T02:16:16.070Z</updated>
+        <content type="html"><![CDATA[11월 25일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유료/2일/평일] 판다스 기반 데이터 분석 및 시각화 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4301</id>
+        <link href="https://festa.io/events/4301"/>
+        <updated>2023-11-08T02:16:16.071Z</updated>
+        <content type="html"><![CDATA[11월 16일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유료/2주/주말] AI 개발을 위한 파이썬 기초 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4300</id>
+        <link href="https://festa.io/events/4300"/>
+        <updated>2023-11-08T02:16:16.071Z</updated>
+        <content type="html"><![CDATA[11월 18일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유료/2주/주말] 인공지능 기초 기술 활용 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4299</id>
+        <link href="https://festa.io/events/4299"/>
+        <updated>2023-11-08T02:16:16.073Z</updated>
+        <content type="html"><![CDATA[11월 18일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고용노동부 | 현대전문직업학교] JAVA, Python 기반 빅데이터 분석 개발과정 교육생 모집 (~12/17) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4298</id>
+        <link href="https://festa.io/events/4298"/>
+        <updated>2023-11-08T02:16:16.074Z</updated>
+        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고용노동부 | 한국경영인증원] 클라우드기반 AI시스템 구축 실무과정 8기 모집(~12/17) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4297</id>
@@ -24,40 +59,5 @@
         <link href="https://festa.io/events/4292"/>
         <updated>2023-11-07T12:09:52.608Z</updated>
         <content type="html"><![CDATA[11월 25일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코틀린 함수형 프로그래밍 스터디 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4288</id>
-        <link href="https://festa.io/events/4288"/>
-        <updated>2023-11-06T16:07:22.765Z</updated>
-        <content type="html"><![CDATA[11월 19일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2023년 11월~2024년 1월 모임 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4287</id>
-        <link href="https://festa.io/events/4287"/>
-        <updated>2023-11-06T15:04:19.585Z</updated>
-        <content type="html"><![CDATA[11월 30일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SIPE Meetup - 사담콘 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4230</id>
-        <link href="https://festa.io/events/4230"/>
-        <updated>2023-11-06T08:09:20.125Z</updated>
-        <content type="html"><![CDATA[11월 25일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔데스크 국비지원 자바학원 개강반 무료취업교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4285</id>
-        <link href="https://festa.io/events/4285"/>
-        <updated>2023-11-06T07:03:33.291Z</updated>
-        <content type="html"><![CDATA[11월 28일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GraphQL: Inevitable Next Wave (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4279</id>
-        <link href="https://festa.io/events/4279"/>
-        <updated>2023-11-03T11:02:18.232Z</updated>
-        <content type="html"><![CDATA[11월 15일 (수) · 오프라인]]></content>
     </entry>
 </feed>
