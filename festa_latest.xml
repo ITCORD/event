@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-08T06:08:16.950Z</updated>
+    <updated>2023-11-08T07:02:38.447Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오픈스택 / 클라우드 / 인프라 기술 대전 세미나]]></title>
+        <id>https://festa.io/events/4304</id>
+        <link href="https://festa.io/events/4304"/>
+        <updated>2023-11-08T07:02:37.506Z</updated>
+        <content type="html"><![CDATA[11월 24일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Docker Overview 웨비나, 지금 바로 등록 하세요!]]></title>
         <id>https://festa.io/events/4303</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4297"/>
         <updated>2023-11-08T01:43:04.088Z</updated>
         <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스 11월 무료세미나: 리눅스 초보자를 위한 문제해결사례 TOP 3]]></title>
-        <id>https://festa.io/events/4296</id>
-        <link href="https://festa.io/events/4296"/>
-        <updated>2023-11-08T01:43:04.090Z</updated>
-        <content type="html"><![CDATA[11월 28일 (화) · 온라인]]></content>
     </entry>
 </feed>
