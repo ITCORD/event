@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-08T00:27:00.648Z</updated>
+    <updated>2023-11-08T01:43:05.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[고용노동부 | 한국경영인증원] 클라우드기반 AI시스템 구축 실무과정 8기 모집(~12/17)]]></title>
+        <id>https://festa.io/events/4297</id>
+        <link href="https://festa.io/events/4297"/>
+        <updated>2023-11-08T01:43:04.088Z</updated>
+        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스 11월 무료세미나: 리눅스 초보자를 위한 문제해결사례 TOP 3]]></title>
+        <id>https://festa.io/events/4296</id>
+        <link href="https://festa.io/events/4296"/>
+        <updated>2023-11-08T01:43:04.090Z</updated>
+        <content type="html"><![CDATA[11월 28일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[MLSA와 함께하는 대학생 AI & Cloud 러닝 핸즈온 캠프]]></title>
         <id>https://festa.io/events/4292</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4279"/>
         <updated>2023-11-03T11:02:18.232Z</updated>
         <content type="html"><![CDATA[11월 15일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위스키 클래스 <온더락 원데이 클래스>]]></title>
-        <id>https://festa.io/events/4278</id>
-        <link href="https://festa.io/events/4278"/>
-        <updated>2023-11-03T10:02:29.630Z</updated>
-        <content type="html"><![CDATA[11월 11일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[평균 취업률91%] 국비지원 자바백엔드 취업과정 / 빅데이터실무적인 프로젝트 진행]]></title>
-        <id>https://festa.io/events/4275</id>
-        <link href="https://festa.io/events/4275"/>
-        <updated>2023-11-03T04:06:16.538Z</updated>
-        <content type="html"><![CDATA[11월 3일 (금) · 오프라인]]></content>
     </entry>
 </feed>
