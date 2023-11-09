@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-09T00:26:09.039Z</updated>
+    <updated>2023-11-09T01:42:56.918Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[MODUCON 2023 : 연구와 재미가 가득한 그 곳, 모두랜드 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -10,6 +10,13 @@
         <link href="https://festa.io/events/4308"/>
         <updated>2023-11-08T12:10:24.690Z</updated>
         <content type="html"><![CDATA[12월 9일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4307</id>
+        <link href="https://festa.io/events/4307"/>
+        <updated>2023-11-09T01:42:56.269Z</updated>
+        <content type="html"><![CDATA[11월 23일 (목) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[11th DX Forum - 협업 툴을 중심으로 보는 데이터와 OpenAPI (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/4300</id>
         <link href="https://festa.io/events/4300"/>
         <updated>2023-11-08T02:16:16.071Z</updated>
-        <content type="html"><![CDATA[11월 18일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료/2주/주말] 인공지능 기초 기술 활용 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4299</id>
-        <link href="https://festa.io/events/4299"/>
-        <updated>2023-11-08T02:16:16.073Z</updated>
         <content type="html"><![CDATA[11월 18일 (토) · 오프라인]]></content>
     </entry>
 </feed>
