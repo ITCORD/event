@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-09T06:07:46.174Z</updated>
+    <updated>2023-11-09T07:02:29.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Seoul iOS Meetup [November 2023]]]></title>
+        <id>https://festa.io/events/4314</id>
+        <link href="https://festa.io/events/4314"/>
+        <updated>2023-11-09T07:02:28.326Z</updated>
+        <content type="html"><![CDATA[11월 28일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[전파분야 미래 재직자를 위한 「제4회 전파미래앞장감 세미나」]]></title>
         <id>https://festa.io/events/4313</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4303"/>
         <updated>2023-11-08T06:08:16.278Z</updated>
         <content type="html"><![CDATA[11월 22일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023 SLAM KR Offline Event]]></title>
-        <id>https://festa.io/events/4260</id>
-        <link href="https://festa.io/events/4260"/>
-        <updated>2023-11-08T02:16:16.070Z</updated>
-        <content type="html"><![CDATA[11월 25일 (토) · 오프라인]]></content>
     </entry>
 </feed>
