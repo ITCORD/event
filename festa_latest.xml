@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-09T05:02:45.144Z</updated>
+    <updated>2023-11-09T06:07:46.174Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[전파분야 미래 재직자를 위한 「제4회 전파미래앞장감 세미나」]]></title>
+        <id>https://festa.io/events/4313</id>
+        <link href="https://festa.io/events/4313"/>
+        <updated>2023-11-09T06:07:45.582Z</updated>
+        <content type="html"><![CDATA[11월 14일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛N MSA - #8 UX/UI]]></title>
         <id>https://festa.io/events/4310</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4260"/>
         <updated>2023-11-08T02:16:16.070Z</updated>
         <content type="html"><![CDATA[11월 25일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료/2일/평일] 판다스 기반 데이터 분석 및 시각화 특강]]></title>
-        <id>https://festa.io/events/4301</id>
-        <link href="https://festa.io/events/4301"/>
-        <updated>2023-11-08T02:16:16.071Z</updated>
-        <content type="html"><![CDATA[11월 16일 (목) · 오프라인]]></content>
     </entry>
 </feed>
