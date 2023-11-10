@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-10T11:01:56.075Z</updated>
+    <updated>2023-11-10T12:09:28.247Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[2023 GDG Devfest Daejeon (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -24,13 +24,6 @@
         <link href="https://festa.io/events/4315"/>
         <updated>2023-11-09T08:08:12.435Z</updated>
         <content type="html"><![CDATA[12월 11일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDSC DGU 11월 Open Seminar (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4233</id>
-        <link href="https://festa.io/events/4233"/>
-        <updated>2023-11-09T08:08:12.437Z</updated>
-        <content type="html"><![CDATA[11월 10일 (금) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[Seoul iOS Meetup [November 2023] (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -59,5 +52,12 @@
         <link href="https://festa.io/events/4308"/>
         <updated>2023-11-08T12:10:24.690Z</updated>
         <content type="html"><![CDATA[12월 9일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4307</id>
+        <link href="https://festa.io/events/4307"/>
+        <updated>2023-11-10T12:09:27.624Z</updated>
+        <content type="html"><![CDATA[11월 23일 (목) · 오프라인]]></content>
     </entry>
 </feed>
