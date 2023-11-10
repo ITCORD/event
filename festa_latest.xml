@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-10T14:02:15.225Z</updated>
+    <updated>2023-11-10T15:02:51.854Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제 1차 Coding Lab 해커톤]]></title>
+        <id>https://festa.io/events/4322</id>
+        <link href="https://festa.io/events/4322"/>
+        <updated>2023-11-10T15:02:51.015Z</updated>
+        <content type="html"><![CDATA[11월 10일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 GDG Devfest Daejeon]]></title>
         <id>https://festa.io/events/4318</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4308"/>
         <updated>2023-11-08T12:10:24.690Z</updated>
         <content type="html"><![CDATA[12월 9일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오뱅크 기술 밋업 #2 - 퇴근길 기술 한 잔 with 큰 그림 설계할 서버 개발자]]></title>
-        <id>https://festa.io/events/4307</id>
-        <link href="https://festa.io/events/4307"/>
-        <updated>2023-11-10T12:09:27.624Z</updated>
-        <content type="html"><![CDATA[11월 23일 (목) · 오프라인]]></content>
     </entry>
 </feed>
