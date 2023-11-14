@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-14T11:01:51.334Z</updated>
+    <updated>2023-11-14T12:10:01.414Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[모두큰잔치] PaperShop 특집: 모두연 연구모임 논문지원제도 우수참가자 발표 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4347</id>
+        <link href="https://festa.io/events/4347"/>
+        <updated>2023-11-14T12:10:00.789Z</updated>
+        <content type="html"><![CDATA[11월 17일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 예비창업패키지 대비 ‘사업계획서 함께 작성하기’ 포테너 1기 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4348</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4341"/>
         <updated>2023-11-14T05:02:10.831Z</updated>
         <content type="html"><![CDATA[11월 15일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakao Tech Meet #4 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4327</id>
-        <link href="https://festa.io/events/4327"/>
-        <updated>2023-11-14T02:17:43.627Z</updated>
-        <content type="html"><![CDATA[12월 12일 (화) · 오프라인]]></content>
     </entry>
 </feed>
