@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-14T04:06:47.681Z</updated>
+    <updated>2023-11-14T05:02:11.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[연애가 무섭고 두려운 남자들을 위한 올해 최고의 1시간을 만들어드리겠습니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4342</id>
+        <link href="https://festa.io/events/4342"/>
+        <updated>2023-11-14T05:02:10.830Z</updated>
+        <content type="html"><![CDATA[11월 15일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애가 무섭고 두려운 남자들을 위한 올해 최고의 1시간을 만들어드리겠습니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4341</id>
+        <link href="https://festa.io/events/4341"/>
+        <updated>2023-11-14T05:02:10.831Z</updated>
+        <content type="html"><![CDATA[11월 15일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kakao Tech Meet #4 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4327</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/4320"/>
         <updated>2023-11-13T01:45:05.253Z</updated>
         <content type="html"><![CDATA[12월 9일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Merry Developermas (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4319</id>
-        <link href="https://festa.io/events/4319"/>
-        <updated>2023-11-13T00:27:18.918Z</updated>
-        <content type="html"><![CDATA[12월 2일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Everyone can Swift! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4326</id>
-        <link href="https://festa.io/events/4326"/>
-        <updated>2023-11-12T20:02:20.924Z</updated>
-        <content type="html"><![CDATA[12월 2일 (토) · 오프라인]]></content>
     </entry>
 </feed>
