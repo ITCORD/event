@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-15T07:02:42.331Z</updated>
+    <updated>2023-11-15T08:10:13.316Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[liftIO 2023]]></title>
+        <id>https://festa.io/events/4257</id>
+        <link href="https://festa.io/events/4257"/>
+        <updated>2023-11-15T08:10:12.662Z</updated>
+        <content type="html"><![CDATA[12월 16일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[오페라 테스트]]></title>
+        <id>https://festa.io/events/4358</id>
+        <link href="https://festa.io/events/4358"/>
+        <updated>2023-11-15T08:10:12.663Z</updated>
+        <content type="html"><![CDATA[11월 22일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[포텐데이 X 클로바 스튜디오 해커톤 (AI 서비스 기획·개발 프로젝트) 참여자 모집]]></title>
+        <id>https://festa.io/events/4356</id>
+        <link href="https://festa.io/events/4356"/>
+        <updated>2023-11-15T08:10:12.665Z</updated>
+        <content type="html"><![CDATA[12월 7일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패션포트폴리오 실무자교육, 공장핸들링, 패션창업, 도식화, 작업지시서]]></title>
         <id>https://festa.io/events/4351</id>
@@ -38,27 +59,6 @@
         <id>https://festa.io/events/4340</id>
         <link href="https://festa.io/events/4340"/>
         <updated>2023-11-14T14:02:38.099Z</updated>
-        <content type="html"><![CDATA[11월 21일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devfest 2023 Seoul]]></title>
-        <id>https://festa.io/events/4330</id>
-        <link href="https://festa.io/events/4330"/>
-        <updated>2023-11-14T14:02:38.104Z</updated>
-        <content type="html"><![CDATA[12월 2일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모두큰잔치] PaperShop 특집: 모두연 연구모임 논문지원제도 우수참가자 발표]]></title>
-        <id>https://festa.io/events/4347</id>
-        <link href="https://festa.io/events/4347"/>
-        <updated>2023-11-14T12:10:00.789Z</updated>
-        <content type="html"><![CDATA[11월 17일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 예비창업패키지 대비 ‘사업계획서 함께 작성하기’ 포테너 1기 모집]]></title>
-        <id>https://festa.io/events/4348</id>
-        <link href="https://festa.io/events/4348"/>
-        <updated>2023-11-14T10:02:51.587Z</updated>
         <content type="html"><![CDATA[11월 21일 (화) · 오프라인]]></content>
     </entry>
 </feed>
