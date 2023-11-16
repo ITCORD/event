@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-16T04:07:51.043Z</updated>
+    <updated>2023-11-16T05:02:18.604Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 23일 ProtoPie가 찾아옵니다. 지금 바로 신청하세요!]]></title>
+        <id>https://festa.io/events/4363</id>
+        <link href="https://festa.io/events/4363"/>
+        <updated>2023-11-16T05:02:18.037Z</updated>
+        <content type="html"><![CDATA[11월 23일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터기반 AI알고리즘 서비스(추천,트레이딩)개발자 양성과정]]></title>
         <id>https://festa.io/events/4362</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4355"/>
         <updated>2023-11-15T06:08:32.555Z</updated>
         <content type="html"><![CDATA[12월 24일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(실무 프로젝트기반)자바 풀스택 개발자(React/Springboot/Cloud 배포) 취업과정]]></title>
-        <id>https://festa.io/events/4353</id>
-        <link href="https://festa.io/events/4353"/>
-        <updated>2023-11-15T05:01:24.425Z</updated>
-        <content type="html"><![CDATA[12월 1일 (금) · 오프라인]]></content>
     </entry>
 </feed>
