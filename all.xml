@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-16T11:01:27.105Z</updated>
+    <updated>2023-11-16T12:10:30.985Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[REVERSE] 비영리 조직(임팩트지향조직)과 함께 사이드 프로젝트 하실 IT 전문가를 모십니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4367</id>
+        <link href="https://festa.io/events/4367"/>
+        <updated>2023-11-16T12:10:30.290Z</updated>
+        <content type="html"><![CDATA[12월 1일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Gitlab Korea 밋업 #18 - VSM으로 완성하는 DevSecOps와 SlackBot 자동화 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4332</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4359"/>
         <updated>2023-11-15T11:02:09.009Z</updated>
         <content type="html"><![CDATA[11월 20일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[포텐데이 X 클로바 스튜디오 해커톤 (AI 서비스 기획·개발 프로젝트) 참여자 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4356</id>
-        <link href="https://festa.io/events/4356"/>
-        <updated>2023-11-15T08:10:12.665Z</updated>
-        <content type="html"><![CDATA[11월 12일 (일) · 온라인]]></content>
     </entry>
 </feed>
