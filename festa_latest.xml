@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-20T14:02:24.996Z</updated>
+    <updated>2023-11-20T15:03:30.426Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Devfest Android x Pangyo]]></title>
+        <id>https://festa.io/events/4379</id>
+        <link href="https://festa.io/events/4379"/>
+        <updated>2023-11-20T15:03:29.748Z</updated>
+        <content type="html"><![CDATA[12월 13일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[연애]]></title>
+        <id>https://festa.io/events/4380</id>
+        <link href="https://festa.io/events/4380"/>
+        <updated>2023-11-20T15:03:29.749Z</updated>
+        <content type="html"><![CDATA[11월 21일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UbuCon Asia 2023 & Ubuntu Summit 2023 Recap Seminar]]></title>
         <id>https://festa.io/events/4378</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4370"/>
         <updated>2023-11-17T08:10:04.914Z</updated>
         <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 사내교육 2시간이면 고민 끝! 조직 진단 세미나]]></title>
-        <id>https://festa.io/events/4369</id>
-        <link href="https://festa.io/events/4369"/>
-        <updated>2023-11-17T07:01:35.387Z</updated>
-        <content type="html"><![CDATA[11월 22일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[소주콘 Shot 5 : 느린마을, 느려도 괜찮아]]></title>
-        <id>https://festa.io/events/4190</id>
-        <link href="https://festa.io/events/4190"/>
-        <updated>2023-11-17T05:01:29.408Z</updated>
-        <content type="html"><![CDATA[12월 8일 (금) · 오프라인]]></content>
     </entry>
 </feed>
