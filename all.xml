@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-21T06:08:10.895Z</updated>
+    <updated>2023-11-21T07:02:15.138Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[아트코리아랩 × 모두연 세미나②] LAB Coming Day | 랩들이 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4375</id>
+        <link href="https://festa.io/events/4375"/>
+        <updated>2023-11-21T07:02:14.440Z</updated>
+        <content type="html"><![CDATA[11월 23일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔데스크 재직자무료교육 리눅스 파이썬 AWS 챗GPT 도커 쿠버네티스 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4382</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4360"/>
         <updated>2023-11-18T05:01:28.871Z</updated>
         <content type="html"><![CDATA[12월 9일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고용노동부 | 한국경영인증원] 클라우드기반 AI시스템 구축 실무과정 8기 모집(~12/17) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4371</id>
-        <link href="https://festa.io/events/4371"/>
-        <updated>2023-11-17T08:10:04.912Z</updated>
-        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
     </entry>
 </feed>
