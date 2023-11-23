@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-23T12:10:08.664Z</updated>
+    <updated>2023-11-23T13:08:56.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[C++ Korea 2023 연말 Meet-Up(12월)]]></title>
+        <id>https://festa.io/events/4391</id>
+        <link href="https://festa.io/events/4391"/>
+        <updated>2023-11-23T13:08:56.031Z</updated>
+        <content type="html"><![CDATA[12월 16일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[바른자세 교정법 세미나]]></title>
+        <id>https://festa.io/events/4396</id>
+        <link href="https://festa.io/events/4396"/>
+        <updated>2023-11-23T13:08:56.033Z</updated>
+        <content type="html"><![CDATA[12월 17일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고용노동부 | 현대전문직업학교] JAVA, Python 기반 빅데이터 분석 개발과정 교육생 모집 (~12/17)]]></title>
         <id>https://festa.io/events/4395</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4390"/>
         <updated>2023-11-22T09:03:10.225Z</updated>
         <content type="html"><![CDATA[11월 19일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프론트/ 백엔드 신입 기술면접 온&오프 특강 (선착순 50명)]]></title>
-        <id>https://festa.io/events/4389</id>
-        <link href="https://festa.io/events/4389"/>
-        <updated>2023-11-22T08:08:56.422Z</updated>
-        <content type="html"><![CDATA[11월 30일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devfest Cloud 2023]]></title>
-        <id>https://festa.io/events/4385</id>
-        <link href="https://festa.io/events/4385"/>
-        <updated>2023-11-22T01:49:49.326Z</updated>
-        <content type="html"><![CDATA[12월 9일 (토) · 오프라인]]></content>
     </entry>
 </feed>
