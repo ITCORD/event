@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-23T05:02:21.597Z</updated>
+    <updated>2023-11-23T06:08:21.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[11월 30일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[GDSC DevFest Campus]]></title>
-        <id>https://festa.io/events/4368</id>
-        <link href="https://festa.io/events/4368"/>
-        <updated>2023-11-22T08:08:56.423Z</updated>
-        <content type="html"><![CDATA[12월 23일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[Devfest Cloud 2023]]></title>
         <id>https://festa.io/events/4385</id>
         <link href="https://festa.io/events/4385"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/4375"/>
         <updated>2023-11-21T07:02:14.440Z</updated>
         <content type="html"><![CDATA[11월 23일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔데스크 재직자무료교육 리눅스 파이썬 AWS 챗GPT 도커 쿠버네티스]]></title>
+        <id>https://festa.io/events/4382</id>
+        <link href="https://festa.io/events/4382"/>
+        <updated>2023-11-23T06:08:20.853Z</updated>
+        <content type="html"><![CDATA[12월 2일 (토) · 온라인]]></content>
     </entry>
 </feed>
