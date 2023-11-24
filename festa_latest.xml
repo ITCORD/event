@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-24T01:43:15.625Z</updated>
+    <updated>2023-11-24T02:17:53.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우드 기반의 CI/CD를 활용한 풀스택 [자바, 뷰, 플러터] 개발자]]></title>
+        <id>https://festa.io/events/4399</id>
+        <link href="https://festa.io/events/4399"/>
+        <updated>2023-11-24T02:17:52.669Z</updated>
+        <content type="html"><![CDATA[12월 5일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GDSC DevFest Campus]]></title>
         <id>https://festa.io/events/4397</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4393"/>
         <updated>2023-11-23T02:19:53.617Z</updated>
         <content type="html"><![CDATA[11월 22일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DEVCON LA Tech Talk!]]></title>
-        <id>https://festa.io/events/4386</id>
-        <link href="https://festa.io/events/4386"/>
-        <updated>2023-11-23T01:44:50.074Z</updated>
-        <content type="html"><![CDATA[11월 29일 (수) · 온라인]]></content>
     </entry>
 </feed>
