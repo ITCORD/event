@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-27T04:07:56.520Z</updated>
+    <updated>2023-11-27T05:02:22.233Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 (      ), 그랬구나]]></title>
+        <id>https://festa.io/events/4406</id>
+        <link href="https://festa.io/events/4406"/>
+        <updated>2023-11-27T05:02:21.579Z</updated>
+        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI학교 아이펠 '데이터 사이언티스트 과정' 입학생 모집]]></title>
         <id>https://festa.io/events/4408</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4396"/>
         <updated>2023-11-23T13:08:56.033Z</updated>
         <content type="html"><![CDATA[12월 17일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고용노동부 | 현대전문직업학교] JAVA, Python 기반 빅데이터 분석 개발과정 교육생 모집 (~12/17)]]></title>
-        <id>https://festa.io/events/4395</id>
-        <link href="https://festa.io/events/4395"/>
-        <updated>2023-11-23T08:08:01.840Z</updated>
-        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
     </entry>
 </feed>
