@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-28T04:07:25.753Z</updated>
+    <updated>2023-11-28T05:02:21.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[1시간 안에 나만의 챗봇 만들기 #1탄]]></title>
+        <id>https://festa.io/events/4418</id>
+        <link href="https://festa.io/events/4418"/>
+        <updated>2023-11-28T05:02:20.957Z</updated>
+        <content type="html"><![CDATA[11월 27일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Digitize Anything! 디지털 자산화로 우리 회사만의 데이터 만들기]]></title>
+        <id>https://festa.io/events/4381</id>
+        <link href="https://festa.io/events/4381"/>
+        <updated>2023-11-28T05:02:20.958Z</updated>
+        <content type="html"><![CDATA[12월 14일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[11월 회고 모임]]></title>
         <id>https://festa.io/events/4417</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4406"/>
         <updated>2023-11-27T05:02:21.579Z</updated>
         <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI학교 아이펠 '데이터 사이언티스트 과정' 입학생 모집]]></title>
-        <id>https://festa.io/events/4408</id>
-        <link href="https://festa.io/events/4408"/>
-        <updated>2023-11-27T03:04:40.746Z</updated>
-        <content type="html"><![CDATA[12월 27일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임 개발자 커뮤니티 '거실']]></title>
-        <id>https://festa.io/events/4407</id>
-        <link href="https://festa.io/events/4407"/>
-        <updated>2023-11-26T12:09:13.003Z</updated>
-        <content type="html"><![CDATA[12월 3일 (일) · 온라인]]></content>
     </entry>
 </feed>
