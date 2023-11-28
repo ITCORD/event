@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-28T07:02:32.449Z</updated>
+    <updated>2023-11-28T08:10:10.155Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio]]></title>
+        <id>https://festa.io/events/4421</id>
+        <link href="https://festa.io/events/4421"/>
+        <updated>2023-11-28T08:10:09.438Z</updated>
+        <content type="html"><![CDATA[11월 27일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요! #2]]></title>
         <id>https://festa.io/events/4420</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4414"/>
         <updated>2023-11-27T07:02:12.503Z</updated>
         <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성]]></title>
-        <id>https://festa.io/events/4412</id>
-        <link href="https://festa.io/events/4412"/>
-        <updated>2023-11-27T07:02:12.505Z</updated>
-        <content type="html"><![CDATA[12월 4일 (월) · 오프라인]]></content>
     </entry>
 </feed>
