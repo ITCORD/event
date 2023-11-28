@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-11-28T00:28:08.508Z</updated>
+    <updated>2023-11-28T01:47:15.963Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[11월 회고 모임]]></title>
+        <id>https://festa.io/events/4417</id>
+        <link href="https://festa.io/events/4417"/>
+        <updated>2023-11-28T01:47:15.310Z</updated>
+        <content type="html"><![CDATA[12월 2일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업]]></title>
         <id>https://festa.io/events/4415</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4407"/>
         <updated>2023-11-26T12:09:13.003Z</updated>
         <content type="html"><![CDATA[12월 3일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AWS GenAI 기초 체험 교육 (AWS GenAI Basic)]]></title>
-        <id>https://festa.io/events/4403</id>
-        <link href="https://festa.io/events/4403"/>
-        <updated>2023-11-26T06:07:22.869Z</updated>
-        <content type="html"><![CDATA[12월 13일 (수) · 오프라인]]></content>
     </entry>
 </feed>
