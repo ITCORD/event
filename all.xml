@@ -2,8 +2,36 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-11-30T05:02:06.095Z</updated>
+    <updated>2023-11-30T06:08:19.744Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4435</id>
+        <link href="https://festa.io/events/4435"/>
+        <updated>2023-11-30T06:08:19.184Z</updated>
+        <content type="html"><![CDATA[1월 15일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4434</id>
+        <link href="https://festa.io/events/4434"/>
+        <updated>2023-11-30T06:08:19.185Z</updated>
+        <content type="html"><![CDATA[12월 7일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4433</id>
+        <link href="https://festa.io/events/4433"/>
+        <updated>2023-11-30T06:08:19.186Z</updated>
+        <content type="html"><![CDATA[12월 7일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4432</id>
+        <link href="https://festa.io/events/4432"/>
+        <updated>2023-11-30T06:08:19.188Z</updated>
+        <content type="html"><![CDATA[12월 7일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[DDD]Daegu Developer Day 컨퍼런스 - 클라우드 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4431</id>
@@ -31,33 +59,5 @@
         <link href="https://festa.io/events/4425"/>
         <updated>2023-11-29T08:08:35.390Z</updated>
         <content type="html"><![CDATA[12월 16일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두의연구소 '인공지능(AI) 모델 활용 백엔드 개발 과정' 교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4427</id>
-        <link href="https://festa.io/events/4427"/>
-        <updated>2023-11-29T06:08:15.332Z</updated>
-        <content type="html"><![CDATA[12월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GUAP : 구름톤유니브 에프터 파티 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4423</id>
-        <link href="https://festa.io/events/4423"/>
-        <updated>2023-11-29T04:07:54.902Z</updated>
-        <content type="html"><![CDATA[12월 29일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2023년 12월 헬렌의 임프라브 과정 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4424</id>
-        <link href="https://festa.io/events/4424"/>
-        <updated>2023-11-29T01:45:56.810Z</updated>
-        <content type="html"><![CDATA[12월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4421</id>
-        <link href="https://festa.io/events/4421"/>
-        <updated>2023-11-28T08:10:09.438Z</updated>
-        <content type="html"><![CDATA[11월 27일 (월) · 온라인]]></content>
     </entry>
 </feed>
