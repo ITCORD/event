@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-01T07:02:19.769Z</updated>
+    <updated>2023-12-01T08:08:40.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 내 업무를 슝~ 해결하는 엑셀 실전 클래스 플립러닝(온라인VOD+현장 실시간 강의(7H)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4443</id>
+        <link href="https://festa.io/events/4443"/>
+        <updated>2023-12-01T08:08:40.341Z</updated>
+        <content type="html"><![CDATA[1월 4일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 초격차 디지털 마케팅 클래스 플립러닝(온라인VOD+ zoom 강의(3H) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4442</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/4434</id>
         <link href="https://festa.io/events/4434"/>
         <updated>2023-11-30T06:08:19.185Z</updated>
-        <content type="html"><![CDATA[12월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4433</id>
-        <link href="https://festa.io/events/4433"/>
-        <updated>2023-11-30T06:08:19.186Z</updated>
         <content type="html"><![CDATA[12월 7일 (목) · 오프라인]]></content>
     </entry>
 </feed>
