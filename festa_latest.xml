@@ -2,11 +2,25 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-01T06:08:35.122Z</updated>
+    <updated>2023-12-01T07:02:19.767Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[[마소캠퍼스]슬기로운 겨울 특강: Chat GPT, 생성형AI, 데이터 사이언스, 디지털 마케팅, 스마트 워킹 플립러닝(실시간 강의+VOD 강의)]]></title>
+        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 초격차 디지털 마케팅 클래스 플립러닝(온라인VOD+ zoom 강의(3H)]]></title>
+        <id>https://festa.io/events/4442</id>
+        <link href="https://festa.io/events/4442"/>
+        <updated>2023-12-01T07:02:19.195Z</updated>
+        <content type="html"><![CDATA[1월 3일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유료][마소캠퍼스] 슬기로운 겨울 특강: 생성형 인공지능의 이해와 활용 현장 실시간 강의(7H)]]></title>
+        <id>https://festa.io/events/4441</id>
+        <link href="https://festa.io/events/4441"/>
+        <updated>2023-12-01T07:02:19.196Z</updated>
+        <content type="html"><![CDATA[12월 20일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: Chat GPT, 생성형AI, 데이터 사이언스, 디지털 마케팅, 스마트 워킹 플립러닝(실시간 강의+VOD 강의)]]></title>
         <id>https://festa.io/events/4440</id>
         <link href="https://festa.io/events/4440"/>
         <updated>2023-12-01T06:08:34.511Z</updated>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4433"/>
         <updated>2023-11-30T06:08:19.186Z</updated>
         <content type="html"><![CDATA[12월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot)]]></title>
-        <id>https://festa.io/events/4432</id>
-        <link href="https://festa.io/events/4432"/>
-        <updated>2023-11-30T06:08:19.188Z</updated>
-        <content type="html"><![CDATA[12월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DDD]Daegu Developer Day 컨퍼런스 - 클라우드]]></title>
-        <id>https://festa.io/events/4431</id>
-        <link href="https://festa.io/events/4431"/>
-        <updated>2023-11-30T04:07:29.271Z</updated>
-        <content type="html"><![CDATA[12월 11일 (월) · 오프라인]]></content>
     </entry>
 </feed>
