@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-03T13:04:51.610Z</updated>
+    <updated>2023-12-03T14:02:06.650Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[마침내 탄생! 모두의연구소 AI학교 아이펠 '데이터 사이언티스트 과정' (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4446</id>
+        <link href="https://festa.io/events/4446"/>
+        <updated>2023-12-03T14:02:05.995Z</updated>
+        <content type="html"><![CDATA[12월 2일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 내 업무를 슝~ 해결하는 엑셀 실전 클래스 플립러닝(온라인VOD+현장 실시간 강의(7H)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4443</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4435"/>
         <updated>2023-11-30T06:08:19.184Z</updated>
         <content type="html"><![CDATA[1월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4434</id>
-        <link href="https://festa.io/events/4434"/>
-        <updated>2023-11-30T06:08:19.185Z</updated>
-        <content type="html"><![CDATA[12월 7일 (목) · 오프라인]]></content>
     </entry>
 </feed>
