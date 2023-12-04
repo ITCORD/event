@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-04T12:10:21.760Z</updated>
+    <updated>2023-12-04T13:09:18.419Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2023 (      ), 그랬구나]]></title>
+        <id>https://festa.io/events/4406</id>
+        <link href="https://festa.io/events/4406"/>
+        <updated>2023-12-04T13:09:17.731Z</updated>
+        <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[자바(JAVA)중심 풀스택 캠프]]></title>
         <id>https://festa.io/events/4451</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4442"/>
         <updated>2023-12-01T07:02:19.195Z</updated>
         <content type="html"><![CDATA[1월 3일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스] 슬기로운 겨울 특강: 생성형 인공지능의 이해와 활용 현장 실시간 강의(7H)]]></title>
-        <id>https://festa.io/events/4441</id>
-        <link href="https://festa.io/events/4441"/>
-        <updated>2023-12-01T07:02:19.196Z</updated>
-        <content type="html"><![CDATA[12월 20일 (수) · 오프라인]]></content>
     </entry>
 </feed>
