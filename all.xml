@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-04T05:03:13.516Z</updated>
+    <updated>2023-12-04T06:08:54.485Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[유데미x웅진씽크빅x스팩] 교육관련 앱/웹 서비스 제작 주니어 해커톤 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4449</id>
+        <link href="https://festa.io/events/4449"/>
+        <updated>2023-12-04T06:08:53.768Z</updated>
+        <content type="html"><![CDATA[1월 8일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter Daegu Meetup (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4447</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4436"/>
         <updated>2023-11-30T10:02:28.210Z</updated>
         <content type="html"><![CDATA[12월 7일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛N MSA - #10  Level Up (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4409</id>
-        <link href="https://festa.io/events/4409"/>
-        <updated>2023-11-30T09:02:12.860Z</updated>
-        <content type="html"><![CDATA[12월 21일 (목) · 오프라인]]></content>
     </entry>
 </feed>
