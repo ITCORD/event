@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-05T06:08:28.982Z</updated>
+    <updated>2023-12-05T07:02:20.132Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 유니티(Unity)활용 실감형콘텐츠(메타버스/VR/AR) 제작]]></title>
+        <id>https://festa.io/events/4455</id>
+        <link href="https://festa.io/events/4455"/>
+        <updated>2023-12-05T07:02:19.340Z</updated>
+        <content type="html"><![CDATA[12월 28일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업]]></title>
+        <id>https://festa.io/events/4454</id>
+        <link href="https://festa.io/events/4454"/>
+        <updated>2023-12-05T07:02:19.341Z</updated>
+        <content type="html"><![CDATA[1월 29일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2023 (      ), 그랬구나]]></title>
         <id>https://festa.io/events/4406</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4446"/>
         <updated>2023-12-03T14:02:05.995Z</updated>
         <content type="html"><![CDATA[12월 2일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 내 업무를 슝~ 해결하는 엑셀 실전 클래스 플립러닝(온라인VOD+현장 실시간 강의(7H))]]></title>
-        <id>https://festa.io/events/4443</id>
-        <link href="https://festa.io/events/4443"/>
-        <updated>2023-12-01T08:08:40.341Z</updated>
-        <content type="html"><![CDATA[1월 4일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 초격차 디지털 마케팅 클래스 플립러닝(온라인VOD+ zoom 강의(3H)]]></title>
-        <id>https://festa.io/events/4442</id>
-        <link href="https://festa.io/events/4442"/>
-        <updated>2023-12-01T07:02:19.195Z</updated>
-        <content type="html"><![CDATA[1월 3일 (수) · 온라인]]></content>
     </entry>
 </feed>
