@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-07T14:01:59.885Z</updated>
+    <updated>2023-12-07T15:02:32.434Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[애자일 코리아 밋업 12월 "가트너 2024년 10대 전략적 기술 트랜드"]]></title>
+        <id>https://festa.io/events/4464</id>
+        <link href="https://festa.io/events/4464"/>
+        <updated>2023-12-07T15:02:31.793Z</updated>
+        <content type="html"><![CDATA[12월 22일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[코무X윤성국핵심관계자모임]제2회 크리스마스의 패배자들(모여서각자해커톤)]]></title>
         <id>https://festa.io/events/4459</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4451"/>
         <updated>2023-12-04T08:08:36.907Z</updated>
         <content type="html"><![CDATA[1월 17일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[에이콘아카데미] 빅데이터분석(파이썬) & 자바 개발자 양성과정 ▶ 01월 09일 개강]]></title>
-        <id>https://festa.io/events/4450</id>
-        <link href="https://festa.io/events/4450"/>
-        <updated>2023-12-04T08:08:36.911Z</updated>
-        <content type="html"><![CDATA[1월 9일 (화) · 오프라인]]></content>
     </entry>
 </feed>
