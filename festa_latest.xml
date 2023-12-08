@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-08T04:07:51.869Z</updated>
+    <updated>2023-12-08T05:02:29.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4472</id>
+        <link href="https://festa.io/events/4472"/>
+        <updated>2023-12-08T05:02:29.254Z</updated>
+        <content type="html"><![CDATA[12월 15일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서울] Kernel360 : 백엔드 개발 오픈세미나]]></title>
         <id>https://festa.io/events/4461</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4455"/>
         <updated>2023-12-05T07:02:19.340Z</updated>
         <content type="html"><![CDATA[12월 28일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업]]></title>
-        <id>https://festa.io/events/4454</id>
-        <link href="https://festa.io/events/4454"/>
-        <updated>2023-12-05T07:02:19.341Z</updated>
-        <content type="html"><![CDATA[1월 29일 (월) · 오프라인]]></content>
     </entry>
 </feed>
