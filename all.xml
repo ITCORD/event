@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-08T00:28:09.981Z</updated>
+    <updated>2023-12-08T01:47:03.623Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[SD러닝데이] 광고에서의 생성 AI 활용 실무사례 모음집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4465</id>
+        <link href="https://festa.io/events/4465"/>
+        <updated>2023-12-08T01:47:02.985Z</updated>
+        <content type="html"><![CDATA[12월 7일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애자일 코리아 밋업 12월 "가트너 2024년 10대 전략적 기술 트랜드" (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4464</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4406"/>
         <updated>2023-12-04T13:09:17.731Z</updated>
         <content type="html"><![CDATA[12월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4451</id>
-        <link href="https://festa.io/events/4451"/>
-        <updated>2023-12-04T08:08:36.907Z</updated>
-        <content type="html"><![CDATA[1월 17일 (수) · 오프라인]]></content>
     </entry>
 </feed>
