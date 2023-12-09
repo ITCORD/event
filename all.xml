@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-09T03:02:59.076Z</updated>
+    <updated>2023-12-09T04:07:39.264Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]핀테크 서비스를 위한 풀스택 개발자 양성 과정 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4487</id>
+        <link href="https://festa.io/events/4487"/>
+        <updated>2023-12-09T04:07:38.586Z</updated>
+        <content type="html"><![CDATA[2월 13일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(디지털컨버전스) 웹 융합 SW 기반 빅데이터 솔루션 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4486</id>
+        <link href="https://festa.io/events/4486"/>
+        <updated>2023-12-09T04:07:38.587Z</updated>
+        <content type="html"><![CDATA[4월 15일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4485</id>
+        <link href="https://festa.io/events/4485"/>
+        <updated>2023-12-09T04:07:38.589Z</updated>
+        <content type="html"><![CDATA[9월 11일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[K-디지털]공공데이터를 활용한 데이터 분석 융합 웹 서비스 개발자 양성 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4484</id>
@@ -38,26 +59,5 @@
         <link href="https://festa.io/events/4480"/>
         <updated>2023-12-09T03:02:58.399Z</updated>
         <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]공공데이터 기반 AI 챗봇 및 추천 모델 구현 분석 과정 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4479</id>
-        <link href="https://festa.io/events/4479"/>
-        <updated>2023-12-09T03:02:58.401Z</updated>
-        <content type="html"><![CDATA[8월 12일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]공공데이터 기반 AI 챗봇 및 추천 모델 구현 분석 과정 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4478</id>
-        <link href="https://festa.io/events/4478"/>
-        <updated>2023-12-09T03:02:58.402Z</updated>
-        <content type="html"><![CDATA[5월 16일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[회고모임은 하고 싶은데 어디에도 끼기 애매한 사람을 위한 송년회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4475</id>
-        <link href="https://festa.io/events/4475"/>
-        <updated>2023-12-08T12:11:21.762Z</updated>
-        <content type="html"><![CDATA[12월 16일 (토) · 오프라인]]></content>
     </entry>
 </feed>
