@@ -2,62 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-09T02:18:04.677Z</updated>
+    <updated>2023-12-09T03:02:59.076Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]공공데이터를 활용한 데이터 분석 융합 웹 서비스 개발자 양성 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4484</id>
+        <link href="https://festa.io/events/4484"/>
+        <updated>2023-12-09T03:02:58.395Z</updated>
+        <content type="html"><![CDATA[9월 11일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]인공지능 기반 빅데이터 서비스 플랫폼 구축 전문가 양성과정 2회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4483</id>
+        <link href="https://festa.io/events/4483"/>
+        <updated>2023-12-09T03:02:58.395Z</updated>
+        <content type="html"><![CDATA[7월 15일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4482</id>
+        <link href="https://festa.io/events/4482"/>
+        <updated>2023-12-09T03:02:58.396Z</updated>
+        <content type="html"><![CDATA[4월 15일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]인공지능 기반 빅데이터 서비스 플랫폼 구축 전문가 양성과정 2회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4481</id>
+        <link href="https://festa.io/events/4481"/>
+        <updated>2023-12-09T03:02:58.397Z</updated>
+        <content type="html"><![CDATA[4월 15일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]공공데이터를 활용한 데이터 분석 융합 웹 서비스 개발자 양성 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4480</id>
+        <link href="https://festa.io/events/4480"/>
+        <updated>2023-12-09T03:02:58.399Z</updated>
+        <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]공공데이터 기반 AI 챗봇 및 추천 모델 구현 분석 과정 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4479</id>
+        <link href="https://festa.io/events/4479"/>
+        <updated>2023-12-09T03:02:58.401Z</updated>
+        <content type="html"><![CDATA[8월 12일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]공공데이터 기반 AI 챗봇 및 추천 모델 구현 분석 과정 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4478</id>
+        <link href="https://festa.io/events/4478"/>
+        <updated>2023-12-09T03:02:58.402Z</updated>
+        <content type="html"><![CDATA[5월 16일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[회고모임은 하고 싶은데 어디에도 끼기 애매한 사람을 위한 송년회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4475</id>
         <link href="https://festa.io/events/4475"/>
         <updated>2023-12-08T12:11:21.762Z</updated>
         <content type="html"><![CDATA[12월 16일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유데미x웅진씽크빅x스나이퍼팩토리] UI/UX 인턴형 프로그램 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4473</id>
-        <link href="https://festa.io/events/4473"/>
-        <updated>2023-12-08T10:02:31.993Z</updated>
-        <content type="html"><![CDATA[12월 18일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4472</id>
-        <link href="https://festa.io/events/4472"/>
-        <updated>2023-12-08T05:02:29.254Z</updated>
-        <content type="html"><![CDATA[12월 15일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울] Kernel360 : 백엔드 개발 오픈세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4461</id>
-        <link href="https://festa.io/events/4461"/>
-        <updated>2023-12-08T02:21:34.790Z</updated>
-        <content type="html"><![CDATA[12월 27일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SD러닝데이] 광고에서의 생성 AI 활용 실무사례 모음집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4465</id>
-        <link href="https://festa.io/events/4465"/>
-        <updated>2023-12-08T01:47:02.985Z</updated>
-        <content type="html"><![CDATA[12월 7일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애자일 코리아 밋업 12월 "가트너 2024년 10대 전략적 기술 트랜드" (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4464</id>
-        <link href="https://festa.io/events/4464"/>
-        <updated>2023-12-07T15:02:31.793Z</updated>
-        <content type="html"><![CDATA[12월 22일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코무X윤성국핵심관계자모임]제2회 크리스마스의 패배자들(모여서각자해커톤) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4459</id>
-        <link href="https://festa.io/events/4459"/>
-        <updated>2023-12-07T06:08:38.241Z</updated>
-        <content type="html"><![CDATA[12월 24일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대전] 모두해유 | 고독한 개발자의 밤 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4458</id>
-        <link href="https://festa.io/events/4458"/>
-        <updated>2023-12-07T02:21:34.875Z</updated>
-        <content type="html"><![CDATA[12월 14일 (목) · 오프라인]]></content>
     </entry>
 </feed>
