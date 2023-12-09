@@ -2,62 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-09T04:07:39.264Z</updated>
+    <updated>2023-12-09T05:02:09.195Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]하이브리드 및 멀티클라우드 아키텍트 양성 과정 5회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4494</id>
+        <link href="https://festa.io/events/4494"/>
+        <updated>2023-12-09T05:02:08.600Z</updated>
+        <content type="html"><![CDATA[8월 12일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 서비스를 활용한 파이썬 기반 AI-ML 인재 양성 과정 6회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4493</id>
+        <link href="https://festa.io/events/4493"/>
+        <updated>2023-12-09T05:02:08.601Z</updated>
+        <content type="html"><![CDATA[8월 12일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 기반 DevSecOps 융합 인재 양성 과정 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4492</id>
+        <link href="https://festa.io/events/4492"/>
+        <updated>2023-12-09T05:02:08.602Z</updated>
+        <content type="html"><![CDATA[7월 15일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]핀테크 서비스를 위한 풀스택 개발자 양성 과정 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4491</id>
+        <link href="https://festa.io/events/4491"/>
+        <updated>2023-12-09T05:02:08.605Z</updated>
+        <content type="html"><![CDATA[5월 16일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]하이브리드 및 멀티클라우드 아키텍트 양성 과정 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4490</id>
+        <link href="https://festa.io/events/4490"/>
+        <updated>2023-12-09T05:02:08.606Z</updated>
+        <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 서비스를 활용한 파이썬 기반 AI-ML 인재 양성 과정 5회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4489</id>
+        <link href="https://festa.io/events/4489"/>
+        <updated>2023-12-09T05:02:08.607Z</updated>
+        <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 기반 DevSecOps 융합 인재 양성 과정 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4488</id>
+        <link href="https://festa.io/events/4488"/>
+        <updated>2023-12-09T05:02:08.609Z</updated>
+        <content type="html"><![CDATA[2월 13일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[K-디지털]핀테크 서비스를 위한 풀스택 개발자 양성 과정 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4487</id>
         <link href="https://festa.io/events/4487"/>
         <updated>2023-12-09T04:07:38.586Z</updated>
         <content type="html"><![CDATA[2월 13일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(디지털컨버전스) 웹 융합 SW 기반 빅데이터 솔루션 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4486</id>
-        <link href="https://festa.io/events/4486"/>
-        <updated>2023-12-09T04:07:38.587Z</updated>
-        <content type="html"><![CDATA[4월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4485</id>
-        <link href="https://festa.io/events/4485"/>
-        <updated>2023-12-09T04:07:38.589Z</updated>
-        <content type="html"><![CDATA[9월 11일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]공공데이터를 활용한 데이터 분석 융합 웹 서비스 개발자 양성 4회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4484</id>
-        <link href="https://festa.io/events/4484"/>
-        <updated>2023-12-09T03:02:58.395Z</updated>
-        <content type="html"><![CDATA[9월 11일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]인공지능 기반 빅데이터 서비스 플랫폼 구축 전문가 양성과정 2회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4483</id>
-        <link href="https://festa.io/events/4483"/>
-        <updated>2023-12-09T03:02:58.395Z</updated>
-        <content type="html"><![CDATA[7월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4482</id>
-        <link href="https://festa.io/events/4482"/>
-        <updated>2023-12-09T03:02:58.396Z</updated>
-        <content type="html"><![CDATA[4월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]인공지능 기반 빅데이터 서비스 플랫폼 구축 전문가 양성과정 2회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4481</id>
-        <link href="https://festa.io/events/4481"/>
-        <updated>2023-12-09T03:02:58.397Z</updated>
-        <content type="html"><![CDATA[4월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]공공데이터를 활용한 데이터 분석 융합 웹 서비스 개발자 양성 3회차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4480</id>
-        <link href="https://festa.io/events/4480"/>
-        <updated>2023-12-09T03:02:58.399Z</updated>
-        <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
     </entry>
 </feed>
