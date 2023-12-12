@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-12T05:02:13.499Z</updated>
+    <updated>2023-12-12T06:08:59.135Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(디지털컨버전스)빅데이터 플랫폼 구축 및 개발자 양성과정(Java&Python)]]></title>
+        <id>https://festa.io/events/4502</id>
+        <link href="https://festa.io/events/4502"/>
+        <updated>2023-12-12T06:08:58.569Z</updated>
+        <content type="html"><![CDATA[2월 6일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[구름 COMMIT] 소프트웨어 장인 정신, 우리가 함께 성장하는 방법]]></title>
         <id>https://festa.io/events/4500</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/4494</id>
         <link href="https://festa.io/events/4494"/>
         <updated>2023-12-09T05:02:08.600Z</updated>
-        <content type="html"><![CDATA[8월 12일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-디지털]퍼블릭 클라우드 서비스를 활용한 파이썬 기반 AI-ML 인재 양성 과정 6회차]]></title>
-        <id>https://festa.io/events/4493</id>
-        <link href="https://festa.io/events/4493"/>
-        <updated>2023-12-09T05:02:08.601Z</updated>
         <content type="html"><![CDATA[8월 12일 (월) · 오프라인]]></content>
     </entry>
 </feed>
