@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-13T01:47:41.725Z</updated>
+    <updated>2023-12-13T02:22:07.714Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[리얼리눅스 무료세미나]"코딩없이 IT 취업하려면?"]]></title>
+        <id>https://festa.io/events/4503</id>
+        <link href="https://festa.io/events/4503"/>
+        <updated>2023-12-13T02:22:07.099Z</updated>
+        <content type="html"><![CDATA[1월 3일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] 앱/웹 개발자 인턴형 프로그램]]></title>
         <id>https://festa.io/events/4506</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4498"/>
         <updated>2023-12-11T05:02:21.432Z</updated>
         <content type="html"><![CDATA[1월 10일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업]]></title>
-        <id>https://festa.io/events/4497</id>
-        <link href="https://festa.io/events/4497"/>
-        <updated>2023-12-11T05:02:21.432Z</updated>
-        <content type="html"><![CDATA[1월 29일 (월) · 오프라인]]></content>
     </entry>
 </feed>
