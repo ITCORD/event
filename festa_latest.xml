@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-13T00:28:02.006Z</updated>
+    <updated>2023-12-13T01:47:41.725Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] 앱/웹 개발자 인턴형 프로그램]]></title>
+        <id>https://festa.io/events/4506</id>
+        <link href="https://festa.io/events/4506"/>
+        <updated>2023-12-13T01:47:41.104Z</updated>
+        <content type="html"><![CDATA[12월 18일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🎄나무톤(NAMUTHON) 2023]]></title>
         <id>https://festa.io/events/4457</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4497"/>
         <updated>2023-12-11T05:02:21.432Z</updated>
         <content type="html"><![CDATA[1월 29일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 유니티(Unity)활용 실감형콘텐츠(메타버스/VR/AR) 제작]]></title>
-        <id>https://festa.io/events/4496</id>
-        <link href="https://festa.io/events/4496"/>
-        <updated>2023-12-11T05:02:21.434Z</updated>
-        <content type="html"><![CDATA[12월 28일 (목) · 오프라인]]></content>
     </entry>
 </feed>
