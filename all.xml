@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-13T05:02:19.337Z</updated>
+    <updated>2023-12-13T06:08:59.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2023 경희대학교 창업교육프로그램 정부창업지원사업 대비반 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4509</id>
+        <link href="https://festa.io/events/4509"/>
+        <updated>2023-12-13T06:08:58.786Z</updated>
+        <content type="html"><![CDATA[1월 8일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔데스크 K-자바 35기 무료취업교육_국비교육 모집공고 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4508</id>
+        <link href="https://festa.io/events/4508"/>
+        <updated>2023-12-13T06:08:58.786Z</updated>
+        <content type="html"><![CDATA[1월 16일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[솔데스크 시스코코리아_클라우드 국비교육_2기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4507</id>
+        <link href="https://festa.io/events/4507"/>
+        <updated>2023-12-13T06:08:58.787Z</updated>
+        <content type="html"><![CDATA[12월 27일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[스타트업이 필요한 오픈소스 SaaS 패키지 한 번에 구축하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4504</id>
@@ -38,26 +59,5 @@
         <link href="https://festa.io/events/4505"/>
         <updated>2023-12-12T08:08:57.984Z</updated>
         <content type="html"><![CDATA[12월 25일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(디지털컨버전스)빅데이터 플랫폼 구축 및 개발자 양성과정(Java&Python) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4502</id>
-        <link href="https://festa.io/events/4502"/>
-        <updated>2023-12-12T06:08:58.569Z</updated>
-        <content type="html"><![CDATA[2월 6일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[크리스마스가 좋냐?? (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4501</id>
-        <link href="https://festa.io/events/4501"/>
-        <updated>2023-12-12T07:02:46.262Z</updated>
-        <content type="html"><![CDATA[12월 24일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구름 COMMIT] 소프트웨어 장인 정신, 우리가 함께 성장하는 방법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4500</id>
-        <link href="https://festa.io/events/4500"/>
-        <updated>2023-12-11T10:07:23.819Z</updated>
-        <content type="html"><![CDATA[12월 20일 (수) · 온라인]]></content>
     </entry>
 </feed>
