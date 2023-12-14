@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-14T03:03:28.701Z</updated>
+    <updated>2023-12-14T04:07:29.002Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[24년 취업연계형7기] 전공무관 웹 개발자 양성 125일 취업 과정(무료)]]></title>
+        <id>https://festa.io/events/4514</id>
+        <link href="https://festa.io/events/4514"/>
+        <updated>2023-12-14T04:07:28.405Z</updated>
+        <content type="html"><![CDATA[1월 24일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 유니티(Unity)활용 실감형콘텐츠(메타버스/VR/AR) 제작]]></title>
         <id>https://festa.io/events/4513</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4504"/>
         <updated>2023-12-13T04:07:35.688Z</updated>
         <content type="html"><![CDATA[12월 26일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[리얼리눅스 무료세미나]"코딩없이 IT 취업하려면?"]]></title>
-        <id>https://festa.io/events/4503</id>
-        <link href="https://festa.io/events/4503"/>
-        <updated>2023-12-13T02:22:07.099Z</updated>
-        <content type="html"><![CDATA[1월 3일 (수) · 온라인]]></content>
     </entry>
 </feed>
