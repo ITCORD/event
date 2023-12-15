@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-15T00:28:55.509Z</updated>
+    <updated>2023-12-15T01:47:29.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[유데미x웅진씽크빅x스나이퍼팩토리] 대학생 서포터즈 유스팩 1기]]></title>
+        <id>https://festa.io/events/4516</id>
+        <link href="https://festa.io/events/4516"/>
+        <updated>2023-12-15T01:47:29.248Z</updated>
+        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[24년 취업연계형7기] 전공무관 웹 개발자 양성 125일 취업 과정(무료)]]></title>
         <id>https://festa.io/events/4514</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4507"/>
         <updated>2023-12-13T06:08:58.787Z</updated>
         <content type="html"><![CDATA[12월 27일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[스타트업이 필요한 오픈소스 SaaS 패키지 한 번에 구축하기]]></title>
-        <id>https://festa.io/events/4504</id>
-        <link href="https://festa.io/events/4504"/>
-        <updated>2023-12-13T04:07:35.688Z</updated>
-        <content type="html"><![CDATA[12월 26일 (화) · 온라인]]></content>
     </entry>
 </feed>
