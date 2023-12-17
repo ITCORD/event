@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-17T17:02:38.975Z</updated>
+    <updated>2023-12-17T18:04:50.702Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Women Who Go] 2024년에는 Go 언어와 친해져 보아요!]]></title>
+        <id>https://festa.io/events/4517</id>
+        <link href="https://festa.io/events/4517"/>
+        <updated>2023-12-17T18:04:49.965Z</updated>
+        <content type="html"><![CDATA[1월 27일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유데미x웅진씽크빅x스나이퍼팩토리] 대학생 서포터즈 유스팩 1기]]></title>
         <id>https://festa.io/events/4516</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4508"/>
         <updated>2023-12-13T06:08:58.786Z</updated>
         <content type="html"><![CDATA[1월 16일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔데스크 시스코코리아_클라우드 국비교육_2기]]></title>
-        <id>https://festa.io/events/4507</id>
-        <link href="https://festa.io/events/4507"/>
-        <updated>2023-12-13T06:08:58.787Z</updated>
-        <content type="html"><![CDATA[12월 27일 (수) · 오프라인]]></content>
     </entry>
 </feed>
