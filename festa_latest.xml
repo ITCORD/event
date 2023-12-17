@@ -2,11 +2,11 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-17T18:04:50.702Z</updated>
+    <updated>2023-12-17T19:02:00.779Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[[Women Who Go] 2024년에는 Go 언어와 친해져 보아요!]]></title>
+        <title type="html"><![CDATA[[Women Who Go] 2024년에는 Go 언어와 더 친해져 보아요!]]></title>
         <id>https://festa.io/events/4517</id>
         <link href="https://festa.io/events/4517"/>
         <updated>2023-12-17T18:04:49.965Z</updated>
