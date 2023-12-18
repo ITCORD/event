@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-18T09:04:22.029Z</updated>
+    <updated>2023-12-18T10:05:37.510Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[프로젝트중심] 백엔드 자바개발자 양성과정]]></title>
+        <id>https://festa.io/events/4534</id>
+        <link href="https://festa.io/events/4534"/>
+        <updated>2023-12-18T10:05:36.877Z</updated>
+        <content type="html"><![CDATA[1월 22일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 내 업무를 슝~ 해결하는 엑셀 실전 클래스 플립러닝(온라인VOD+현장 실시간 강의(7H))]]></title>
         <id>https://festa.io/events/4533</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4523"/>
         <updated>2023-12-18T08:09:34.008Z</updated>
         <content type="html"><![CDATA[12월 29일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(디지털디자인)Figma활용 UI/UX 반응형 웹디자인&웹퍼블리셔]]></title>
-        <id>https://festa.io/events/4522</id>
-        <link href="https://festa.io/events/4522"/>
-        <updated>2023-12-18T08:09:34.009Z</updated>
-        <content type="html"><![CDATA[1월 10일 (수) · 오프라인]]></content>
     </entry>
 </feed>
