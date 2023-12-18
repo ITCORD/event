@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-18T07:01:59.307Z</updated>
+    <updated>2023-12-18T08:09:34.644Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(스마트웹&콘텐츠개발)스마트UI/UX 웹퍼블리셔&프론트엔드(react.js)]]></title>
+        <id>https://festa.io/events/4530</id>
+        <link href="https://festa.io/events/4530"/>
+        <updated>2023-12-18T08:09:33.994Z</updated>
+        <content type="html"><![CDATA[1월 16일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[실무프로젝트]자바 웹개발자(React, Springboot, intelliJ, AWS)]]></title>
+        <id>https://festa.io/events/4529</id>
+        <link href="https://festa.io/events/4529"/>
+        <updated>2023-12-18T08:09:33.995Z</updated>
+        <content type="html"><![CDATA[12월 27일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[React.js와 Springboot를 활용한 자바 풀스택 개발자]]></title>
+        <id>https://festa.io/events/4524</id>
+        <link href="https://festa.io/events/4524"/>
+        <updated>2023-12-18T08:09:34.006Z</updated>
+        <content type="html"><![CDATA[1월 23일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(스마트웹&콘텐츠개발)UI/UX웹디자인&웹퍼블리셔1]]></title>
+        <id>https://festa.io/events/4523</id>
+        <link href="https://festa.io/events/4523"/>
+        <updated>2023-12-18T08:09:34.008Z</updated>
+        <content type="html"><![CDATA[12월 29일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[(디지털디자인)Figma활용 UI/UX 반응형 웹디자인&웹퍼블리셔]]></title>
+        <id>https://festa.io/events/4522</id>
+        <link href="https://festa.io/events/4522"/>
+        <updated>2023-12-18T08:09:34.009Z</updated>
+        <content type="html"><![CDATA[1월 10일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[K디지털](실무 프로젝트기반) 자바 풀스택 개발자(React.js와 Springboot활용)]]></title>
+        <id>https://festa.io/events/4521</id>
+        <link href="https://festa.io/events/4521"/>
+        <updated>2023-12-18T08:09:34.011Z</updated>
+        <content type="html"><![CDATA[1월 10일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(스마트웹&콘텐츠개발)UI/UX웹디자인&웹퍼블리셔3]]></title>
         <id>https://festa.io/events/4520</id>
@@ -18,47 +60,5 @@
         <link href="https://festa.io/events/4519"/>
         <updated>2023-12-18T07:01:58.709Z</updated>
         <content type="html"><![CDATA[1월 22일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유데미x웅진씽크빅x스나이퍼팩토리] 프로젝트 캠프 : 홍보마케팅]]></title>
-        <id>https://festa.io/events/4518</id>
-        <link href="https://festa.io/events/4518"/>
-        <updated>2023-12-18T05:02:31.172Z</updated>
-        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Women Who Go] 2024년에는 Go 언어와 더 친해져 보아요!]]></title>
-        <id>https://festa.io/events/4517</id>
-        <link href="https://festa.io/events/4517"/>
-        <updated>2023-12-17T18:04:49.965Z</updated>
-        <content type="html"><![CDATA[1월 27일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유데미x웅진씽크빅x스나이퍼팩토리] 대학생 서포터즈 유스팩 1기]]></title>
-        <id>https://festa.io/events/4516</id>
-        <link href="https://festa.io/events/4516"/>
-        <updated>2023-12-15T01:47:29.248Z</updated>
-        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24년 취업연계형7기] 전공무관 웹 개발자 양성 125일 취업 과정(무료)]]></title>
-        <id>https://festa.io/events/4514</id>
-        <link href="https://festa.io/events/4514"/>
-        <updated>2023-12-14T04:07:28.405Z</updated>
-        <content type="html"><![CDATA[1월 24일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 유니티(Unity)활용 실감형콘텐츠(메타버스/VR/AR) 제작]]></title>
-        <id>https://festa.io/events/4513</id>
-        <link href="https://festa.io/events/4513"/>
-        <updated>2023-12-14T01:45:12.978Z</updated>
-        <content type="html"><![CDATA[12월 21일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업]]></title>
-        <id>https://festa.io/events/4512</id>
-        <link href="https://festa.io/events/4512"/>
-        <updated>2023-12-14T01:45:12.987Z</updated>
-        <content type="html"><![CDATA[12월 21일 (목) · 오프라인]]></content>
     </entry>
 </feed>
