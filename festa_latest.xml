@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-19T02:20:39.713Z</updated>
+    <updated>2023-12-19T03:04:19.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4544</id>
+        <link href="https://festa.io/events/4544"/>
+        <updated>2023-12-19T03:04:18.975Z</updated>
+        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업]]></title>
+        <id>https://festa.io/events/4543</id>
+        <link href="https://festa.io/events/4543"/>
+        <updated>2023-12-19T03:04:18.977Z</updated>
+        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, 유니티(Unity)활용 실감형콘텐츠(메타버스/VR/AR) 제작]]></title>
+        <id>https://festa.io/events/4542</id>
+        <link href="https://festa.io/events/4542"/>
+        <updated>2023-12-19T03:04:18.978Z</updated>
+        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 내 업무를 해결하는 데이터 분석 실무 클래스 플립러닝(온라인VOD+오프라인 실시간 강의(7H))]]></title>
         <id>https://festa.io/events/4541</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/4537"/>
         <updated>2023-12-19T00:28:16.032Z</updated>
         <content type="html"><![CDATA[2월 1일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: Chat GPT 프롬프트 엔지니어링 비법 클래스 오프라인 실시간 강의(7H)]]></title>
-        <id>https://festa.io/events/4536</id>
-        <link href="https://festa.io/events/4536"/>
-        <updated>2023-12-19T00:28:16.034Z</updated>
-        <content type="html"><![CDATA[1월 11일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[프로젝트중심] 백엔드 자바개발자 양성과정]]></title>
-        <id>https://festa.io/events/4534</id>
-        <link href="https://festa.io/events/4534"/>
-        <updated>2023-12-18T10:05:36.877Z</updated>
-        <content type="html"><![CDATA[1월 22일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 내 업무를 슝~ 해결하는 엑셀 실전 클래스 플립러닝(온라인VOD+현장 실시간 강의(7H))]]></title>
-        <id>https://festa.io/events/4533</id>
-        <link href="https://festa.io/events/4533"/>
-        <updated>2023-12-18T09:04:21.435Z</updated>
-        <content type="html"><![CDATA[2월 8일 (목) · 오프라인]]></content>
     </entry>
 </feed>
