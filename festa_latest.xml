@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-19T03:04:19.617Z</updated>
+    <updated>2023-12-19T04:07:39.824Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 아트코리아랩 ]웰커밍데이]]]></title>
+        <id>https://festa.io/events/4545</id>
+        <link href="https://festa.io/events/4545"/>
+        <updated>2023-12-19T04:07:39.236Z</updated>
+        <content type="html"><![CDATA[12월 19일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정]]></title>
         <id>https://festa.io/events/4544</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4538"/>
         <updated>2023-12-19T00:28:16.031Z</updated>
         <content type="html"><![CDATA[1월 31일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: ChatGPT 프롬프트 엔지니어링 마스터 가이드 오프라인 실시간 강의(7H)]]></title>
-        <id>https://festa.io/events/4537</id>
-        <link href="https://festa.io/events/4537"/>
-        <updated>2023-12-19T00:28:16.032Z</updated>
-        <content type="html"><![CDATA[2월 1일 (목) · 오프라인]]></content>
     </entry>
 </feed>
