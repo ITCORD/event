@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-21T08:08:47.553Z</updated>
+    <updated>2023-12-21T09:02:18.535Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Jump into the AI World (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -19,11 +19,11 @@
         <content type="html"><![CDATA[12월 22일 (금) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[스코모트 Go-to-Global 비즈니스 워크샵 #1 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <title type="html"><![CDATA[글로벌 B2B & B2G 비즈니스 워크샵 배치#1 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4460</id>
         <link href="https://festa.io/events/4460"/>
         <updated>2023-12-19T05:02:12.104Z</updated>
-        <content type="html"><![CDATA[12월 31일 (일) · 오프라인]]></content>
+        <content type="html"><![CDATA[1월 17일 (수) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024 아트코리아랩 ]웰커밍데이] (페스타 ─ 최신 밋업과 이벤트)]]></title>
