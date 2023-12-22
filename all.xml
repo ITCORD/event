@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-22T14:02:31.536Z</updated>
+    <updated>2023-12-22T15:02:04.371Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[프로덕트 매니저 원칙 PM・PO 5인 초청 북콘서트 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,13 +40,6 @@
         <content type="html"><![CDATA[1월 19일 (금) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[Jump into the AI World (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4556</id>
-        <link href="https://festa.io/events/4556"/>
-        <updated>2023-12-21T04:07:41.202Z</updated>
-        <content type="html"><![CDATA[12월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[글로벌 B2B & B2G 비즈니스 워크샵 배치#1 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4460</id>
         <link href="https://festa.io/events/4460"/>
@@ -58,6 +51,13 @@
         <id>https://festa.io/events/4544</id>
         <link href="https://festa.io/events/4544"/>
         <updated>2023-12-22T06:08:05.850Z</updated>
+        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4543</id>
+        <link href="https://festa.io/events/4543"/>
+        <updated>2023-12-22T15:02:03.766Z</updated>
         <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
     </entry>
 </feed>
