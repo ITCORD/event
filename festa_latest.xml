@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-22T05:02:15.240Z</updated>
+    <updated>2023-12-22T06:08:06.417Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프로덕트 매니저 원칙 PM・PO 5인 초청 북콘서트]]></title>
+        <id>https://festa.io/events/4560</id>
+        <link href="https://festa.io/events/4560"/>
+        <updated>2023-12-22T06:08:05.842Z</updated>
+        <content type="html"><![CDATA[12월 27일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Prometheus AI Hackathon]]></title>
         <id>https://festa.io/events/4558</id>
@@ -41,13 +48,6 @@
         <content type="html"><![CDATA[12월 21일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[MBTI X 커리어상담] "나 개발자해도 될까?"]]></title>
-        <id>https://festa.io/events/4548</id>
-        <link href="https://festa.io/events/4548"/>
-        <updated>2023-12-19T09:03:09.251Z</updated>
-        <content type="html"><![CDATA[12월 22일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[글로벌 B2B & B2G 비즈니스 워크샵 배치#1]]></title>
         <id>https://festa.io/events/4460</id>
         <link href="https://festa.io/events/4460"/>
@@ -55,10 +55,10 @@
         <content type="html"><![CDATA[1월 17일 (수) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 아트코리아랩 ]웰커밍데이]]]></title>
-        <id>https://festa.io/events/4545</id>
-        <link href="https://festa.io/events/4545"/>
-        <updated>2023-12-19T04:07:39.236Z</updated>
-        <content type="html"><![CDATA[12월 19일 (화) · 오프라인]]></content>
+        <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4544</id>
+        <link href="https://festa.io/events/4544"/>
+        <updated>2023-12-22T06:08:05.850Z</updated>
+        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
     </entry>
 </feed>
