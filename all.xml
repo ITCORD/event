@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-26T05:02:07.463Z</updated>
+    <updated>2023-12-26T06:09:05.750Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[프로덕트 매니저 원칙 PM・PO 5인 초청 북콘서트 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -47,17 +47,17 @@
         <content type="html"><![CDATA[1월 17일 (수) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4544</id>
-        <link href="https://festa.io/events/4544"/>
-        <updated>2023-12-22T06:08:05.850Z</updated>
-        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
+        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 내 업무를 해결하는 데이터 분석 실무 클래스 플립러닝(온라인VOD+오프라인 실시간 강의(7H)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4541</id>
+        <link href="https://festa.io/events/4541"/>
+        <updated>2023-12-26T06:09:05.168Z</updated>
+        <content type="html"><![CDATA[1월 25일 (목) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[패션포트폴리오 실무자교육, 패션소재, 작업지시서, 도식화작업 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4543</id>
-        <link href="https://festa.io/events/4543"/>
-        <updated>2023-12-22T15:02:03.766Z</updated>
-        <content type="html"><![CDATA[12월 26일 (화) · 오프라인]]></content>
+        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 바로 써먹는 Power BI 데이터 분석과 시각화 실무 클래스 플립러닝(온라인VOD+zoom 강의(3H)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4540</id>
+        <link href="https://festa.io/events/4540"/>
+        <updated>2023-12-26T06:09:05.169Z</updated>
+        <content type="html"><![CDATA[1월 17일 (수) · 온라인]]></content>
     </entry>
 </feed>
