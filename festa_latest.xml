@@ -2,16 +2,9 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2023-12-27T12:10:14.833Z</updated>
+    <updated>2023-12-27T13:06:14.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
-    <entry>
-        <title type="html"><![CDATA[프로덕트 매니저 원칙 PM・PO 5인 초청 북콘서트]]></title>
-        <id>https://festa.io/events/4560</id>
-        <link href="https://festa.io/events/4560"/>
-        <updated>2023-12-22T06:08:05.842Z</updated>
-        <content type="html"><![CDATA[12월 27일 (수) · 오프라인]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Prometheus AI Hackathon]]></title>
         <id>https://festa.io/events/4558</id>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/4540"/>
         <updated>2023-12-26T06:09:05.169Z</updated>
         <content type="html"><![CDATA[1월 17일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 통계로 한 단계 성장하는 데이터 사이언스 클래스 플립러닝(온라인VOD+zoom 강의(6H))]]></title>
+        <id>https://festa.io/events/4539</id>
+        <link href="https://festa.io/events/4539"/>
+        <updated>2023-12-27T13:06:13.605Z</updated>
+        <content type="html"><![CDATA[1월 12일 (금) · 온라인]]></content>
     </entry>
 </feed>
