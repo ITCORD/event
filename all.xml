@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2023-12-28T00:27:47.642Z</updated>
+    <updated>2023-12-28T01:42:28.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4564</id>
+        <link href="https://festa.io/events/4564"/>
+        <updated>2023-12-28T01:42:27.531Z</updated>
+        <content type="html"><![CDATA[1월 18일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요! #2탄 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4563</id>
+        <link href="https://festa.io/events/4563"/>
+        <updated>2023-12-28T01:42:27.532Z</updated>
+        <content type="html"><![CDATA[1월 11일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요! #1탄 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4562</id>
+        <link href="https://festa.io/events/4562"/>
+        <updated>2023-12-28T01:42:27.533Z</updated>
+        <content type="html"><![CDATA[1월 4일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Prometheus AI Hackathon (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4558</id>
@@ -38,26 +59,5 @@
         <link href="https://festa.io/events/4460"/>
         <updated>2023-12-19T05:02:12.104Z</updated>
         <content type="html"><![CDATA[1월 17일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 내 업무를 해결하는 데이터 분석 실무 클래스 플립러닝(온라인VOD+오프라인 실시간 강의(7H)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4541</id>
-        <link href="https://festa.io/events/4541"/>
-        <updated>2023-12-26T06:09:05.168Z</updated>
-        <content type="html"><![CDATA[1월 25일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 바로 써먹는 Power BI 데이터 분석과 시각화 실무 클래스 플립러닝(온라인VOD+zoom 강의(3H)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4540</id>
-        <link href="https://festa.io/events/4540"/>
-        <updated>2023-12-26T06:09:05.169Z</updated>
-        <content type="html"><![CDATA[1월 17일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유료][마소캠퍼스]슬기로운 겨울 특강: 통계로 한 단계 성장하는 데이터 사이언스 클래스 플립러닝(온라인VOD+zoom 강의(6H)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4539</id>
-        <link href="https://festa.io/events/4539"/>
-        <updated>2023-12-27T13:06:13.605Z</updated>
-        <content type="html"><![CDATA[1월 12일 (금) · 온라인]]></content>
     </entry>
 </feed>
