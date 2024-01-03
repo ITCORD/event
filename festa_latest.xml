@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-03T09:02:28.935Z</updated>
+    <updated>2024-01-03T10:02:50.687Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GDSC Yonsei 2024년 1월 GDSC* fopen()]]></title>
+        <id>https://festa.io/events/4578</id>
+        <link href="https://festa.io/events/4578"/>
+        <updated>2024-01-03T10:02:50.112Z</updated>
+        <content type="html"><![CDATA[1월 8일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[속독을 배우면 독서 시간이 줄어듭니다!  즐거운 속독 락독!]]></title>
         <id>https://festa.io/events/4573</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4565"/>
         <updated>2023-12-28T02:17:14.344Z</updated>
         <content type="html"><![CDATA[1월 25일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio]]></title>
-        <id>https://festa.io/events/4564</id>
-        <link href="https://festa.io/events/4564"/>
-        <updated>2023-12-28T01:42:27.531Z</updated>
-        <content type="html"><![CDATA[1월 18일 (목) · 온라인]]></content>
     </entry>
 </feed>
