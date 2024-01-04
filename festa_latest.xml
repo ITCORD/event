@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-04T08:08:44.960Z</updated>
+    <updated>2024-01-04T09:02:22.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제 19회 빅데이터 컨퍼런스]]></title>
+        <id>https://festa.io/events/4569</id>
+        <link href="https://festa.io/events/4569"/>
+        <updated>2024-01-04T09:02:21.797Z</updated>
+        <content type="html"><![CDATA[1월 27일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[워케이션] 바다로 출근합니다. 일, 휴가를 동시에 즐기는 "부산형 워케이션" 무료 신청]]></title>
         <id>https://festa.io/events/4579</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4566"/>
         <updated>2023-12-29T02:13:34.777Z</updated>
         <content type="html"><![CDATA[1월 5일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[성장하는 이커머스 기업을 위한 독립형 이커머스 솔루션, 메타커머스]]></title>
-        <id>https://festa.io/events/4565</id>
-        <link href="https://festa.io/events/4565"/>
-        <updated>2024-01-04T08:08:44.371Z</updated>
-        <content type="html"><![CDATA[1월 25일 (목) · 온라인]]></content>
     </entry>
 </feed>
