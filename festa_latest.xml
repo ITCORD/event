@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-05T09:02:13.142Z</updated>
+    <updated>2024-01-05T10:03:24.569Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[K-하이테크플랫폼 X 모두의연구소 대전] 모두해유 | 생성AI로 15초 광고만들기]]></title>
+        <id>https://festa.io/events/4590</id>
+        <link href="https://festa.io/events/4590"/>
+        <updated>2024-01-05T10:03:23.968Z</updated>
+        <content type="html"><![CDATA[1월 11일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[솔데스크 자바 백엔드 개발자 국비무료취업교육]]></title>
         <id>https://festa.io/events/4589</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4565"/>
         <updated>2024-01-05T05:02:43.499Z</updated>
         <content type="html"><![CDATA[1월 25일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio]]></title>
-        <id>https://festa.io/events/4564</id>
-        <link href="https://festa.io/events/4564"/>
-        <updated>2024-01-05T05:02:43.501Z</updated>
-        <content type="html"><![CDATA[1월 18일 (목) · 온라인]]></content>
     </entry>
 </feed>
