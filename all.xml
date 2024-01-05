@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-05T04:07:51.396Z</updated>
+    <updated>2024-01-05T05:02:44.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[제 19회 빅데이터 컨퍼런스 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,24 +40,24 @@
         <content type="html"><![CDATA[1월 16일 (화) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 신촌, AWS클라우드 활용 자바 풀스택 개발자(React&Springboot) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4568</id>
-        <link href="https://festa.io/events/4568"/>
-        <updated>2023-12-29T02:13:34.774Z</updated>
-        <content type="html"><![CDATA[1월 5일 (금) · 오프라인]]></content>
+        <title type="html"><![CDATA[성장하는 이커머스 기업을 위한 독립형 이커머스 솔루션, 메타커머스 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4565</id>
+        <link href="https://festa.io/events/4565"/>
+        <updated>2024-01-05T05:02:43.499Z</updated>
+        <content type="html"><![CDATA[1월 25일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남, [K-디지털 트레이닝] 현업전문가 멘토링빅데이터분석(파이썬) & 자바 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4567</id>
-        <link href="https://festa.io/events/4567"/>
-        <updated>2023-12-29T02:13:34.776Z</updated>
-        <content type="html"><![CDATA[1월 5일 (금) · 오프라인]]></content>
+        <title type="html"><![CDATA[HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4564</id>
+        <link href="https://festa.io/events/4564"/>
+        <updated>2024-01-05T05:02:43.501Z</updated>
+        <content type="html"><![CDATA[1월 18일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4566</id>
-        <link href="https://festa.io/events/4566"/>
-        <updated>2023-12-29T02:13:34.777Z</updated>
-        <content type="html"><![CDATA[1월 5일 (금) · 오프라인]]></content>
+        <title type="html"><![CDATA[CLOVA OCR 이렇게 사용하세요! #2탄 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4563</id>
+        <link href="https://festa.io/events/4563"/>
+        <updated>2024-01-05T05:02:43.502Z</updated>
+        <content type="html"><![CDATA[1월 11일 (목) · 온라인]]></content>
     </entry>
 </feed>
