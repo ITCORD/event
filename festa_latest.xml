@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-08T01:47:47.999Z</updated>
+    <updated>2024-01-08T02:22:18.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[클라우드 기반의 CI/CD를 활용한 풀스택 [자바, 뷰, 플러터] 개발자]]></title>
+        <id>https://festa.io/events/4596</id>
+        <link href="https://festa.io/events/4596"/>
+        <updated>2024-01-08T02:22:17.960Z</updated>
+        <content type="html"><![CDATA[1월 22일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 상위 1% 교육환경 DX 혁신 세미나]]></title>
+        <id>https://festa.io/events/4595</id>
+        <link href="https://festa.io/events/4595"/>
+        <updated>2024-01-08T02:22:17.961Z</updated>
+        <content type="html"><![CDATA[1월 8일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SUSC X 한빛미디어 CS101 스터디]]></title>
         <id>https://festa.io/events/4594</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4589"/>
         <updated>2024-01-05T06:08:43.666Z</updated>
         <content type="html"><![CDATA[1월 23일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제 19회 빅데이터 컨퍼런스]]></title>
-        <id>https://festa.io/events/4569</id>
-        <link href="https://festa.io/events/4569"/>
-        <updated>2024-01-04T09:02:21.797Z</updated>
-        <content type="html"><![CDATA[1월 27일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[워케이션] 바다로 출근합니다. 일, 휴가를 동시에 즐기는 "부산형 워케이션" 무료 신청]]></title>
-        <id>https://festa.io/events/4579</id>
-        <link href="https://festa.io/events/4579"/>
-        <updated>2024-01-04T01:44:58.474Z</updated>
-        <content type="html"><![CDATA[1월 1일 (월) · 오프라인]]></content>
     </entry>
 </feed>
