@@ -2,63 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-08T03:06:01.850Z</updated>
+    <updated>2024-01-08T04:07:43.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[리얼리눅스: 리눅스 Zero 베이스 기초 강의]]></title>
-        <id>https://festa.io/events/4597</id>
-        <link href="https://festa.io/events/4597"/>
-        <updated>2024-01-08T03:06:01.179Z</updated>
-        <content type="html"><![CDATA[1월 8일 (월) · 온라인]]></content>
+        <title type="html"><![CDATA[실내건축인테리어(캐드,스케치업,레빗(BIM)활용)+전산응용건축제도기능사]]></title>
+        <id>https://festa.io/events/4607</id>
+        <link href="https://festa.io/events/4607"/>
+        <updated>2024-01-08T04:07:42.440Z</updated>
+        <content type="html"><![CDATA[1월 29일 (월) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[클라우드 기반의 CI/CD를 활용한 풀스택 [자바, 뷰, 플러터] 개발자]]></title>
-        <id>https://festa.io/events/4596</id>
-        <link href="https://festa.io/events/4596"/>
-        <updated>2024-01-08T02:22:17.960Z</updated>
+        <title type="html"><![CDATA[오픈소스를 활용한 자바기반 RPA 응용SW개발자 양성과정]]></title>
+        <id>https://festa.io/events/4606</id>
+        <link href="https://festa.io/events/4606"/>
+        <updated>2024-01-08T04:07:42.442Z</updated>
         <content type="html"><![CDATA[1월 22일 (월) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 상위 1% 교육환경 DX 혁신 세미나]]></title>
-        <id>https://festa.io/events/4595</id>
-        <link href="https://festa.io/events/4595"/>
-        <updated>2024-01-08T02:22:17.961Z</updated>
-        <content type="html"><![CDATA[1월 8일 (월) · 오프라인]]></content>
+        <title type="html"><![CDATA[React.js와 Springboot를 활용한 자바 풀스택 개발자]]></title>
+        <id>https://festa.io/events/4605</id>
+        <link href="https://festa.io/events/4605"/>
+        <updated>2024-01-08T04:07:42.443Z</updated>
+        <content type="html"><![CDATA[1월 23일 (화) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SUSC X 한빛미디어 CS101 스터디]]></title>
-        <id>https://festa.io/events/4594</id>
-        <link href="https://festa.io/events/4594"/>
-        <updated>2024-01-07T17:01:33.984Z</updated>
-        <content type="html"><![CDATA[1월 22일 (월) · 온라인]]></content>
+        <title type="html"><![CDATA[(디지털디자인)영상을 활용한 UI/UX 웹디자인&웹퍼블리셔(Adobe XD,Figma)]]></title>
+        <id>https://festa.io/events/4604</id>
+        <link href="https://festa.io/events/4604"/>
+        <updated>2024-01-08T04:07:42.445Z</updated>
+        <content type="html"><![CDATA[1월 31일 (수) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[대학 IT 방학 교류 SUSC Winter OT]]></title>
-        <id>https://festa.io/events/4574</id>
-        <link href="https://festa.io/events/4574"/>
-        <updated>2024-01-07T16:02:36.807Z</updated>
-        <content type="html"><![CDATA[1월 20일 (토) · 오프라인]]></content>
+        <title type="html"><![CDATA[리얼리눅스: 리눅스OS 중급B]]></title>
+        <id>https://festa.io/events/4603</id>
+        <link href="https://festa.io/events/4603"/>
+        <updated>2024-01-08T04:07:42.446Z</updated>
+        <content type="html"><![CDATA[1월 8일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024년 초개인화 시대 퍼스널 브랜딩에 대해 이야기 해보는 시간]]></title>
-        <id>https://festa.io/events/4404</id>
-        <link href="https://festa.io/events/4404"/>
-        <updated>2024-01-07T15:02:24.842Z</updated>
-        <content type="html"><![CDATA[1월 27일 (토) · 오프라인]]></content>
+        <title type="html"><![CDATA[(디지털디자인)Figma활용 UI/UX 반응형 웹디자인&웹퍼블리셔]]></title>
+        <id>https://festa.io/events/4602</id>
+        <link href="https://festa.io/events/4602"/>
+        <updated>2024-01-08T04:07:42.448Z</updated>
+        <content type="html"><![CDATA[1월 23일 (화) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[구름 COMMIT] 타입으로 견고하게 다형성으로 유연하게]]></title>
-        <id>https://festa.io/events/4592</id>
-        <link href="https://festa.io/events/4592"/>
-        <updated>2024-01-05T11:01:56.526Z</updated>
-        <content type="html"><![CDATA[1월 4일 (목) · 온라인]]></content>
+        <title type="html"><![CDATA[리얼리눅스: 리눅스OS 중급A]]></title>
+        <id>https://festa.io/events/4601</id>
+        <link href="https://festa.io/events/4601"/>
+        <updated>2024-01-08T04:07:42.449Z</updated>
+        <content type="html"><![CDATA[1월 8일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[K-하이테크플랫폼 X 모두의연구소 대전] 모두해유 | 생성AI로 15초 광고만들기]]></title>
-        <id>https://festa.io/events/4590</id>
-        <link href="https://festa.io/events/4590"/>
-        <updated>2024-01-05T10:03:23.968Z</updated>
-        <content type="html"><![CDATA[1월 11일 (목) · 오프라인]]></content>
+        <title type="html"><![CDATA[[K디지털](실무 프로젝트기반) 자바 풀스택 개발자(React.js와 Springboot활용)]]></title>
+        <id>https://festa.io/events/4600</id>
+        <link href="https://festa.io/events/4600"/>
+        <updated>2024-01-08T04:07:42.451Z</updated>
+        <content type="html"><![CDATA[1월 23일 (화) · 오프라인]]></content>
     </entry>
 </feed>
