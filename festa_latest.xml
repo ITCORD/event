@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-08T06:08:41.655Z</updated>
+    <updated>2024-01-08T07:04:08.830Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<발표(강의)자 육성과정>]]></title>
+        <id>https://festa.io/events/4561</id>
+        <link href="https://festa.io/events/4561"/>
+        <updated>2024-01-08T07:04:08.234Z</updated>
+        <content type="html"><![CDATA[2월 3일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실내건축인테리어(캐드,스케치업,레빗(BIM)활용)+전산응용건축제도기능사]]></title>
         <id>https://festa.io/events/4607</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4601"/>
         <updated>2024-01-08T04:07:42.449Z</updated>
         <content type="html"><![CDATA[1월 8일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K디지털](실무 프로젝트기반) 자바 풀스택 개발자(React.js와 Springboot활용)]]></title>
-        <id>https://festa.io/events/4600</id>
-        <link href="https://festa.io/events/4600"/>
-        <updated>2024-01-08T04:07:42.451Z</updated>
-        <content type="html"><![CDATA[1월 23일 (화) · 오프라인]]></content>
     </entry>
 </feed>
