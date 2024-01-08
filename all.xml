@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-08T14:01:28.859Z</updated>
+    <updated>2024-01-08T15:02:21.289Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[리얼리눅스: 리눅스 기초 쉘 스크립트 마스터 (페스타 ─ 최신 밋업과 이벤트)]]></title>
