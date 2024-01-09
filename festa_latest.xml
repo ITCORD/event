@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-09T05:02:21.272Z</updated>
+    <updated>2024-01-09T06:08:15.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스:리눅스 시스템 핵심 정리]]></title>
+        <id>https://festa.io/events/4614</id>
+        <link href="https://festa.io/events/4614"/>
+        <updated>2024-01-09T06:08:14.592Z</updated>
+        <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
+        <id>https://festa.io/events/4615</id>
+        <link href="https://festa.io/events/4615"/>
+        <updated>2024-01-09T06:08:14.593Z</updated>
+        <content type="html"><![CDATA[1월 16일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정]]></title>
+        <id>https://festa.io/events/4613</id>
+        <link href="https://festa.io/events/4613"/>
+        <updated>2024-01-09T06:08:14.595Z</updated>
+        <content type="html"><![CDATA[1월 16일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데브콘 대전 : 일월엔 스타트!]]></title>
         <id>https://festa.io/events/4580</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/4606"/>
         <updated>2024-01-08T04:07:42.442Z</updated>
         <content type="html"><![CDATA[1월 22일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[React.js와 Springboot를 활용한 자바 풀스택 개발자]]></title>
-        <id>https://festa.io/events/4605</id>
-        <link href="https://festa.io/events/4605"/>
-        <updated>2024-01-08T04:07:42.443Z</updated>
-        <content type="html"><![CDATA[1월 23일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(디지털디자인)영상을 활용한 UI/UX 웹디자인&웹퍼블리셔(Adobe XD,Figma)]]></title>
-        <id>https://festa.io/events/4604</id>
-        <link href="https://festa.io/events/4604"/>
-        <updated>2024-01-08T04:07:42.445Z</updated>
-        <content type="html"><![CDATA[1월 31일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스: 리눅스OS 중급B]]></title>
-        <id>https://festa.io/events/4603</id>
-        <link href="https://festa.io/events/4603"/>
-        <updated>2024-01-08T04:07:42.446Z</updated>
-        <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
     </entry>
 </feed>
