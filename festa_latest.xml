@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-11T00:28:28.436Z</updated>
+    <updated>2024-01-11T01:47:50.671Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SLEXN CONNECT (v240) SOLUTION DAY]]></title>
+        <id>https://festa.io/events/4623</id>
+        <link href="https://festa.io/events/4623"/>
+        <updated>2024-01-11T01:47:49.987Z</updated>
+        <content type="html"><![CDATA[2월 23일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데브콘 서울 : 일월엔 신장개업]]></title>
+        <id>https://festa.io/events/4622</id>
+        <link href="https://festa.io/events/4622"/>
+        <updated>2024-01-11T01:47:49.988Z</updated>
+        <content type="html"><![CDATA[1월 24일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[1기] 독서모임 <심리:안> - 심리학 책 읽고 편하게 이야기해요]]></title>
         <id>https://festa.io/events/4621</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4614"/>
         <updated>2024-01-09T06:08:14.592Z</updated>
         <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
-        <id>https://festa.io/events/4615</id>
-        <link href="https://festa.io/events/4615"/>
-        <updated>2024-01-09T06:08:14.593Z</updated>
-        <content type="html"><![CDATA[1월 16일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정]]></title>
-        <id>https://festa.io/events/4613</id>
-        <link href="https://festa.io/events/4613"/>
-        <updated>2024-01-09T06:08:14.595Z</updated>
-        <content type="html"><![CDATA[1월 16일 (화) · 오프라인]]></content>
     </entry>
 </feed>
