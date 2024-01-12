@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-12T00:28:46.420Z</updated>
+    <updated>2024-01-12T01:48:40.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4630</id>
+        <link href="https://festa.io/events/4630"/>
+        <updated>2024-01-12T01:48:39.842Z</updated>
+        <content type="html"><![CDATA[1월 19일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4629</id>
+        <link href="https://festa.io/events/4629"/>
+        <updated>2024-01-12T01:48:39.843Z</updated>
+        <content type="html"><![CDATA[1월 19일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[☕️ Coffee with Swift (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4627</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/4620"/>
         <updated>2024-01-10T02:22:22.534Z</updated>
         <content type="html"><![CDATA[1월 17일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[마음성형캠프 플러스 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4618</id>
-        <link href="https://festa.io/events/4618"/>
-        <updated>2024-01-09T10:02:53.669Z</updated>
-        <content type="html"><![CDATA[1월 20일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[머니 스윙: 재테크를 휘두르다 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4616</id>
-        <link href="https://festa.io/events/4616"/>
-        <updated>2024-01-09T07:02:37.663Z</updated>
-        <content type="html"><![CDATA[1월 20일 (토) · 오프라인]]></content>
     </entry>
 </feed>
