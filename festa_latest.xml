@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-17T05:03:06.550Z</updated>
+    <updated>2024-01-17T06:08:30.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 부산예술회관 서포터즈 예담 2기 모집공고]]></title>
+        <id>https://festa.io/events/4648</id>
+        <link href="https://festa.io/events/4648"/>
+        <updated>2024-01-17T06:08:30.206Z</updated>
+        <content type="html"><![CDATA[2월 5일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정]]></title>
+        <id>https://festa.io/events/4647</id>
+        <link href="https://festa.io/events/4647"/>
+        <updated>2024-01-17T06:08:30.208Z</updated>
+        <content type="html"><![CDATA[1월 24일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성]]></title>
+        <id>https://festa.io/events/4646</id>
+        <link href="https://festa.io/events/4646"/>
+        <updated>2024-01-17T06:08:30.210Z</updated>
+        <content type="html"><![CDATA[1월 24일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리얼리눅스:ARM 임베디드 기초]]></title>
         <id>https://festa.io/events/4645</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/4641"/>
         <updated>2024-01-16T08:08:25.314Z</updated>
         <content type="html"><![CDATA[1월 22일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로젝트중심 백엔드 자바개발자 부트캠프]]></title>
-        <id>https://festa.io/events/4640</id>
-        <link href="https://festa.io/events/4640"/>
-        <updated>2024-01-16T07:02:50.038Z</updated>
-        <content type="html"><![CDATA[1월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 온라인 세미나] 마케팅 비용 증액없이 매출 20% 상승시킨 성공비법]]></title>
-        <id>https://festa.io/events/4638</id>
-        <link href="https://festa.io/events/4638"/>
-        <updated>2024-01-15T06:09:15.666Z</updated>
-        <content type="html"><![CDATA[1월 25일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 교육] "인공지능 시대, 개인의 디지털 신원을 보호하라!"]]></title>
-        <id>https://festa.io/events/4637</id>
-        <link href="https://festa.io/events/4637"/>
-        <updated>2024-01-15T01:53:31.458Z</updated>
-        <content type="html"><![CDATA[3월 16일 (토) · 오프라인]]></content>
     </entry>
 </feed>
