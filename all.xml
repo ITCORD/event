@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-18T16:07:44.089Z</updated>
+    <updated>2024-01-18T17:02:22.638Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[부산] 리눅스 환경(WSL 포함)에서 C++ 실습하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
