@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-19T05:02:16.932Z</updated>
+    <updated>2024-01-19T06:08:16.942Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스:ARM 임베디드 아키텍쳐]]></title>
+        <id>https://festa.io/events/4654</id>
+        <link href="https://festa.io/events/4654"/>
+        <updated>2024-01-19T06:08:16.358Z</updated>
+        <content type="html"><![CDATA[2월 22일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[부산] 리눅스 환경(WSL 포함)에서 C++ 실습하기]]></title>
         <id>https://festa.io/events/4635</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4644"/>
         <updated>2024-01-16T12:10:20.176Z</updated>
         <content type="html"><![CDATA[1월 27일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[구름 Webinar] 성장의 관성을 만드는 조직문화 구축 방법]]></title>
-        <id>https://festa.io/events/4643</id>
-        <link href="https://festa.io/events/4643"/>
-        <updated>2024-01-16T08:08:25.312Z</updated>
-        <content type="html"><![CDATA[1월 30일 (화) · 온라인]]></content>
     </entry>
 </feed>
