@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-23T04:08:05.628Z</updated>
+    <updated>2024-01-23T05:03:26.745Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KIC캠퍼스 강남, 자바(JAVA)기반 백엔드 & 빅데이터 분석 양성과정]]></title>
+        <id>https://festa.io/events/4668</id>
+        <link href="https://festa.io/events/4668"/>
+        <updated>2024-01-23T05:03:26.170Z</updated>
+        <content type="html"><![CDATA[1월 30일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GPT로 스타트업하는 스마트한 창업가]]></title>
         <id>https://festa.io/events/4666</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4617"/>
         <updated>2024-01-19T08:08:44.757Z</updated>
         <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(디지털디자인)Figma활용 UI/UX 반응형 웹디자인&웹퍼블리셔]]></title>
-        <id>https://festa.io/events/4656</id>
-        <link href="https://festa.io/events/4656"/>
-        <updated>2024-01-19T07:02:16.522Z</updated>
-        <content type="html"><![CDATA[2월 15일 (목) · 오프라인]]></content>
     </entry>
 </feed>
