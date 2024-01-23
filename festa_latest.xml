@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-23T08:08:36.408Z</updated>
+    <updated>2024-01-23T09:02:30.793Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SPARCS Service Hackathon 2024]]></title>
+        <id>https://festa.io/events/4657</id>
+        <link href="https://festa.io/events/4657"/>
+        <updated>2024-01-23T09:02:30.100Z</updated>
+        <content type="html"><![CDATA[2월 13일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 개발자들의 네트워킹 행사, Beer🍻Night]]></title>
         <id>https://festa.io/events/4669</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4659"/>
         <updated>2024-01-20T09:01:56.826Z</updated>
         <content type="html"><![CDATA[2월 29일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 C++ 핵심 가이드라인 스터디 첫 모임]]></title>
-        <id>https://festa.io/events/4658</id>
-        <link href="https://festa.io/events/4658"/>
-        <updated>2024-01-19T14:02:32.947Z</updated>
-        <content type="html"><![CDATA[2월 4일 (일) · 온라인]]></content>
     </entry>
 </feed>
