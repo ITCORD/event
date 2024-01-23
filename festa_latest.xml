@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-23T12:10:26.492Z</updated>
+    <updated>2024-01-23T13:09:51.009Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스: 리눅스 Zero 베이스 초보자 트러블 슈팅까지]]></title>
+        <id>https://festa.io/events/4597</id>
+        <link href="https://festa.io/events/4597"/>
+        <updated>2024-01-23T13:09:50.435Z</updated>
+        <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[SPARCS Service Hackathon 2024]]></title>
         <id>https://festa.io/events/4657</id>
@@ -51,13 +58,6 @@
         <title type="html"><![CDATA[더조은컴퓨터아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성]]></title>
         <id>https://festa.io/events/4663</id>
         <link href="https://festa.io/events/4663"/>
-        <updated>2024-01-22T01:54:32.498Z</updated>
-        <content type="html"><![CDATA[1월 29일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIC캠퍼스 강남, [프로젝트 중심] 백엔드 자바개발자 양성과정]]></title>
-        <id>https://festa.io/events/4662</id>
-        <link href="https://festa.io/events/4662"/>
         <updated>2024-01-22T01:54:32.498Z</updated>
         <content type="html"><![CDATA[1월 29일 (월) · 오프라인]]></content>
     </entry>
