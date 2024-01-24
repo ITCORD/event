@@ -2,63 +2,63 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-24T03:06:42.542Z</updated>
+    <updated>2024-01-24T04:07:47.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[웹 융합 SW기반 빅데이터 솔루션 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4684</id>
+        <link href="https://festa.io/events/4684"/>
+        <updated>2024-01-24T04:07:46.747Z</updated>
+        <content type="html"><![CDATA[4월 18일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[고용노동부 우수기관] 취업률 90.3 % 전공무관 웹 개발자 110일 취업과정 무료교육]]></title>
+        <id>https://festa.io/events/4683</id>
+        <link href="https://festa.io/events/4683"/>
+        <updated>2024-01-24T04:07:46.748Z</updated>
+        <content type="html"><![CDATA[1월 24일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[인공지능 기반 빅데이터 서비스 플랫폼 구축 전문가 양성과정]]></title>
+        <id>https://festa.io/events/4682</id>
+        <link href="https://festa.io/events/4682"/>
+        <updated>2024-01-24T04:07:46.749Z</updated>
+        <content type="html"><![CDATA[4월 11일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이브리드 및 멀티클라우드 아키텍트 양성과정]]></title>
+        <id>https://festa.io/events/4681</id>
+        <link href="https://festa.io/events/4681"/>
+        <updated>2024-01-24T04:07:46.758Z</updated>
+        <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[데이터 분석 융합 웹 서비스 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4680</id>
+        <link href="https://festa.io/events/4680"/>
+        <updated>2024-01-24T04:07:46.759Z</updated>
+        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핀테크 서비스를 위한 풀스택 개발자 양성 과정]]></title>
+        <id>https://festa.io/events/4679</id>
+        <link href="https://festa.io/events/4679"/>
+        <updated>2024-01-24T04:07:46.760Z</updated>
+        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 과정]]></title>
+        <id>https://festa.io/events/4678</id>
+        <link href="https://festa.io/events/4678"/>
+        <updated>2024-01-24T04:07:46.762Z</updated>
+        <content type="html"><![CDATA[2월 13일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리얼리눅스: 리눅스 Zero 베이스 초보자 트러블 슈팅까지]]></title>
         <id>https://festa.io/events/4597</id>
         <link href="https://festa.io/events/4597"/>
         <updated>2024-01-23T13:09:50.435Z</updated>
         <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SPARCS Service Hackathon 2024]]></title>
-        <id>https://festa.io/events/4657</id>
-        <link href="https://festa.io/events/4657"/>
-        <updated>2024-01-23T09:02:30.100Z</updated>
-        <content type="html"><![CDATA[2월 13일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 개발자들의 네트워킹 행사, Beer🍻Night]]></title>
-        <id>https://festa.io/events/4669</id>
-        <link href="https://festa.io/events/4669"/>
-        <updated>2024-01-23T08:08:35.837Z</updated>
-        <content type="html"><![CDATA[2월 2일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KIC캠퍼스 강남, 자바(JAVA)기반 백엔드 & 빅데이터 분석 양성과정]]></title>
-        <id>https://festa.io/events/4668</id>
-        <link href="https://festa.io/events/4668"/>
-        <updated>2024-01-23T05:03:26.170Z</updated>
-        <content type="html"><![CDATA[1월 30일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GPT로 스타트업하는 스마트한 창업가]]></title>
-        <id>https://festa.io/events/4666</id>
-        <link href="https://festa.io/events/4666"/>
-        <updated>2024-01-22T15:03:14.964Z</updated>
-        <content type="html"><![CDATA[2월 17일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남] 모두팝 세미나 | 모두를 위한 한국어 오픈액세스 언어모델 ━ 못다한 이야기]]></title>
-        <id>https://festa.io/events/4665</id>
-        <link href="https://festa.io/events/4665"/>
-        <updated>2024-01-23T10:04:08.133Z</updated>
-        <content type="html"><![CDATA[1월 30일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스:리눅스 시스템 핵심 정리]]></title>
-        <id>https://festa.io/events/4614</id>
-        <link href="https://festa.io/events/4614"/>
-        <updated>2024-01-22T08:09:18.766Z</updated>
-        <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성]]></title>
-        <id>https://festa.io/events/4663</id>
-        <link href="https://festa.io/events/4663"/>
-        <updated>2024-01-22T01:54:32.498Z</updated>
-        <content type="html"><![CDATA[1월 29일 (월) · 오프라인]]></content>
     </entry>
 </feed>
