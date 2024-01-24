@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-24T05:02:13.354Z</updated>
+    <updated>2024-01-24T06:08:46.367Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[IPsec VPN을 이용하여 서로 다른 망 연결하기]]></title>
+        <id>https://festa.io/events/4685</id>
+        <link href="https://festa.io/events/4685"/>
+        <updated>2024-01-24T06:08:45.717Z</updated>
+        <content type="html"><![CDATA[1월 23일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[SUSC 전문가 세미나: 오픈스택으로 공부하는 클라우드 인프라 서비스의 구조]]></title>
+        <id>https://festa.io/events/4671</id>
+        <link href="https://festa.io/events/4671"/>
+        <updated>2024-01-24T06:08:45.718Z</updated>
+        <content type="html"><![CDATA[2월 3일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[웹 융합 SW기반 빅데이터 솔루션 개발자 양성과정]]></title>
         <id>https://festa.io/events/4684</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4679"/>
         <updated>2024-01-24T04:07:46.760Z</updated>
         <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 과정]]></title>
-        <id>https://festa.io/events/4678</id>
-        <link href="https://festa.io/events/4678"/>
-        <updated>2024-01-24T04:07:46.762Z</updated>
-        <content type="html"><![CDATA[2월 13일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스: 리눅스 Zero 베이스 초보자 트러블 슈팅까지]]></title>
-        <id>https://festa.io/events/4597</id>
-        <link href="https://festa.io/events/4597"/>
-        <updated>2024-01-23T13:09:50.435Z</updated>
-        <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
     </entry>
 </feed>
