@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-01-24T08:08:41.876Z</updated>
+    <updated>2024-01-24T09:02:49.435Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[planet rave (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4670</id>
+        <link href="https://festa.io/events/4670"/>
+        <updated>2024-01-24T09:02:48.850Z</updated>
+        <content type="html"><![CDATA[1월 23일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리얼리눅스:도커/K8s/클라우드(AWS) 네트워크 완전 정복 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4631</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4671"/>
         <updated>2024-01-24T06:08:45.718Z</updated>
         <content type="html"><![CDATA[2월 3일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[웹 융합 SW기반 빅데이터 솔루션 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4684</id>
-        <link href="https://festa.io/events/4684"/>
-        <updated>2024-01-24T04:07:46.747Z</updated>
-        <content type="html"><![CDATA[4월 18일 (목) · 오프라인]]></content>
     </entry>
 </feed>
