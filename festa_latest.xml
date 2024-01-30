@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-01-30T08:08:32.217Z</updated>
+    <updated>2024-01-30T09:02:19.099Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료 온라인 특강] (2.6.수) 생산성 업 ChatGPT Store 특집! MicroSoft MVP 김영욱 소장]]></title>
+        <id>https://festa.io/events/4703</id>
+        <link href="https://festa.io/events/4703"/>
+        <updated>2024-01-30T09:02:18.447Z</updated>
+        <content type="html"><![CDATA[1월 30일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[벤자민인성영재학교 2024년도 온라인 입학설명회]]></title>
         <id>https://festa.io/events/4702</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4631"/>
         <updated>2024-01-24T08:08:41.226Z</updated>
         <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[IPsec VPN을 이용하여 서로 다른 망 연결하기]]></title>
-        <id>https://festa.io/events/4690</id>
-        <link href="https://festa.io/events/4690"/>
-        <updated>2024-01-24T08:08:41.227Z</updated>
-        <content type="html"><![CDATA[2월 29일 (목) · 온라인]]></content>
     </entry>
 </feed>
