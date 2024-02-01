@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-01T05:02:53.930Z</updated>
+    <updated>2024-02-01T06:08:31.389Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료교육] 클라우드 전문가 양성과정(기초) 수강생 모집]]></title>
+        <id>https://festa.io/events/4707</id>
+        <link href="https://festa.io/events/4707"/>
+        <updated>2024-02-01T06:08:30.776Z</updated>
+        <content type="html"><![CDATA[1월 31일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 SAFe 커뮤니티 24년 2월 밋업]]></title>
         <id>https://festa.io/events/4700</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4693"/>
         <updated>2024-01-25T08:08:39.053Z</updated>
         <content type="html"><![CDATA[2월 3일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스:도커/K8s/클라우드(AWS) 네트워크 완전 정복]]></title>
-        <id>https://festa.io/events/4631</id>
-        <link href="https://festa.io/events/4631"/>
-        <updated>2024-02-01T04:08:22.927Z</updated>
-        <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
     </entry>
 </feed>
