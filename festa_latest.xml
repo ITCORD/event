@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-02T06:07:55.939Z</updated>
+    <updated>2024-02-02T07:02:09.815Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[구름 COMMIT] 시야가 넓은 개발자는 무엇이 다를까]]></title>
+        <id>https://festa.io/events/4716</id>
+        <link href="https://festa.io/events/4716"/>
+        <updated>2024-02-02T07:02:09.191Z</updated>
+        <content type="html"><![CDATA[2월 14일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 청년도약계좌 환승전략 세미나]]></title>
         <id>https://festa.io/events/4715</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4708"/>
         <updated>2024-02-01T09:02:40.715Z</updated>
         <content type="html"><![CDATA[2월 25일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스: 리눅스OS 중급A]]></title>
-        <id>https://festa.io/events/4601</id>
-        <link href="https://festa.io/events/4601"/>
-        <updated>2024-02-01T08:07:48.745Z</updated>
-        <content type="html"><![CDATA[2월 15일 (목) · 온라인]]></content>
     </entry>
 </feed>
