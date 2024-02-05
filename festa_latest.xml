@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-05T08:08:47.339Z</updated>
+    <updated>2024-02-05T09:02:41.827Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한빛앤 MSA #2-1  운영 환경에 내 웹 서버 첫 걸음마 떼주기]]></title>
+        <id>https://festa.io/events/4720</id>
+        <link href="https://festa.io/events/4720"/>
+        <updated>2024-02-05T09:02:41.211Z</updated>
+        <content type="html"><![CDATA[3월 6일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[오프라인 세미나 안내] 페이먼트월 X UPS X 위드소프트: 글로벌 이커머스 시장의 미래를 모색해보세요🌏]]></title>
         <id>https://festa.io/events/4734</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4728"/>
         <updated>2024-02-05T06:08:46.139Z</updated>
         <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[하이브리드 및 멀티클라우드 아키텍트 양성과정]]></title>
-        <id>https://festa.io/events/4727</id>
-        <link href="https://festa.io/events/4727"/>
-        <updated>2024-02-05T06:08:46.140Z</updated>
-        <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
     </entry>
 </feed>
