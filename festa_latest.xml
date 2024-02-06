@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-06T02:13:32.449Z</updated>
+    <updated>2024-02-06T03:03:40.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -20,11 +20,11 @@
         <content type="html"><![CDATA[2월 9일 (금) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[한빛앤 MSA #2-1  운영 환경에 내 웹 서버 첫 걸음마 떼주기]]></title>
+        <title type="html"><![CDATA[한빛N MSA #2-1  운영 환경에 내 웹 서버 첫 걸음마 떼주기]]></title>
         <id>https://festa.io/events/4720</id>
         <link href="https://festa.io/events/4720"/>
         <updated>2024-02-05T09:02:41.211Z</updated>
-        <content type="html"><![CDATA[3월 6일 (수) · 오프라인]]></content>
+        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오프라인 세미나 안내] 페이먼트월 X UPS X 위드소프트: 글로벌 이커머스 시장의 미래를 모색해보세요🌏]]></title>
