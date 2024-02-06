@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-05T23:02:55.682Z</updated>
+    <updated>2024-02-06T00:27:02.027Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데브콘 서울 : 이월엔 그로스 (Growth)]]></title>
+        <id>https://festa.io/events/4736</id>
+        <link href="https://festa.io/events/4736"/>
+        <updated>2024-02-06T00:27:01.376Z</updated>
+        <content type="html"><![CDATA[2월 22일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Flutter Daegu Meetup]]></title>
         <id>https://festa.io/events/4735</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4730"/>
         <updated>2024-02-05T06:08:46.135Z</updated>
         <content type="html"><![CDATA[4월 11일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐[전액국비지원] 공공데이터를 활용한 데이터 분석 융합 웹 서비스 개발자 양성과정]]></title>
-        <id>https://festa.io/events/4729</id>
-        <link href="https://festa.io/events/4729"/>
-        <updated>2024-02-05T06:08:46.137Z</updated>
-        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
     </entry>
 </feed>
