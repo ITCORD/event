@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-08T03:02:30.656Z</updated>
+    <updated>2024-02-08T04:04:04.748Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[강남] 모두팝 세미나 | Gen AI Safety & Security]]></title>
+        <id>https://festa.io/events/4739</id>
+        <link href="https://festa.io/events/4739"/>
+        <updated>2024-02-08T04:04:04.167Z</updated>
+        <content type="html"><![CDATA[2월 20일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[프로젝트 중심] 자바(Java)중심 풀스택 캠프 - 취업연계과정 5기]]></title>
         <id>https://festa.io/events/4738</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4733"/>
         <updated>2024-02-05T06:08:46.133Z</updated>
         <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐[전액국비지원] 퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 과정]]></title>
-        <id>https://festa.io/events/4732</id>
-        <link href="https://festa.io/events/4732"/>
-        <updated>2024-02-05T06:08:46.133Z</updated>
-        <content type="html"><![CDATA[2월 13일 (화) · 오프라인]]></content>
     </entry>
 </feed>
