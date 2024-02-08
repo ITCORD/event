@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-08T09:02:34.200Z</updated>
+    <updated>2024-02-08T10:02:08.102Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://festa.io/events/4603"/>
         <updated>2024-02-08T06:08:33.321Z</updated>
         <content type="html"><![CDATA[3월 21일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[강남] 모두팝X엔비디아 | NVIDIA 기술랩 오픈 기념 세미나]]></title>
+        <id>https://festa.io/events/4742</id>
+        <link href="https://festa.io/events/4742"/>
+        <updated>2024-02-08T10:02:07.469Z</updated>
+        <content type="html"><![CDATA[2월 23일 (금) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[강남] 모두팝 세미나 | Gen AI Safety & Security]]></title>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4720"/>
         <updated>2024-02-05T09:02:41.211Z</updated>
         <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오프라인 세미나 안내] 페이먼트월 X UPS X 위드소프트: 글로벌 이커머스 시장의 미래를 모색해보세요🌏]]></title>
-        <id>https://festa.io/events/4734</id>
-        <link href="https://festa.io/events/4734"/>
-        <updated>2024-02-05T08:08:46.764Z</updated>
-        <content type="html"><![CDATA[2월 16일 (금) · 오프라인]]></content>
     </entry>
 </feed>
