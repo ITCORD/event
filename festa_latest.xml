@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-09T00:26:08.251Z</updated>
+    <updated>2024-02-09T01:37:25.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[강남] 모두팝 세미나 | Gen AI Safety & Security]]></title>
+        <id>https://festa.io/events/4739</id>
+        <link href="https://festa.io/events/4739"/>
+        <updated>2024-02-08T04:04:04.167Z</updated>
+        <content type="html"><![CDATA[2월 20일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리얼리눅스: 리눅스OS 중급B]]></title>
         <id>https://festa.io/events/4603</id>
@@ -18,13 +25,6 @@
         <link href="https://festa.io/events/4742"/>
         <updated>2024-02-08T10:02:07.469Z</updated>
         <content type="html"><![CDATA[2월 23일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남] 모두팝 세미나 | Gen AI Safety & Security]]></title>
-        <id>https://festa.io/events/4739</id>
-        <link href="https://festa.io/events/4739"/>
-        <updated>2024-02-08T04:04:04.167Z</updated>
-        <content type="html"><![CDATA[2월 20일 (화) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[프로젝트 중심] 자바(Java)중심 풀스택 캠프 - 취업연계과정 5기]]></title>
