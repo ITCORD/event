@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-12T02:14:44.940Z</updated>
+    <updated>2024-02-12T03:02:59.768Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[인디메이커들의 2월을 회고하는 저녁 모임]]></title>
+        <id>https://festa.io/events/4744</id>
+        <link href="https://festa.io/events/4744"/>
+        <updated>2024-02-12T03:02:59.149Z</updated>
+        <content type="html"><![CDATA[2월 27일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 Global AI Bootcamp - Busan!]]></title>
         <id>https://festa.io/events/4745</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4736"/>
         <updated>2024-02-06T00:27:01.376Z</updated>
         <content type="html"><![CDATA[2월 22일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛앤 MSA #2-1  운영 환경에 내 웹 서버 첫걸음마 떼주기]]></title>
-        <id>https://festa.io/events/4720</id>
-        <link href="https://festa.io/events/4720"/>
-        <updated>2024-02-05T09:02:41.211Z</updated>
-        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
     </entry>
 </feed>
