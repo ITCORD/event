@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-12T14:02:02.581Z</updated>
+    <updated>2024-02-12T15:02:12.353Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[와일드 백엔드]]></title>
+        <id>https://festa.io/events/4747</id>
+        <link href="https://festa.io/events/4747"/>
+        <updated>2024-02-12T15:02:11.764Z</updated>
+        <content type="html"><![CDATA[2월 17일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[사이드프로젝트하는 개발자, 디자이너, PM/PO들과 2월 회고하는 저녁 모임]]></title>
         <id>https://festa.io/events/4746</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4738"/>
         <updated>2024-02-06T07:02:09.579Z</updated>
         <content type="html"><![CDATA[3월 27일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[솔데스크 자바 백엔드 . 시스코 클라우드 6개월트랙]]></title>
-        <id>https://festa.io/events/4737</id>
-        <link href="https://festa.io/events/4737"/>
-        <updated>2024-02-06T06:07:46.064Z</updated>
-        <content type="html"><![CDATA[3월 19일 (화) · 오프라인]]></content>
     </entry>
 </feed>
