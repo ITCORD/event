@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-14T15:01:49.139Z</updated>
+    <updated>2024-02-14T16:07:07.047Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[HelloWorld 24]]></title>
+        <id>https://festa.io/events/4757</id>
+        <link href="https://festa.io/events/4757"/>
+        <updated>2024-02-14T16:07:06.461Z</updated>
+        <content type="html"><![CDATA[3월 30일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<뉴콘 Talk 데이> 생성형 AI 주제 강연 참여 모집]]></title>
         <id>https://festa.io/events/4755</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4750"/>
         <updated>2024-02-14T03:02:41.224Z</updated>
         <content type="html"><![CDATA[2월 16일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[와일드 백엔드]]></title>
-        <id>https://festa.io/events/4747</id>
-        <link href="https://festa.io/events/4747"/>
-        <updated>2024-02-12T15:02:11.764Z</updated>
-        <content type="html"><![CDATA[2월 17일 (토) · 오프라인]]></content>
     </entry>
 </feed>
