@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-17T16:02:01.234Z</updated>
+    <updated>2024-02-17T17:01:37.215Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://festa.io/events/4765"/>
         <updated>2024-02-17T13:02:05.211Z</updated>
         <content type="html"><![CDATA[3월 9일 (토) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[TecheerCon]]></title>
+        <id>https://festa.io/events/4766</id>
+        <link href="https://festa.io/events/4766"/>
+        <updated>2024-02-17T17:01:36.638Z</updated>
+        <content type="html"><![CDATA[3월 9일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[무료채용연계형 k디지털교육 / 개발자 / 파이썬 / 자바 / 빅데이터 / 백엔드 / 프론트엔드 / 인공지능ai  교육생 모집]]></title>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4749"/>
         <updated>2024-02-14T06:08:34.632Z</updated>
         <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[DAY 3 , 2/21] 5th UMC DEMODAY]]></title>
-        <id>https://festa.io/events/4753</id>
-        <link href="https://festa.io/events/4753"/>
-        <updated>2024-02-14T04:07:48.821Z</updated>
-        <content type="html"><![CDATA[2월 21일 (수) · 오프라인]]></content>
     </entry>
 </feed>
