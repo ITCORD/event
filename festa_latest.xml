@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-19T02:15:05.426Z</updated>
+    <updated>2024-02-19T03:04:28.483Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[#StartHerSuccess:게임 메이커들의 커리어 레벨업]]></title>
+        <id>https://festa.io/events/4767</id>
+        <link href="https://festa.io/events/4767"/>
+        <updated>2024-02-19T03:04:27.792Z</updated>
+        <content type="html"><![CDATA[3월 9일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서비스 메이커 클럽 : 루키 3기]]></title>
         <id>https://festa.io/events/4765</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4754"/>
         <updated>2024-02-14T08:08:14.187Z</updated>
         <content type="html"><![CDATA[3월 5일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Korea 밋업 #19 with Google 개발자 생산성 업을 위한 GitLab AI 핸즈온과 옵저버빌리티 데모]]></title>
-        <id>https://festa.io/events/4749</id>
-        <link href="https://festa.io/events/4749"/>
-        <updated>2024-02-14T06:08:34.632Z</updated>
-        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
     </entry>
 </feed>
