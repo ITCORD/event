@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-19T07:02:01.065Z</updated>
+    <updated>2024-02-19T08:08:59.242Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Copilot for Microsoft 365, 새로운 업무 환경을 위한 스마트 가이드]]></title>
+        <id>https://festa.io/events/4760</id>
+        <link href="https://festa.io/events/4760"/>
+        <updated>2024-02-19T08:08:58.617Z</updated>
+        <content type="html"><![CDATA[2월 23일 (금) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 오프소스 컨트리뷰션 아카데미 참여형 멘토단 모집(~3.24)]]></title>
+        <id>https://festa.io/events/4770</id>
+        <link href="https://festa.io/events/4770"/>
+        <updated>2024-02-19T08:08:58.618Z</updated>
+        <content type="html"><![CDATA[2월 15일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[취업연계형3기]자바 하이브리드 웹 개발자 취업과정(무료)]]></title>
         <id>https://festa.io/events/4769</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4763"/>
         <updated>2024-02-17T01:37:19.463Z</updated>
         <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 오픈 프런티어 모집(~3/24)]]></title>
-        <id>https://festa.io/events/4762</id>
-        <link href="https://festa.io/events/4762"/>
-        <updated>2024-02-16T02:13:19.898Z</updated>
-        <content type="html"><![CDATA[2월 16일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Langcon 2024]]></title>
-        <id>https://festa.io/events/4758</id>
-        <link href="https://festa.io/events/4758"/>
-        <updated>2024-02-15T08:08:38.198Z</updated>
-        <content type="html"><![CDATA[3월 2일 (토) · 오프라인]]></content>
     </entry>
 </feed>
