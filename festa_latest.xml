@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-19T06:08:32.923Z</updated>
+    <updated>2024-02-19T07:02:01.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[취업연계형3기]자바 하이브리드 웹 개발자 취업과정(무료)]]></title>
+        <id>https://festa.io/events/4769</id>
+        <link href="https://festa.io/events/4769"/>
+        <updated>2024-02-19T07:02:00.483Z</updated>
+        <content type="html"><![CDATA[2월 18일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 메타버스산업 통합 사업설명회]]></title>
         <id>https://festa.io/events/4768</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4758"/>
         <updated>2024-02-15T08:08:38.198Z</updated>
         <content type="html"><![CDATA[3월 2일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HelloWorld 24]]></title>
-        <id>https://festa.io/events/4757</id>
-        <link href="https://festa.io/events/4757"/>
-        <updated>2024-02-14T16:07:06.461Z</updated>
-        <content type="html"><![CDATA[3월 30일 (토) · 오프라인]]></content>
     </entry>
 </feed>
