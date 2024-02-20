@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-20T05:02:17.071Z</updated>
+    <updated>2024-02-20T06:08:53.537Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4775</id>
+        <link href="https://festa.io/events/4775"/>
+        <updated>2024-02-20T06:08:52.880Z</updated>
+        <content type="html"><![CDATA[2월 27일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은컴퓨터아카데미 종로,클라우드(AWS) 환경에서 개발하는 풀스택(프론트엔드&백엔드) 자바(JAVA)웹&앱]]></title>
+        <id>https://festa.io/events/4776</id>
+        <link href="https://festa.io/events/4776"/>
+        <updated>2024-02-20T06:08:52.881Z</updated>
+        <content type="html"><![CDATA[2월 27일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회]]></title>
         <id>https://festa.io/events/4774</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4770"/>
         <updated>2024-02-19T08:08:58.618Z</updated>
         <content type="html"><![CDATA[2월 15일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취업연계형3기]자바 하이브리드 웹 개발자 취업과정(무료)]]></title>
-        <id>https://festa.io/events/4769</id>
-        <link href="https://festa.io/events/4769"/>
-        <updated>2024-02-19T07:02:00.483Z</updated>
-        <content type="html"><![CDATA[2월 18일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 메타버스산업 통합 사업설명회]]></title>
-        <id>https://festa.io/events/4768</id>
-        <link href="https://festa.io/events/4768"/>
-        <updated>2024-02-19T04:07:53.244Z</updated>
-        <content type="html"><![CDATA[2월 29일 (목) · 오프라인]]></content>
     </entry>
 </feed>
