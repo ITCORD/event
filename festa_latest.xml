@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-20T12:09:56.770Z</updated>
+    <updated>2024-02-20T13:03:08.444Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크] 공공데이터를 활용한 데이터 분석 융합 웹 서비스 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4780</id>
+        <link href="https://festa.io/events/4780"/>
+        <updated>2024-02-20T13:03:07.837Z</updated>
+        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[핀테크 서비스를 위한 풀스택 개발자 양성 과정]]></title>
+        <id>https://festa.io/events/4779</id>
+        <link href="https://festa.io/events/4779"/>
+        <updated>2024-02-20T13:03:07.841Z</updated>
+        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[성공적인 취업을 위한 A to Z 토크콘서트]]></title>
         <id>https://festa.io/events/4778</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4772"/>
         <updated>2024-02-19T16:04:35.352Z</updated>
         <content type="html"><![CDATA[3월 30일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료/취업]2024 서울시 뉴딜_디지털 콘텐츠 제작 전문가 양성과정(~03/31)]]></title>
-        <id>https://festa.io/events/4771</id>
-        <link href="https://festa.io/events/4771"/>
-        <updated>2024-02-19T11:02:11.204Z</updated>
-        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Copilot for Microsoft 365, 새로운 업무 환경을 위한 스마트 가이드]]></title>
-        <id>https://festa.io/events/4760</id>
-        <link href="https://festa.io/events/4760"/>
-        <updated>2024-02-19T08:08:58.617Z</updated>
-        <content type="html"><![CDATA[2월 23일 (금) · 온라인]]></content>
     </entry>
 </feed>
