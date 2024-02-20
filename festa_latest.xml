@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-20T03:03:30.755Z</updated>
+    <updated>2024-02-20T04:08:33.095Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu Jams Day & 우분투한국커뮤니티 정기총회]]></title>
+        <id>https://festa.io/events/4774</id>
+        <link href="https://festa.io/events/4774"/>
+        <updated>2024-02-20T04:08:32.492Z</updated>
+        <content type="html"><![CDATA[3월 23일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료 교육] NHN Cloud for Games : NHN Cloud로 게임 구축하기]]></title>
         <id>https://festa.io/events/4773</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4768"/>
         <updated>2024-02-19T04:07:53.244Z</updated>
         <content type="html"><![CDATA[2월 29일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[#StartHerSuccess:게임 메이커들의 커리어 레벨업]]></title>
-        <id>https://festa.io/events/4767</id>
-        <link href="https://festa.io/events/4767"/>
-        <updated>2024-02-19T03:04:27.792Z</updated>
-        <content type="html"><![CDATA[3월 9일 (토) · 오프라인]]></content>
     </entry>
 </feed>
