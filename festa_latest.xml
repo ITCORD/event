@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-22T06:08:16.382Z</updated>
+    <updated>2024-02-22T07:02:25.719Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료교육]서울시뉴딜_디지털 콘텐츠 마케팅 실무과정 모집중(~04/08)]]></title>
+        <id>https://festa.io/events/4789</id>
+        <link href="https://festa.io/events/4789"/>
+        <updated>2024-02-22T07:02:25.043Z</updated>
+        <content type="html"><![CDATA[4월 15일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료 온라인 세미나] 나 혼자 해도 알 수 있는 GA4 활용법]]></title>
         <id>https://festa.io/events/4787</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/4775</id>
         <link href="https://festa.io/events/4775"/>
         <updated>2024-02-20T06:08:52.880Z</updated>
-        <content type="html"><![CDATA[2월 27일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은컴퓨터아카데미 종로,클라우드(AWS) 환경에서 개발하는 풀스택(프론트엔드&백엔드) 자바(JAVA)웹&앱]]></title>
-        <id>https://festa.io/events/4776</id>
-        <link href="https://festa.io/events/4776"/>
-        <updated>2024-02-20T06:08:52.881Z</updated>
         <content type="html"><![CDATA[2월 27일 (화) · 오프라인]]></content>
     </entry>
 </feed>
