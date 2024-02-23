@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-23T00:26:50.995Z</updated>
+    <updated>2024-02-23T01:37:40.115Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4792</id>
+        <link href="https://festa.io/events/4792"/>
+        <updated>2024-02-23T01:37:35.710Z</updated>
+        <content type="html"><![CDATA[3월 1일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채용연계 무료 k디지털교육 / 클라우드 엔지니어 / AWS / 도커 / 쿠버네티스 / 리눅스 / 네트워크 / 멀티클라우드 / 하이브리드클라우드 교육생 모집]]></title>
         <id>https://festa.io/events/4791</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4784"/>
         <updated>2024-02-21T11:02:14.759Z</updated>
         <content type="html"><![CDATA[3월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 청년도약계좌 환승전략 세미나]]></title>
-        <id>https://festa.io/events/4781</id>
-        <link href="https://festa.io/events/4781"/>
-        <updated>2024-02-21T05:02:47.178Z</updated>
-        <content type="html"><![CDATA[2월 29일 (목) · 오프라인]]></content>
     </entry>
 </feed>
