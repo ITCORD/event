@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-23T03:03:27.802Z</updated>
+    <updated>2024-02-23T04:07:10.081Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[DHP 디지털 헬스케어 아카데미 2024 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4793</id>
+        <link href="https://festa.io/events/4793"/>
+        <updated>2024-02-23T04:07:09.371Z</updated>
+        <content type="html"><![CDATA[4월 3일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4792</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4759"/>
         <updated>2024-02-22T05:02:52.422Z</updated>
         <content type="html"><![CDATA[3월 29일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UI/UX웹퍼블리셔 국비지원 - 하이미디어아카데미 신촌점 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4784</id>
-        <link href="https://festa.io/events/4784"/>
-        <updated>2024-02-21T11:02:14.759Z</updated>
-        <content type="html"><![CDATA[3월 19일 (화) · 오프라인]]></content>
     </entry>
 </feed>
