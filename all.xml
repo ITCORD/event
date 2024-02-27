@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-27T10:02:07.984Z</updated>
+    <updated>2024-02-27T11:01:59.640Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[Cloud Security Watcher로 클라우드 보안 형상관리 하는 법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
