@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-27T11:01:59.689Z</updated>
+    <updated>2024-02-27T12:09:25.501Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[새로워진 Certificate Manager 살펴보기]]></title>
+        <id>https://festa.io/events/4817</id>
+        <link href="https://festa.io/events/4817"/>
+        <updated>2024-02-27T12:09:24.867Z</updated>
+        <content type="html"><![CDATA[3월 28일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Migration Service로 데이터베이스 마이그레이션 하기]]></title>
+        <id>https://festa.io/events/4816</id>
+        <link href="https://festa.io/events/4816"/>
+        <updated>2024-02-27T12:09:24.868Z</updated>
+        <content type="html"><![CDATA[3월 21일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Cloud Security Watcher로 클라우드 보안 형상관리 하는 법]]></title>
         <id>https://festa.io/events/4815</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4793"/>
         <updated>2024-02-23T04:07:09.371Z</updated>
         <content type="html"><![CDATA[4월 3일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정]]></title>
-        <id>https://festa.io/events/4792</id>
-        <link href="https://festa.io/events/4792"/>
-        <updated>2024-02-23T01:37:35.710Z</updated>
-        <content type="html"><![CDATA[3월 1일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[채용연계 무료 k디지털교육 / 클라우드 엔지니어 / AWS / 도커 / 쿠버네티스 / 리눅스 / 네트워크 / 멀티클라우드 / 하이브리드클라우드 교육생 모집]]></title>
-        <id>https://festa.io/events/4791</id>
-        <link href="https://festa.io/events/4791"/>
-        <updated>2024-02-22T12:09:50.221Z</updated>
-        <content type="html"><![CDATA[2월 22일 (목) · 오프라인]]></content>
     </entry>
 </feed>
