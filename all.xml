@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-27T09:03:04.328Z</updated>
+    <updated>2024-02-27T10:02:07.984Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Cloud Security Watcher로 클라우드 보안 형상관리 하는 법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4815</id>
+        <link href="https://festa.io/events/4815"/>
+        <updated>2024-02-27T10:02:07.300Z</updated>
+        <content type="html"><![CDATA[3월 14일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한눈에 살펴보는 Cloud DB for PostgreSQL (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4812</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/4791</id>
         <link href="https://festa.io/events/4791"/>
         <updated>2024-02-22T12:09:50.221Z</updated>
-        <content type="html"><![CDATA[2월 22일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무료채용연계형 k디지털교육 / 개발자 / 파이썬 / 자바 / 빅데이터 / 백엔드 / 프론트엔드 / 인공지능ai  교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4790</id>
-        <link href="https://festa.io/events/4790"/>
-        <updated>2024-02-22T11:01:39.821Z</updated>
         <content type="html"><![CDATA[2월 22일 (목) · 오프라인]]></content>
     </entry>
 </feed>
