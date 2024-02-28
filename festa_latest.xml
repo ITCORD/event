@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-28T00:25:51.428Z</updated>
+    <updated>2024-02-28T01:39:57.517Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AI x Robotics : "ROBOTALK"]]></title>
+        <id>https://festa.io/events/4797</id>
+        <link href="https://festa.io/events/4797"/>
+        <updated>2024-02-28T01:39:56.737Z</updated>
+        <content type="html"><![CDATA[3월 16일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로워진 Certificate Manager 살펴보기]]></title>
         <id>https://festa.io/events/4817</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4799"/>
         <updated>2024-02-27T02:12:16.682Z</updated>
         <content type="html"><![CDATA[3월 22일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DHP 디지털 헬스케어 아카데미 2024]]></title>
-        <id>https://festa.io/events/4793</id>
-        <link href="https://festa.io/events/4793"/>
-        <updated>2024-02-23T04:07:09.371Z</updated>
-        <content type="html"><![CDATA[4월 3일 (수) · 오프라인]]></content>
     </entry>
 </feed>
