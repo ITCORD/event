@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-02-28T05:02:34.830Z</updated>
+    <updated>2024-02-28T06:08:32.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[안랩] 안랩샘아카데미 18기 교육생 모집! SW, AI 교육전문가 / IT 직무전문가 과정 (2.19~3.8) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4819</id>
+        <link href="https://festa.io/events/4819"/>
+        <updated>2024-02-28T06:08:31.404Z</updated>
+        <content type="html"><![CDATA[3월 12일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리눅스,쿠버네티스(k8s) 설치없이 웹사이트에서 무료로 실습하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4818</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4809"/>
         <updated>2024-02-27T04:08:15.544Z</updated>
         <content type="html"><![CDATA[3월 9일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은 종로, 클라우드(AWS) 환경에서 개발하는 풀스택(프론트엔드&백엔드) 자바(JAVA)웹&앱 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4803</id>
-        <link href="https://festa.io/events/4803"/>
-        <updated>2024-02-27T02:12:16.682Z</updated>
-        <content type="html"><![CDATA[2월 27일 (화) · 오프라인]]></content>
     </entry>
 </feed>
