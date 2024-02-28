@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-02-28T04:08:15.135Z</updated>
+    <updated>2024-02-28T05:02:34.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[리눅스,쿠버네티스(k8s) 설치없이 웹사이트에서 무료로 실습하기]]></title>
+        <id>https://festa.io/events/4818</id>
+        <link href="https://festa.io/events/4818"/>
+        <updated>2024-02-28T05:02:34.184Z</updated>
+        <content type="html"><![CDATA[3월 6일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI x Robotics : "ROBOTALK"]]></title>
         <id>https://festa.io/events/4797</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4803"/>
         <updated>2024-02-27T02:12:16.682Z</updated>
         <content type="html"><![CDATA[2월 27일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI • 데이터 교육 운영 전문가 러닝코치 2기 모집]]></title>
-        <id>https://festa.io/events/4799</id>
-        <link href="https://festa.io/events/4799"/>
-        <updated>2024-02-27T02:12:16.682Z</updated>
-        <content type="html"><![CDATA[3월 22일 (금) · 오프라인]]></content>
     </entry>
 </feed>
