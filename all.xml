@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-01T03:09:06.607Z</updated>
+    <updated>2024-03-01T04:08:34.366Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[블로캠 - 브랜드 빌더 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4827</id>
+        <link href="https://festa.io/events/4827"/>
+        <updated>2024-03-01T04:08:33.639Z</updated>
+        <content type="html"><![CDATA[3월 13일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[취업연계 수강생모집] VR·AR 게임콘텐츠 개발자 양성과정 ★3월개강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4826</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4816"/>
         <updated>2024-02-27T12:09:24.868Z</updated>
         <content type="html"><![CDATA[3월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Security Watcher로 클라우드 보안 형상관리 하는 법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4815</id>
-        <link href="https://festa.io/events/4815"/>
-        <updated>2024-02-27T10:02:07.300Z</updated>
-        <content type="html"><![CDATA[3월 14일 (목) · 온라인]]></content>
     </entry>
 </feed>
