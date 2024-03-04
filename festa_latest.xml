@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-04T01:46:45.912Z</updated>
+    <updated>2024-03-04T02:55:32.865Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Udemy Korea] 주니어 개발자를 위한 커리어 성장 멘토링]]></title>
+        <id>https://festa.io/events/4831</id>
+        <link href="https://festa.io/events/4831"/>
+        <updated>2024-03-04T02:55:32.197Z</updated>
+        <content type="html"><![CDATA[3월 25일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정]]></title>
+        <id>https://festa.io/events/4832</id>
+        <link href="https://festa.io/events/4832"/>
+        <updated>2024-03-04T02:55:32.198Z</updated>
+        <content type="html"><![CDATA[3월 11일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[regrg]]></title>
         <id>https://festa.io/events/4821</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4818"/>
         <updated>2024-02-28T05:02:34.184Z</updated>
         <content type="html"><![CDATA[3월 6일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI x Robotics : "ROBOTALK"]]></title>
-        <id>https://festa.io/events/4797</id>
-        <link href="https://festa.io/events/4797"/>
-        <updated>2024-02-28T01:39:56.737Z</updated>
-        <content type="html"><![CDATA[3월 16일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[새로워진 Certificate Manager 살펴보기]]></title>
-        <id>https://festa.io/events/4817</id>
-        <link href="https://festa.io/events/4817"/>
-        <updated>2024-02-27T12:09:24.867Z</updated>
-        <content type="html"><![CDATA[3월 28일 (목) · 온라인]]></content>
     </entry>
 </feed>
