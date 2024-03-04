@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-04T07:52:35.769Z</updated>
+    <updated>2024-03-04T09:24:39.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한빛앤 MSA #2-2 주니어가 알아야 할 ‘네트워크’ 이야기]]></title>
+        <id>https://festa.io/events/4830</id>
+        <link href="https://festa.io/events/4830"/>
+        <updated>2024-03-04T09:24:38.328Z</updated>
+        <content type="html"><![CDATA[3월 21일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[글로벌 AI 부트캠프 2024 대구]]></title>
         <id>https://festa.io/events/4829</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4825"/>
         <updated>2024-02-29T05:02:20.216Z</updated>
         <content type="html"><![CDATA[3월 11일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[안랩] 안랩샘아카데미 18기 교육생 모집! SW, AI 교육전문가 / IT 직무전문가 과정 (2.19~3.8)]]></title>
-        <id>https://festa.io/events/4819</id>
-        <link href="https://festa.io/events/4819"/>
-        <updated>2024-02-28T06:08:31.404Z</updated>
-        <content type="html"><![CDATA[3월 12일 (화) · 온라인]]></content>
     </entry>
 </feed>
