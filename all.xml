@@ -2,21 +2,49 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-05T04:07:44.476Z</updated>
+    <updated>2024-03-05T05:01:57.011Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스:서버엔지니어를 위한 트러블 슈팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4632</id>
+        <link href="https://festa.io/events/4632"/>
+        <updated>2024-03-05T05:01:56.387Z</updated>
+        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스:도커/K8s/클라우드(AWS) 네트워크 완전 정복 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4631</id>
+        <link href="https://festa.io/events/4631"/>
+        <updated>2024-03-05T05:01:56.389Z</updated>
+        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스:도커/쿠버네티스 단단한 기초 쌓기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4617</id>
+        <link href="https://festa.io/events/4617"/>
+        <updated>2024-03-05T05:01:56.391Z</updated>
+        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[리얼리눅스:리눅스 시스템 핵심 정리 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4614</id>
+        <link href="https://festa.io/events/4614"/>
+        <updated>2024-03-05T05:01:56.392Z</updated>
+        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[리얼리눅스: 리눅스 기초 쉘 스크립트 마스터 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4610</id>
         <link href="https://festa.io/events/4610"/>
         <updated>2024-03-05T04:07:43.862Z</updated>
-        <content type="html"><![CDATA[3월 21일 (목) · 온라인]]></content>
+        <content type="html"><![CDATA[3월 23일 (토) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[리얼리눅스: 리눅스 Zero 베이스 초보자 트러블 슈팅까지 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4597</id>
         <link href="https://festa.io/events/4597"/>
         <updated>2024-03-05T04:07:43.863Z</updated>
-        <content type="html"><![CDATA[3월 21일 (목) · 온라인]]></content>
+        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[데브콘 대전 : 삼월엔 데이터 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -31,33 +59,5 @@
         <link href="https://festa.io/events/4830"/>
         <updated>2024-03-04T09:24:38.328Z</updated>
         <content type="html"><![CDATA[3월 21일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[글로벌 AI 부트캠프 2024 대구 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4829</id>
-        <link href="https://festa.io/events/4829"/>
-        <updated>2024-03-04T03:37:26.004Z</updated>
-        <content type="html"><![CDATA[3월 23일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Udemy Korea] 주니어 개발자를 위한 커리어 성장 멘토링 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4831</id>
-        <link href="https://festa.io/events/4831"/>
-        <updated>2024-03-04T02:55:32.197Z</updated>
-        <content type="html"><![CDATA[3월 25일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4832</id>
-        <link href="https://festa.io/events/4832"/>
-        <updated>2024-03-04T02:55:32.198Z</updated>
-        <content type="html"><![CDATA[3월 11일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[regrg (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4821</id>
-        <link href="https://festa.io/events/4821"/>
-        <updated>2024-03-04T01:46:45.310Z</updated>
-        <content type="html"><![CDATA[3월 6일 (수) · 오프라인]]></content>
     </entry>
 </feed>
