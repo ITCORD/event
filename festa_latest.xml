@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-05T07:01:58.297Z</updated>
+    <updated>2024-03-05T08:09:07.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[✅ JAVA풀스택개발자 국비지원 - 하이미디어아카데미 종로점]]></title>
+        <id>https://festa.io/events/4844</id>
+        <link href="https://festa.io/events/4844"/>
+        <updated>2024-03-05T08:09:06.969Z</updated>
+        <content type="html"><![CDATA[4월 8일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅ 웹퍼블리셔&프론트엔드 국비지원 - 하이미디어아카데미 종로점]]></title>
+        <id>https://festa.io/events/4843</id>
+        <link href="https://festa.io/events/4843"/>
+        <updated>2024-03-05T08:09:06.970Z</updated>
+        <content type="html"><![CDATA[3월 26일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅ RPA응용SW개발자 국비지원 - 하이미디어아카데미 천호점]]></title>
+        <id>https://festa.io/events/4842</id>
+        <link href="https://festa.io/events/4842"/>
+        <updated>2024-03-05T08:09:06.972Z</updated>
+        <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅ 웹디자인웹퍼블리셔 국비지원 - 하이미디어아카데미 안양점]]></title>
+        <id>https://festa.io/events/4841</id>
+        <link href="https://festa.io/events/4841"/>
+        <updated>2024-03-05T08:09:06.974Z</updated>
+        <content type="html"><![CDATA[4월 8일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅ 정보처리산업기사 국비지원 - 하이미디어아카데미 구로점]]></title>
+        <id>https://festa.io/events/4840</id>
+        <link href="https://festa.io/events/4840"/>
+        <updated>2024-03-05T08:09:06.975Z</updated>
+        <content type="html"><![CDATA[4월 2일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AGI for Work! 디지털 자산화부터 LLM을 통한 비즈니스 가치 창출까지 AI 실제 구축 사례]]></title>
+        <id>https://festa.io/events/4838</id>
+        <link href="https://festa.io/events/4838"/>
+        <updated>2024-03-05T08:09:06.977Z</updated>
+        <content type="html"><![CDATA[3월 14일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✅  CI/CD를 활용한 풀스택개발자 국비지원 - 하이미디어아카데미 강남점]]></title>
         <id>https://festa.io/events/4839</id>
@@ -18,47 +60,5 @@
         <link href="https://festa.io/events/4632"/>
         <updated>2024-03-05T05:01:56.387Z</updated>
         <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스:도커/K8s/클라우드(AWS) 네트워크 완전 정복]]></title>
-        <id>https://festa.io/events/4631</id>
-        <link href="https://festa.io/events/4631"/>
-        <updated>2024-03-05T05:01:56.389Z</updated>
-        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스:도커/쿠버네티스 단단한 기초 쌓기]]></title>
-        <id>https://festa.io/events/4617</id>
-        <link href="https://festa.io/events/4617"/>
-        <updated>2024-03-05T05:01:56.391Z</updated>
-        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스:리눅스 시스템 핵심 정리]]></title>
-        <id>https://festa.io/events/4614</id>
-        <link href="https://festa.io/events/4614"/>
-        <updated>2024-03-05T05:01:56.392Z</updated>
-        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스: 리눅스 기초 쉘 스크립트 마스터]]></title>
-        <id>https://festa.io/events/4610</id>
-        <link href="https://festa.io/events/4610"/>
-        <updated>2024-03-05T04:07:43.862Z</updated>
-        <content type="html"><![CDATA[3월 23일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스: 리눅스 Zero 베이스 초보자 트러블 슈팅까지]]></title>
-        <id>https://festa.io/events/4597</id>
-        <link href="https://festa.io/events/4597"/>
-        <updated>2024-03-05T04:07:43.863Z</updated>
-        <content type="html"><![CDATA[3월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데브콘 대전 : 삼월엔 데이터]]></title>
-        <id>https://festa.io/events/4836</id>
-        <link href="https://festa.io/events/4836"/>
-        <updated>2024-03-05T00:27:04.339Z</updated>
-        <content type="html"><![CDATA[3월 23일 (토) · 오프라인]]></content>
     </entry>
 </feed>
