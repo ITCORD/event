@@ -2,62 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-06T10:02:12.763Z</updated>
+    <updated>2024-03-06T11:02:22.333Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[프로그래밍, 객체 그리고 OOP(객체지향) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4852</id>
-        <link href="https://festa.io/events/4852"/>
-        <updated>2024-03-06T08:08:54.426Z</updated>
-        <content type="html"><![CDATA[3월 8일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은 종로, 클라우드(AWS) 환경에서 개발하는 풀스택(프론트엔드&백엔드) 자바(JAVA)웹&앱 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4803</id>
-        <link href="https://festa.io/events/4803"/>
-        <updated>2024-03-06T01:38:23.601Z</updated>
-        <content type="html"><![CDATA[2월 27일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4850</id>
-        <link href="https://festa.io/events/4850"/>
-        <updated>2024-03-06T01:38:23.603Z</updated>
-        <content type="html"><![CDATA[3월 13일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4849</id>
-        <link href="https://festa.io/events/4849"/>
-        <updated>2024-03-06T01:38:23.605Z</updated>
-        <content type="html"><![CDATA[3월 13일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Revit을 활용한 소형주택 설계 교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4833</id>
-        <link href="https://festa.io/events/4833"/>
-        <updated>2024-03-06T01:38:23.607Z</updated>
-        <content type="html"><![CDATA[3월 28일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데브콘 서울 : 삼월엔 일을 '제대로' 하자 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4847</id>
-        <link href="https://festa.io/events/4847"/>
-        <updated>2024-03-06T00:27:14.815Z</updated>
-        <content type="html"><![CDATA[3월 28일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ JAVA개발자 국비지원 - 하이미디어아카데미 종로점 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4845</id>
-        <link href="https://festa.io/events/4845"/>
-        <updated>2024-03-05T09:02:43.615Z</updated>
-        <content type="html"><![CDATA[5월 10일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ JAVA풀스택개발자 국비지원 - 하이미디어아카데미 종로점 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4844</id>
-        <link href="https://festa.io/events/4844"/>
-        <updated>2024-03-05T08:09:06.969Z</updated>
+        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크]  웹 융합 SW기반 빅데이터 솔루션 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4864</id>
+        <link href="https://festa.io/events/4864"/>
+        <updated>2024-03-06T11:02:21.691Z</updated>
         <content type="html"><![CDATA[4월 8일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크] 퍼블릭 클라우드 기반 DevSecOps 융합 인재 양성 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4863</id>
+        <link href="https://festa.io/events/4863"/>
+        <updated>2024-03-06T11:02:21.693Z</updated>
+        <content type="html"><![CDATA[8월 13일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크] 핀테크 서비스를 위한 풀스택 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4862</id>
+        <link href="https://festa.io/events/4862"/>
+        <updated>2024-03-06T11:02:21.694Z</updated>
+        <content type="html"><![CDATA[8월 5일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크] 공공데이터 기반 AI 챗봇 및 추천 모델 구현 분석 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4861</id>
+        <link href="https://festa.io/events/4861"/>
+        <updated>2024-03-06T11:02:21.696Z</updated>
+        <content type="html"><![CDATA[5월 13일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크] 인공지능 기반 빅데이터 서비스 플랫폼 구축 전문가 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4860</id>
+        <link href="https://festa.io/events/4860"/>
+        <updated>2024-03-06T11:02:21.697Z</updated>
+        <content type="html"><![CDATA[4월 11일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⭐[전액국비지원] 퍼블릭 클라우드 서비스를 활용한 파이썬 기반 AI-ML 인재 양성 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4859</id>
+        <link href="https://festa.io/events/4859"/>
+        <updated>2024-03-06T11:02:21.699Z</updated>
+        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[⭐[전액국비지원] 퍼블릭 클라우드 기반 인프라 보안 운영(SecOps) 엔지니어 양성 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4858</id>
+        <link href="https://festa.io/events/4858"/>
+        <updated>2024-03-06T11:02:21.700Z</updated>
+        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[하이브리드 및 멀티클라우드 아키텍트 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4857</id>
+        <link href="https://festa.io/events/4857"/>
+        <updated>2024-03-06T11:02:21.701Z</updated>
+        <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
     </entry>
 </feed>
