@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-07T08:03:37.327Z</updated>
+    <updated>2024-03-07T09:01:58.646Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세무컨설팅최고전문가9기(금융보험 법인컨설팅 부문)]]></title>
+        <id>https://festa.io/events/4853</id>
+        <link href="https://festa.io/events/4853"/>
+        <updated>2024-03-07T09:01:58.039Z</updated>
+        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유데미x웅진씽크빅x스나이퍼팩토리] 프로젝트 캠프 : IT 서비스 기획 2기]]></title>
         <id>https://festa.io/events/4873</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4864"/>
         <updated>2024-03-06T11:02:21.691Z</updated>
         <content type="html"><![CDATA[4월 8일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크] 퍼블릭 클라우드 기반 DevSecOps 융합 인재 양성 과정]]></title>
-        <id>https://festa.io/events/4863</id>
-        <link href="https://festa.io/events/4863"/>
-        <updated>2024-03-06T11:02:21.693Z</updated>
-        <content type="html"><![CDATA[8월 13일 (화) · 오프라인]]></content>
     </entry>
 </feed>
