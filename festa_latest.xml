@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-07T04:05:50.037Z</updated>
+    <updated>2024-03-07T05:01:38.405Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Tuist Night (Xcode 생산성 높이기 with Tuist Team)]]></title>
+        <id>https://festa.io/events/4835</id>
+        <link href="https://festa.io/events/4835"/>
+        <updated>2024-03-07T05:01:37.826Z</updated>
+        <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강남] 모두팝 | 기업의 AI 윤리 실천 전략]]></title>
         <id>https://festa.io/events/4866</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4860"/>
         <updated>2024-03-06T11:02:21.697Z</updated>
         <content type="html"><![CDATA[4월 11일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐[전액국비지원] 퍼블릭 클라우드 서비스를 활용한 파이썬 기반 AI-ML 인재 양성 과정]]></title>
-        <id>https://festa.io/events/4859</id>
-        <link href="https://festa.io/events/4859"/>
-        <updated>2024-03-06T11:02:21.699Z</updated>
-        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
     </entry>
 </feed>
