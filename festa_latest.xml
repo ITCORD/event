@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-07T05:01:38.405Z</updated>
+    <updated>2024-03-07T06:08:45.678Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미술 재테크, 아트테크 특별 강의]]></title>
+        <id>https://festa.io/events/4870</id>
+        <link href="https://festa.io/events/4870"/>
+        <updated>2024-03-07T06:08:45.051Z</updated>
+        <content type="html"><![CDATA[3월 16일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Tuist Night (Xcode 생산성 높이기 with Tuist Team)]]></title>
         <id>https://festa.io/events/4835</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4861"/>
         <updated>2024-03-06T11:02:21.696Z</updated>
         <content type="html"><![CDATA[5월 13일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크] 인공지능 기반 빅데이터 서비스 플랫폼 구축 전문가 양성과정]]></title>
-        <id>https://festa.io/events/4860</id>
-        <link href="https://festa.io/events/4860"/>
-        <updated>2024-03-06T11:02:21.697Z</updated>
-        <content type="html"><![CDATA[4월 11일 (목) · 오프라인]]></content>
     </entry>
 </feed>
