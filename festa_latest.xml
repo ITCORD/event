@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-10T04:03:21.885Z</updated>
+    <updated>2024-03-10T05:02:09.546Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[oTL (Tech Meet-Up) #1 Side-Project]]></title>
+        <id>https://festa.io/events/4883</id>
+        <link href="https://festa.io/events/4883"/>
+        <updated>2024-03-10T05:02:08.824Z</updated>
+        <content type="html"><![CDATA[3월 28일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세무컨설팅최고전문가9기(금융보험 법인컨설팅 부문)]]></title>
         <id>https://festa.io/events/4853</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4869"/>
         <updated>2024-03-07T04:05:49.441Z</updated>
         <content type="html"><![CDATA[2월 29일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크]  웹 융합 SW기반 빅데이터 솔루션 개발자 양성과정]]></title>
-        <id>https://festa.io/events/4864</id>
-        <link href="https://festa.io/events/4864"/>
-        <updated>2024-03-06T11:02:21.691Z</updated>
-        <content type="html"><![CDATA[4월 8일 (월) · 오프라인]]></content>
     </entry>
 </feed>
