@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-12T13:02:05.700Z</updated>
+    <updated>2024-03-12T14:02:07.240Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[AI × 독서모임]인공지능 책 함께 읽어요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4892</id>
+        <link href="https://festa.io/events/4892"/>
+        <updated>2024-03-12T14:02:06.649Z</updated>
+        <content type="html"><![CDATA[4월 11일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 스터디 무료 설명회 라이브 with Askup(업스테이지) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4891</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4883"/>
         <updated>2024-03-10T05:02:08.824Z</updated>
         <content type="html"><![CDATA[3월 28일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세무컨설팅최고전문가9기(금융보험 법인컨설팅 부문) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4853</id>
-        <link href="https://festa.io/events/4853"/>
-        <updated>2024-03-07T09:01:58.039Z</updated>
-        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
     </entry>
 </feed>
