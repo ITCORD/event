@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-13T04:07:24.455Z</updated>
+    <updated>2024-03-13T05:01:47.822Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[super.init(version=5)]]></title>
+        <id>https://festa.io/events/4846</id>
+        <link href="https://festa.io/events/4846"/>
+        <updated>2024-03-13T05:01:47.219Z</updated>
+        <content type="html"><![CDATA[3월 24일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한빛앤] Microsoft X 위민후코드 서울과 함께하는 깃헙 포트폴리오 워크샵]]></title>
         <id>https://festa.io/events/4897</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4888"/>
         <updated>2024-03-11T08:09:00.757Z</updated>
         <content type="html"><![CDATA[3월 23일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build with AI 2024 Seoul]]></title>
-        <id>https://festa.io/events/4777</id>
-        <link href="https://festa.io/events/4777"/>
-        <updated>2024-03-11T07:02:05.972Z</updated>
-        <content type="html"><![CDATA[3월 31일 (일) · 오프라인]]></content>
     </entry>
 </feed>
