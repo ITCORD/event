@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-13T00:26:45.327Z</updated>
+    <updated>2024-03-13T01:41:26.096Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4896</id>
+        <link href="https://festa.io/events/4896"/>
+        <updated>2024-03-13T01:41:25.425Z</updated>
+        <content type="html"><![CDATA[3월 20일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4895</id>
+        <link href="https://festa.io/events/4895"/>
+        <updated>2024-03-13T01:41:25.427Z</updated>
+        <content type="html"><![CDATA[3월 20일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AI × 독서모임]인공지능 책 함께 읽어요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4892</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/4887"/>
         <updated>2024-03-11T06:08:08.995Z</updated>
         <content type="html"><![CDATA[3월 17일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 3월의 패스워드 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4886</id>
-        <link href="https://festa.io/events/4886"/>
-        <updated>2024-03-11T03:07:27.280Z</updated>
-        <content type="html"><![CDATA[3월 15일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[oTL (Tech Meet-Up) #1 Side-Project (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4883</id>
-        <link href="https://festa.io/events/4883"/>
-        <updated>2024-03-10T05:02:08.824Z</updated>
-        <content type="html"><![CDATA[3월 28일 (목) · 오프라인]]></content>
     </entry>
 </feed>
