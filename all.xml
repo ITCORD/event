@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-15T08:08:28.684Z</updated>
+    <updated>2024-03-15T09:02:13.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4922</id>
+        <link href="https://festa.io/events/4922"/>
+        <updated>2024-03-15T09:02:12.786Z</updated>
+        <content type="html"><![CDATA[3월 22일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4921</id>
+        <link href="https://festa.io/events/4921"/>
+        <updated>2024-03-15T09:02:12.787Z</updated>
+        <content type="html"><![CDATA[3월 22일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한국데이터산업진흥원] 2024 데이터바우처 지원사업 수요기업 모집 지역 설명회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4920</id>
+        <link href="https://festa.io/events/4920"/>
+        <updated>2024-03-15T09:02:12.788Z</updated>
+        <content type="html"><![CDATA[3월 12일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[소프트웨어 아키텍팅 101 & 거대한 데이터 추정하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4914</id>
@@ -38,26 +59,5 @@
         <link href="https://festa.io/events/4909"/>
         <updated>2024-03-14T00:26:36.559Z</updated>
         <content type="html"><![CDATA[3월 23일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마이크로소프트] Microsoft Azure Open AI 활용 전략 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4904</id>
-        <link href="https://festa.io/events/4904"/>
-        <updated>2024-03-13T06:08:44.746Z</updated>
-        <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[super.init(version=5) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4846</id>
-        <link href="https://festa.io/events/4846"/>
-        <updated>2024-03-13T05:01:47.219Z</updated>
-        <content type="html"><![CDATA[3월 24일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한빛앤] Microsoft X 위민후코드 서울과 함께하는 깃헙 포트폴리오 워크샵 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4897</id>
-        <link href="https://festa.io/events/4897"/>
-        <updated>2024-03-13T03:08:18.621Z</updated>
-        <content type="html"><![CDATA[3월 22일 (금) · 오프라인]]></content>
     </entry>
 </feed>
