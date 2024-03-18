@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-18T07:02:56.910Z</updated>
+    <updated>2024-03-18T08:09:03.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[UNITHON 11TH / 제11회 IT 커뮤니티 연합 해커톤 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4932</id>
+        <link href="https://festa.io/events/4932"/>
+        <updated>2024-03-18T08:09:02.559Z</updated>
+        <content type="html"><![CDATA[4월 5일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강남] 모두팝 | 도둑을 집주인으로 인식한다고? : Adversarial Examples의 소개와 구현 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4928</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4794"/>
         <updated>2024-03-15T11:01:49.896Z</updated>
         <content type="html"><![CDATA[3월 30일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4922</id>
-        <link href="https://festa.io/events/4922"/>
-        <updated>2024-03-15T09:02:12.786Z</updated>
-        <content type="html"><![CDATA[3월 22일 (금) · 오프라인]]></content>
     </entry>
 </feed>
