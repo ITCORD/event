@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-18T00:28:08.688Z</updated>
+    <updated>2024-03-18T01:39:13.904Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4927</id>
+        <link href="https://festa.io/events/4927"/>
+        <updated>2024-03-18T01:39:13.302Z</updated>
+        <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 빅데이터 분석&추천시스템 개발자 양성과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4926</id>
+        <link href="https://festa.io/events/4926"/>
+        <updated>2024-03-18T01:39:13.304Z</updated>
+        <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마커 - 마케터스 커넥트 1기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4923</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/4914"/>
         <updated>2024-03-14T09:02:40.434Z</updated>
         <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[PickIT×ZOOM] 성공한 교육 운영자의 치트키, 무료 대공개 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4913</id>
-        <link href="https://festa.io/events/4913"/>
-        <updated>2024-03-14T08:09:10.627Z</updated>
-        <content type="html"><![CDATA[4월 9일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 Vision Pro XR IDEA Challenge (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4911</id>
-        <link href="https://festa.io/events/4911"/>
-        <updated>2024-03-14T08:09:10.628Z</updated>
-        <content type="html"><![CDATA[3월 10일 (일) · 온라인]]></content>
     </entry>
 </feed>
