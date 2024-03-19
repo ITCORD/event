@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-19T05:02:32.639Z</updated>
+    <updated>2024-03-19T06:08:29.681Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[생성형 AI 오프라인 밋업, '제2회 Beer 🍻 Night']]></title>
+        <id>https://festa.io/events/4936</id>
+        <link href="https://festa.io/events/4936"/>
+        <updated>2024-03-19T06:08:29.076Z</updated>
+        <content type="html"><![CDATA[4월 5일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[UNITHON 11TH / 제11회 IT 커뮤니티 연합 해커톤]]></title>
         <id>https://festa.io/events/4932</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4923"/>
         <updated>2024-03-16T04:04:02.178Z</updated>
         <content type="html"><![CDATA[4월 6일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let's visionOS Watch Party | AsyncSwift]]></title>
-        <id>https://festa.io/events/4794</id>
-        <link href="https://festa.io/events/4794"/>
-        <updated>2024-03-15T11:01:49.896Z</updated>
-        <content type="html"><![CDATA[3월 30일 (토) · 오프라인]]></content>
     </entry>
 </feed>
