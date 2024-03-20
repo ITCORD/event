@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-20T07:02:34.833Z</updated>
+    <updated>2024-03-20T08:07:54.109Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[한국메타버스전문가협회] 제 1회 애플 비전프로 시연 및 네트워킹 와인 파티]]></title>
+        <id>https://festa.io/events/4945</id>
+        <link href="https://festa.io/events/4945"/>
+        <updated>2024-03-20T08:07:53.537Z</updated>
+        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[코드스테이츠x길벗출판사] Book&Talk 클럽]]></title>
         <id>https://festa.io/events/4944</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/4936</id>
         <link href="https://festa.io/events/4936"/>
         <updated>2024-03-19T06:08:29.076Z</updated>
-        <content type="html"><![CDATA[4월 5일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[UNITHON 11TH / 제11회 IT 커뮤니티 연합 해커톤]]></title>
-        <id>https://festa.io/events/4932</id>
-        <link href="https://festa.io/events/4932"/>
-        <updated>2024-03-18T08:09:02.559Z</updated>
         <content type="html"><![CDATA[4월 5일 (금) · 오프라인]]></content>
     </entry>
 </feed>
