@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-20T03:03:59.949Z</updated>
+    <updated>2024-03-20T04:08:01.905Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Kernel360 백엔드 개발 Final Project 최종 발표회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4942</id>
+        <link href="https://festa.io/events/4942"/>
+        <updated>2024-03-20T04:08:01.239Z</updated>
+        <content type="html"><![CDATA[3월 29일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kakao Tech Meet #5 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4919</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4930"/>
         <updated>2024-03-18T06:08:48.332Z</updated>
         <content type="html"><![CDATA[4월 9일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4929</id>
-        <link href="https://festa.io/events/4929"/>
-        <updated>2024-03-18T03:01:50.473Z</updated>
-        <content type="html"><![CDATA[3월 18일 (월) · 오프라인]]></content>
     </entry>
 </feed>
