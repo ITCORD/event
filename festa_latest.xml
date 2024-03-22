@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-22T03:02:52.737Z</updated>
+    <updated>2024-03-22T04:07:29.147Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[한국산업기술협회 대면교육] 스마트공장 구축 및 추진 / 제조실행시스템(MES) 구축 실무 무료교육]]></title>
+        <id>https://festa.io/events/4949</id>
+        <link href="https://festa.io/events/4949"/>
+        <updated>2024-03-22T04:07:28.504Z</updated>
+        <content type="html"><![CDATA[3월 27일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한국메타버스전문가협회] 제 1회 애플 비전프로 시연 및 네트워킹 와인 파티]]></title>
         <id>https://festa.io/events/4945</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4924"/>
         <updated>2024-03-19T16:04:26.516Z</updated>
         <content type="html"><![CDATA[7월 5일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생성형 AI 오프라인 밋업, '제2회 Beer 🍻 Night']]></title>
-        <id>https://festa.io/events/4936</id>
-        <link href="https://festa.io/events/4936"/>
-        <updated>2024-03-19T06:08:29.076Z</updated>
-        <content type="html"><![CDATA[4월 5일 (금) · 오프라인]]></content>
     </entry>
 </feed>
