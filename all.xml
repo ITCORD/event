@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-22T09:01:59.057Z</updated>
+    <updated>2024-03-22T10:02:49.140Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Build with AI Busan (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4961</id>
+        <link href="https://festa.io/events/4961"/>
+        <updated>2024-03-22T10:02:48.513Z</updated>
+        <content type="html"><![CDATA[4월 13일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무료웨비나]금융 IT 안전성 강화를 위한 LG CNS의 테스트 자동화 전략을 알아보고 경품도 받아가세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4960</id>
+        <link href="https://festa.io/events/4960"/>
+        <updated>2024-03-22T10:02:48.513Z</updated>
+        <content type="html"><![CDATA[4월 16일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 데이터바우처 지원사업 수요기업 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4958</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/4949"/>
         <updated>2024-03-22T04:07:28.504Z</updated>
         <content type="html"><![CDATA[3월 27일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국메타버스전문가협회] 제 1회 애플 비전프로 시연 및 네트워킹 와인 파티 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4945</id>
-        <link href="https://festa.io/events/4945"/>
-        <updated>2024-03-20T08:07:53.537Z</updated>
-        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울IT아카데미 홍대, 엘라스틱서치를 활용한 빅데이터-자바(JAVA) 융합개발 인재양성 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4943</id>
-        <link href="https://festa.io/events/4943"/>
-        <updated>2024-03-22T09:01:58.469Z</updated>
-        <content type="html"><![CDATA[3월 20일 (수) · 오프라인]]></content>
     </entry>
 </feed>
