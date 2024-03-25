@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-25T08:10:26.136Z</updated>
+    <updated>2024-03-25T09:02:42.575Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] UI/UX 인턴형 프로그램 과정 3기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4972</id>
+        <link href="https://festa.io/events/4972"/>
+        <updated>2024-03-25T09:02:41.956Z</updated>
+        <content type="html"><![CDATA[4월 22일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울IT아카데미 홍대, 엘라스틱서치를 활용한 빅데이터-자바(JAVA) 융합개발 인재양성 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4971</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/4961"/>
         <updated>2024-03-22T10:02:48.513Z</updated>
         <content type="html"><![CDATA[4월 13일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료웨비나]금융 IT 안전성 강화를 위한 LG CNS의 테스트 자동화 전략을 알아보고 경품도 받아가세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4960</id>
-        <link href="https://festa.io/events/4960"/>
-        <updated>2024-03-22T10:02:48.513Z</updated>
-        <content type="html"><![CDATA[4월 16일 (화) · 온라인]]></content>
     </entry>
 </feed>
