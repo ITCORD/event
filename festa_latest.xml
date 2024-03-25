@@ -2,9 +2,44 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-25T11:03:40.733Z</updated>
+    <updated>2024-03-25T12:10:11.625Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[미트코딩 제1차 IT 세미나]]></title>
+        <id>https://festa.io/events/4974</id>
+        <link href="https://festa.io/events/4974"/>
+        <updated>2024-03-25T12:10:10.961Z</updated>
+        <content type="html"><![CDATA[4월 13일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Database Migration Service로 데이터베이스 마이그레이션 하기]]></title>
+        <id>https://festa.io/events/4977</id>
+        <link href="https://festa.io/events/4977"/>
+        <updated>2024-03-25T12:10:10.964Z</updated>
+        <content type="html"><![CDATA[4월 25일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Data Flow를 활용한 데이터 분석]]></title>
+        <id>https://festa.io/events/4976</id>
+        <link href="https://festa.io/events/4976"/>
+        <updated>2024-03-25T12:10:10.964Z</updated>
+        <content type="html"><![CDATA[4월 18일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한눈에 살펴보는 Cloud DB for PostgreSQL]]></title>
+        <id>https://festa.io/events/4975</id>
+        <link href="https://festa.io/events/4975"/>
+        <updated>2024-03-25T12:10:10.965Z</updated>
+        <content type="html"><![CDATA[4월 11일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[해외 여행의 필수품, 파파고 이미지 번역 활용하기]]></title>
+        <id>https://festa.io/events/4973</id>
+        <link href="https://festa.io/events/4973"/>
+        <updated>2024-03-25T12:10:10.966Z</updated>
+        <content type="html"><![CDATA[4월 4일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] UI/UX 인턴형 프로그램 과정 3기]]></title>
         <id>https://festa.io/events/4972</id>
@@ -25,40 +60,5 @@
         <link href="https://festa.io/events/4970"/>
         <updated>2024-03-25T05:02:48.629Z</updated>
         <content type="html"><![CDATA[4월 1일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[디노랩스 정기 네트워킹 : AI 전문가로 함께 성장하기 위한 교류의 장]]></title>
-        <id>https://festa.io/events/4969</id>
-        <link href="https://festa.io/events/4969"/>
-        <updated>2024-03-25T04:08:44.394Z</updated>
-        <content type="html"><![CDATA[4월 6일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Women Techmakers Korea 2024]]></title>
-        <id>https://festa.io/events/4967</id>
-        <link href="https://festa.io/events/4967"/>
-        <updated>2024-03-24T15:02:29.217Z</updated>
-        <content type="html"><![CDATA[4월 20일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[문화사계 봄꽃축제]]></title>
-        <id>https://festa.io/events/4966</id>
-        <link href="https://festa.io/events/4966"/>
-        <updated>2024-03-24T04:08:04.093Z</updated>
-        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국모다] 국비 부트 캠프 무료 상담 서비스]]></title>
-        <id>https://festa.io/events/4964</id>
-        <link href="https://festa.io/events/4964"/>
-        <updated>2024-03-23T03:02:30.795Z</updated>
-        <content type="html"><![CDATA[3월 23일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Build with AI Busan]]></title>
-        <id>https://festa.io/events/4961</id>
-        <link href="https://festa.io/events/4961"/>
-        <updated>2024-03-22T10:02:48.513Z</updated>
-        <content type="html"><![CDATA[4월 13일 (토) · 오프라인]]></content>
     </entry>
 </feed>
