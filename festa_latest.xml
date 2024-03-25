@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-25T03:04:54.192Z</updated>
+    <updated>2024-03-25T04:08:45.039Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디노랩스 정기 네트워킹 : AI 전문가로 함께 성장하기 위한 교류의 장]]></title>
+        <id>https://festa.io/events/4969</id>
+        <link href="https://festa.io/events/4969"/>
+        <updated>2024-03-25T04:08:44.394Z</updated>
+        <content type="html"><![CDATA[4월 6일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Women Techmakers Korea 2024]]></title>
         <id>https://festa.io/events/4967</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4954"/>
         <updated>2024-03-22T07:02:09.085Z</updated>
         <content type="html"><![CDATA[3월 31일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDSC Konkuk kprintf: print("the core")]]></title>
-        <id>https://festa.io/events/4948</id>
-        <link href="https://festa.io/events/4948"/>
-        <updated>2024-03-22T05:02:53.447Z</updated>
-        <content type="html"><![CDATA[4월 6일 (토) · 오프라인]]></content>
     </entry>
 </feed>
