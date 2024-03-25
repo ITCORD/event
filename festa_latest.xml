@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-25T16:04:07.111Z</updated>
+    <updated>2024-03-25T17:02:21.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나만의 브랜드, "퍼스널브랜딩"]]></title>
+        <id>https://festa.io/events/4982</id>
+        <link href="https://festa.io/events/4982"/>
+        <updated>2024-03-25T17:02:20.664Z</updated>
+        <content type="html"><![CDATA[4월 1일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[아트테라피]]></title>
         <id>https://festa.io/events/4981</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4975"/>
         <updated>2024-03-25T12:10:10.965Z</updated>
         <content type="html"><![CDATA[4월 11일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 여행의 필수품, 파파고 이미지 번역 활용하기]]></title>
-        <id>https://festa.io/events/4973</id>
-        <link href="https://festa.io/events/4973"/>
-        <updated>2024-03-25T12:10:10.966Z</updated>
-        <content type="html"><![CDATA[4월 4일 (목) · 온라인]]></content>
     </entry>
 </feed>
