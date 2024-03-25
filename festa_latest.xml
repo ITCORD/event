@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-25T18:08:40.903Z</updated>
+    <updated>2024-03-25T19:01:27.668Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Prime of us] 기질 유형 검사 체험하기]]></title>
+        <id>https://festa.io/events/4983</id>
+        <link href="https://festa.io/events/4983"/>
+        <updated>2024-03-25T19:01:27.005Z</updated>
+        <content type="html"><![CDATA[3월 30일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나만의 브랜드, "퍼스널브랜딩"]]></title>
         <id>https://festa.io/events/4982</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4976"/>
         <updated>2024-03-25T12:10:10.964Z</updated>
         <content type="html"><![CDATA[4월 18일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한눈에 살펴보는 Cloud DB for PostgreSQL]]></title>
-        <id>https://festa.io/events/4975</id>
-        <link href="https://festa.io/events/4975"/>
-        <updated>2024-03-25T12:10:10.965Z</updated>
-        <content type="html"><![CDATA[4월 11일 (목) · 온라인]]></content>
     </entry>
 </feed>
