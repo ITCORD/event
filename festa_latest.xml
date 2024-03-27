@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-27T04:08:59.243Z</updated>
+    <updated>2024-03-27T05:07:26.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[너겟랩 1기 모집] 웹사이트 급속 성장 프로그램 참여 기업 모집]]></title>
+        <id>https://festa.io/events/4992</id>
+        <link href="https://festa.io/events/4992"/>
+        <updated>2024-03-27T05:07:26.329Z</updated>
+        <content type="html"><![CDATA[3월 31일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 4월 티어 승급전]]></title>
         <id>https://festa.io/events/4988</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/4982"/>
         <updated>2024-03-25T17:02:20.664Z</updated>
         <content type="html"><![CDATA[4월 1일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아트테라피]]></title>
-        <id>https://festa.io/events/4981</id>
-        <link href="https://festa.io/events/4981"/>
-        <updated>2024-03-25T16:04:06.398Z</updated>
-        <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
     </entry>
 </feed>
