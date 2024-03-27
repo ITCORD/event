@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-03-27T02:13:32.005Z</updated>
+    <updated>2024-03-27T03:05:28.318Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024년 4월 티어 승급전 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/4988</id>
+        <link href="https://festa.io/events/4988"/>
+        <updated>2024-03-27T03:05:27.696Z</updated>
+        <content type="html"><![CDATA[4월 27일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Ubuntu 24.04 InstallFest + Workshop @Busan (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/4884</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/4981</id>
         <link href="https://festa.io/events/4981"/>
         <updated>2024-03-25T16:04:06.398Z</updated>
-        <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[아트테라피 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4980</id>
-        <link href="https://festa.io/events/4980"/>
-        <updated>2024-03-25T16:04:06.400Z</updated>
         <content type="html"><![CDATA[3월 25일 (월) · 오프라인]]></content>
     </entry>
 </feed>
