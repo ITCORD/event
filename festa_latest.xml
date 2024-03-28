@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-28T03:03:56.413Z</updated>
+    <updated>2024-03-28T04:07:14.692Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
+        <id>https://festa.io/events/4996</id>
+        <link href="https://festa.io/events/4996"/>
+        <updated>2024-03-28T04:07:14.081Z</updated>
+        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울IT아카데미 홍대, 엘라스틱서치를 활용한 빅데이터-자바(JAVA) 융합개발 인재양성]]></title>
+        <id>https://festa.io/events/4995</id>
+        <link href="https://festa.io/events/4995"/>
+        <updated>2024-03-28T04:07:14.082Z</updated>
+        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[너겟랩 1기 모집] 웹사이트 급속 성장 프로그램 참여 기업 모집]]></title>
         <id>https://festa.io/events/4992</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/4984"/>
         <updated>2024-03-26T03:04:20.529Z</updated>
         <content type="html"><![CDATA[8월 5일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Prime of us] 기질 유형 검사 체험하기]]></title>
-        <id>https://festa.io/events/4983</id>
-        <link href="https://festa.io/events/4983"/>
-        <updated>2024-03-25T19:01:27.005Z</updated>
-        <content type="html"><![CDATA[3월 30일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나만의 브랜드, "퍼스널브랜딩"]]></title>
-        <id>https://festa.io/events/4982</id>
-        <link href="https://festa.io/events/4982"/>
-        <updated>2024-03-25T17:02:20.664Z</updated>
-        <content type="html"><![CDATA[4월 1일 (월) · 오프라인]]></content>
     </entry>
 </feed>
