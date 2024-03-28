@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-28T09:02:11.062Z</updated>
+    <updated>2024-03-28T10:02:43.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데브콘 서울 : 삼월엔 일을 '제대로' 하자]]></title>
+        <id>https://festa.io/events/4847</id>
+        <link href="https://festa.io/events/4847"/>
+        <updated>2024-03-28T10:02:42.954Z</updated>
+        <content type="html"><![CDATA[3월 28일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛앤 MSA #2-4 스타트업의 클라우드 이용 안내 - 보안과 효율 두마리 토끼 잡기]]></title>
         <id>https://festa.io/events/4994</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/4988</id>
         <link href="https://festa.io/events/4988"/>
         <updated>2024-03-27T03:05:27.696Z</updated>
-        <content type="html"><![CDATA[4월 27일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.04 InstallFest + Workshop @Busan]]></title>
-        <id>https://festa.io/events/4884</id>
-        <link href="https://festa.io/events/4884"/>
-        <updated>2024-03-26T07:02:09.954Z</updated>
         <content type="html"><![CDATA[4월 27일 (토) · 오프라인]]></content>
     </entry>
 </feed>
