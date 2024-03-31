@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-03-30T23:02:06.724Z</updated>
+    <updated>2024-03-31T00:30:43.001Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[AI × 독서모임]인공지능 책 함께 읽어요!]]></title>
+        <id>https://festa.io/events/5010</id>
+        <link href="https://festa.io/events/5010"/>
+        <updated>2024-03-31T00:30:41.057Z</updated>
+        <content type="html"><![CDATA[6월 13일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[AI × 독서모임]인공지능 책 함께 읽어요!]]></title>
+        <id>https://festa.io/events/4968</id>
+        <link href="https://festa.io/events/4968"/>
+        <updated>2024-03-31T00:30:41.058Z</updated>
+        <content type="html"><![CDATA[5월 9일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[네이버커넥트재단] 부스트클래스 AI 엔지니어 기초 다지기 2회차 모집]]></title>
         <id>https://festa.io/events/5005</id>
@@ -45,20 +59,6 @@
         <id>https://festa.io/events/4998</id>
         <link href="https://festa.io/events/4998"/>
         <updated>2024-03-28T08:08:04.757Z</updated>
-        <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영국 문화원 추천] 청소년 ESG 기업가 인증과정 교육 프로그램]]></title>
-        <id>https://festa.io/events/4997</id>
-        <link href="https://festa.io/events/4997"/>
-        <updated>2024-03-28T06:09:01.879Z</updated>
-        <content type="html"><![CDATA[4월 14일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
-        <id>https://festa.io/events/4996</id>
-        <link href="https://festa.io/events/4996"/>
-        <updated>2024-03-28T04:07:14.081Z</updated>
         <content type="html"><![CDATA[4월 4일 (목) · 오프라인]]></content>
     </entry>
 </feed>
