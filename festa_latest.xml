@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-01T06:08:35.560Z</updated>
+    <updated>2024-04-01T07:01:53.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오늘보다 더 나은 내일을 고민하는, 회고 중심 소규모 성장 커뮤니티 [츄라이]]]></title>
+        <id>https://festa.io/events/5016</id>
+        <link href="https://festa.io/events/5016"/>
+        <updated>2024-04-01T07:01:53.124Z</updated>
+        <content type="html"><![CDATA[3월 31일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[서울IT아카데미 홍대, 엘라스틱서치를 활용한 빅데이터-자바(JAVA) 융합개발 인재양성]]></title>
         <id>https://festa.io/events/5015</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5003"/>
         <updated>2024-03-29T09:01:58.246Z</updated>
         <content type="html"><![CDATA[4월 5일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신이 정말 원하는 이미지는? 이미지메이킹으로 찾아보세요!]]></title>
-        <id>https://festa.io/events/5001</id>
-        <link href="https://festa.io/events/5001"/>
-        <updated>2024-03-28T19:01:45.569Z</updated>
-        <content type="html"><![CDATA[3월 28일 (목) · 온라인]]></content>
     </entry>
 </feed>
