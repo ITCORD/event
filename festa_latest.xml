@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-03T22:02:24.151Z</updated>
+    <updated>2024-04-03T23:02:09.539Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[한빛앤] AI UX로 보는 AI 제품 성공과 실패]]></title>
+        <id>https://festa.io/events/4999</id>
+        <link href="https://festa.io/events/4999"/>
+        <updated>2024-04-03T23:02:08.910Z</updated>
+        <content type="html"><![CDATA[5월 2일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✅  공공빅데이터 자바개발자 국비지원 - 하이미디어아카데미 천호점]]></title>
         <id>https://festa.io/events/5037</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5025"/>
         <updated>2024-04-02T06:08:03.874Z</updated>
         <content type="html"><![CDATA[5월 7일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[⭐[전액국비지원][취업률90%][KG아이티뱅크] 공공데이터 기반 AI 챗봇 및 추천 모델 구현 분석 과정]]></title>
-        <id>https://festa.io/events/5024</id>
-        <link href="https://festa.io/events/5024"/>
-        <updated>2024-04-02T06:08:03.875Z</updated>
-        <content type="html"><![CDATA[5월 13일 (월) · 오프라인]]></content>
     </entry>
 </feed>
