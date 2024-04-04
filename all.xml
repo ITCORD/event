@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-04T09:03:11.627Z</updated>
+    <updated>2024-04-04T10:02:40.288Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[미술 재테크, 아트테크 특별 강의 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5043</id>
+        <link href="https://festa.io/events/5043"/>
+        <updated>2024-04-04T10:02:39.682Z</updated>
+        <content type="html"><![CDATA[4월 3일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5042</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5036"/>
         <updated>2024-04-03T10:02:52.324Z</updated>
         <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ Figma활용 웹퍼블리셔 국비지원 - 하이미디어아카데미 신촌점 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5035</id>
-        <link href="https://festa.io/events/5035"/>
-        <updated>2024-04-03T10:02:52.324Z</updated>
-        <content type="html"><![CDATA[6월 18일 (화) · 오프라인]]></content>
     </entry>
 </feed>
