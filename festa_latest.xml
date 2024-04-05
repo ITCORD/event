@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-05T07:04:34.749Z</updated>
+    <updated>2024-04-05T08:08:35.466Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Udemy Korea] 현직 개발자 홍드로이드와 함께하는 플러터 라이브 세션]]></title>
+        <id>https://festa.io/events/5049</id>
+        <link href="https://festa.io/events/5049"/>
+        <updated>2024-04-05T08:08:34.841Z</updated>
+        <content type="html"><![CDATA[4월 23일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Korea Improv Festival 2024 Workshop]]></title>
+        <id>https://festa.io/events/5048</id>
+        <link href="https://festa.io/events/5048"/>
+        <updated>2024-04-05T08:08:34.842Z</updated>
+        <content type="html"><![CDATA[4월 27일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[카카오뱅크 기술 밋업 #3 - 퇴근길 기술 한 잔 with 안드로이드 앱 개발자]]></title>
+        <id>https://festa.io/events/5041</id>
+        <link href="https://festa.io/events/5041"/>
+        <updated>2024-04-05T08:08:34.843Z</updated>
+        <content type="html"><![CDATA[4월 29일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미술 재테크, 아트테크 특별 강의]]></title>
         <id>https://festa.io/events/5043</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5038"/>
         <updated>2024-04-04T01:41:09.207Z</updated>
         <content type="html"><![CDATA[4월 11일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한빛앤] AI UX로 보는 AI 제품 성공과 실패]]></title>
-        <id>https://festa.io/events/4999</id>
-        <link href="https://festa.io/events/4999"/>
-        <updated>2024-04-03T23:02:08.910Z</updated>
-        <content type="html"><![CDATA[5월 2일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅  공공빅데이터 자바개발자 국비지원 - 하이미디어아카데미 천호점]]></title>
-        <id>https://festa.io/events/5037</id>
-        <link href="https://festa.io/events/5037"/>
-        <updated>2024-04-03T10:02:52.321Z</updated>
-        <content type="html"><![CDATA[4월 16일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ 자바기반 풀스택 웹개발자 국비지원 - 하이미디어아카데미 안양점]]></title>
-        <id>https://festa.io/events/5036</id>
-        <link href="https://festa.io/events/5036"/>
-        <updated>2024-04-03T10:02:52.324Z</updated>
-        <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
     </entry>
 </feed>
