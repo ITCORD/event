@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-08T10:08:09.584Z</updated>
+    <updated>2024-04-08T11:02:06.384Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[청중모집] <안녕, 우주!> 강연에 여러분을 초대합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5065</id>
+        <link href="https://festa.io/events/5065"/>
+        <updated>2024-04-08T11:02:05.673Z</updated>
+        <content type="html"><![CDATA[4월 17일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 블로그 챌린지 2기 : 내 블로그 상위 노출 시키기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5064</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5049"/>
         <updated>2024-04-05T08:08:34.841Z</updated>
         <content type="html"><![CDATA[4월 23일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Korea Improv Festival 2024 Workshop (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5048</id>
-        <link href="https://festa.io/events/5048"/>
-        <updated>2024-04-05T08:08:34.842Z</updated>
-        <content type="html"><![CDATA[4월 27일 (토) · 오프라인]]></content>
     </entry>
 </feed>
