@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-08T13:04:11.659Z</updated>
+    <updated>2024-04-08T14:02:22.926Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[21일 갓생 챌린지] 음악과 함께 퇴근 후 갓생!]]></title>
+        <id>https://festa.io/events/5066</id>
+        <link href="https://festa.io/events/5066"/>
+        <updated>2024-04-08T14:02:22.226Z</updated>
+        <content type="html"><![CDATA[4월 10일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청중모집] <안녕, 우주!> 강연에 여러분을 초대합니다!]]></title>
         <id>https://festa.io/events/5065</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5055"/>
         <updated>2024-04-07T09:01:47.749Z</updated>
         <content type="html"><![CDATA[4월 7일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Udemy Korea] 현직 개발자 홍드로이드와 함께하는 플러터 라이브 세션]]></title>
-        <id>https://festa.io/events/5049</id>
-        <link href="https://festa.io/events/5049"/>
-        <updated>2024-04-05T08:08:34.841Z</updated>
-        <content type="html"><![CDATA[4월 23일 (화) · 온라인]]></content>
     </entry>
 </feed>
