@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-09T05:02:59.910Z</updated>
+    <updated>2024-04-09T06:08:26.990Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[강남]생성형 AI를 활용한 프레젠테이션 만들기]]></title>
+        <id>https://festa.io/events/5069</id>
+        <link href="https://festa.io/events/5069"/>
+        <updated>2024-04-09T06:08:26.323Z</updated>
+        <content type="html"><![CDATA[4월 24일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[FPT(이전 ShotGrid) 확장하기: 개발 분야]]></title>
+        <id>https://festa.io/events/5071</id>
+        <link href="https://festa.io/events/5071"/>
+        <updated>2024-04-09T06:08:26.323Z</updated>
+        <content type="html"><![CDATA[4월 9일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강남] 법무법인(유)원 x 모두의연구소 | 기업 담당자가 알아야 할 EU 인공지능법과 기업 대응]]></title>
         <id>https://festa.io/events/5040</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5063"/>
         <updated>2024-04-08T08:09:14.328Z</updated>
         <content type="html"><![CDATA[4월 8일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Udemy Korea] AI 시대, 성장하는 개발자/엔지니어가 되기 위한 전략 ㅣ 한기용 강사]]></title>
-        <id>https://festa.io/events/5062</id>
-        <link href="https://festa.io/events/5062"/>
-        <updated>2024-04-08T07:02:55.531Z</updated>
-        <content type="html"><![CDATA[4월 24일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 4월의 패스워드]]></title>
-        <id>https://festa.io/events/5060</id>
-        <link href="https://festa.io/events/5060"/>
-        <updated>2024-04-08T06:08:50.642Z</updated>
-        <content type="html"><![CDATA[4월 19일 (금) · 오프라인]]></content>
     </entry>
 </feed>
