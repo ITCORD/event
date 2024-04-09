@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-09T06:08:26.990Z</updated>
+    <updated>2024-04-09T07:01:56.565Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -11,6 +11,13 @@
         <link href="https://festa.io/events/5069"/>
         <updated>2024-04-09T06:08:26.323Z</updated>
         <content type="html"><![CDATA[4월 24일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부스트캠프 웹・모바일 9기 4월 설명회 #부캠라디오]]></title>
+        <id>https://festa.io/events/5056</id>
+        <link href="https://festa.io/events/5056"/>
+        <updated>2024-04-09T07:01:55.959Z</updated>
+        <content type="html"><![CDATA[4월 22일 (월) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[FPT(이전 ShotGrid) 확장하기: 개발 분야]]></title>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5064"/>
         <updated>2024-04-08T09:03:33.153Z</updated>
         <content type="html"><![CDATA[4월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부산지역 IT분야 국비지원 교육 무료 상담]]></title>
-        <id>https://festa.io/events/5063</id>
-        <link href="https://festa.io/events/5063"/>
-        <updated>2024-04-08T08:09:14.328Z</updated>
-        <content type="html"><![CDATA[4월 8일 (월) · 오프라인]]></content>
     </entry>
 </feed>
