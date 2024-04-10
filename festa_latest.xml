@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-10T04:07:52.861Z</updated>
+    <updated>2024-04-10T05:01:57.263Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데브콘 서울 : 사월엔 브랜딩]]></title>
+        <id>https://festa.io/events/5045</id>
+        <link href="https://festa.io/events/5045"/>
+        <updated>2024-04-10T05:01:56.489Z</updated>
+        <content type="html"><![CDATA[4월 25일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💚 청년취업사관학교 새싹(SeSAC) 영등포캠퍼스 6기 SW과정 모집 (~ 04.21) 💚]]></title>
         <id>https://festa.io/events/5072</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5066"/>
         <updated>2024-04-08T14:02:22.226Z</updated>
         <content type="html"><![CDATA[4월 10일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청중모집] <안녕, 우주!> 강연에 여러분을 초대합니다!]]></title>
-        <id>https://festa.io/events/5065</id>
-        <link href="https://festa.io/events/5065"/>
-        <updated>2024-04-08T11:02:05.673Z</updated>
-        <content type="html"><![CDATA[4월 17일 (수) · 오프라인]]></content>
     </entry>
 </feed>
