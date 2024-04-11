@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-11T05:02:26.510Z</updated>
+    <updated>2024-04-11T06:08:28.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[!!마감임박!![유데미 X 웅진씽크빅 X 스나이퍼팩토리] UI/UX 인턴형 프로그램 과정 3기]]></title>
+        <id>https://festa.io/events/5078</id>
+        <link href="https://festa.io/events/5078"/>
+        <updated>2024-04-11T06:08:28.040Z</updated>
+        <content type="html"><![CDATA[4월 22일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[와일드 백엔드 3기]]></title>
         <id>https://festa.io/events/5075</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5071"/>
         <updated>2024-04-09T06:08:26.323Z</updated>
         <content type="html"><![CDATA[4월 9일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남] 법무법인 원 x 모두의연구소 | 기업 담당자가 알아야 할 EU 인공지능법과 기업 대응]]></title>
-        <id>https://festa.io/events/5040</id>
-        <link href="https://festa.io/events/5040"/>
-        <updated>2024-04-09T04:08:46.965Z</updated>
-        <content type="html"><![CDATA[4월 17일 (수) · 오프라인]]></content>
     </entry>
 </feed>
