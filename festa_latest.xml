@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-12T07:02:09.231Z</updated>
+    <updated>2024-04-12T08:08:04.014Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GitLab Korea 밋업 #20 데모로 GitLab  더 쉽게 익히기]]></title>
+        <id>https://festa.io/events/5070</id>
+        <link href="https://festa.io/events/5070"/>
+        <updated>2024-04-12T08:08:03.392Z</updated>
+        <content type="html"><![CDATA[4월 29일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[설계 고수되기 프로젝트 #1 인벤터로 잘난 척 하는 법]]></title>
         <id>https://festa.io/events/5086</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5045"/>
         <updated>2024-04-10T05:01:56.489Z</updated>
         <content type="html"><![CDATA[4월 25일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💚 청년취업사관학교 새싹(SeSAC) 영등포캠퍼스 6기 SW과정 모집 (~ 04.21) 💚]]></title>
-        <id>https://festa.io/events/5072</id>
-        <link href="https://festa.io/events/5072"/>
-        <updated>2024-04-09T08:08:23.256Z</updated>
-        <content type="html"><![CDATA[3월 7일 (목) · 오프라인]]></content>
     </entry>
 </feed>
