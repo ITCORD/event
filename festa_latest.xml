@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-16T01:40:57.051Z</updated>
+    <updated>2024-04-16T02:15:09.844Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[제12회] 재미있는 IT PM, 기획 직무 네트워킹 (취준생~현직자까지)]]></title>
+        <id>https://festa.io/events/5099</id>
+        <link href="https://festa.io/events/5099"/>
+        <updated>2024-04-16T02:15:09.239Z</updated>
+        <content type="html"><![CDATA[4월 19일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GopherCon Korea 2024]]></title>
         <id>https://festa.io/events/5098</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5089"/>
         <updated>2024-04-14T14:35:03.982Z</updated>
         <content type="html"><![CDATA[5월 18일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GitLab Korea 밋업 #20 데모로 GitLab  더 쉽게 익히기]]></title>
-        <id>https://festa.io/events/5070</id>
-        <link href="https://festa.io/events/5070"/>
-        <updated>2024-04-12T08:08:03.392Z</updated>
-        <content type="html"><![CDATA[4월 29일 (월) · 온라인]]></content>
     </entry>
 </feed>
