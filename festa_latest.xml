@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-16T23:02:29.538Z</updated>
+    <updated>2024-04-17T00:27:38.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제1회 광화문 디너패드: 스타트업의 IPO 레시피(네트워킹 데이)]]></title>
+        <id>https://festa.io/events/5106</id>
+        <link href="https://festa.io/events/5106"/>
+        <updated>2024-04-17T00:27:37.506Z</updated>
+        <content type="html"><![CDATA[5월 2일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI학교 아이펠 '데이터 사이언티스트 과정' 입학생 모집]]></title>
         <id>https://festa.io/events/5104</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5093"/>
         <updated>2024-04-15T08:07:25.912Z</updated>
         <content type="html"><![CDATA[4월 23일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[TCN meetup 2024.04]]></title>
-        <id>https://festa.io/events/5092</id>
-        <link href="https://festa.io/events/5092"/>
-        <updated>2024-04-15T02:58:41.895Z</updated>
-        <content type="html"><![CDATA[4월 30일 (화) · 오프라인]]></content>
     </entry>
 </feed>
