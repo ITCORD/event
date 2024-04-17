@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-17T05:02:35.479Z</updated>
+    <updated>2024-04-17T06:09:05.237Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[101코퍼레이션] 5월 마케팅 온라인 북클럽 1기 : 필립 코틀러 마켓 5.0]]></title>
+        <id>https://festa.io/events/5109</id>
+        <link href="https://festa.io/events/5109"/>
+        <updated>2024-04-17T06:09:04.589Z</updated>
+        <content type="html"><![CDATA[4월 30일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제1회 광화문 디너패드: 스타트업의 IPO 레시피(네트워킹 데이)]]></title>
         <id>https://festa.io/events/5106</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5094"/>
         <updated>2024-04-15T08:07:25.910Z</updated>
         <content type="html"><![CDATA[4월 22일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료특전 제공] 메타인지 너 뭐 돼? 과학적인 메타인지 훈련방법]]></title>
-        <id>https://festa.io/events/5093</id>
-        <link href="https://festa.io/events/5093"/>
-        <updated>2024-04-15T08:07:25.912Z</updated>
-        <content type="html"><![CDATA[4월 23일 (화) · 온라인]]></content>
     </entry>
 </feed>
