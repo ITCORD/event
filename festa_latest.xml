@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-18T16:04:41.068Z</updated>
+    <updated>2024-04-18T17:02:14.181Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Build with AI Campus Korea: 모두를 위한 AI TOY STORY]]></title>
+        <id>https://festa.io/events/5116</id>
+        <link href="https://festa.io/events/5116"/>
+        <updated>2024-04-18T17:02:13.521Z</updated>
+        <content type="html"><![CDATA[5월 3일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 DND 해커톤 :: 1박 2일 성장 열차에 탑승하세요!]]></title>
         <id>https://festa.io/events/4978</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5099"/>
         <updated>2024-04-16T02:15:09.239Z</updated>
         <content type="html"><![CDATA[4월 20일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GopherCon Korea 2024]]></title>
-        <id>https://festa.io/events/5098</id>
-        <link href="https://festa.io/events/5098"/>
-        <updated>2024-04-15T15:02:22.875Z</updated>
-        <content type="html"><![CDATA[10월 5일 (토) · 오프라인]]></content>
     </entry>
 </feed>
