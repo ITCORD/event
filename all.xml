@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-22T05:07:07.407Z</updated>
+    <updated>2024-04-22T06:09:02.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[오직 초보를 위한 node.js 라이브코딩(+오프라인 혜택) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5131</id>
+        <link href="https://festa.io/events/5131"/>
+        <updated>2024-04-22T06:09:01.749Z</updated>
+        <content type="html"><![CDATA[4월 26일 (금) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[코드잇 스프린트] 프론트엔드 엔지니어 부트캠프 8기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5124</id>
+        <link href="https://festa.io/events/5124"/>
+        <updated>2024-04-22T06:09:01.750Z</updated>
+        <content type="html"><![CDATA[5월 17일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5123</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5116"/>
         <updated>2024-04-18T17:02:13.521Z</updated>
         <content type="html"><![CDATA[5월 3일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 DND 해커톤 :: 1박 2일 성장 열차에 탑승하세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/4978</id>
-        <link href="https://festa.io/events/4978"/>
-        <updated>2024-04-18T10:02:51.749Z</updated>
-        <content type="html"><![CDATA[5월 17일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료교육]SeSAC_콘텐츠 퍼포먼스 마케팅 전문가 과정 모집중(~05/19) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5115</id>
-        <link href="https://festa.io/events/5115"/>
-        <updated>2024-04-18T03:04:20.263Z</updated>
-        <content type="html"><![CDATA[6월 4일 (화) · 오프라인]]></content>
     </entry>
 </feed>
