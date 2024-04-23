@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-23T06:08:26.302Z</updated>
+    <updated>2024-04-23T07:02:20.559Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한빛앤 MSA #2-5 정량적으로 풀어보는 UI디자인 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5004</id>
+        <link href="https://festa.io/events/5004"/>
+        <updated>2024-04-23T07:02:19.849Z</updated>
+        <content type="html"><![CDATA[5월 16일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[백엔드 개발자 취업 미니 부트캠프 : 스프링부트(springboot) 입문 데브코스(5주 완성) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5138</id>
+        <link href="https://festa.io/events/5138"/>
+        <updated>2024-04-23T07:02:19.851Z</updated>
+        <content type="html"><![CDATA[4월 23일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[세상을 구하는 AI 해커톤, 2024 항해커톤 개최 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5137</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5131"/>
         <updated>2024-04-22T06:09:01.749Z</updated>
         <content type="html"><![CDATA[4월 26일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 프론트엔드 엔지니어 부트캠프 8기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5124</id>
-        <link href="https://festa.io/events/5124"/>
-        <updated>2024-04-22T06:09:01.750Z</updated>
-        <content type="html"><![CDATA[5월 17일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5123</id>
-        <link href="https://festa.io/events/5123"/>
-        <updated>2024-04-22T00:29:37.263Z</updated>
-        <content type="html"><![CDATA[4월 29일 (월) · 오프라인]]></content>
     </entry>
 </feed>
