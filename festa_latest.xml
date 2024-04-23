@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-23T09:06:19.285Z</updated>
+    <updated>2024-04-23T10:03:58.524Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제19회 차세대 테크 리더십포럼 (일반 신청)]]></title>
+        <id>https://festa.io/events/5077</id>
+        <link href="https://festa.io/events/5077"/>
+        <updated>2024-04-23T10:03:57.952Z</updated>
+        <content type="html"><![CDATA[5월 18일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[18회] 휴대용 스펙트럼 분석기 이해와 활용 세미나]]></title>
         <id>https://festa.io/events/5135</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5133"/>
         <updated>2024-04-22T10:08:00.062Z</updated>
         <content type="html"><![CDATA[4월 30일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] 프로젝트 캠프 : Next.js 과정 1기]]></title>
-        <id>https://festa.io/events/5132</id>
-        <link href="https://festa.io/events/5132"/>
-        <updated>2024-04-22T09:04:11.975Z</updated>
-        <content type="html"><![CDATA[5월 24일 (금) · 오프라인]]></content>
     </entry>
 </feed>
