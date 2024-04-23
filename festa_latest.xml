@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-23T08:08:53.370Z</updated>
+    <updated>2024-04-23T09:06:19.285Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[18회] 휴대용 스펙트럼 분석기 이해와 활용 세미나]]></title>
+        <id>https://festa.io/events/5135</id>
+        <link href="https://festa.io/events/5135"/>
+        <updated>2024-04-23T09:06:18.679Z</updated>
+        <content type="html"><![CDATA[5월 2일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛앤 MSA #2-5 정량적으로 풀어보는 UI디자인]]></title>
         <id>https://festa.io/events/5004</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5132"/>
         <updated>2024-04-22T09:04:11.975Z</updated>
         <content type="html"><![CDATA[5월 24일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오직 초보를 위한 node.js 라이브코딩(+오프라인 혜택)]]></title>
-        <id>https://festa.io/events/5131</id>
-        <link href="https://festa.io/events/5131"/>
-        <updated>2024-04-22T06:09:01.749Z</updated>
-        <content type="html"><![CDATA[4월 26일 (금) · 온라인]]></content>
     </entry>
 </feed>
