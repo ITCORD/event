@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-24T05:07:30.533Z</updated>
+    <updated>2024-04-24T06:09:40.465Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[✅ ERP전산세무전산회계 국비지원 - 하이미디어아카데미 종로점]]></title>
+        <id>https://festa.io/events/5143</id>
+        <link href="https://festa.io/events/5143"/>
+        <updated>2024-04-24T06:09:39.868Z</updated>
+        <content type="html"><![CDATA[6월 25일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제19회 차세대 테크 리더십포럼 (일반 신청)]]></title>
         <id>https://festa.io/events/5077</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5134"/>
         <updated>2024-04-22T12:11:15.233Z</updated>
         <content type="html"><![CDATA[4월 29일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Couchbase | AWS "Next Big Bet on Gaming"]]></title>
-        <id>https://festa.io/events/5133</id>
-        <link href="https://festa.io/events/5133"/>
-        <updated>2024-04-22T10:08:00.062Z</updated>
-        <content type="html"><![CDATA[4월 30일 (화) · 오프라인]]></content>
     </entry>
 </feed>
