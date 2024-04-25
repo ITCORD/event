@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-25T05:03:12.939Z</updated>
+    <updated>2024-04-25T06:08:38.003Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[19회] 레이더 기술 이해와 활용 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5148</id>
+        <link href="https://festa.io/events/5148"/>
+        <updated>2024-04-25T06:08:37.370Z</updated>
+        <content type="html"><![CDATA[5월 9일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5146</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5004"/>
         <updated>2024-04-23T07:02:19.849Z</updated>
         <content type="html"><![CDATA[5월 16일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[백엔드 개발자 취업 미니 부트캠프 : 스프링부트(springboot) 입문 데브코스(5주 완성) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5138</id>
-        <link href="https://festa.io/events/5138"/>
-        <updated>2024-04-23T07:02:19.851Z</updated>
-        <content type="html"><![CDATA[4월 23일 (화) · 온라인]]></content>
     </entry>
 </feed>
