@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-26T07:03:52.999Z</updated>
+    <updated>2024-04-26T08:08:17.411Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[MS x NVIDIA] 스타트업과 ISV 기업을 위한 AI 컨퍼런스]]></title>
+        <id>https://festa.io/events/5165</id>
+        <link href="https://festa.io/events/5165"/>
+        <updated>2024-04-26T08:08:16.793Z</updated>
+        <content type="html"><![CDATA[5월 13일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한빛앤] 작은 서비스 조금씩 개선하기(개발 관점)]]></title>
+        <id>https://festa.io/events/5164</id>
+        <link href="https://festa.io/events/5164"/>
+        <updated>2024-04-26T08:08:16.797Z</updated>
+        <content type="html"><![CDATA[5월 22일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유데미] 백엔드 개발자 취업 미니 부트캠프 : 스프링부트(springboot) 입문 데브코스(5주 완성)]]></title>
+        <id>https://festa.io/events/5163</id>
+        <link href="https://festa.io/events/5163"/>
+        <updated>2024-04-26T08:08:16.797Z</updated>
+        <content type="html"><![CDATA[5월 20일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[KAIT/과기정통부] ICT 이노베이션 스퀘어 디지털 신기술 교육과정 수강생 모집 (전액무료전액 무료 / 내일배움카드 불필요)]]></title>
         <id>https://festa.io/events/5162</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5157"/>
         <updated>2024-04-26T01:42:34.040Z</updated>
         <content type="html"><![CDATA[5월 23일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Data Flow를 활용한 데이터 분석]]></title>
-        <id>https://festa.io/events/5156</id>
-        <link href="https://festa.io/events/5156"/>
-        <updated>2024-04-26T01:42:34.049Z</updated>
-        <content type="html"><![CDATA[5월 16일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프롬프트 엔지니어링 쉽게 접근해보기]]></title>
-        <id>https://festa.io/events/5155</id>
-        <link href="https://festa.io/events/5155"/>
-        <updated>2024-04-26T01:42:34.050Z</updated>
-        <content type="html"><![CDATA[5월 9일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[해외 여행의 필수품,파파고 이미지 번역 활용하기]]></title>
-        <id>https://festa.io/events/5151</id>
-        <link href="https://festa.io/events/5151"/>
-        <updated>2024-04-26T01:42:34.052Z</updated>
-        <content type="html"><![CDATA[5월 2일 (목) · 온라인]]></content>
     </entry>
 </feed>
