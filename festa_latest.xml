@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-26T08:08:17.411Z</updated>
+    <updated>2024-04-26T09:07:40.198Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료 초대]충주맨과 함께하는 충주시 홍보 특급전략]]></title>
+        <id>https://festa.io/events/5160</id>
+        <link href="https://festa.io/events/5160"/>
+        <updated>2024-04-26T09:07:39.460Z</updated>
+        <content type="html"><![CDATA[5월 13일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[MS x NVIDIA] 스타트업과 ISV 기업을 위한 AI 컨퍼런스]]></title>
         <id>https://festa.io/events/5165</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5158"/>
         <updated>2024-04-26T02:17:59.639Z</updated>
         <content type="html"><![CDATA[5월 30일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[HyperCLOVA X를 쉽게 활용할 수 있는 CLOVA Studio]]></title>
-        <id>https://festa.io/events/5157</id>
-        <link href="https://festa.io/events/5157"/>
-        <updated>2024-04-26T01:42:34.040Z</updated>
-        <content type="html"><![CDATA[5월 23일 (목) · 온라인]]></content>
     </entry>
 </feed>
