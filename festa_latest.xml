@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-26T05:02:16.391Z</updated>
+    <updated>2024-04-26T06:09:13.843Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료 초대]세일즈 초고수가 전하는 잘 파는 사람의 비결]]></title>
+        <id>https://festa.io/events/5161</id>
+        <link href="https://festa.io/events/5161"/>
+        <updated>2024-04-26T06:09:13.206Z</updated>
+        <content type="html"><![CDATA[4월 30일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[구글 지도를 이용한 비즈니스 전략: 여행]]></title>
         <id>https://festa.io/events/5159</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5150"/>
         <updated>2024-04-25T08:08:22.083Z</updated>
         <content type="html"><![CDATA[5월 4일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[19회] 레이더 기술 이해와 활용 세미나]]></title>
-        <id>https://festa.io/events/5148</id>
-        <link href="https://festa.io/events/5148"/>
-        <updated>2024-04-25T06:08:37.370Z</updated>
-        <content type="html"><![CDATA[5월 9일 (목) · 온라인]]></content>
     </entry>
 </feed>
