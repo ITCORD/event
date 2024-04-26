@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-26T11:01:54.804Z</updated>
+    <updated>2024-04-26T12:11:33.731Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한 달에 앱 하나! 1mA 챌린지]]></title>
+        <id>https://festa.io/events/5166</id>
+        <link href="https://festa.io/events/5166"/>
+        <updated>2024-04-26T12:11:33.120Z</updated>
+        <content type="html"><![CDATA[5월 10일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료 초대]충주맨과 함께하는 충주시 홍보 특급전략]]></title>
         <id>https://festa.io/events/5160</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5159"/>
         <updated>2024-04-26T05:02:15.713Z</updated>
         <content type="html"><![CDATA[5월 9일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[일상 생활의 필수품,CLOVA X와 Cue: 시작하기]]></title>
-        <id>https://festa.io/events/5158</id>
-        <link href="https://festa.io/events/5158"/>
-        <updated>2024-04-26T02:17:59.639Z</updated>
-        <content type="html"><![CDATA[5월 30일 (목) · 온라인]]></content>
     </entry>
 </feed>
