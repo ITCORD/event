@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-04-29T09:05:30.351Z</updated>
+    <updated>2024-04-29T10:04:04.428Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5178</id>
+        <link href="https://festa.io/events/5178"/>
+        <updated>2024-04-29T10:04:03.766Z</updated>
+        <content type="html"><![CDATA[5월 12일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 공간디자인페어 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5173</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5163"/>
         <updated>2024-04-26T08:08:16.797Z</updated>
         <content type="html"><![CDATA[5월 20일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAIT/과기정통부] ICT 이노베이션 스퀘어 디지털 신기술 교육과정 수강생 모집 (전액무료전액 무료 / 내일배움카드 불필요) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5162</id>
-        <link href="https://festa.io/events/5162"/>
-        <updated>2024-04-26T07:03:52.376Z</updated>
-        <content type="html"><![CDATA[5월 12일 (일) · 온라인]]></content>
     </entry>
 </feed>
