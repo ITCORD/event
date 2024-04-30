@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-30T07:02:57.561Z</updated>
+    <updated>2024-04-30T08:09:10.922Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한빛앤 MSA #2-6 기술과 건강을 잇다: 헬스케어 IT 개발자 가이드]]></title>
+        <id>https://festa.io/events/5169</id>
+        <link href="https://festa.io/events/5169"/>
+        <updated>2024-04-30T08:09:10.237Z</updated>
+        <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[5/8 (수)_챗GPT 생성AI를 활용한 스마트워크/업무자동화 유료특강]]></title>
         <id>https://festa.io/events/5180</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5175"/>
         <updated>2024-04-29T00:28:42.899Z</updated>
         <content type="html"><![CDATA[5월 22일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한 달에 앱 하나! 1mA 챌린지]]></title>
-        <id>https://festa.io/events/5166</id>
-        <link href="https://festa.io/events/5166"/>
-        <updated>2024-04-26T12:11:33.120Z</updated>
-        <content type="html"><![CDATA[5월 10일 (금) · 오프라인]]></content>
     </entry>
 </feed>
