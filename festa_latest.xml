@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-30T14:04:05.149Z</updated>
+    <updated>2024-04-30T15:02:04.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[9UAP : 구름톤유니브 에프터 파티]]></title>
+        <id>https://festa.io/events/5057</id>
+        <link href="https://festa.io/events/5057"/>
+        <updated>2024-04-30T15:02:04.112Z</updated>
+        <content type="html"><![CDATA[5월 18일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I/O Extended Golang Korea 2024]]></title>
         <id>https://festa.io/events/5181</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5178"/>
         <updated>2024-04-29T10:04:03.766Z</updated>
         <content type="html"><![CDATA[5월 12일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 공간디자인페어]]></title>
-        <id>https://festa.io/events/5173</id>
-        <link href="https://festa.io/events/5173"/>
-        <updated>2024-04-29T00:28:42.898Z</updated>
-        <content type="html"><![CDATA[7월 31일 (수) · 오프라인]]></content>
     </entry>
 </feed>
