@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-04-29T23:01:49.153Z</updated>
+    <updated>2024-04-30T00:27:09.781Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[게임, 영화 어셋 관리 및 공동 작업을 위한 크리에이티브 프로덕션 관리하기!  *참석자 선물있어요!]]></title>
+        <id>https://festa.io/events/5071</id>
+        <link href="https://festa.io/events/5071"/>
+        <updated>2024-04-30T00:27:09.146Z</updated>
+        <content type="html"><![CDATA[4월 9일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[24-34] 토요일 강남역 로테이션 1:1 소개팅 <플러티>]]></title>
         <id>https://festa.io/events/5168</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5165"/>
         <updated>2024-04-26T08:08:16.793Z</updated>
         <content type="html"><![CDATA[5월 13일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한빛앤] 작은 서비스 조금씩 개선하기(개발 관점)]]></title>
-        <id>https://festa.io/events/5164</id>
-        <link href="https://festa.io/events/5164"/>
-        <updated>2024-04-26T08:08:16.797Z</updated>
-        <content type="html"><![CDATA[5월 22일 (수) · 오프라인]]></content>
     </entry>
 </feed>
