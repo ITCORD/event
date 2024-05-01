@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-01T05:02:43.252Z</updated>
+    <updated>2024-05-01T06:09:25.864Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[채용연계 무료 k디지털교육 / 클라우드 엔지니어 / AWS / 도커 / 쿠버네티스 / 리눅스 / 네트워크 / 멀티클라우드 / 하이브리드클라우드 교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5184</id>
+        <link href="https://festa.io/events/5184"/>
+        <updated>2024-05-01T06:09:25.187Z</updated>
+        <content type="html"><![CDATA[5월 7일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[무료채용연계형 k디지털교육 / 개발자 / 파이썬 / 자바 / 빅데이터 / 백엔드 / 프론트엔드 / 인공지능ai  교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5183</id>
+        <link href="https://festa.io/events/5183"/>
+        <updated>2024-05-01T06:09:25.197Z</updated>
+        <content type="html"><![CDATA[5월 23일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[이미지생성형 AI와 파워포인트 활용하기, AICP(AI 커뮤니케이션 전문가), (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5182</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5179"/>
         <updated>2024-04-30T05:02:05.453Z</updated>
         <content type="html"><![CDATA[5월 9일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임, 영화 어셋 관리 및 공동 작업을 위한 크리에이티브 프로덕션 관리하기!  *참석자 선물있어요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5071</id>
-        <link href="https://festa.io/events/5071"/>
-        <updated>2024-04-30T00:27:09.146Z</updated>
-        <content type="html"><![CDATA[4월 9일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[24-34] 토요일 강남역 로테이션 1:1 소개팅 <플러티> (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5168</id>
-        <link href="https://festa.io/events/5168"/>
-        <updated>2024-04-29T12:10:47.416Z</updated>
-        <content type="html"><![CDATA[5월 11일 (토) · 오프라인]]></content>
     </entry>
 </feed>
