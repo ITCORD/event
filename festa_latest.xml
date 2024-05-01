@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-01T00:30:18.790Z</updated>
+    <updated>2024-05-01T01:50:56.091Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[이미지생성형 AI와 파워포인트 활용하기, AICP(AI 커뮤니케이션 전문가),]]></title>
+        <id>https://festa.io/events/5182</id>
+        <link href="https://festa.io/events/5182"/>
+        <updated>2024-05-01T01:50:55.510Z</updated>
+        <content type="html"><![CDATA[5월 4일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[9UAP : 구름톤유니브 에프터 파티]]></title>
         <id>https://festa.io/events/5057</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5168"/>
         <updated>2024-04-29T12:10:47.416Z</updated>
         <content type="html"><![CDATA[5월 11일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/5178</id>
-        <link href="https://festa.io/events/5178"/>
-        <updated>2024-04-29T10:04:03.766Z</updated>
-        <content type="html"><![CDATA[5월 12일 (일) · 오프라인]]></content>
     </entry>
 </feed>
