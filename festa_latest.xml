@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-02T02:18:07.880Z</updated>
+    <updated>2024-05-02T03:05:26.980Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[부스트캠프 웹・모바일 9기 5월 설명회]]></title>
+        <id>https://festa.io/events/5186</id>
+        <link href="https://festa.io/events/5186"/>
+        <updated>2024-05-02T03:05:26.304Z</updated>
+        <content type="html"><![CDATA[5월 20일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[💚 청년취업사관학교 새싹(SeSAC) 영등포캠퍼스 SW과정 올해 마지막 모집 (~ 06.09) 💚]]></title>
         <id>https://festa.io/events/5185</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5169"/>
         <updated>2024-04-30T08:09:10.237Z</updated>
         <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[5/8 (수)_챗GPT 생성AI를 활용한 스마트워크/업무자동화 유료특강]]></title>
-        <id>https://festa.io/events/5180</id>
-        <link href="https://festa.io/events/5180"/>
-        <updated>2024-04-30T06:08:20.213Z</updated>
-        <content type="html"><![CDATA[5월 8일 (수) · 오프라인]]></content>
     </entry>
 </feed>
