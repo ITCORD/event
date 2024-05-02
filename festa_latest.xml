@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-02T00:27:26.198Z</updated>
+    <updated>2024-05-02T01:42:55.492Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[💚 청년취업사관학교 새싹(SeSAC) 영등포캠퍼스 SW과정 올해 마지막 모집 (~ 06.09) 💚]]></title>
+        <id>https://festa.io/events/5185</id>
+        <link href="https://festa.io/events/5185"/>
+        <updated>2024-05-02T01:42:54.753Z</updated>
+        <content type="html"><![CDATA[4월 26일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[채용연계 무료 k디지털교육 / 클라우드 엔지니어 / AWS / 도커 / 쿠버네티스 / 리눅스 / 네트워크 / 멀티클라우드 / 하이브리드클라우드 교육생 모집]]></title>
         <id>https://festa.io/events/5184</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5180"/>
         <updated>2024-04-30T06:08:20.213Z</updated>
         <content type="html"><![CDATA[5월 8일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[대면/무료교육] 5/9(목)~10(금) 스마트 공장 현장기기 제어 및 원격 모니터링 (PLC,HMI,SCADA) 교육 개강 안내]]></title>
-        <id>https://festa.io/events/5179</id>
-        <link href="https://festa.io/events/5179"/>
-        <updated>2024-04-30T05:02:05.453Z</updated>
-        <content type="html"><![CDATA[5월 9일 (목) · 오프라인]]></content>
     </entry>
 </feed>
