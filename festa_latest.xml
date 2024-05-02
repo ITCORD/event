@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-02T03:05:26.980Z</updated>
+    <updated>2024-05-02T04:07:53.733Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청중모집] 5월 컴퍼스 포럼]]></title>
+        <id>https://festa.io/events/5188</id>
+        <link href="https://festa.io/events/5188"/>
+        <updated>2024-05-02T04:07:53.166Z</updated>
+        <content type="html"><![CDATA[5월 14일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[✅ UI/UX 웹퍼블리셔 국비지원 - 하이미디어아카데미 강남점]]></title>
+        <id>https://festa.io/events/5187</id>
+        <link href="https://festa.io/events/5187"/>
+        <updated>2024-05-02T04:07:53.168Z</updated>
+        <content type="html"><![CDATA[5월 9일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[부스트캠프 웹・모바일 9기 5월 설명회]]></title>
         <id>https://festa.io/events/5186</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5057"/>
         <updated>2024-04-30T15:02:04.112Z</updated>
         <content type="html"><![CDATA[5월 18일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I/O Extended Golang Korea 2024]]></title>
-        <id>https://festa.io/events/5181</id>
-        <link href="https://festa.io/events/5181"/>
-        <updated>2024-04-30T14:04:04.560Z</updated>
-        <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛앤 MSA #2-6 기술과 건강을 잇다: 헬스케어 IT 개발자 가이드]]></title>
-        <id>https://festa.io/events/5169</id>
-        <link href="https://festa.io/events/5169"/>
-        <updated>2024-04-30T08:09:10.237Z</updated>
-        <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
     </entry>
 </feed>
