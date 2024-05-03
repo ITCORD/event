@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-03T06:08:53.769Z</updated>
+    <updated>2024-05-03T07:03:27.495Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[베트남 진출 희망 기업 제품 유통 마케팅 설명회]]></title>
+        <id>https://festa.io/events/5203</id>
+        <link href="https://festa.io/events/5203"/>
+        <updated>2024-05-03T07:03:26.876Z</updated>
+        <content type="html"><![CDATA[5월 20일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 봄 시즌 코드살롱 컨퍼런스에 여러분들을 초대합니다]]></title>
+        <id>https://festa.io/events/5202</id>
+        <link href="https://festa.io/events/5202"/>
+        <updated>2024-05-03T07:03:26.877Z</updated>
+        <content type="html"><![CDATA[5월 10일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[101코퍼레이션] 6월 마케팅 온라인 북클럽 2기 : 진화된 마케팅 그로스 해킹]]></title>
         <id>https://festa.io/events/5200</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5187"/>
         <updated>2024-05-02T04:07:53.168Z</updated>
         <content type="html"><![CDATA[5월 9일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부스트캠프 웹・모바일 9기 5월 설명회]]></title>
-        <id>https://festa.io/events/5186</id>
-        <link href="https://festa.io/events/5186"/>
-        <updated>2024-05-02T03:05:26.304Z</updated>
-        <content type="html"><![CDATA[5월 20일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💚 청년취업사관학교 새싹(SeSAC) 영등포캠퍼스 SW과정 올해 마지막 모집 (~ 06.09) 💚]]></title>
-        <id>https://festa.io/events/5185</id>
-        <link href="https://festa.io/events/5185"/>
-        <updated>2024-05-02T01:42:54.753Z</updated>
-        <content type="html"><![CDATA[4월 26일 (금) · 오프라인]]></content>
     </entry>
 </feed>
