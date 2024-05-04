@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-04T06:07:29.426Z</updated>
+    <updated>2024-05-04T07:02:22.711Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -20,7 +20,7 @@
         <content type="html"><![CDATA[5월 20일 (월) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 봄 시즌 코드살롱 컨퍼런스에 여러분들을 초대합니다]]></title>
+        <title type="html"><![CDATA[2024 봄 시즌 코드살롱 IT 개발자 컨퍼런스에 여러분들을 초대합니다]]></title>
         <id>https://festa.io/events/5202</id>
         <link href="https://festa.io/events/5202"/>
         <updated>2024-05-03T07:03:26.877Z</updated>
