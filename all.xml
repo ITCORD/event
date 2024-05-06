@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-06T10:04:38.776Z</updated>
+    <updated>2024-05-06T11:01:54.376Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[실시간 온라인] 데이터를 기반으로 기획하는 서비스 기획자, PM과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5117</id>
+        <link href="https://festa.io/events/5117"/>
+        <updated>2024-05-06T11:01:53.776Z</updated>
+        <content type="html"><![CDATA[5월 7일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Coding Lab 제 1차 오프라인 행사 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5205</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5189"/>
         <updated>2024-05-02T05:02:11.644Z</updated>
         <content type="html"><![CDATA[5월 8일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청중모집] 5월 컴퍼스 포럼 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5188</id>
-        <link href="https://festa.io/events/5188"/>
-        <updated>2024-05-05T05:03:39.997Z</updated>
-        <content type="html"><![CDATA[5월 14일 (화) · 오프라인]]></content>
     </entry>
 </feed>
