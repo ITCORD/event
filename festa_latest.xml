@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-07T03:08:50.141Z</updated>
+    <updated>2024-05-07T04:07:33.784Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -55,10 +55,10 @@
         <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[실시간 온라인] 데이터를 기반으로 기획하는 서비스 기획자, PM과정]]></title>
-        <id>https://festa.io/events/5117</id>
-        <link href="https://festa.io/events/5117"/>
-        <updated>2024-05-06T11:01:53.776Z</updated>
-        <content type="html"><![CDATA[5월 7일 (화) · 온라인]]></content>
+        <title type="html"><![CDATA[DroidKnights 2024]]></title>
+        <id>https://festa.io/events/4990</id>
+        <link href="https://festa.io/events/4990"/>
+        <updated>2024-05-07T04:07:33.204Z</updated>
+        <content type="html"><![CDATA[6월 11일 (화) · 오프라인]]></content>
     </entry>
 </feed>
