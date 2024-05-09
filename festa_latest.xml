@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-09T07:02:23.108Z</updated>
+    <updated>2024-05-09T08:09:05.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[하이서울기업협회]2024 서울시 뉴딜 일자리 2차_ AI활용 퍼포먼스 마케팅 실무 과정 모집중(~06.02)]]></title>
+        <id>https://festa.io/events/5225</id>
+        <link href="https://festa.io/events/5225"/>
+        <updated>2024-05-09T08:09:05.141Z</updated>
+        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[현대모비스] 2024 현대모비스 임팩트 아이디어 챌린지 참가자 모집]]></title>
+        <id>https://festa.io/events/5223</id>
+        <link href="https://festa.io/events/5223"/>
+        <updated>2024-05-09T08:09:05.147Z</updated>
+        <content type="html"><![CDATA[4월 28일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경북대에 IT 현직자가 온다고?]]></title>
         <id>https://festa.io/events/5221</id>
@@ -45,20 +59,6 @@
         <id>https://festa.io/events/5213</id>
         <link href="https://festa.io/events/5213"/>
         <updated>2024-05-07T03:08:49.551Z</updated>
-        <content type="html"><![CDATA[6월 25일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스:도커/쿠버네티스 단단한 기초 쌓기]]></title>
-        <id>https://festa.io/events/5212</id>
-        <link href="https://festa.io/events/5212"/>
-        <updated>2024-05-07T03:08:49.553Z</updated>
-        <content type="html"><![CDATA[6월 25일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스:도커/K8s/클라우드(AWS) 네트워크 완전 정복]]></title>
-        <id>https://festa.io/events/5211</id>
-        <link href="https://festa.io/events/5211"/>
-        <updated>2024-05-07T03:08:49.557Z</updated>
         <content type="html"><![CDATA[6월 25일 (화) · 온라인]]></content>
     </entry>
 </feed>
