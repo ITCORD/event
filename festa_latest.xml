@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-09T21:02:26.537Z</updated>
+    <updated>2024-05-09T22:02:16.915Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[코드잇 스프린트] 풀스택 엔지니어 트랙 1기 모집]]></title>
+        <id>https://festa.io/events/5228</id>
+        <link href="https://festa.io/events/5228"/>
+        <updated>2024-05-09T22:02:16.351Z</updated>
+        <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[코드잇 스프린트] 데이터 애널리틱스 트랙 1기 모집]]></title>
         <id>https://festa.io/events/5226</id>
@@ -51,13 +58,6 @@
         <title type="html"><![CDATA[리얼리눅스: 리눅스 Zero 베이스 초보자 트러블 슈팅까지]]></title>
         <id>https://festa.io/events/5215</id>
         <link href="https://festa.io/events/5215"/>
-        <updated>2024-05-07T03:08:49.549Z</updated>
-        <content type="html"><![CDATA[6월 25일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스: 리눅스 기초 쉘 스크립트 마스터]]></title>
-        <id>https://festa.io/events/5214</id>
-        <link href="https://festa.io/events/5214"/>
         <updated>2024-05-07T03:08:49.549Z</updated>
         <content type="html"><![CDATA[6월 25일 (화) · 온라인]]></content>
     </entry>
