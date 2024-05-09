@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-09T04:08:43.503Z</updated>
+    <updated>2024-05-09T05:02:07.337Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[경북대에 IT 현직자가 온다고? (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5221</id>
+        <link href="https://festa.io/events/5221"/>
+        <updated>2024-05-09T05:02:06.639Z</updated>
+        <content type="html"><![CDATA[5월 25일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[HyperCLOVA X 레퍼런스 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5219</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5211"/>
         <updated>2024-05-07T03:08:49.557Z</updated>
         <content type="html"><![CDATA[6월 25일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[리얼리눅스:서버엔지니어를 위한 트러블 슈팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5210</id>
-        <link href="https://festa.io/events/5210"/>
-        <updated>2024-05-07T03:08:49.560Z</updated>
-        <content type="html"><![CDATA[6월 28일 (금) · 온라인]]></content>
     </entry>
 </feed>
