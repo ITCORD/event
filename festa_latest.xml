@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-10T06:08:53.414Z</updated>
+    <updated>2024-05-10T07:05:04.622Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한국경제신문 with toss bank [Tech 우수인재 양성을 위한 MLOps / Full stack 과정]]]></title>
+        <id>https://festa.io/events/5229</id>
+        <link href="https://festa.io/events/5229"/>
+        <updated>2024-05-10T07:05:04.074Z</updated>
+        <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 고위 여성 리더십 과정 (2차)]]></title>
         <id>https://festa.io/events/5232</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5223"/>
         <updated>2024-05-09T08:09:05.147Z</updated>
         <content type="html"><![CDATA[4월 28일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDSC DGU 24 05월 Open Seminar]]></title>
-        <id>https://festa.io/events/5222</id>
-        <link href="https://festa.io/events/5222"/>
-        <updated>2024-05-10T04:08:53.736Z</updated>
-        <content type="html"><![CDATA[5월 16일 (목) · 오프라인]]></content>
     </entry>
 </feed>
