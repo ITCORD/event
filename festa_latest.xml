@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-12T15:01:53.970Z</updated>
+    <updated>2024-05-12T16:03:17.992Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[산업재 글로벌 B2B 시장 개척 포럼]]></title>
+        <id>https://festa.io/events/5236</id>
+        <link href="https://festa.io/events/5236"/>
+        <updated>2024-05-12T16:03:17.355Z</updated>
+        <content type="html"><![CDATA[5월 17일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[20-30] 여성우선모집!!! 달달한 커피 페어링 디저트 찾기 달다래❣️]]></title>
         <id>https://festa.io/events/5235</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5226"/>
         <updated>2024-05-09T10:08:02.674Z</updated>
         <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[하이서울기업협회]2024 서울시 뉴딜 일자리 2차_ AI활용 퍼포먼스 마케팅 실무 과정 모집중(~06.02)]]></title>
-        <id>https://festa.io/events/5225</id>
-        <link href="https://festa.io/events/5225"/>
-        <updated>2024-05-09T08:09:05.141Z</updated>
-        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
     </entry>
 </feed>
