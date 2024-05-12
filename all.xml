@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-12T12:10:25.414Z</updated>
+    <updated>2024-05-12T13:03:43.975Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[20-30] 여성우선모집!!! 달달한 커피 페어링 디저트 찾기 달다래❣️ (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5235</id>
+        <link href="https://festa.io/events/5235"/>
+        <updated>2024-05-12T13:03:43.340Z</updated>
+        <content type="html"><![CDATA[5월 19일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국경제신문 with toss bank [Tech 우수인재 양성을 위한 MLOps / Full stack 과정] (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5229</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5225"/>
         <updated>2024-05-09T08:09:05.141Z</updated>
         <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[현대모비스] 2024 현대모비스 임팩트 아이디어 챌린지 참가자 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5223</id>
-        <link href="https://festa.io/events/5223"/>
-        <updated>2024-05-09T08:09:05.147Z</updated>
-        <content type="html"><![CDATA[4월 28일 (일) · 오프라인]]></content>
     </entry>
 </feed>
