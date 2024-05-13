@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-13T04:09:04.821Z</updated>
+    <updated>2024-05-13T05:07:48.373Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[한국정보기술연구원] 24년 6월 재직자 교육 수강생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5242</id>
+        <link href="https://festa.io/events/5242"/>
+        <updated>2024-05-13T05:07:47.561Z</updated>
+        <content type="html"><![CDATA[5월 12일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[WACP FORUM (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5239</id>
+        <link href="https://festa.io/events/5239"/>
+        <updated>2024-05-13T05:07:47.566Z</updated>
+        <content type="html"><![CDATA[5월 25일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[더조은아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5241</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5229"/>
         <updated>2024-05-10T07:05:04.074Z</updated>
         <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 고위 여성 리더십 과정 (2차) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5232</id>
-        <link href="https://festa.io/events/5232"/>
-        <updated>2024-05-10T06:08:52.826Z</updated>
-        <content type="html"><![CDATA[6월 27일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 재직자 실무역량 강화를 위한 온라인 과정 2차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5231</id>
-        <link href="https://festa.io/events/5231"/>
-        <updated>2024-05-10T06:08:52.828Z</updated>
-        <content type="html"><![CDATA[6월 1일 (토) · 온라인]]></content>
     </entry>
 </feed>
