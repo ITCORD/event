@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-13T01:48:49.055Z</updated>
+    <updated>2024-05-13T02:23:20.574Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[✅  AI자바풀스택개발자 국비지원 - 하이미디어아카데미 강남점]]></title>
+        <id>https://festa.io/events/5238</id>
+        <link href="https://festa.io/events/5238"/>
+        <updated>2024-05-13T02:23:20.024Z</updated>
+        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[산업재 글로벌 B2B 시장 개척 포럼]]></title>
         <id>https://festa.io/events/5236</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/5228</id>
         <link href="https://festa.io/events/5228"/>
         <updated>2024-05-09T22:02:16.351Z</updated>
-        <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 데이터 애널리틱스 트랙 1기 모집]]></title>
-        <id>https://festa.io/events/5226</id>
-        <link href="https://festa.io/events/5226"/>
-        <updated>2024-05-09T10:08:02.674Z</updated>
         <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
     </entry>
 </feed>
