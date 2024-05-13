@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-13T10:06:47.104Z</updated>
+    <updated>2024-05-13T11:02:21.391Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[엔지니어 네트워킹 파티, 빌드라포]]></title>
+        <id>https://festa.io/events/5245</id>
+        <link href="https://festa.io/events/5245"/>
+        <updated>2024-05-13T11:02:20.800Z</updated>
+        <content type="html"><![CDATA[5월 29일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[마이크로소프트가 아시아 대상 온라인 기술교육을 한다고? 한국인이라면 빠질 수 없지]]></title>
         <id>https://festa.io/events/5244</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5236"/>
         <updated>2024-05-12T16:03:17.355Z</updated>
         <content type="html"><![CDATA[5월 17일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[20-30] 여성우선모집!!! 달달한 커피 페어링 디저트 찾기 달다래❣️]]></title>
-        <id>https://festa.io/events/5235</id>
-        <link href="https://festa.io/events/5235"/>
-        <updated>2024-05-12T13:03:43.340Z</updated>
-        <content type="html"><![CDATA[5월 19일 (일) · 오프라인]]></content>
     </entry>
 </feed>
