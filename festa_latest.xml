@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-13T13:08:44.450Z</updated>
+    <updated>2024-05-13T14:02:54.169Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[제2회 광화문 디너패드 : 특허가 이렇게 쉽다고?]]></title>
+        <id>https://festa.io/events/5246</id>
+        <link href="https://festa.io/events/5246"/>
+        <updated>2024-05-13T14:02:53.599Z</updated>
+        <content type="html"><![CDATA[5월 23일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[엔지니어 네트워킹 파티, 빌드라포]]></title>
         <id>https://festa.io/events/5245</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5238"/>
         <updated>2024-05-13T02:23:20.024Z</updated>
         <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[산업재 글로벌 B2B 시장 개척 포럼]]></title>
-        <id>https://festa.io/events/5236</id>
-        <link href="https://festa.io/events/5236"/>
-        <updated>2024-05-12T16:03:17.355Z</updated>
-        <content type="html"><![CDATA[5월 17일 (금) · 오프라인]]></content>
     </entry>
 </feed>
