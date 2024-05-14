@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-14T01:44:37.210Z</updated>
+    <updated>2024-05-14T02:20:20.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[앵콜 세미나] 자본주의의 비밀, 그 본질을 파헤치다]]></title>
+        <id>https://festa.io/events/5250</id>
+        <link href="https://festa.io/events/5250"/>
+        <updated>2024-05-14T02:20:19.818Z</updated>
+        <content type="html"><![CDATA[5월 20일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제2회 광화문 디너패드 : 특허가 이렇게 쉽다고?]]></title>
         <id>https://festa.io/events/5246</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5240"/>
         <updated>2024-05-13T04:09:04.160Z</updated>
         <content type="html"><![CDATA[5월 20일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅  AI자바풀스택개발자 국비지원 - 하이미디어아카데미 강남점]]></title>
-        <id>https://festa.io/events/5238</id>
-        <link href="https://festa.io/events/5238"/>
-        <updated>2024-05-13T02:23:20.024Z</updated>
-        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
     </entry>
 </feed>
