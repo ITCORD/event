@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-16T10:03:52.915Z</updated>
+    <updated>2024-05-16T11:01:50.659Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[강남]다시 돌아온... 생성형 AI를 활용한 프레젠테이션 만들기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5264</id>
+        <link href="https://festa.io/events/5264"/>
+        <updated>2024-05-16T11:01:50.005Z</updated>
+        <content type="html"><![CDATA[5월 29일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강의/무료] 비전공자가 쉽게 알려주는 개발 생태계 및 chatGPT 활용 강의 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5262</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5254"/>
         <updated>2024-05-14T09:02:53.599Z</updated>
         <content type="html"><![CDATA[5월 20일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA["내가 부자가 될 상인가?" [NPTI 컨설팅 세미나] (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5253</id>
-        <link href="https://festa.io/events/5253"/>
-        <updated>2024-05-14T08:10:38.702Z</updated>
-        <content type="html"><![CDATA[5월 27일 (월) · 오프라인]]></content>
     </entry>
 </feed>
