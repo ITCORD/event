@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-17T07:02:55.934Z</updated>
+    <updated>2024-05-17T08:09:00.636Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[클래식+루틴] 클래식으로 루틴 지켜나갈, 클래식 루티너 2기 모집합니다.]]></title>
+        <id>https://festa.io/events/5268</id>
+        <link href="https://festa.io/events/5268"/>
+        <updated>2024-05-17T08:08:59.923Z</updated>
+        <content type="html"><![CDATA[5월 14일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[<서울시 새싹 금천캠퍼스 그로스마케팅 과정 교육생 모집(구로디지털단지역/독산역/가산디지털단지역 인근)>]]></title>
+        <id>https://festa.io/events/5269</id>
+        <link href="https://festa.io/events/5269"/>
+        <updated>2024-05-17T08:08:59.924Z</updated>
+        <content type="html"><![CDATA[5월 17일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Kakao Tech Meet #6]]></title>
         <id>https://festa.io/events/5243</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5259"/>
         <updated>2024-05-16T02:21:12.589Z</updated>
         <content type="html"><![CDATA[7월 24일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에듀테크 기업을 위한 AI 기반 미래 교육 세미나]]></title>
-        <id>https://festa.io/events/5256</id>
-        <link href="https://festa.io/events/5256"/>
-        <updated>2024-05-16T01:45:35.162Z</updated>
-        <content type="html"><![CDATA[5월 31일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버 웨일과 함께하는 미래 교육 세미나]]></title>
-        <id>https://festa.io/events/5251</id>
-        <link href="https://festa.io/events/5251"/>
-        <updated>2024-05-16T01:45:35.163Z</updated>
-        <content type="html"><![CDATA[5월 29일 (수) · 오프라인]]></content>
     </entry>
 </feed>
