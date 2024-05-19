@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-19T09:03:23.456Z</updated>
+    <updated>2024-05-19T10:02:06.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 마이크로소프트 빌드 애프터 파티 🎉]]></title>
+        <id>https://festa.io/events/5273</id>
+        <link href="https://festa.io/events/5273"/>
+        <updated>2024-05-19T10:02:05.503Z</updated>
+        <content type="html"><![CDATA[6월 7일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[클래식+루틴] 클래식으로 루틴 지켜나갈, 클래식 루티너 2기 모집합니다.]]></title>
         <id>https://festa.io/events/5268</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5261"/>
         <updated>2024-05-16T05:02:29.668Z</updated>
         <content type="html"><![CDATA[5월 24일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[SBA서울경제진흥원 새싹 x 메디치교육센터]언리얼 활용 게임개발 양성과정]]></title>
-        <id>https://festa.io/events/5259</id>
-        <link href="https://festa.io/events/5259"/>
-        <updated>2024-05-16T02:21:12.589Z</updated>
-        <content type="html"><![CDATA[7월 24일 (수) · 오프라인]]></content>
     </entry>
 </feed>
