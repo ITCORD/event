@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-19T23:06:54.397Z</updated>
+    <updated>2024-05-20T00:29:09.792Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데브콘 서울 : 오월엔 AI]]></title>
+        <id>https://festa.io/events/5272</id>
+        <link href="https://festa.io/events/5272"/>
+        <updated>2024-05-20T00:29:09.165Z</updated>
+        <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 마이크로소프트 빌드 애프터 파티 🎉]]></title>
         <id>https://festa.io/events/5273</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5262"/>
         <updated>2024-05-16T05:02:29.667Z</updated>
         <content type="html"><![CDATA[5월 28일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[!!마감임박!! [유데미 X 웅진씽크빅 X 스나이퍼팩토리] 프로젝트 캠프 : Next.js 과정 1기]]></title>
-        <id>https://festa.io/events/5261</id>
-        <link href="https://festa.io/events/5261"/>
-        <updated>2024-05-16T05:02:29.668Z</updated>
-        <content type="html"><![CDATA[5월 24일 (금) · 오프라인]]></content>
     </entry>
 </feed>
