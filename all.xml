@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-20T00:29:09.794Z</updated>
+    <updated>2024-05-20T01:46:26.475Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5276</id>
+        <link href="https://festa.io/events/5276"/>
+        <updated>2024-05-20T01:46:25.827Z</updated>
+        <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5275</id>
+        <link href="https://festa.io/events/5275"/>
+        <updated>2024-05-20T01:46:25.836Z</updated>
+        <content type="html"><![CDATA[5월 27일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데브콘 서울 : 오월엔 AI (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5272</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5266"/>
         <updated>2024-05-17T01:45:26.764Z</updated>
         <content type="html"><![CDATA[5월 27일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강남]다시 돌아온... 생성형 AI를 활용한 프레젠테이션 만들기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5264</id>
-        <link href="https://festa.io/events/5264"/>
-        <updated>2024-05-16T11:01:50.005Z</updated>
-        <content type="html"><![CDATA[5월 29일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[강의/무료] 비전공자가 쉽게 알려주는 개발 생태계 및 chatGPT 활용 강의 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5262</id>
-        <link href="https://festa.io/events/5262"/>
-        <updated>2024-05-16T05:02:29.667Z</updated>
-        <content type="html"><![CDATA[5월 28일 (화) · 오프라인]]></content>
     </entry>
 </feed>
