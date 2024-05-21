@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-20T23:02:34.591Z</updated>
+    <updated>2024-05-21T00:29:17.533Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/5283</id>
+        <link href="https://festa.io/events/5283"/>
+        <updated>2024-05-21T00:29:16.873Z</updated>
+        <content type="html"><![CDATA[6월 2일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] UI/UX 인턴형 프로그램 과정 4기]]></title>
         <id>https://festa.io/events/5277</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5269"/>
         <updated>2024-05-17T08:08:59.924Z</updated>
         <content type="html"><![CDATA[5월 17일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Kakao Tech Meet #6]]></title>
-        <id>https://festa.io/events/5243</id>
-        <link href="https://festa.io/events/5243"/>
-        <updated>2024-05-17T07:02:55.323Z</updated>
-        <content type="html"><![CDATA[6월 13일 (목) · 오프라인]]></content>
     </entry>
 </feed>
