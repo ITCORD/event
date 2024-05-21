@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-21T08:09:53.072Z</updated>
+    <updated>2024-05-21T09:03:28.878Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 여름 헬렌의 임프라브 과정 모집]]></title>
+        <id>https://festa.io/events/5289</id>
+        <link href="https://festa.io/events/5289"/>
+        <updated>2024-05-21T09:03:28.271Z</updated>
+        <content type="html"><![CDATA[7월 9일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무료특강] 클라우드 현업 전문가 멘토링 특강]]></title>
+        <id>https://festa.io/events/5288</id>
+        <link href="https://festa.io/events/5288"/>
+        <updated>2024-05-21T09:03:28.271Z</updated>
+        <content type="html"><![CDATA[4월 30일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한빛앤 MSA #2-7  ‘서비스 장애’ 잘 이해하고 대비하기]]></title>
         <id>https://festa.io/events/5260</id>
@@ -17,7 +31,7 @@
         <id>https://festa.io/events/5286</id>
         <link href="https://festa.io/events/5286"/>
         <updated>2024-05-21T06:09:47.394Z</updated>
-        <content type="html"><![CDATA[4월 30일 (화) · 오프라인]]></content>
+        <content type="html"><![CDATA[6월 9일 (일) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[OpenAI, 개발자는 어떻게 사용해??(feat. MS AI Odyssey)]]></title>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5277"/>
         <updated>2024-05-20T03:07:58.212Z</updated>
         <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
-        <id>https://festa.io/events/5276</id>
-        <link href="https://festa.io/events/5276"/>
-        <updated>2024-05-20T01:46:25.827Z</updated>
-        <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성]]></title>
-        <id>https://festa.io/events/5275</id>
-        <link href="https://festa.io/events/5275"/>
-        <updated>2024-05-20T01:46:25.836Z</updated>
-        <content type="html"><![CDATA[5월 27일 (월) · 오프라인]]></content>
     </entry>
 </feed>
