@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-21T05:02:41.921Z</updated>
+    <updated>2024-05-21T06:09:48.046Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[한빛앤 MSA #2-7  ‘서비스 장애’ 잘 이해하고 대비하기]]></title>
-        <id>https://festa.io/events/5260</id>
-        <link href="https://festa.io/events/5260"/>
-        <updated>2024-05-21T05:02:41.338Z</updated>
-        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
+        <title type="html"><![CDATA[[유데미 x 웅진씽크빅] 유데미 취업 부트캠프 디지털 마케팅 교육생 모집 (~5/30, 6월 개강)]]></title>
+        <id>https://festa.io/events/5286</id>
+        <link href="https://festa.io/events/5286"/>
+        <updated>2024-05-21T06:09:47.394Z</updated>
+        <content type="html"><![CDATA[4월 30일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[OpenAI, 개발자는 어떻게 사용해??(feat. MS AI Odyssey)]]></title>
+        <id>https://festa.io/events/5271</id>
+        <link href="https://festa.io/events/5271"/>
+        <updated>2024-05-21T06:09:47.395Z</updated>
+        <content type="html"><![CDATA[5월 31일 (금) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[코드잇 스프린트] 프론트엔드 엔지니어 부트캠프 9기]]></title>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5272"/>
         <updated>2024-05-20T00:29:09.165Z</updated>
         <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 마이크로소프트 빌드 애프터 파티 🎉]]></title>
-        <id>https://festa.io/events/5273</id>
-        <link href="https://festa.io/events/5273"/>
-        <updated>2024-05-19T10:02:05.503Z</updated>
-        <content type="html"><![CDATA[6월 7일 (금) · 오프라인]]></content>
     </entry>
 </feed>
