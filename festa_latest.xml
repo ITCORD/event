@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-21T06:09:48.046Z</updated>
+    <updated>2024-05-21T07:02:15.365Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[한빛앤 MSA #2-7  ‘서비스 장애’ 잘 이해하고 대비하기]]></title>
+        <id>https://festa.io/events/5260</id>
+        <link href="https://festa.io/events/5260"/>
+        <updated>2024-05-21T07:02:14.758Z</updated>
+        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유데미 x 웅진씽크빅] 유데미 취업 부트캠프 디지털 마케팅 교육생 모집 (~5/30, 6월 개강)]]></title>
         <id>https://festa.io/events/5286</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5275"/>
         <updated>2024-05-20T01:46:25.836Z</updated>
         <content type="html"><![CDATA[5월 27일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[데브콘 서울 : 오월엔 AI]]></title>
-        <id>https://festa.io/events/5272</id>
-        <link href="https://festa.io/events/5272"/>
-        <updated>2024-05-20T00:29:09.165Z</updated>
-        <content type="html"><![CDATA[5월 30일 (목) · 오프라인]]></content>
     </entry>
 </feed>
