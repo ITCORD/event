@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-21T09:03:28.950Z</updated>
+    <updated>2024-05-21T10:04:59.657Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[강남] [무료] [네트워킹] 생성형 AI를 활용한 글쓰기(SEO) / 직장인을 위한, 퇴근이 빨라지는 실무 AI 활용법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5284</id>
+        <link href="https://festa.io/events/5284"/>
+        <updated>2024-05-21T10:04:59.070Z</updated>
+        <content type="html"><![CDATA[5월 28일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 여름 헬렌의 임프라브 과정 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5289</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5283"/>
         <updated>2024-05-21T00:29:16.873Z</updated>
         <content type="html"><![CDATA[6월 2일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] UI/UX 인턴형 프로그램 과정 4기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5277</id>
-        <link href="https://festa.io/events/5277"/>
-        <updated>2024-05-20T03:07:58.212Z</updated>
-        <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
     </entry>
 </feed>
