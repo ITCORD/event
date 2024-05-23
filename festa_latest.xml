@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-23T00:28:33.017Z</updated>
+    <updated>2024-05-23T01:45:42.952Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 5월의 패스워드]]></title>
+        <id>https://festa.io/events/5299</id>
+        <link href="https://festa.io/events/5299"/>
+        <updated>2024-05-23T01:45:42.298Z</updated>
+        <content type="html"><![CDATA[5월 31일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[패션 디자이너 브랜드를 지켜라 VS 브랜드 도둑의 대응]]></title>
         <id>https://festa.io/events/5297</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5288"/>
         <updated>2024-05-21T09:03:28.271Z</updated>
         <content type="html"><![CDATA[4월 30일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛앤 MSA #2-7  ‘서비스 장애’ 잘 이해하고 대비하기]]></title>
-        <id>https://festa.io/events/5260</id>
-        <link href="https://festa.io/events/5260"/>
-        <updated>2024-05-21T07:02:14.758Z</updated>
-        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
     </entry>
 </feed>
