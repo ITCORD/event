@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-24T08:08:51.192Z</updated>
+    <updated>2024-05-24T09:03:35.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[모두의연구소 'Django 백엔드 개발 과정' 교육생 모집 (~6/16)]]></title>
+        <id>https://festa.io/events/5314</id>
+        <link href="https://festa.io/events/5314"/>
+        <updated>2024-05-24T09:03:34.412Z</updated>
+        <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[애자일 코리아 밋업 6월 "제품주도성장(PLG)과 애자일 코치"]]></title>
         <id>https://festa.io/events/5312</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5303"/>
         <updated>2024-05-23T06:09:27.867Z</updated>
         <content type="html"><![CDATA[6월 13일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[💗전문 SW교육파트너! 취업률 81.6%!! 서울시민 무조건 무료 💗 새싹(SeSAC) 마감임박!!!! (~6/9) 💗]]></title>
-        <id>https://festa.io/events/5302</id>
-        <link href="https://festa.io/events/5302"/>
-        <updated>2024-05-23T06:09:27.867Z</updated>
-        <content type="html"><![CDATA[5월 23일 (목) · 오프라인]]></content>
     </entry>
 </feed>
