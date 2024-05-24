@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-05-24T05:02:10.885Z</updated>
+    <updated>2024-05-24T06:08:52.015Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[애자일 코리아 밋업 6월 "제품주도성장(PLG)과 애자일 코치" (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5312</id>
+        <link href="https://festa.io/events/5312"/>
+        <updated>2024-05-24T06:08:51.422Z</updated>
+        <content type="html"><![CDATA[6월 7일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[슈퍼우먼 컨퍼런스 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5313</id>
+        <link href="https://festa.io/events/5313"/>
+        <updated>2024-05-24T06:08:51.422Z</updated>
+        <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5309</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5302"/>
         <updated>2024-05-23T06:09:27.867Z</updated>
         <content type="html"><![CDATA[5월 23일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 5월의 패스워드 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5299</id>
-        <link href="https://festa.io/events/5299"/>
-        <updated>2024-05-23T01:45:42.298Z</updated>
-        <content type="html"><![CDATA[5월 31일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[패션 디자이너 브랜드를 지켜라 VS 브랜드 도둑의 대응 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5297</id>
-        <link href="https://festa.io/events/5297"/>
-        <updated>2024-05-22T13:08:51.514Z</updated>
-        <content type="html"><![CDATA[6월 4일 (화) · 오프라인]]></content>
     </entry>
 </feed>
