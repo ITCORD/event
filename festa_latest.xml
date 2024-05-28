@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-28T09:05:13.768Z</updated>
+    <updated>2024-05-28T10:04:30.867Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Go To Jeju]]></title>
+        <id>https://festa.io/events/5326</id>
+        <link href="https://festa.io/events/5326"/>
+        <updated>2024-05-28T10:04:30.250Z</updated>
+        <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[19회] 레벨측정 분야 레이더 활용 동향 세미나]]></title>
         <id>https://festa.io/events/5325</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5257"/>
         <updated>2024-05-26T07:03:06.765Z</updated>
         <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[iMac으로 코딩 첫 걸음]]></title>
-        <id>https://festa.io/events/5316</id>
-        <link href="https://festa.io/events/5316"/>
-        <updated>2024-05-24T15:03:44.949Z</updated>
-        <content type="html"><![CDATA[6월 29일 (토) · 오프라인]]></content>
     </entry>
 </feed>
