@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-27T23:04:37.192Z</updated>
+    <updated>2024-05-28T00:29:29.420Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울시/SBA] 데이터분석가 취업캠프 2기 OPEN! (헬스케어ver.)]]></title>
+        <id>https://festa.io/events/5323</id>
+        <link href="https://festa.io/events/5323"/>
+        <updated>2024-05-28T00:29:28.796Z</updated>
+        <content type="html"><![CDATA[4월 22일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[생성형 AI 전액무료 교육] 2024 AI 콘텐츠 창작 아카데미 - 웹툰 창작자 과정]]></title>
         <id>https://festa.io/events/5320</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5315"/>
         <updated>2024-05-24T10:03:25.329Z</updated>
         <content type="html"><![CDATA[5월 31일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[모두의연구소 'Django 백엔드 개발 과정' 교육생 모집 (~6/16)]]></title>
-        <id>https://festa.io/events/5314</id>
-        <link href="https://festa.io/events/5314"/>
-        <updated>2024-05-24T09:03:34.412Z</updated>
-        <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
     </entry>
 </feed>
