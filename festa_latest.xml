@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-30T00:29:57.586Z</updated>
+    <updated>2024-05-30T01:53:27.600Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 미래내일 일경험 지원사업(인턴형) 참여자 모집(5차)]]></title>
+        <id>https://festa.io/events/5329</id>
+        <link href="https://festa.io/events/5329"/>
+        <updated>2024-05-30T01:53:27.031Z</updated>
+        <content type="html"><![CDATA[5월 26일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한성기업과 함께 하는 디지털 마케터 취업캠프 2기]]></title>
         <id>https://festa.io/events/5327</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5307"/>
         <updated>2024-05-27T00:30:52.592Z</updated>
         <content type="html"><![CDATA[6월 25일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI × 독서모임]인공지능 책 함께 읽어요!]]></title>
-        <id>https://festa.io/events/5317</id>
-        <link href="https://festa.io/events/5317"/>
-        <updated>2024-05-26T12:10:12.536Z</updated>
-        <content type="html"><![CDATA[7월 25일 (목) · 오프라인]]></content>
     </entry>
 </feed>
