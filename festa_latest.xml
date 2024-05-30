@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-30T13:08:15.938Z</updated>
+    <updated>2024-05-30T14:02:12.335Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 개발자 네트워킹 파티, '제 3회 Beer 🍻 Night']]></title>
+        <id>https://festa.io/events/5338</id>
+        <link href="https://festa.io/events/5338"/>
+        <updated>2024-05-30T14:02:11.706Z</updated>
+        <content type="html"><![CDATA[6월 15일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[비전공자도 IT 서비스기획자/PM/PO가 되는 과정 8기모집]]></title>
         <id>https://festa.io/events/5337</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5327"/>
         <updated>2024-05-29T00:29:57.533Z</updated>
         <content type="html"><![CDATA[5월 1일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Go To Jeju 2024]]></title>
-        <id>https://festa.io/events/5326</id>
-        <link href="https://festa.io/events/5326"/>
-        <updated>2024-05-28T10:04:30.250Z</updated>
-        <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
     </entry>
 </feed>
