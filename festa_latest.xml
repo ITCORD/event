@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-31T10:07:39.282Z</updated>
+    <updated>2024-05-31T11:04:39.325Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(https://koreaclub.cloud) [야동클럽, 한국야동, 일본AV, 온리팬스, 무료야동]]]></title>
+        <id>https://festa.io/events/5348</id>
+        <link href="https://festa.io/events/5348"/>
+        <updated>2024-05-31T11:04:38.753Z</updated>
+        <content type="html"><![CDATA[6월 8일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/5345</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5330"/>
         <updated>2024-05-30T15:03:24.201Z</updated>
         <content type="html"><![CDATA[6월 10일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 개발자 네트워킹 파티, '제 3회 Beer 🍻 Night']]></title>
-        <id>https://festa.io/events/5338</id>
-        <link href="https://festa.io/events/5338"/>
-        <updated>2024-05-30T14:02:11.706Z</updated>
-        <content type="html"><![CDATA[6월 15일 (토) · 오프라인]]></content>
     </entry>
 </feed>
