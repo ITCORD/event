@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-05-31T01:51:19.816Z</updated>
+    <updated>2024-05-31T02:23:50.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[📢2024 구글 클라우드 NEXT Recap in 서울]]></title>
+        <id>https://festa.io/events/5343</id>
+        <link href="https://festa.io/events/5343"/>
+        <updated>2024-05-31T02:23:49.915Z</updated>
+        <content type="html"><![CDATA[5월 30일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 새싹(SeSAC) 영등포캠퍼스 6기 교육생모집 - 빅데이터 분석가 양성과정]]></title>
+        <id>https://festa.io/events/5342</id>
+        <link href="https://festa.io/events/5342"/>
+        <updated>2024-05-31T02:23:49.916Z</updated>
+        <content type="html"><![CDATA[4월 26일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[고용노동부] 데이터 분석 취업 3개월 완성반 OPEN]]></title>
         <id>https://festa.io/events/5339</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5335"/>
         <updated>2024-05-30T07:07:58.823Z</updated>
         <content type="html"><![CDATA[6월 28일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[예술경영지원센터] 2024 공연예술 데이터 포럼(KODaF) 개최 (6/17)]]></title>
-        <id>https://festa.io/events/5333</id>
-        <link href="https://festa.io/events/5333"/>
-        <updated>2024-05-30T06:09:34.613Z</updated>
-        <content type="html"><![CDATA[6월 17일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛앤 MSA #2-8  신입 개발자가 알아야 할  SQL과 DB]]></title>
-        <id>https://festa.io/events/5332</id>
-        <link href="https://festa.io/events/5332"/>
-        <updated>2024-05-30T06:09:34.614Z</updated>
-        <content type="html"><![CDATA[6월 27일 (목) · 오프라인]]></content>
     </entry>
 </feed>
