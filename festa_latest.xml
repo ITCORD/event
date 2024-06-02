@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-02T00:32:12.029Z</updated>
+    <updated>2024-06-02T01:55:00.791Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[06/04] 클러치 스터디: 다양한 주제의 아티클을 발제하고 토론하는 모임]]></title>
+        <id>https://festa.io/events/5351</id>
+        <link href="https://festa.io/events/5351"/>
+        <updated>2024-06-02T01:55:00.205Z</updated>
+        <content type="html"><![CDATA[6월 4일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GDSC Ewha 5th Demo Day]]></title>
         <id>https://festa.io/events/5321</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5342"/>
         <updated>2024-05-31T02:23:49.916Z</updated>
         <content type="html"><![CDATA[4월 26일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[고용노동부] 데이터 분석 취업 3개월 완성반 OPEN]]></title>
-        <id>https://festa.io/events/5339</id>
-        <link href="https://festa.io/events/5339"/>
-        <updated>2024-05-31T01:51:19.215Z</updated>
-        <content type="html"><![CDATA[5월 13일 (월) · 오프라인]]></content>
     </entry>
 </feed>
