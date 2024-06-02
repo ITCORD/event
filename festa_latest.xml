@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-02T13:03:57.084Z</updated>
+    <updated>2024-06-02T14:02:38.323Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -25,13 +25,6 @@
         <link href="https://festa.io/events/5321"/>
         <updated>2024-06-01T15:02:02.654Z</updated>
         <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(https://koreaclub.cloud) [야동클럽, 한국야동, 일본AV, 온리팬스, 무료야동]]]></title>
-        <id>https://festa.io/events/5348</id>
-        <link href="https://festa.io/events/5348"/>
-        <updated>2024-05-31T11:04:38.753Z</updated>
-        <content type="html"><![CDATA[6월 8일 (토) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/5343"/>
         <updated>2024-05-31T02:23:49.915Z</updated>
         <content type="html"><![CDATA[6월 13일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 새싹(SeSAC) 영등포캠퍼스 6기 교육생모집 - 빅데이터 분석가 양성과정]]></title>
+        <id>https://festa.io/events/5342</id>
+        <link href="https://festa.io/events/5342"/>
+        <updated>2024-06-02T14:02:37.663Z</updated>
+        <content type="html"><![CDATA[4월 26일 (금) · 오프라인]]></content>
     </entry>
 </feed>
