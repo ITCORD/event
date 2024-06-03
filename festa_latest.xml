@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-03T09:07:35.456Z</updated>
+    <updated>2024-06-03T10:09:20.545Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[속독을 배우면 독서 시간이 줄어듭니다!  즐거운 속독 락독!]]></title>
+        <id>https://festa.io/events/5357</id>
+        <link href="https://festa.io/events/5357"/>
+        <updated>2024-06-03T10:09:19.938Z</updated>
+        <content type="html"><![CDATA[6월 6일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[◆온라인무료세미나◆ 게임기획 캠프 23기 24/7/7 일요일 오후 2시~3시30분]]></title>
         <id>https://festa.io/events/5356</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5341"/>
         <updated>2024-05-31T04:08:12.896Z</updated>
         <content type="html"><![CDATA[5월 23일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[📢2024 구글 클라우드 NEXT Recap in 서울]]></title>
-        <id>https://festa.io/events/5343</id>
-        <link href="https://festa.io/events/5343"/>
-        <updated>2024-05-31T02:23:49.915Z</updated>
-        <content type="html"><![CDATA[6월 13일 (목) · 온라인]]></content>
     </entry>
 </feed>
