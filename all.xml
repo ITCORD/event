@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-04T02:24:38.444Z</updated>
+    <updated>2024-06-04T03:08:56.587Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[청중모집] 6월 컴퍼스 포럼 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -47,17 +47,17 @@
         <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[2024 아트코리아랩 웰커밍데이 『예술-기술 교류 세미나』 : XR & Interactive Music (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5350</id>
+        <link href="https://festa.io/events/5350"/>
+        <updated>2024-06-04T03:08:55.877Z</updated>
+        <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5345</id>
         <link href="https://festa.io/events/5345"/>
         <updated>2024-05-31T08:09:09.726Z</updated>
         <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료세미나]스타트업의 MVP 개발 방법론 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5344</id>
-        <link href="https://festa.io/events/5344"/>
-        <updated>2024-05-31T06:10:02.694Z</updated>
-        <content type="html"><![CDATA[6월 13일 (목) · 오프라인]]></content>
     </entry>
 </feed>
