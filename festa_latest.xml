@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-04T09:08:05.441Z</updated>
+    <updated>2024-06-04T10:02:55.667Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[6월 3일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[06/04] 클러치 스터디: 다양한 주제의 아티클을 발제하고 토론하는 모임]]></title>
-        <id>https://festa.io/events/5351</id>
-        <link href="https://festa.io/events/5351"/>
-        <updated>2024-06-02T01:55:00.205Z</updated>
-        <content type="html"><![CDATA[6월 4일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[GDSC Ewha 5th Demo Day]]></title>
         <id>https://festa.io/events/5321</id>
         <link href="https://festa.io/events/5321"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/5345"/>
         <updated>2024-05-31T08:09:09.726Z</updated>
         <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[무료세미나]스타트업의 MVP 개발 방법론]]></title>
+        <id>https://festa.io/events/5344</id>
+        <link href="https://festa.io/events/5344"/>
+        <updated>2024-06-04T10:02:55.014Z</updated>
+        <content type="html"><![CDATA[6월 13일 (목) · 오프라인]]></content>
     </entry>
 </feed>
