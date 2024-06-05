@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-05T01:51:45.748Z</updated>
+    <updated>2024-06-05T02:24:15.506Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/5345</id>
+        <link href="https://festa.io/events/5345"/>
+        <updated>2024-06-05T02:24:14.908Z</updated>
+        <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
         <id>https://festa.io/events/5363</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/5321</id>
         <link href="https://festa.io/events/5321"/>
         <updated>2024-06-01T15:02:02.654Z</updated>
-        <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 아트코리아랩 웰커밍데이 『예술-기술 교류 세미나』 : XR & Interactive Music]]></title>
-        <id>https://festa.io/events/5350</id>
-        <link href="https://festa.io/events/5350"/>
-        <updated>2024-06-04T03:08:55.877Z</updated>
         <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
     </entry>
 </feed>
