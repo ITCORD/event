@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-05T06:09:41.453Z</updated>
+    <updated>2024-06-05T07:01:52.541Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[디자이너의 버벌 무드보드 만들기]]></title>
+        <id>https://festa.io/events/5369</id>
+        <link href="https://festa.io/events/5369"/>
+        <updated>2024-06-05T07:01:51.977Z</updated>
+        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나만의 폰트를 만들고, 판매하기]]></title>
         <id>https://festa.io/events/5368</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5357"/>
         <updated>2024-06-03T10:09:19.938Z</updated>
         <content type="html"><![CDATA[6월 6일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[◆온라인무료세미나◆ 게임기획 캠프 23기 24/7/7 일요일 오후 2시~3시30분]]></title>
-        <id>https://festa.io/events/5356</id>
-        <link href="https://festa.io/events/5356"/>
-        <updated>2024-06-03T08:10:22.348Z</updated>
-        <content type="html"><![CDATA[7월 7일 (일) · 온라인]]></content>
     </entry>
 </feed>
