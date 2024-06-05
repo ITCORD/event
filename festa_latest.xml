@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-04T23:07:49.401Z</updated>
+    <updated>2024-06-05T00:29:11.846Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[(주)MDS테크] FLIR 열화상 카메라 세미나]]></title>
+        <id>https://festa.io/events/5361</id>
+        <link href="https://festa.io/events/5361"/>
+        <updated>2024-06-05T00:29:11.248Z</updated>
+        <content type="html"><![CDATA[6월 26일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청중모집] 6월 컴퍼스 포럼]]></title>
         <id>https://festa.io/events/5359</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5345"/>
         <updated>2024-05-31T08:09:09.726Z</updated>
         <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료세미나]스타트업의 MVP 개발 방법론]]></title>
-        <id>https://festa.io/events/5344</id>
-        <link href="https://festa.io/events/5344"/>
-        <updated>2024-06-04T10:02:55.014Z</updated>
-        <content type="html"><![CDATA[6월 13일 (목) · 오프라인]]></content>
     </entry>
 </feed>
