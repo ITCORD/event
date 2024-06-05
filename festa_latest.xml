@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-05T05:04:13.716Z</updated>
+    <updated>2024-06-05T06:09:41.453Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나만의 폰트를 만들고, 판매하기]]></title>
+        <id>https://festa.io/events/5368</id>
+        <link href="https://festa.io/events/5368"/>
+        <updated>2024-06-05T06:09:40.888Z</updated>
+        <content type="html"><![CDATA[6월 11일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[게임 캐릭터를 Mari로 칠하고 Flow로 관리하는 방법: Mari+Flow Production Tracking]]></title>
+        <id>https://festa.io/events/5367</id>
+        <link href="https://festa.io/events/5367"/>
+        <updated>2024-06-05T06:09:40.891Z</updated>
+        <content type="html"><![CDATA[6월 20일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/5345</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5356"/>
         <updated>2024-06-03T08:10:22.348Z</updated>
         <content type="html"><![CDATA[7월 7일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 3rd QA Korea Conference]]></title>
-        <id>https://festa.io/events/5301</id>
-        <link href="https://festa.io/events/5301"/>
-        <updated>2024-06-02T05:02:40.045Z</updated>
-        <content type="html"><![CDATA[6월 3일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDSC Ewha 5th Demo Day]]></title>
-        <id>https://festa.io/events/5321</id>
-        <link href="https://festa.io/events/5321"/>
-        <updated>2024-06-01T15:02:02.654Z</updated>
-        <content type="html"><![CDATA[6월 24일 (월) · 오프라인]]></content>
     </entry>
 </feed>
