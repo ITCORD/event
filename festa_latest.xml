@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-07T08:09:03.668Z</updated>
+    <updated>2024-06-07T09:05:56.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[KotlinConf'24 Global in South Korea]]></title>
+        <id>https://festa.io/events/5375</id>
+        <link href="https://festa.io/events/5375"/>
+        <updated>2024-06-07T09:05:55.419Z</updated>
+        <content type="html"><![CDATA[6월 29일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(Open UP) '24년도 오픈소스 컨트리뷰션 아카데미 멘티(참여형) 모집(~6.23)]]></title>
         <id>https://festa.io/events/5378</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5367"/>
         <updated>2024-06-05T06:09:40.891Z</updated>
         <content type="html"><![CDATA[6월 20일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/5345</id>
-        <link href="https://festa.io/events/5345"/>
-        <updated>2024-06-05T02:24:14.908Z</updated>
-        <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
     </entry>
 </feed>
