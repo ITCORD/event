@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-11T12:11:53.683Z</updated>
+    <updated>2024-06-11T13:10:29.743Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(온라인) 재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/5381</id>
+        <link href="https://festa.io/events/5381"/>
+        <updated>2024-06-11T13:10:29.094Z</updated>
+        <content type="html"><![CDATA[6월 23일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/5345</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5387"/>
         <updated>2024-06-10T01:55:45.398Z</updated>
         <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 제1회 ICT콤플렉스 전문가네트워킹-인공지능(AI)]]></title>
-        <id>https://festa.io/events/5384</id>
-        <link href="https://festa.io/events/5384"/>
-        <updated>2024-06-08T16:08:15.073Z</updated>
-        <content type="html"><![CDATA[6월 25일 (화) · 오프라인]]></content>
     </entry>
 </feed>
