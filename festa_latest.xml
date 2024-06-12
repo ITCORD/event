@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-12T00:29:50.255Z</updated>
+    <updated>2024-06-12T01:53:55.431Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[송파 ICT_AI활용 마케팅 실무 과정 모집중(~06/27)]]></title>
+        <id>https://festa.io/events/5394</id>
+        <link href="https://festa.io/events/5394"/>
+        <updated>2024-06-12T01:53:54.827Z</updated>
+        <content type="html"><![CDATA[7월 5일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(온라인) 재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/5381</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5388"/>
         <updated>2024-06-10T08:09:47.064Z</updated>
         <content type="html"><![CDATA[7월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
-        <id>https://festa.io/events/5387</id>
-        <link href="https://festa.io/events/5387"/>
-        <updated>2024-06-10T01:55:45.398Z</updated>
-        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
     </entry>
 </feed>
