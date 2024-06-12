@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-12T04:08:52.858Z</updated>
+    <updated>2024-06-12T05:05:48.477Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[송파 ICT_AI활용 마케팅 실무 과정 모집중(~06/27) (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -40,6 +40,13 @@
         <content type="html"><![CDATA[6월 11일 (화) · 온라인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[왓캐스트: 서류탈락 80%, '이것'때문에 떨어진다. (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5391</id>
+        <link href="https://festa.io/events/5391"/>
+        <updated>2024-06-12T05:05:47.898Z</updated>
+        <content type="html"><![CDATA[6월 23일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[업계경력 10년이상의 현직 SEO컨설턴트가 검색엔진최적화(SEO)의 비젼과 이해 방법에 대해서 무료 세미나를 개최합니다. (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5380</id>
         <link href="https://festa.io/events/5380"/>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5373"/>
         <updated>2024-06-10T11:02:08.944Z</updated>
         <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] 프로젝트 캠프 : Next.js 과정 2기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5388</id>
-        <link href="https://festa.io/events/5388"/>
-        <updated>2024-06-10T08:09:47.064Z</updated>
-        <content type="html"><![CDATA[7월 15일 (월) · 오프라인]]></content>
     </entry>
 </feed>
