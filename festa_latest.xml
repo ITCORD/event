@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-13T07:07:17.854Z</updated>
+    <updated>2024-06-13T08:09:13.863Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[제 14회] IT 기획자의 인사이트 네트워킹 모임 (서비스 기획, PM 취준~현직자까지)]]></title>
+        <id>https://festa.io/events/5397</id>
+        <link href="https://festa.io/events/5397"/>
+        <updated>2024-06-13T08:09:13.281Z</updated>
+        <content type="html"><![CDATA[6월 22일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한성대학교 6월 오픈특강 <생성형 AI의 이해와 애니메이션 제작 활용>]]></title>
         <id>https://festa.io/events/5396</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5392"/>
         <updated>2024-06-11T07:05:04.343Z</updated>
         <content type="html"><![CDATA[6월 11일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왓캐스트: 서류탈락 80%, '이것'때문에 떨어진다.]]></title>
-        <id>https://festa.io/events/5391</id>
-        <link href="https://festa.io/events/5391"/>
-        <updated>2024-06-12T05:05:47.898Z</updated>
-        <content type="html"><![CDATA[6월 23일 (일) · 온라인]]></content>
     </entry>
 </feed>
