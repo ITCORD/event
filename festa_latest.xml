@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-17T04:09:57.130Z</updated>
+    <updated>2024-06-17T05:08:16.487Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[<서울시 청년취업사관학교 새싹 금천캠퍼스 SW 4기 교육생 모집>]]></title>
+        <id>https://festa.io/events/5415</id>
+        <link href="https://festa.io/events/5415"/>
+        <updated>2024-06-17T05:08:15.922Z</updated>
+        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[🥇상금 300만원 ] 알고리즘 코드 챌린지 참여하자!]]></title>
         <id>https://festa.io/events/5414</id>
@@ -52,13 +59,6 @@
         <id>https://festa.io/events/5403</id>
         <link href="https://festa.io/events/5403"/>
         <updated>2024-06-14T01:53:22.905Z</updated>
-        <content type="html"><![CDATA[6월 14일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 풀스택 엔지니어 트랙 1기 모집]]></title>
-        <id>https://festa.io/events/5402</id>
-        <link href="https://festa.io/events/5402"/>
-        <updated>2024-06-14T01:53:22.906Z</updated>
         <content type="html"><![CDATA[6월 14일 (금) · 온라인]]></content>
     </entry>
 </feed>
