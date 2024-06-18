@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-18T09:06:57.496Z</updated>
+    <updated>2024-06-18T10:07:33.795Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[눈치? 그게 뭐라고!]]></title>
+        <id>https://festa.io/events/5426</id>
+        <link href="https://festa.io/events/5426"/>
+        <updated>2024-06-18T10:07:33.175Z</updated>
+        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 블록체인 경진대회 「BEST Challenge」]]></title>
         <id>https://festa.io/events/5424</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5415"/>
         <updated>2024-06-17T05:08:15.922Z</updated>
         <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🥇상금 300만원 ] 알고리즘 코드 챌린지 참여하자!]]></title>
-        <id>https://festa.io/events/5414</id>
-        <link href="https://festa.io/events/5414"/>
-        <updated>2024-06-17T03:09:11.680Z</updated>
-        <content type="html"><![CDATA[6월 10일 (월) · 온라인]]></content>
     </entry>
 </feed>
