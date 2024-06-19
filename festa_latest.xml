@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-19T09:08:18.462Z</updated>
+    <updated>2024-06-19T10:08:27.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[강남] [무료] [네트워킹] 모두의연구소 비즈클럽 6月]]></title>
+        <id>https://festa.io/events/5437</id>
+        <link href="https://festa.io/events/5437"/>
+        <updated>2024-06-19T10:08:27.091Z</updated>
+        <content type="html"><![CDATA[6월 26일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[새로운 길을 개척해보고 싶은 사람들을 위한 컨설팅]]></title>
         <id>https://festa.io/events/5433</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5422"/>
         <updated>2024-06-17T11:03:20.545Z</updated>
         <content type="html"><![CDATA[6월 27일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAIT/과기정통부] ICT 이노베이션 스퀘어 디지털 신기술 교육과정 수강생 모집 (전액무료)]]></title>
-        <id>https://festa.io/events/5421</id>
-        <link href="https://festa.io/events/5421"/>
-        <updated>2024-06-17T10:08:22.307Z</updated>
-        <content type="html"><![CDATA[7월 8일 (월) · 온라인]]></content>
     </entry>
 </feed>
