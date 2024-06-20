@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-19T23:08:05.550Z</updated>
+    <updated>2024-06-20T00:29:31.083Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[C++ Korea 2024 Meet-Up & Hands-On(6월) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5296</id>
+        <link href="https://festa.io/events/5296"/>
+        <updated>2024-06-20T00:29:30.388Z</updated>
+        <content type="html"><![CDATA[6월 29일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-하이테크 플랫폼과 함께하는 24’ Flutter Study in Songdo (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5439</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5427"/>
         <updated>2024-06-19T05:04:49.805Z</updated>
         <content type="html"><![CDATA[8월 17일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈치? 그게 뭐라고! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5426</id>
-        <link href="https://festa.io/events/5426"/>
-        <updated>2024-06-18T10:07:33.175Z</updated>
-        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
     </entry>
 </feed>
