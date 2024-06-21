@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-21T08:09:33.030Z</updated>
+    <updated>2024-06-21T09:06:32.468Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[🚨[무료웨비나] 채용불황에도 개발자 중고신입으로 취업하고 싶다면? (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5457</id>
+        <link href="https://festa.io/events/5457"/>
+        <updated>2024-06-21T09:06:31.731Z</updated>
+        <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5443</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/5448</id>
         <link href="https://festa.io/events/5448"/>
         <updated>2024-06-21T06:10:32.094Z</updated>
-        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 고민을 컨설팅! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5445</id>
-        <link href="https://festa.io/events/5445"/>
-        <updated>2024-06-21T05:08:20.284Z</updated>
         <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
     </entry>
 </feed>
