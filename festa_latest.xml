@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-21T07:08:05.906Z</updated>
+    <updated>2024-06-21T08:09:33.034Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
+        <id>https://festa.io/events/5443</id>
+        <link href="https://festa.io/events/5443"/>
+        <updated>2024-06-20T07:02:48.864Z</updated>
+        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈치? 그게 뭐라고!]]></title>
+        <id>https://festa.io/events/5442</id>
+        <link href="https://festa.io/events/5442"/>
+        <updated>2024-06-20T07:02:48.864Z</updated>
+        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자신을 어디까지 믿고 있나요?]]></title>
+        <id>https://festa.io/events/5456</id>
+        <link href="https://festa.io/events/5456"/>
+        <updated>2024-06-21T08:09:32.457Z</updated>
+        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신은 어디에 머물러 있나요?]]></title>
+        <id>https://festa.io/events/5455</id>
+        <link href="https://festa.io/events/5455"/>
+        <updated>2024-06-21T08:09:32.460Z</updated>
+        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[손실과 이득을 따져 생각하는 방법]]></title>
         <id>https://festa.io/events/5454</id>
@@ -32,33 +60,5 @@
         <link href="https://festa.io/events/5445"/>
         <updated>2024-06-21T05:08:20.284Z</updated>
         <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
-        <id>https://festa.io/events/5443</id>
-        <link href="https://festa.io/events/5443"/>
-        <updated>2024-06-20T07:02:48.864Z</updated>
-        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈치? 그게 뭐라고!]]></title>
-        <id>https://festa.io/events/5442</id>
-        <link href="https://festa.io/events/5442"/>
-        <updated>2024-06-20T07:02:48.864Z</updated>
-        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[C++ Korea 2024 Meet-Up & Hands-On(6월)]]></title>
-        <id>https://festa.io/events/5296</id>
-        <link href="https://festa.io/events/5296"/>
-        <updated>2024-06-20T00:29:30.388Z</updated>
-        <content type="html"><![CDATA[6월 29일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-하이테크 플랫폼과 함께하는 24’ Flutter Study in Songdo]]></title>
-        <id>https://festa.io/events/5439</id>
-        <link href="https://festa.io/events/5439"/>
-        <updated>2024-06-19T13:10:08.742Z</updated>
-        <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
     </entry>
 </feed>
