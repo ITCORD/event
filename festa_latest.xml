@@ -2,9 +2,51 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-21T23:03:01.552Z</updated>
+    <updated>2024-06-22T00:29:15.048Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[손실과 이득을 따져 생각하는 방법]]></title>
+        <id>https://festa.io/events/5454</id>
+        <link href="https://festa.io/events/5454"/>
+        <updated>2024-06-22T00:29:14.418Z</updated>
+        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
+        <id>https://festa.io/events/5435</id>
+        <link href="https://festa.io/events/5435"/>
+        <updated>2024-06-22T00:29:14.419Z</updated>
+        <content type="html"><![CDATA[6월 17일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈치? 그게 뭐라고!]]></title>
+        <id>https://festa.io/events/5442</id>
+        <link href="https://festa.io/events/5442"/>
+        <updated>2024-06-20T07:02:48.864Z</updated>
+        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 길을 개척해보고 싶은 사람들을 위한 컨설팅]]></title>
+        <id>https://festa.io/events/5433</id>
+        <link href="https://festa.io/events/5433"/>
+        <updated>2024-06-22T00:29:14.424Z</updated>
+        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 고민을 컨설팅!]]></title>
+        <id>https://festa.io/events/5445</id>
+        <link href="https://festa.io/events/5445"/>
+        <updated>2024-06-22T00:29:14.426Z</updated>
+        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[긍정으로 날려버리기!]]></title>
+        <id>https://festa.io/events/5448</id>
+        <link href="https://festa.io/events/5448"/>
+        <updated>2024-06-22T00:29:14.427Z</updated>
+        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Secure Access를 활용한 클라우드 제로 트러스트 보안 전략]]></title>
         <id>https://festa.io/events/5453</id>
@@ -18,47 +60,5 @@
         <link href="https://festa.io/events/5452"/>
         <updated>2024-06-21T10:04:21.517Z</updated>
         <content type="html"><![CDATA[7월 18일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOVA Studio로 뉴스 요약 시스템 구축하기]]></title>
-        <id>https://festa.io/events/5451</id>
-        <link href="https://festa.io/events/5451"/>
-        <updated>2024-06-21T10:04:21.518Z</updated>
-        <content type="html"><![CDATA[7월 11일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[컨테이너 오케스트레이션 툴, 쿠버네티스 이해하기 (기초)]]></title>
-        <id>https://festa.io/events/5449</id>
-        <link href="https://festa.io/events/5449"/>
-        <updated>2024-06-21T10:04:21.520Z</updated>
-        <content type="html"><![CDATA[7월 4일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨[무료웨비나] 채용불황에도 개발자 중고신입으로 취업하고 싶다면?]]></title>
-        <id>https://festa.io/events/5457</id>
-        <link href="https://festa.io/events/5457"/>
-        <updated>2024-06-21T09:06:31.731Z</updated>
-        <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
-        <id>https://festa.io/events/5443</id>
-        <link href="https://festa.io/events/5443"/>
-        <updated>2024-06-20T07:02:48.864Z</updated>
-        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[눈치? 그게 뭐라고!]]></title>
-        <id>https://festa.io/events/5442</id>
-        <link href="https://festa.io/events/5442"/>
-        <updated>2024-06-20T07:02:48.864Z</updated>
-        <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자신을 어디까지 믿고 있나요?]]></title>
-        <id>https://festa.io/events/5456</id>
-        <link href="https://festa.io/events/5456"/>
-        <updated>2024-06-21T08:09:32.457Z</updated>
-        <content type="html"><![CDATA[6월 20일 (목) · 오프라인]]></content>
     </entry>
 </feed>
