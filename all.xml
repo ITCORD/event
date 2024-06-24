@@ -2,8 +2,43 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-06-24T15:03:26.450Z</updated>
+    <updated>2024-06-24T16:08:14.617Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[새로운 길을 개척해보고 싶은 사람들을 위한 컨설팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5463</id>
+        <link href="https://festa.io/events/5463"/>
+        <updated>2024-06-24T16:08:13.980Z</updated>
+        <content type="html"><![CDATA[6월 23일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[객관적인 데이터를 찾아드립니다. (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5464</id>
+        <link href="https://festa.io/events/5464"/>
+        <updated>2024-06-24T16:08:13.987Z</updated>
+        <content type="html"><![CDATA[6월 23일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[시작의 컨설팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5465</id>
+        <link href="https://festa.io/events/5465"/>
+        <updated>2024-06-24T16:08:13.987Z</updated>
+        <content type="html"><![CDATA[6월 23일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[스스로 만드는 사회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5468</id>
+        <link href="https://festa.io/events/5468"/>
+        <updated>2024-06-24T16:08:13.988Z</updated>
+        <content type="html"><![CDATA[6월 23일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[자기통제력 기르기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5471</id>
+        <link href="https://festa.io/events/5471"/>
+        <updated>2024-06-24T07:08:13.546Z</updated>
+        <content type="html"><![CDATA[6월 23일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[I/O Extended 2024 Incheon (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5477</id>
@@ -24,40 +59,5 @@
         <link href="https://festa.io/events/5475"/>
         <updated>2024-06-24T10:08:20.121Z</updated>
         <content type="html"><![CDATA[7월 8일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인공지능(음성)] 음성 AI의 미래 : 이론과 실습 (누구나 이해하는 AI 과정) (전액무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5474</id>
-        <link href="https://festa.io/events/5474"/>
-        <updated>2024-06-24T10:08:20.123Z</updated>
-        <content type="html"><![CDATA[7월 8일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인공지능(시각)] 따라하며 이해하는 이미지 딥러닝 (누구나 이해하는 AI 과정) (전액 무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5473</id>
-        <link href="https://festa.io/events/5473"/>
-        <updated>2024-06-24T10:08:20.126Z</updated>
-        <content type="html"><![CDATA[7월 16일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚨[무료웨비나] 채용불황에도 개발자 중고신입으로 취업하고 싶다면? (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5457</id>
-        <link href="https://festa.io/events/5457"/>
-        <updated>2024-06-24T08:09:31.292Z</updated>
-        <content type="html"><![CDATA[6월 18일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자기통제력 기르기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5471</id>
-        <link href="https://festa.io/events/5471"/>
-        <updated>2024-06-24T07:08:13.546Z</updated>
-        <content type="html"><![CDATA[6월 23일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Google I/O Extended Watch Party Busan 2024 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5467</id>
-        <link href="https://festa.io/events/5467"/>
-        <updated>2024-06-24T07:08:13.547Z</updated>
-        <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
     </entry>
 </feed>
