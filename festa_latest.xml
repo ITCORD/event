@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-24T06:10:01.605Z</updated>
+    <updated>2024-06-24T07:08:14.114Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[자기통제력 기르기]]></title>
+        <id>https://festa.io/events/5471</id>
+        <link href="https://festa.io/events/5471"/>
+        <updated>2024-06-24T07:08:13.546Z</updated>
+        <content type="html"><![CDATA[6월 23일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Google I/O Extended Watch Party Busan 2024]]></title>
+        <id>https://festa.io/events/5467</id>
+        <link href="https://festa.io/events/5467"/>
+        <updated>2024-06-24T07:08:13.547Z</updated>
+        <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 7월의 패스워드]]></title>
+        <id>https://festa.io/events/5470</id>
+        <link href="https://festa.io/events/5470"/>
+        <updated>2024-06-24T07:08:13.550Z</updated>
+        <content type="html"><![CDATA[7월 1일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[경제전문가와 한국 주요 산업단체들이 전망하는 2024년 하반기 경제진단 및 대응방안]]></title>
         <id>https://festa.io/events/5469</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5465"/>
         <updated>2024-06-24T04:08:32.745Z</updated>
         <content type="html"><![CDATA[6월 23일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 프론트엔드 엔지니어 부트캠프 10기]]></title>
-        <id>https://festa.io/events/5461</id>
-        <link href="https://festa.io/events/5461"/>
-        <updated>2024-06-24T02:27:23.671Z</updated>
-        <content type="html"><![CDATA[7월 30일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 MeetLab]]></title>
-        <id>https://festa.io/events/5460</id>
-        <link href="https://festa.io/events/5460"/>
-        <updated>2024-06-23T22:01:56.349Z</updated>
-        <content type="html"><![CDATA[7월 27일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SEO KOREA에서 검색엔진최적화의 이론강의를 실시 합니다. <챕터2>]]></title>
-        <id>https://festa.io/events/5459</id>
-        <link href="https://festa.io/events/5459"/>
-        <updated>2024-06-23T04:08:09.134Z</updated>
-        <content type="html"><![CDATA[7월 6일 (토) · 온라인]]></content>
     </entry>
 </feed>
