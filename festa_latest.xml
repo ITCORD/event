@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-24T13:10:09.974Z</updated>
+    <updated>2024-06-24T14:02:44.670Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[I/O Extended 2024 Incheon]]></title>
+        <id>https://festa.io/events/5477</id>
+        <link href="https://festa.io/events/5477"/>
+        <updated>2024-06-24T14:02:44.067Z</updated>
+        <content type="html"><![CDATA[7월 27일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[네트워크] AI 시대에 필수인 네트워크 과정 (누구나 이해하는 네트워크 과정) (전액무료)]]></title>
         <id>https://festa.io/events/5476</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5467"/>
         <updated>2024-06-24T07:08:13.547Z</updated>
         <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[경제전문가와 한국 주요 산업단체들이 전망하는 2024년 하반기 경제진단 및 대응방안]]></title>
-        <id>https://festa.io/events/5469</id>
-        <link href="https://festa.io/events/5469"/>
-        <updated>2024-06-24T06:10:01.018Z</updated>
-        <content type="html"><![CDATA[7월 3일 (수) · 오프라인]]></content>
     </entry>
 </feed>
