@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-29T00:29:30.009Z</updated>
+    <updated>2024-06-29T01:52:43.722Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[SPARCS Service Hackathon 2024]]></title>
+        <id>https://festa.io/events/5506</id>
+        <link href="https://festa.io/events/5506"/>
+        <updated>2024-06-29T01:52:42.903Z</updated>
+        <content type="html"><![CDATA[7월 29일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[오직 초보를 위한 원데이 파이썬 부트캠프 (+후기 이벤트)]]></title>
         <id>https://festa.io/events/5503</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5498"/>
         <updated>2024-06-27T06:09:47.451Z</updated>
         <content type="html"><![CDATA[6월 26일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성]]></title>
-        <id>https://festa.io/events/5496</id>
-        <link href="https://festa.io/events/5496"/>
-        <updated>2024-06-27T04:10:23.836Z</updated>
-        <content type="html"><![CDATA[7월 18일 (목) · 오프라인]]></content>
     </entry>
 </feed>
