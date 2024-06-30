@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-06-30T05:02:57.137Z</updated>
+    <updated>2024-06-30T06:08:24.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[AI학교 아이펠] 9기 입학생 모집! (~7/26)]]></title>
+        <id>https://festa.io/events/5492</id>
+        <link href="https://festa.io/events/5492"/>
+        <updated>2024-06-30T06:08:23.666Z</updated>
+        <content type="html"><![CDATA[8월 6일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생각은 부자처럼]]></title>
         <id>https://festa.io/events/5494</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5443"/>
         <updated>2024-06-28T07:03:40.238Z</updated>
         <content type="html"><![CDATA[6월 19일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/5466</id>
-        <link href="https://festa.io/events/5466"/>
-        <updated>2024-06-29T07:02:08.957Z</updated>
-        <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
     </entry>
 </feed>
