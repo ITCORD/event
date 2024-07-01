@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-01T06:10:37.977Z</updated>
+    <updated>2024-07-01T07:07:41.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[구글 지도를 이용한 비즈니스 전략: IoT (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5512</id>
+        <link href="https://festa.io/events/5512"/>
+        <updated>2024-07-01T07:07:41.386Z</updated>
+        <content type="html"><![CDATA[7월 11일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생각의 유연성을 기르는 방법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5498</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5511"/>
         <updated>2024-07-01T03:08:23.517Z</updated>
         <content type="html"><![CDATA[6월 30일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[웨비나] 요즘 잘나가는 스타트업의 비즈니스 커뮤니케이션 SaaS (w/삼쩜삼, 퀸잇, 부드러운돌멩이) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5510</id>
-        <link href="https://festa.io/events/5510"/>
-        <updated>2024-07-01T02:03:05.767Z</updated>
-        <content type="html"><![CDATA[7월 23일 (화) · 온라인]]></content>
     </entry>
 </feed>
