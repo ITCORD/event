@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-02T04:09:06.149Z</updated>
+    <updated>2024-07-02T05:08:30.054Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[당신의 기준을 잡아서]]></title>
+        <id>https://festa.io/events/5511</id>
+        <link href="https://festa.io/events/5511"/>
+        <updated>2024-07-02T05:08:29.293Z</updated>
+        <content type="html"><![CDATA[6월 30일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 길을 개척해보고 싶은 사람들을 위한 컨설팅]]></title>
+        <id>https://festa.io/events/5524</id>
+        <link href="https://festa.io/events/5524"/>
+        <updated>2024-07-02T05:08:29.293Z</updated>
+        <content type="html"><![CDATA[7월 1일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
         <id>https://festa.io/events/5522</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5519"/>
         <updated>2024-07-01T16:08:10.062Z</updated>
         <content type="html"><![CDATA[7월 10일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Backend.AI Hands-on]]></title>
-        <id>https://festa.io/events/5518</id>
-        <link href="https://festa.io/events/5518"/>
-        <updated>2024-07-02T00:30:43.163Z</updated>
-        <content type="html"><![CDATA[7월 18일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[청년취업사관학교 새싹(SeSAC) 용산캠퍼스 3기 <하이브리드 클라우드 데이터옵스 엔지니어 양성 과정>]]></title>
-        <id>https://festa.io/events/5517</id>
-        <link href="https://festa.io/events/5517"/>
-        <updated>2024-07-01T08:10:25.289Z</updated>
-        <content type="html"><![CDATA[7월 29일 (월) · 오프라인]]></content>
     </entry>
 </feed>
