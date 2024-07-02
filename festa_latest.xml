@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-02T00:30:43.865Z</updated>
+    <updated>2024-07-02T01:54:50.479Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프]]></title>
+        <id>https://festa.io/events/5522</id>
+        <link href="https://festa.io/events/5522"/>
+        <updated>2024-07-02T01:54:49.773Z</updated>
+        <content type="html"><![CDATA[7월 9일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 종로, 빅데이터분석(with 파이썬)과 엘라스틱서치를 활용한 자바(Java)웹개발자양성]]></title>
+        <id>https://festa.io/events/5521</id>
+        <link href="https://festa.io/events/5521"/>
+        <updated>2024-07-02T01:54:49.773Z</updated>
+        <content type="html"><![CDATA[7월 9일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[눈치? 그게 뭐라고!]]></title>
+        <id>https://festa.io/events/5442</id>
+        <link href="https://festa.io/events/5442"/>
+        <updated>2024-07-02T01:54:49.774Z</updated>
+        <content type="html"><![CDATA[6월 25일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/5466</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5516"/>
         <updated>2024-07-01T08:10:25.290Z</updated>
         <content type="html"><![CDATA[8월 5일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국모다it 여름방학 챌린지]]></title>
-        <id>https://festa.io/events/5515</id>
-        <link href="https://festa.io/events/5515"/>
-        <updated>2024-07-01T08:10:25.291Z</updated>
-        <content type="html"><![CDATA[6월 30일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 지도를 이용한 비즈니스 전략: IoT]]></title>
-        <id>https://festa.io/events/5512</id>
-        <link href="https://festa.io/events/5512"/>
-        <updated>2024-07-01T07:07:41.386Z</updated>
-        <content type="html"><![CDATA[7월 11일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생각의 유연성을 기르는 방법]]></title>
-        <id>https://festa.io/events/5498</id>
-        <link href="https://festa.io/events/5498"/>
-        <updated>2024-06-27T06:09:47.451Z</updated>
-        <content type="html"><![CDATA[6월 26일 (수) · 오프라인]]></content>
     </entry>
 </feed>
