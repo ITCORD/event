@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-02T08:09:21.020Z</updated>
+    <updated>2024-07-02T09:07:23.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 강원메타버스캠퍼스 입문~콘텐츠 전문가 양성교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5533</id>
+        <link href="https://festa.io/events/5533"/>
+        <updated>2024-07-02T09:07:22.921Z</updated>
+        <content type="html"><![CDATA[7월 22일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[영국 문화원 추천] 청소년 ESG 기업가 인증과정 교육 프로그램 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5532</id>
+        <link href="https://festa.io/events/5532"/>
+        <updated>2024-07-02T09:07:22.923Z</updated>
+        <content type="html"><![CDATA[8월 7일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Adobe X Fila] 현업 디자이너가 말하는 3D 산업 전환 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5531</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5523"/>
         <updated>2024-07-02T07:03:08.123Z</updated>
         <content type="html"><![CDATA[7월 18일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[취업과정4기] 전공무관 웹개발자 양성 (무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5528</id>
-        <link href="https://festa.io/events/5528"/>
-        <updated>2024-07-02T07:03:08.125Z</updated>
-        <content type="html"><![CDATA[8월 7일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신의 기준을 잡아서 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5511</id>
-        <link href="https://festa.io/events/5511"/>
-        <updated>2024-07-02T05:08:29.293Z</updated>
-        <content type="html"><![CDATA[6월 30일 (일) · 오프라인]]></content>
     </entry>
 </feed>
