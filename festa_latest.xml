@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-03T03:07:44.133Z</updated>
+    <updated>2024-07-03T04:08:34.525Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[I/O Extended Android in Korea 2024]]></title>
+        <id>https://festa.io/events/5509</id>
+        <link href="https://festa.io/events/5509"/>
+        <updated>2024-07-03T04:08:33.853Z</updated>
+        <content type="html"><![CDATA[7월 20일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 강원메타버스캠퍼스 입문~콘텐츠 전문가 양성교육]]></title>
         <id>https://festa.io/events/5533</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5526"/>
         <updated>2024-07-02T07:03:08.121Z</updated>
         <content type="html"><![CDATA[7월 15일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한빛앤 MSA #2-8 데이터베이스 활용도 끌어올리기]]></title>
-        <id>https://festa.io/events/5523</id>
-        <link href="https://festa.io/events/5523"/>
-        <updated>2024-07-02T07:03:08.123Z</updated>
-        <content type="html"><![CDATA[7월 18일 (목) · 오프라인]]></content>
     </entry>
 </feed>
