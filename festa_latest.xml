@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-03T12:12:20.345Z</updated>
+    <updated>2024-07-03T13:10:10.861Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[생각의 유연성을 기르는 방법]]></title>
+        <id>https://festa.io/events/5498</id>
+        <link href="https://festa.io/events/5498"/>
+        <updated>2024-07-03T13:10:10.075Z</updated>
+        <content type="html"><![CDATA[7월 2일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[문제해결력 상승 시키기]]></title>
+        <id>https://festa.io/events/5499</id>
+        <link href="https://festa.io/events/5499"/>
+        <updated>2024-07-03T13:10:10.078Z</updated>
+        <content type="html"><![CDATA[7월 2일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신의 기준을 잡아서]]></title>
+        <id>https://festa.io/events/5511</id>
+        <link href="https://festa.io/events/5511"/>
+        <updated>2024-07-03T13:10:10.079Z</updated>
+        <content type="html"><![CDATA[6월 30일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 길을 개척해보고 싶은 사람들을 위한 컨설팅]]></title>
+        <id>https://festa.io/events/5524</id>
+        <link href="https://festa.io/events/5524"/>
+        <updated>2024-07-03T13:10:10.081Z</updated>
+        <content type="html"><![CDATA[7월 1일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[강남] [무료] [네트워킹] 모두의연구소 비즈클럽 7月 -2]]></title>
         <id>https://festa.io/events/5540</id>
@@ -32,33 +60,5 @@
         <link href="https://festa.io/events/5509"/>
         <updated>2024-07-03T04:08:33.853Z</updated>
         <content type="html"><![CDATA[7월 20일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 강원메타버스캠퍼스 입문~콘텐츠 전문가 양성교육]]></title>
-        <id>https://festa.io/events/5533</id>
-        <link href="https://festa.io/events/5533"/>
-        <updated>2024-07-02T09:07:22.921Z</updated>
-        <content type="html"><![CDATA[7월 22일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[영국 문화원 추천] 청소년 ESG 기업가 인증과정 교육 프로그램]]></title>
-        <id>https://festa.io/events/5532</id>
-        <link href="https://festa.io/events/5532"/>
-        <updated>2024-07-02T09:07:22.923Z</updated>
-        <content type="html"><![CDATA[8월 7일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Adobe X Fila] 현업 디자이너가 말하는 3D 산업 전환]]></title>
-        <id>https://festa.io/events/5531</id>
-        <link href="https://festa.io/events/5531"/>
-        <updated>2024-07-02T08:09:20.181Z</updated>
-        <content type="html"><![CDATA[7월 11일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청년취업사관학교 용산캠퍼스] LLM 서비스 개발자 양성 과정 온라인 설명회 진행 _ 7/5(금) 14시~]]></title>
-        <id>https://festa.io/events/5530</id>
-        <link href="https://festa.io/events/5530"/>
-        <updated>2024-07-02T08:09:20.184Z</updated>
-        <content type="html"><![CDATA[7월 5일 (금) · 온라인]]></content>
     </entry>
 </feed>
