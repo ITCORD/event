@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-04T01:54:41.074Z</updated>
+    <updated>2024-07-04T02:26:47.653Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[앰앤톤 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5514</id>
+        <link href="https://festa.io/events/5514"/>
+        <updated>2024-07-04T02:26:47.052Z</updated>
+        <content type="html"><![CDATA[8월 3일 (토) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 길을 개척해보고 싶은 사람들을 위한 컨설팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5541</id>
+        <link href="https://festa.io/events/5541"/>
+        <updated>2024-07-04T02:26:47.052Z</updated>
+        <content type="html"><![CDATA[7월 3일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새로운 길을 개척해보고 싶은 사람들을 위한 컨설팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5524</id>
+        <link href="https://festa.io/events/5524"/>
+        <updated>2024-07-03T13:10:10.081Z</updated>
+        <content type="html"><![CDATA[7월 1일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생각의 유연성을 기르는 방법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5498</id>
@@ -26,13 +47,6 @@
         <content type="html"><![CDATA[6월 30일 (일) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[새로운 길을 개척해보고 싶은 사람들을 위한 컨설팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5524</id>
-        <link href="https://festa.io/events/5524"/>
-        <updated>2024-07-03T13:10:10.081Z</updated>
-        <content type="html"><![CDATA[7월 1일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[강남] [무료] [네트워킹] 모두의연구소 비즈클럽 7月 -2 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5540</id>
         <link href="https://festa.io/events/5540"/>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5536"/>
         <updated>2024-07-03T09:07:16.951Z</updated>
         <content type="html"><![CDATA[7월 13일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[🥇상금 300만원 ] 알고리즘 코드 챌린지 참여하자! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5539</id>
-        <link href="https://festa.io/events/5539"/>
-        <updated>2024-07-03T09:07:16.952Z</updated>
-        <content type="html"><![CDATA[7월 8일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[I/O Extended Android in Korea 2024 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5509</id>
-        <link href="https://festa.io/events/5509"/>
-        <updated>2024-07-03T04:08:33.853Z</updated>
-        <content type="html"><![CDATA[7월 20일 (토) · 오프라인]]></content>
     </entry>
 </feed>
