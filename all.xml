@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-08T04:09:26.564Z</updated>
+    <updated>2024-07-08T05:08:53.803Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[CJ올리브네트웍스] 2024년 청소년 디지털 문제해결 프로젝트 멘토 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5562</id>
+        <link href="https://festa.io/events/5562"/>
+        <updated>2024-07-08T05:08:53.224Z</updated>
+        <content type="html"><![CDATA[7월 8일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중압감에서 의욕으로 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5560</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5552"/>
         <updated>2024-07-05T07:04:35.412Z</updated>
         <content type="html"><![CDATA[7월 4일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연계미들웨어 개발자 양성과정 교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5549</id>
-        <link href="https://festa.io/events/5549"/>
-        <updated>2024-07-04T10:07:22.878Z</updated>
-        <content type="html"><![CDATA[7월 3일 (수) · 오프라인]]></content>
     </entry>
 </feed>
