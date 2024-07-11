@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-11T02:30:26.451Z</updated>
+    <updated>2024-07-11T03:10:41.281Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 국가식품클러스터 투자설명회(2024 AFRO)]]></title>
+        <id>https://festa.io/events/5590</id>
+        <link href="https://festa.io/events/5590"/>
+        <updated>2024-07-11T03:10:40.635Z</updated>
+        <content type="html"><![CDATA[7월 25일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 「과학기술분야 R&D 대체인력 활용 지원사업」 하반기 모집]]></title>
         <id>https://festa.io/events/5584</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5578"/>
         <updated>2024-07-10T05:05:21.512Z</updated>
         <content type="html"><![CDATA[7월 20일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[게임페스티벌]]></title>
-        <id>https://festa.io/events/5577</id>
-        <link href="https://festa.io/events/5577"/>
-        <updated>2024-07-09T10:07:44.726Z</updated>
-        <content type="html"><![CDATA[7월 16일 (화) · 오프라인]]></content>
     </entry>
 </feed>
