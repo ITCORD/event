@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-11T00:31:24.652Z</updated>
+    <updated>2024-07-11T01:56:36.119Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Meet-up] 1st Datarize Dev]]></title>
+        <id>https://festa.io/events/5588</id>
+        <link href="https://festa.io/events/5588"/>
+        <updated>2024-07-11T01:56:35.446Z</updated>
+        <content type="html"><![CDATA[7월 24일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프론트엔드 프로젝트 캠프 : 리액트 2기]]></title>
+        <id>https://festa.io/events/5585</id>
+        <link href="https://festa.io/events/5585"/>
+        <updated>2024-07-11T01:56:35.446Z</updated>
+        <content type="html"><![CDATA[7월 10일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[제20회 빅데이터 컨퍼런스]]></title>
+        <id>https://festa.io/events/5581</id>
+        <link href="https://festa.io/events/5581"/>
+        <updated>2024-07-11T01:56:35.446Z</updated>
+        <content type="html"><![CDATA[7월 27일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[K-디지털 트레이닝 국비지원 훈련생 모집]]></title>
         <id>https://festa.io/events/5580</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5566"/>
         <updated>2024-07-08T06:10:29.573Z</updated>
         <content type="html"><![CDATA[7월 21일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 재직자 실무역량 강화를 위한 온라인 과정 3차]]></title>
-        <id>https://festa.io/events/5574</id>
-        <link href="https://festa.io/events/5574"/>
-        <updated>2024-07-09T01:56:43.988Z</updated>
-        <content type="html"><![CDATA[8월 1일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[WISET]2024년 바이오/의약 분야 품질분석 전문인력 양성과정(이론 과정)(~7/17)]]></title>
-        <id>https://festa.io/events/5572</id>
-        <link href="https://festa.io/events/5572"/>
-        <updated>2024-07-09T01:56:43.989Z</updated>
-        <content type="html"><![CDATA[7월 29일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[20회] 노이즈 측정 솔루션 이해 세미나]]></title>
-        <id>https://festa.io/events/5571</id>
-        <link href="https://festa.io/events/5571"/>
-        <updated>2024-07-09T01:56:43.989Z</updated>
-        <content type="html"><![CDATA[7월 23일 (화) · 온라인]]></content>
     </entry>
 </feed>
