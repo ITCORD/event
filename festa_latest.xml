@@ -2,15 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-11T01:56:36.119Z</updated>
+    <updated>2024-07-11T02:30:26.451Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년 「과학기술분야 R&D 대체인력 활용 지원사업」 하반기 모집]]></title>
+        <id>https://festa.io/events/5584</id>
+        <link href="https://festa.io/events/5584"/>
+        <updated>2024-07-11T02:30:25.707Z</updated>
+        <content type="html"><![CDATA[7월 1일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Meet-up] 1st Datarize Dev]]></title>
         <id>https://festa.io/events/5588</id>
         <link href="https://festa.io/events/5588"/>
         <updated>2024-07-11T01:56:35.446Z</updated>
-        <content type="html"><![CDATA[7월 24일 (수) · 오프라인]]></content>
+        <content type="html"><![CDATA[7월 25일 (목) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프론트엔드 프로젝트 캠프 : 리액트 2기]]></title>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5577"/>
         <updated>2024-07-09T10:07:44.726Z</updated>
         <content type="html"><![CDATA[7월 16일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/5566</id>
-        <link href="https://festa.io/events/5566"/>
-        <updated>2024-07-08T06:10:29.573Z</updated>
-        <content type="html"><![CDATA[7월 21일 (일) · 오프라인]]></content>
     </entry>
 </feed>
