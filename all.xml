@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-11T08:09:34.152Z</updated>
+    <updated>2024-07-11T09:07:31.212Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[청년취업사관학 용산캠퍼스] 실무 프로젝트 기반 LLM 서비스 개발자 양성과정 교육생 모집(입과자 대상 기초 온라인 교육 무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5597</id>
+        <link href="https://festa.io/events/5597"/>
+        <updated>2024-07-11T09:07:30.555Z</updated>
+        <content type="html"><![CDATA[7월 11일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5566</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5594"/>
         <updated>2024-07-11T05:07:41.635Z</updated>
         <content type="html"><![CDATA[7월 10일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[CJ올리브네트웍스x어반플레이x오픈놀] 로컬 파이오니어 스쿨 [TRACK2-캠프] 모집 (~7/28(일)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5591</id>
-        <link href="https://festa.io/events/5591"/>
-        <updated>2024-07-11T04:09:04.932Z</updated>
-        <content type="html"><![CDATA[6월 30일 (일) · 온라인]]></content>
     </entry>
 </feed>
