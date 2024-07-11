@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-11T03:10:41.288Z</updated>
+    <updated>2024-07-11T04:09:05.603Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[CJ올리브네트웍스x어반플레이x오픈놀] 로컬 파이오니어 스쿨 [TRACK2-캠프] 모집 (~7/28(일)) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5591</id>
+        <link href="https://festa.io/events/5591"/>
+        <updated>2024-07-11T04:09:04.932Z</updated>
+        <content type="html"><![CDATA[6월 30일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 국가식품클러스터 투자설명회(2024 AFRO) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5590</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5576"/>
         <updated>2024-07-10T06:10:09.938Z</updated>
         <content type="html"><![CDATA[7월 24일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[파이토치 한국 사용자 모임 제3회 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5578</id>
-        <link href="https://festa.io/events/5578"/>
-        <updated>2024-07-10T05:05:21.512Z</updated>
-        <content type="html"><![CDATA[7월 20일 (토) · 오프라인]]></content>
     </entry>
 </feed>
