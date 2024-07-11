@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-11T05:07:42.347Z</updated>
+    <updated>2024-07-11T06:09:38.332Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[객관적인 데이터를 찾아드립니다.]]></title>
+        <id>https://festa.io/events/5464</id>
+        <link href="https://festa.io/events/5464"/>
+        <updated>2024-07-11T06:09:37.712Z</updated>
+        <content type="html"><![CDATA[7월 3일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[손실과 이득을 따져 생각하는 방법]]></title>
+        <id>https://festa.io/events/5454</id>
+        <link href="https://festa.io/events/5454"/>
+        <updated>2024-07-11T06:09:37.717Z</updated>
+        <content type="html"><![CDATA[7월 10일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[당신은 어디에 머물러 있나요?]]></title>
+        <id>https://festa.io/events/5455</id>
+        <link href="https://festa.io/events/5455"/>
+        <updated>2024-07-11T06:09:37.717Z</updated>
+        <content type="html"><![CDATA[7월 10일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미술 재테크, 알아두기만 해도 돈이 되는 미술 투자법]]></title>
         <id>https://festa.io/events/5594</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5588"/>
         <updated>2024-07-11T01:56:35.446Z</updated>
         <content type="html"><![CDATA[7월 25일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프론트엔드 프로젝트 캠프 : 리액트 2기]]></title>
-        <id>https://festa.io/events/5585</id>
-        <link href="https://festa.io/events/5585"/>
-        <updated>2024-07-11T01:56:35.446Z</updated>
-        <content type="html"><![CDATA[7월 10일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제20회 빅데이터 컨퍼런스]]></title>
-        <id>https://festa.io/events/5581</id>
-        <link href="https://festa.io/events/5581"/>
-        <updated>2024-07-11T01:56:35.446Z</updated>
-        <content type="html"><![CDATA[7월 27일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[K-디지털 트레이닝 국비지원 훈련생 모집]]></title>
-        <id>https://festa.io/events/5580</id>
-        <link href="https://festa.io/events/5580"/>
-        <updated>2024-07-10T09:07:21.730Z</updated>
-        <content type="html"><![CDATA[7월 10일 (수) · 오프라인]]></content>
     </entry>
 </feed>
