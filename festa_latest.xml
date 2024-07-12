@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-12T05:03:53.168Z</updated>
+    <updated>2024-07-12T06:09:45.359Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[창업 특강) BTS의 성공노트]]></title>
+        <id>https://festa.io/events/5602</id>
+        <link href="https://festa.io/events/5602"/>
+        <updated>2024-07-12T06:09:44.695Z</updated>
+        <content type="html"><![CDATA[7월 29일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이터사이언티스트 선배가 들려주는 아이펠스토리]]></title>
         <id>https://festa.io/events/5599</id>
@@ -51,13 +58,6 @@
         <title type="html"><![CDATA[손실과 이득을 따져 생각하는 방법]]></title>
         <id>https://festa.io/events/5454</id>
         <link href="https://festa.io/events/5454"/>
-        <updated>2024-07-11T06:09:37.717Z</updated>
-        <content type="html"><![CDATA[7월 10일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신은 어디에 머물러 있나요?]]></title>
-        <id>https://festa.io/events/5455</id>
-        <link href="https://festa.io/events/5455"/>
         <updated>2024-07-11T06:09:37.717Z</updated>
         <content type="html"><![CDATA[7월 10일 (수) · 오프라인]]></content>
     </entry>
