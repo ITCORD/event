@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-13T05:02:20.076Z</updated>
+    <updated>2024-07-13T06:08:41.958Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[BICGCC] 이미지를 넘어 비디오 생성의 시대로 - MetaAI 김피디]]></title>
+        <id>https://festa.io/events/5606</id>
+        <link href="https://festa.io/events/5606"/>
+        <updated>2024-07-13T06:08:41.240Z</updated>
+        <content type="html"><![CDATA[7월 18일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[왓캐스트: 내 사이드 프로젝트가 의미 없는 이유]]></title>
         <id>https://festa.io/events/5600</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5596"/>
         <updated>2024-07-11T07:05:09.106Z</updated>
         <content type="html"><![CDATA[7월 11일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 WISET 일자리 지원사업 설명회 (7/16)]]></title>
-        <id>https://festa.io/events/5595</id>
-        <link href="https://festa.io/events/5595"/>
-        <updated>2024-07-11T07:05:09.107Z</updated>
-        <content type="html"><![CDATA[7월 16일 (화) · 오프라인]]></content>
     </entry>
 </feed>
