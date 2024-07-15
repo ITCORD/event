@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-15T15:08:55.211Z</updated>
+    <updated>2024-07-15T16:08:41.168Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[강남유흥 추천업소 Recommended Gangnam entertainment establishments]]></title>
+        <id>https://festa.io/events/5614</id>
+        <link href="https://festa.io/events/5614"/>
+        <updated>2024-07-15T16:08:40.466Z</updated>
+        <content type="html"><![CDATA[7월 22일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✅ 빅데이터 자바개발자 - 하이미디어아카데미 강릉점]]></title>
         <id>https://festa.io/events/5613</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5606"/>
         <updated>2024-07-13T06:08:41.240Z</updated>
         <content type="html"><![CDATA[7월 18일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[왓캐스트: 내 사이드 프로젝트가 의미 없는 이유]]></title>
-        <id>https://festa.io/events/5600</id>
-        <link href="https://festa.io/events/5600"/>
-        <updated>2024-07-12T09:03:29.477Z</updated>
-        <content type="html"><![CDATA[7월 28일 (일) · 온라인]]></content>
     </entry>
 </feed>
