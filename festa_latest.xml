@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-17T04:08:42.992Z</updated>
+    <updated>2024-07-17T05:07:18.036Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 제2회 KISIA 정보보호 개발자 해커톤]]></title>
+        <id>https://festa.io/events/5627</id>
+        <link href="https://festa.io/events/5627"/>
+        <updated>2024-07-17T05:07:17.422Z</updated>
+        <content type="html"><![CDATA[8월 19일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AI교육] AI 대학원 안가고 AI 전문가되기! : 아이펠 9기 리서치 모집!]]></title>
         <id>https://festa.io/events/5626</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5613"/>
         <updated>2024-07-15T09:08:28.650Z</updated>
         <content type="html"><![CDATA[8월 6일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ 출판편집디자인 국비지원 - 하이미디어아카데미 동탄점]]></title>
-        <id>https://festa.io/events/5612</id>
-        <link href="https://festa.io/events/5612"/>
-        <updated>2024-07-15T08:09:48.567Z</updated>
-        <content type="html"><![CDATA[8월 5일 (월) · 오프라인]]></content>
     </entry>
 </feed>
