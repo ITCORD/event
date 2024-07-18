@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-18T03:09:04.411Z</updated>
+    <updated>2024-07-18T04:08:32.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[부동산을 알려줘! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5631</id>
+        <link href="https://festa.io/events/5631"/>
+        <updated>2024-07-18T04:08:32.026Z</updated>
+        <content type="html"><![CDATA[7월 17일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 엔지니어 선배가 들려주는 아이펠스토리 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5630</id>
+        <link href="https://festa.io/events/5630"/>
+        <updated>2024-07-18T04:08:32.028Z</updated>
+        <content type="html"><![CDATA[7월 25일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료교육/재직자] 영업분석을 통한 매출증대 및 사업화 전략 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5629</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5621"/>
         <updated>2024-07-16T07:04:31.203Z</updated>
         <content type="html"><![CDATA[7월 29일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[BICGCC] 나만의 AI 인플루언서, ‘예린이'의 탄생과 그 여정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5620</id>
-        <link href="https://festa.io/events/5620"/>
-        <updated>2024-07-16T06:10:08.543Z</updated>
-        <content type="html"><![CDATA[7월 18일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[kakao x goorm] 구름톤 딥다이브 개발자 과정 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5615</id>
-        <link href="https://festa.io/events/5615"/>
-        <updated>2024-07-16T02:31:25.815Z</updated>
-        <content type="html"><![CDATA[7월 13일 (토) · 온라인]]></content>
     </entry>
 </feed>
