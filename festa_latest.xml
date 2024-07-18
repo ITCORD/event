@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-18T13:11:43.201Z</updated>
+    <updated>2024-07-18T14:02:18.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 클러치 리그 청년창업경진대회]]></title>
+        <id>https://festa.io/events/5641</id>
+        <link href="https://festa.io/events/5641"/>
+        <updated>2024-07-18T14:02:17.653Z</updated>
+        <content type="html"><![CDATA[8월 19일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[<장르만트레킹: 7주 만남 편>]]></title>
         <id>https://festa.io/events/5640</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5631"/>
         <updated>2024-07-18T04:08:32.026Z</updated>
         <content type="html"><![CDATA[7월 17일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 엔지니어 선배가 들려주는 아이펠스토리]]></title>
-        <id>https://festa.io/events/5630</id>
-        <link href="https://festa.io/events/5630"/>
-        <updated>2024-07-18T04:08:32.028Z</updated>
-        <content type="html"><![CDATA[7월 25일 (목) · 온라인]]></content>
     </entry>
 </feed>
