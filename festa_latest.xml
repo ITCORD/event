@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-19T06:10:01.300Z</updated>
+    <updated>2024-07-19T07:08:27.142Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(추가모집) [2024 강원메타버스 캠퍼스] 입문~콘텐츠 전문가 양성교육]]></title>
+        <id>https://festa.io/events/5648</id>
+        <link href="https://festa.io/events/5648"/>
+        <updated>2024-07-19T07:08:26.485Z</updated>
+        <content type="html"><![CDATA[8월 2일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코드포부산 밋업데이: 코드포부산 with 코드포코리아]]></title>
         <id>https://festa.io/events/5644</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5638"/>
         <updated>2024-07-18T11:02:30.151Z</updated>
         <content type="html"><![CDATA[7월 15일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 경상북도 한복창작해커톤대회]]></title>
-        <id>https://festa.io/events/5636</id>
-        <link href="https://festa.io/events/5636"/>
-        <updated>2024-07-18T10:07:49.326Z</updated>
-        <content type="html"><![CDATA[8월 12일 (월) · 오프라인]]></content>
     </entry>
 </feed>
