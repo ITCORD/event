@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-22T06:10:14.806Z</updated>
+    <updated>2024-07-22T07:08:04.871Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[NVIDIA Jetson 개발자 밋업 - 'Metropolis' 및 'Robotics']]></title>
+        <id>https://festa.io/events/5656</id>
+        <link href="https://festa.io/events/5656"/>
+        <updated>2024-07-22T07:08:04.148Z</updated>
+        <content type="html"><![CDATA[8월 27일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한림국제대학원대학교 전시-AI 트랙 모집]]></title>
         <id>https://festa.io/events/5655</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5642"/>
         <updated>2024-07-19T02:05:54.068Z</updated>
         <content type="html"><![CDATA[8월 8일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 클러치 리그 청년창업경진대회]]></title>
-        <id>https://festa.io/events/5641</id>
-        <link href="https://festa.io/events/5641"/>
-        <updated>2024-07-18T14:02:17.653Z</updated>
-        <content type="html"><![CDATA[8월 19일 (월) · 오프라인]]></content>
     </entry>
 </feed>
