@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-07-22T04:08:57.437Z</updated>
+    <updated>2024-07-22T05:07:51.205Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[한림국제대학원대학교 전시-AI 트랙 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5655</id>
+        <link href="https://festa.io/events/5655"/>
+        <updated>2024-07-22T05:07:50.513Z</updated>
+        <content type="html"><![CDATA[7월 22일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5653</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5641"/>
         <updated>2024-07-18T14:02:17.653Z</updated>
         <content type="html"><![CDATA[8월 19일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[<장르만트레킹: 7주 만남 편> (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5640</id>
-        <link href="https://festa.io/events/5640"/>
-        <updated>2024-07-18T13:11:42.453Z</updated>
-        <content type="html"><![CDATA[8월 16일 (금) · 오프라인]]></content>
     </entry>
 </feed>
