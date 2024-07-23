@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-23T08:11:10.072Z</updated>
+    <updated>2024-07-23T09:08:08.661Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 제2회 ICT콤플렉스 전문가네트워킹(#인공지능(AI) #빅데이터)]]></title>
+        <id>https://festa.io/events/5665</id>
+        <link href="https://festa.io/events/5665"/>
+        <updated>2024-07-23T09:08:07.996Z</updated>
+        <content type="html"><![CDATA[8월 8일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Human and AI Robotics "Together"]]></title>
         <id>https://festa.io/events/5589</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5653"/>
         <updated>2024-07-22T04:08:56.703Z</updated>
         <content type="html"><![CDATA[7월 21일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 AWS 솔루션즈 아키텍트 중급 과정 교육생 모집 공고 (AWS Solutions Architect Associate 자격증 준비)]]></title>
-        <id>https://festa.io/events/5652</id>
-        <link href="https://festa.io/events/5652"/>
-        <updated>2024-07-22T02:00:55.612Z</updated>
-        <content type="html"><![CDATA[8월 6일 (화) · 온라인]]></content>
     </entry>
 </feed>
