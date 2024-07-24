@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-24T05:05:57.900Z</updated>
+    <updated>2024-07-24T06:10:21.619Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Mastering Spring Web 101 Workshop (10th)]]></title>
+        <id>https://festa.io/events/5660</id>
+        <link href="https://festa.io/events/5660"/>
+        <updated>2024-07-24T06:10:20.852Z</updated>
+        <content type="html"><![CDATA[8월 9일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[나 컨설팅]]></title>
         <id>https://festa.io/events/5609</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5665"/>
         <updated>2024-07-23T09:08:07.996Z</updated>
         <content type="html"><![CDATA[8월 8일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Human and AI Robotics "Together"]]></title>
-        <id>https://festa.io/events/5589</id>
-        <link href="https://festa.io/events/5589"/>
-        <updated>2024-07-23T06:09:59.272Z</updated>
-        <content type="html"><![CDATA[8월 10일 (토) · 오프라인]]></content>
     </entry>
 </feed>
