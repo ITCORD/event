@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-24T07:07:18.937Z</updated>
+    <updated>2024-07-24T08:09:25.785Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[투자유치 성공 전략v2.0] 세미나]]></title>
+        <id>https://festa.io/events/5678</id>
+        <link href="https://festa.io/events/5678"/>
+        <updated>2024-07-24T08:09:25.127Z</updated>
+        <content type="html"><![CDATA[7월 24일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[KoVAC META CONNECT 2024: 1회 피칭 데모데이]]></title>
         <id>https://festa.io/events/5676</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5669"/>
         <updated>2024-07-24T05:05:57.188Z</updated>
         <content type="html"><![CDATA[8월 8일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버클라우드 환경에서의 제로 트러스트 구성 방안]]></title>
-        <id>https://festa.io/events/5668</id>
-        <link href="https://festa.io/events/5668"/>
-        <updated>2024-07-24T05:05:57.189Z</updated>
-        <content type="html"><![CDATA[8월 1일 (목) · 온라인]]></content>
     </entry>
 </feed>
