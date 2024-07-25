@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-25T03:08:30.240Z</updated>
+    <updated>2024-07-25T04:08:54.783Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[당신은 겁이 많나요?]]></title>
+        <id>https://festa.io/events/5568</id>
+        <link href="https://festa.io/events/5568"/>
+        <updated>2024-07-25T04:08:54.019Z</updated>
+        <content type="html"><![CDATA[7월 24일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[스타팅포인트 X 루닛] Monthly Gathering Session]]></title>
+        <id>https://festa.io/events/5683</id>
+        <link href="https://festa.io/events/5683"/>
+        <updated>2024-07-25T04:08:54.024Z</updated>
+        <content type="html"><![CDATA[7월 26일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 MeetLab]]></title>
+        <id>https://festa.io/events/5460</id>
+        <link href="https://festa.io/events/5460"/>
+        <updated>2024-07-25T04:08:54.026Z</updated>
+        <content type="html"><![CDATA[7월 27일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한국산업기술협회] 8월 중소기업 재직자 직무능력향상 무료교육]]></title>
         <id>https://festa.io/events/5682</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5609"/>
         <updated>2024-07-24T05:05:57.173Z</updated>
         <content type="html"><![CDATA[7월 14일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산을 알려줘!]]></title>
-        <id>https://festa.io/events/5631</id>
-        <link href="https://festa.io/events/5631"/>
-        <updated>2024-07-24T05:05:57.183Z</updated>
-        <content type="html"><![CDATA[7월 17일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Secure Access를 활용한 클라우드 제로 트러스트 보안 전략]]></title>
-        <id>https://festa.io/events/5671</id>
-        <link href="https://festa.io/events/5671"/>
-        <updated>2024-07-24T05:05:57.184Z</updated>
-        <content type="html"><![CDATA[8월 29일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[자동 페일오버∙백업 구성이 적용된 완전관리형 데이터베이스 살펴보기 (기초)]]></title>
-        <id>https://festa.io/events/5670</id>
-        <link href="https://festa.io/events/5670"/>
-        <updated>2024-07-24T05:05:57.186Z</updated>
-        <content type="html"><![CDATA[8월 22일 (목) · 온라인]]></content>
     </entry>
 </feed>
