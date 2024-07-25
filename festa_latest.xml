@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-25T06:10:05.655Z</updated>
+    <updated>2024-07-25T07:05:59.934Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[생각은 부자처럼]]></title>
+        <id>https://festa.io/events/5494</id>
+        <link href="https://festa.io/events/5494"/>
+        <updated>2024-07-25T07:05:59.131Z</updated>
+        <content type="html"><![CDATA[7월 24일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[당신은 겁이 많나요?]]></title>
         <id>https://festa.io/events/5568</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5660"/>
         <updated>2024-07-24T06:10:20.852Z</updated>
         <content type="html"><![CDATA[8월 9일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[나 컨설팅]]></title>
-        <id>https://festa.io/events/5609</id>
-        <link href="https://festa.io/events/5609"/>
-        <updated>2024-07-24T05:05:57.173Z</updated>
-        <content type="html"><![CDATA[7월 14일 (일) · 오프라인]]></content>
     </entry>
 </feed>
