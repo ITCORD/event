@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-26T06:10:11.559Z</updated>
+    <updated>2024-07-26T07:07:37.584Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울경제진흥원X이노그리그] 기업맞춤형 클라우드 인재양성캠프]]></title>
+        <id>https://festa.io/events/5689</id>
+        <link href="https://festa.io/events/5689"/>
+        <updated>2024-07-26T07:07:36.827Z</updated>
+        <content type="html"><![CDATA[8월 5일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[하남스타트업캠퍼스] 2024 투자유치 역량강화 프로그램 2기 참여기업 모집]]></title>
         <id>https://festa.io/events/5687</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5679"/>
         <updated>2024-07-24T09:07:09.610Z</updated>
         <content type="html"><![CDATA[8월 13일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[KoVAC META CONNECT 2024: 1회 IR 피칭 데모데이]]></title>
-        <id>https://festa.io/events/5676</id>
-        <link href="https://festa.io/events/5676"/>
-        <updated>2024-07-24T07:07:18.329Z</updated>
-        <content type="html"><![CDATA[8월 7일 (수) · 오프라인]]></content>
     </entry>
 </feed>
