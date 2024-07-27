@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-27T09:03:38.010Z</updated>
+    <updated>2024-07-27T10:02:45.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -48,17 +48,17 @@
         <content type="html"><![CDATA[7월 24일 (수) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[2024 MeetLab]]></title>
-        <id>https://festa.io/events/5460</id>
-        <link href="https://festa.io/events/5460"/>
-        <updated>2024-07-25T04:08:54.026Z</updated>
-        <content type="html"><![CDATA[7월 27일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[한국산업기술협회] 8월 중소기업 재직자 직무능력향상 무료교육]]></title>
         <id>https://festa.io/events/5682</id>
         <link href="https://festa.io/events/5682"/>
         <updated>2024-07-26T10:07:34.168Z</updated>
         <content type="html"><![CDATA[8월 1일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[마케팅 토크 콘서트 : 2024년 하반기 마케팅 트렌드 전략]]></title>
+        <id>https://festa.io/events/5679</id>
+        <link href="https://festa.io/events/5679"/>
+        <updated>2024-07-27T10:02:44.883Z</updated>
+        <content type="html"><![CDATA[8월 13일 (화) · 오프라인]]></content>
     </entry>
 </feed>
