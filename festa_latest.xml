@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-29T07:08:18.810Z</updated>
+    <updated>2024-07-29T08:10:05.368Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
+        <id>https://festa.io/events/5699</id>
+        <link href="https://festa.io/events/5699"/>
+        <updated>2024-07-29T08:10:04.723Z</updated>
+        <content type="html"><![CDATA[7월 28일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[새싹 금천 캠퍼스] 유니티 공인 자격증까지 1+1,XR 메타버스 창작자 실전 취업캠프 과정]]></title>
         <id>https://festa.io/events/5698</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5692"/>
         <updated>2024-07-26T08:09:44.391Z</updated>
         <content type="html"><![CDATA[6월 30일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[무대 위의 사랑, 자유, 환상 - 낭만주의 원작 뮤지컬]]></title>
-        <id>https://festa.io/events/5674</id>
-        <link href="https://festa.io/events/5674"/>
-        <updated>2024-07-26T08:09:44.391Z</updated>
-        <content type="html"><![CDATA[8월 30일 (금) · 오프라인]]></content>
     </entry>
 </feed>
