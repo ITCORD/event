@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-29T11:02:46.277Z</updated>
+    <updated>2024-07-29T12:12:43.089Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[컴포즈 정원사]]></title>
+        <id>https://festa.io/events/5701</id>
+        <link href="https://festa.io/events/5701"/>
+        <updated>2024-07-29T12:12:42.443Z</updated>
+        <content type="html"><![CDATA[8월 31일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[구글 검색 엔진 최적화(테크니컬SEO) 집중 총정리 세미나]]></title>
+        <id>https://festa.io/events/5702</id>
+        <link href="https://festa.io/events/5702"/>
+        <updated>2024-07-29T12:12:42.445Z</updated>
+        <content type="html"><![CDATA[8월 15일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마감임박!] AI개발자로 성장하는 6개월, AI학교 아이펠]]></title>
         <id>https://festa.io/events/5700</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5696"/>
         <updated>2024-07-29T02:34:30.626Z</updated>
         <content type="html"><![CDATA[9월 4일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[교육에 진심 코드잇, 풀스택 엔지니어 트랙 모집]]></title>
-        <id>https://festa.io/events/5695</id>
-        <link href="https://festa.io/events/5695"/>
-        <updated>2024-07-29T02:34:30.627Z</updated>
-        <content type="html"><![CDATA[9월 5일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 GIST Developers' Night]]></title>
-        <id>https://festa.io/events/5694</id>
-        <link href="https://festa.io/events/5694"/>
-        <updated>2024-07-27T18:09:00.662Z</updated>
-        <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
     </entry>
 </feed>
