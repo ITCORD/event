@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-29T09:07:59.528Z</updated>
+    <updated>2024-07-29T10:08:21.707Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[마감임박!] AI개발자로 성장하는 6개월, AI학교 아이펠]]></title>
+        <id>https://festa.io/events/5700</id>
+        <link href="https://festa.io/events/5700"/>
+        <updated>2024-07-29T10:08:20.903Z</updated>
+        <content type="html"><![CDATA[8월 13일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
         <id>https://festa.io/events/5699</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5694"/>
         <updated>2024-07-27T18:09:00.662Z</updated>
         <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료교육] 클라우드 전문가 양성과정 수강생 모집]]></title>
-        <id>https://festa.io/events/5692</id>
-        <link href="https://festa.io/events/5692"/>
-        <updated>2024-07-26T08:09:44.391Z</updated>
-        <content type="html"><![CDATA[6월 30일 (일) · 온라인]]></content>
     </entry>
 </feed>
