@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-30T04:09:16.133Z</updated>
+    <updated>2024-07-30T05:08:16.684Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[오선지에 담은 글과 그림 ー낭만주의 음악]]></title>
+        <id>https://festa.io/events/5690</id>
+        <link href="https://festa.io/events/5690"/>
+        <updated>2024-07-30T05:08:16.021Z</updated>
+        <content type="html"><![CDATA[8월 31일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/5706</id>
+        <link href="https://festa.io/events/5706"/>
+        <updated>2024-07-30T05:08:16.025Z</updated>
+        <content type="html"><![CDATA[8월 11일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전라도] 2040을 위한 비전세미나 (참석만 해도 배민 5만원 증정!)]]></title>
         <id>https://festa.io/events/5703</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5698"/>
         <updated>2024-07-29T07:08:18.152Z</updated>
         <content type="html"><![CDATA[7월 29일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부동산을 알려줘!]]></title>
-        <id>https://festa.io/events/5631</id>
-        <link href="https://festa.io/events/5631"/>
-        <updated>2024-07-29T07:08:18.153Z</updated>
-        <content type="html"><![CDATA[7월 28일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실행의 힘]]></title>
-        <id>https://festa.io/events/5697</id>
-        <link href="https://festa.io/events/5697"/>
-        <updated>2024-07-29T04:09:42.342Z</updated>
-        <content type="html"><![CDATA[7월 28일 (일) · 오프라인]]></content>
     </entry>
 </feed>
