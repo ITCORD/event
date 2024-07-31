@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-07-31T02:09:16.517Z</updated>
+    <updated>2024-07-31T03:09:49.534Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[시비지원] 서울시 디지털 특화 직업교육훈련 <자바스크립트기반 개발자 입문 브릿지 과정(~9/11)>]]></title>
+        <id>https://festa.io/events/5713</id>
+        <link href="https://festa.io/events/5713"/>
+        <updated>2024-07-31T03:09:48.782Z</updated>
+        <content type="html"><![CDATA[7월 31일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[재직자/무료교육] 전자입찰 조달청 나라장터 200% 활용 교육 - 입문자편 - 8월 교육]]></title>
         <id>https://festa.io/events/5708</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5702"/>
         <updated>2024-07-29T12:12:42.445Z</updated>
         <content type="html"><![CDATA[8월 15일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마감임박!] AI개발자로 성장하는 6개월, AI학교 아이펠]]></title>
-        <id>https://festa.io/events/5700</id>
-        <link href="https://festa.io/events/5700"/>
-        <updated>2024-07-29T10:08:20.903Z</updated>
-        <content type="html"><![CDATA[8월 13일 (화) · 온라인]]></content>
     </entry>
 </feed>
