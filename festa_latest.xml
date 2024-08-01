@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-01T08:09:58.493Z</updated>
+    <updated>2024-08-01T09:03:07.080Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[청년취업사관학교 새싹 관악캠퍼스 1기 교육생 모집]]></title>
+        <id>https://festa.io/events/5726</id>
+        <link href="https://festa.io/events/5726"/>
+        <updated>2024-08-01T09:03:06.409Z</updated>
+        <content type="html"><![CDATA[7월 2일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한빛앤] 생성형AI]]></title>
         <id>https://festa.io/events/5723</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5719"/>
         <updated>2024-08-01T05:07:38.753Z</updated>
         <content type="html"><![CDATA[7월 19일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실행의 힘]]></title>
-        <id>https://festa.io/events/5697</id>
-        <link href="https://festa.io/events/5697"/>
-        <updated>2024-08-01T03:08:26.807Z</updated>
-        <content type="html"><![CDATA[7월 31일 (수) · 오프라인]]></content>
     </entry>
 </feed>
