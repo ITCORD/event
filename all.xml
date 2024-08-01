@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-01T06:10:07.711Z</updated>
+    <updated>2024-08-01T07:07:19.642Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
-        <title type="html"><![CDATA[코드잇 CEO에게 직접 듣는 IT 커리어와 전망 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <title type="html"><![CDATA[[웨비나] 코드잇 CEO에게 직접 듣는 IT 커리어와 전망 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5724</id>
         <link href="https://festa.io/events/5724"/>
         <updated>2024-08-01T06:10:07.078Z</updated>
