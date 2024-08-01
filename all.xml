@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-01T07:07:19.642Z</updated>
+    <updated>2024-08-01T08:09:58.499Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[한빛앤] 생성형AI (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5723</id>
+        <link href="https://festa.io/events/5723"/>
+        <updated>2024-08-01T08:09:57.868Z</updated>
+        <content type="html"><![CDATA[8월 24일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[웨비나] 코드잇 CEO에게 직접 듣는 IT 커리어와 전망 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5724</id>
@@ -50,13 +57,6 @@
         <title type="html"><![CDATA[실행의 힘 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5697</id>
         <link href="https://festa.io/events/5697"/>
-        <updated>2024-08-01T03:08:26.807Z</updated>
-        <content type="html"><![CDATA[7월 31일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5699</id>
-        <link href="https://festa.io/events/5699"/>
         <updated>2024-08-01T03:08:26.807Z</updated>
         <content type="html"><![CDATA[7월 31일 (수) · 오프라인]]></content>
     </entry>
