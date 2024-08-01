@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-01T02:04:23.161Z</updated>
+    <updated>2024-08-01T03:08:27.445Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[실행의 힘]]></title>
+        <id>https://festa.io/events/5697</id>
+        <link href="https://festa.io/events/5697"/>
+        <updated>2024-08-01T03:08:26.807Z</updated>
+        <content type="html"><![CDATA[7월 31일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
+        <id>https://festa.io/events/5699</id>
+        <link href="https://festa.io/events/5699"/>
+        <updated>2024-08-01T03:08:26.807Z</updated>
+        <content type="html"><![CDATA[7월 31일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 펜지니어 컨퍼런스 - 2024펜지콘]]></title>
         <id>https://festa.io/events/5672</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5708"/>
         <updated>2024-07-30T06:10:50.553Z</updated>
         <content type="html"><![CDATA[8월 30일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[보이는 것 그 이상의 세계 ー낭만주의 미술]]></title>
-        <id>https://festa.io/events/5707</id>
-        <link href="https://festa.io/events/5707"/>
-        <updated>2024-07-30T06:10:50.553Z</updated>
-        <content type="html"><![CDATA[9월 1일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[오선지에 담은 글과 그림 ー낭만주의 음악]]></title>
-        <id>https://festa.io/events/5690</id>
-        <link href="https://festa.io/events/5690"/>
-        <updated>2024-07-30T05:08:16.021Z</updated>
-        <content type="html"><![CDATA[8월 31일 (토) · 오프라인]]></content>
     </entry>
 </feed>
