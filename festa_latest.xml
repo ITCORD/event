@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-02T05:05:23.209Z</updated>
+    <updated>2024-08-02T06:10:25.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[경북 게임개발 사관학교 - 방치형 게임 제작 과정]]></title>
+        <id>https://festa.io/events/5735</id>
+        <link href="https://festa.io/events/5735"/>
+        <updated>2024-08-02T06:10:24.867Z</updated>
+        <content type="html"><![CDATA[8월 18일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[코드잇 스프린트] 교육에 진심인 코드잇 부트캠프, 스프린트 프론트엔드 11기 모집]]></title>
         <id>https://festa.io/events/5731</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5721"/>
         <updated>2024-08-01T06:10:07.078Z</updated>
         <content type="html"><![CDATA[9월 10일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재직자/무료교육] 디지털 트윈 입문 비대면 무료교육 (8/16, 금)]]></title>
-        <id>https://festa.io/events/5722</id>
-        <link href="https://festa.io/events/5722"/>
-        <updated>2024-08-01T06:10:07.084Z</updated>
-        <content type="html"><![CDATA[8월 16일 (금) · 온라인]]></content>
     </entry>
 </feed>
