@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-02T00:31:03.104Z</updated>
+    <updated>2024-08-02T01:58:23.239Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[코드잇 스프린트] 교육에 진심인 코드잇 부트캠프, 스프린트 프론트엔드 11기 모집]]></title>
+        <id>https://festa.io/events/5731</id>
+        <link href="https://festa.io/events/5731"/>
+        <updated>2024-08-02T01:58:22.577Z</updated>
+        <content type="html"><![CDATA[8월 26일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[생성형 AI 전액무료 교육] 2024 AI 콘텐츠 창작 아카데미 - 음악 창작자 과정]]></title>
+        <id>https://festa.io/events/5728</id>
+        <link href="https://festa.io/events/5728"/>
+        <updated>2024-08-02T01:58:22.581Z</updated>
+        <content type="html"><![CDATA[8월 17일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[생성형 AI 전액무료 교육] 2024 AI 콘텐츠 창작 아카데미 - 영상 창작자 과정]]></title>
+        <id>https://festa.io/events/5727</id>
+        <link href="https://festa.io/events/5727"/>
+        <updated>2024-08-02T01:58:22.584Z</updated>
+        <content type="html"><![CDATA[8월 17일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청년취업사관학교 새싹 관악캠퍼스 1기 교육생 모집]]></title>
         <id>https://festa.io/events/5726</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5722"/>
         <updated>2024-08-01T06:10:07.084Z</updated>
         <content type="html"><![CDATA[8월 16일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/5706</id>
-        <link href="https://festa.io/events/5706"/>
-        <updated>2024-08-01T06:10:07.084Z</updated>
-        <content type="html"><![CDATA[8월 11일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrum Alliance 에서 인증하는 Certified Scrum Master 과정 (CSM)]]></title>
-        <id>https://festa.io/events/5720</id>
-        <link href="https://festa.io/events/5720"/>
-        <updated>2024-08-01T05:07:38.751Z</updated>
-        <content type="html"><![CDATA[9월 3일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드잇 강영훈 CEO와 함께하는 1:1 커리어 상담]]></title>
-        <id>https://festa.io/events/5719</id>
-        <link href="https://festa.io/events/5719"/>
-        <updated>2024-08-01T05:07:38.753Z</updated>
-        <content type="html"><![CDATA[7월 19일 (금) · 온라인]]></content>
     </entry>
 </feed>
