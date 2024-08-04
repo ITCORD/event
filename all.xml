@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-04T14:02:04.746Z</updated>
+    <updated>2024-08-04T15:02:19.558Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5706</id>
+        <link href="https://festa.io/events/5706"/>
+        <updated>2024-08-04T15:02:18.909Z</updated>
+        <content type="html"><![CDATA[8월 11일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[한국 SAFe 커뮤니티 24년 8월 밋업 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5746</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/5728</id>
         <link href="https://festa.io/events/5728"/>
         <updated>2024-08-02T01:58:22.581Z</updated>
-        <content type="html"><![CDATA[8월 17일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[생성형 AI 전액무료 교육] 2024 AI 콘텐츠 창작 아카데미 - 영상 창작자 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5727</id>
-        <link href="https://festa.io/events/5727"/>
-        <updated>2024-08-02T01:58:22.584Z</updated>
         <content type="html"><![CDATA[8월 17일 (토) · 오프라인]]></content>
     </entry>
 </feed>
