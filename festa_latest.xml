@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-06T03:08:01.015Z</updated>
+    <updated>2024-08-06T04:10:00.513Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[유럽구매대행, 일본역직구] 해외제품+인스타+유튜브로 사업하는 글로벌마케터 세미나]]></title>
+        <id>https://festa.io/events/5766</id>
+        <link href="https://festa.io/events/5766"/>
+        <updated>2024-08-06T04:09:59.863Z</updated>
+        <content type="html"><![CDATA[8월 6일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 제 3회 ICT콤플렉스 스타트업 투자상담회 (~8.25)]]></title>
         <id>https://festa.io/events/5765</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5757"/>
         <updated>2024-08-05T05:09:17.622Z</updated>
         <content type="html"><![CDATA[8월 12일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[당신은 겁이 많나요?]]></title>
-        <id>https://festa.io/events/5568</id>
-        <link href="https://festa.io/events/5568"/>
-        <updated>2024-08-05T04:09:24.849Z</updated>
-        <content type="html"><![CDATA[8월 4일 (일) · 오프라인]]></content>
     </entry>
 </feed>
