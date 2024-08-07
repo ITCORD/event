@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-07T05:07:35.144Z</updated>
+    <updated>2024-08-07T06:10:19.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유니티VR콘텐츠 크리에이터]]></title>
+        <id>https://festa.io/events/5777</id>
+        <link href="https://festa.io/events/5777"/>
+        <updated>2024-08-07T06:10:18.809Z</updated>
+        <content type="html"><![CDATA[9월 2일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2024 GDSC KAIST 여름 해커톤] - 2024 SPARKLING THON]]></title>
         <id>https://festa.io/events/5774</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5762"/>
         <updated>2024-08-06T00:31:40.669Z</updated>
         <content type="html"><![CDATA[8월 13일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDSC DGU 1기 DEMODAY]]></title>
-        <id>https://festa.io/events/5709</id>
-        <link href="https://festa.io/events/5709"/>
-        <updated>2024-08-05T07:07:59.559Z</updated>
-        <content type="html"><![CDATA[8월 23일 (금) · 오프라인]]></content>
     </entry>
 </feed>
