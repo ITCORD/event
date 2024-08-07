@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-07T06:10:19.491Z</updated>
+    <updated>2024-08-07T07:04:02.184Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[빅데이터 GPT활용 데이터분석]]></title>
+        <id>https://festa.io/events/5778</id>
+        <link href="https://festa.io/events/5778"/>
+        <updated>2024-08-07T07:04:01.567Z</updated>
+        <content type="html"><![CDATA[8월 28일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니티VR콘텐츠 크리에이터]]></title>
         <id>https://festa.io/events/5777</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5764"/>
         <updated>2024-08-06T01:58:07.236Z</updated>
         <content type="html"><![CDATA[9월 2일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청중모집] 8월 컴퍼스 포럼]]></title>
-        <id>https://festa.io/events/5762</id>
-        <link href="https://festa.io/events/5762"/>
-        <updated>2024-08-06T00:31:40.669Z</updated>
-        <content type="html"><![CDATA[8월 13일 (화) · 오프라인]]></content>
     </entry>
 </feed>
