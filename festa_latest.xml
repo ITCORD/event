@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-08T10:07:29.690Z</updated>
+    <updated>2024-08-08T11:02:25.995Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[(이벤터스로 등록) [I in We x MODUPOP] Tech Beyond Boundaries: 빅테크 취직부터 승진까지]]></title>
+        <id>https://festa.io/events/5791</id>
+        <link href="https://festa.io/events/5791"/>
+        <updated>2024-08-08T11:02:25.186Z</updated>
+        <content type="html"><![CDATA[8월 15일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
         <id>https://festa.io/events/5699</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5733"/>
         <updated>2024-08-07T09:08:12.739Z</updated>
         <content type="html"><![CDATA[8월 22일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🔥 Prometheus AI Demo Day: IGNITE 🔥]]></title>
-        <id>https://festa.io/events/5780</id>
-        <link href="https://festa.io/events/5780"/>
-        <updated>2024-08-07T09:08:12.739Z</updated>
-        <content type="html"><![CDATA[8월 24일 (토) · 오프라인]]></content>
     </entry>
 </feed>
