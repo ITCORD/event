@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-12T21:02:59.744Z</updated>
+    <updated>2024-08-12T22:03:09.164Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -48,7 +48,7 @@
         <content type="html"><![CDATA[8월 23일 (금) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[SUSCON 2024 SUMMER: (구)SUSC 성과공유회]]></title>
+        <title type="html"><![CDATA[SUSCON 2024 SUMMER]]></title>
         <id>https://festa.io/events/5800</id>
         <link href="https://festa.io/events/5800"/>
         <updated>2024-08-11T15:02:04.070Z</updated>
