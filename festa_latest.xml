@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-12T05:07:48.678Z</updated>
+    <updated>2024-08-12T06:10:49.238Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -41,6 +41,13 @@
         <content type="html"><![CDATA[8월 15일 (목) · 오프라인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[Gardens of Timeless by Lee Chung Min]]></title>
+        <id>https://festa.io/events/5801</id>
+        <link href="https://festa.io/events/5801"/>
+        <updated>2024-08-12T06:10:48.586Z</updated>
+        <content type="html"><![CDATA[8월 23일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[SUSCON 2024 SUMMER: (구)SUSC 성과공유회]]></title>
         <id>https://festa.io/events/5800</id>
         <link href="https://festa.io/events/5800"/>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5799"/>
         <updated>2024-08-10T06:08:49.558Z</updated>
         <content type="html"><![CDATA[8월 29일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[구글 검색 엔진 최적화(테크니컬SEO) 집중 총정리 세미나]]></title>
-        <id>https://festa.io/events/5798</id>
-        <link href="https://festa.io/events/5798"/>
-        <updated>2024-08-10T06:08:49.562Z</updated>
-        <content type="html"><![CDATA[8월 22일 (목) · 온라인]]></content>
     </entry>
 </feed>
