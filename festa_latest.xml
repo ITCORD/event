@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-13T04:09:07.831Z</updated>
+    <updated>2024-08-13T05:07:32.682Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료 세미나] 헬스케어 분야 레이더 활용 동향 세미나]]></title>
+        <id>https://festa.io/events/5813</id>
+        <link href="https://festa.io/events/5813"/>
+        <updated>2024-08-13T05:07:32.093Z</updated>
+        <content type="html"><![CDATA[8월 27일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유니티VR콘텐츠 크리에이터]]></title>
         <id>https://festa.io/events/5777</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5801"/>
         <updated>2024-08-12T06:10:48.586Z</updated>
         <content type="html"><![CDATA[8월 23일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[SUSCON 2024 SUMMER]]></title>
-        <id>https://festa.io/events/5800</id>
-        <link href="https://festa.io/events/5800"/>
-        <updated>2024-08-11T15:02:04.070Z</updated>
-        <content type="html"><![CDATA[8월 17일 (토) · 오프라인]]></content>
     </entry>
 </feed>
