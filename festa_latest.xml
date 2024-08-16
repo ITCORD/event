@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-16T05:07:13.568Z</updated>
+    <updated>2024-08-16T06:10:31.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프론트엔드 프로젝트 캠프 : next.js 3기]]></title>
+        <id>https://festa.io/events/5823</id>
+        <link href="https://festa.io/events/5823"/>
+        <updated>2024-08-16T06:10:30.853Z</updated>
+        <content type="html"><![CDATA[9월 20일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[사업계획서 필승 바이블] 세미나]]></title>
         <id>https://festa.io/events/5822</id>
@@ -51,13 +58,6 @@
         <title type="html"><![CDATA[[KAIT/과기정통부] ICT 이노베이션 스퀘어 클라우드 교육과정 수강생 모집 (전액무료)]]></title>
         <id>https://festa.io/events/5806</id>
         <link href="https://festa.io/events/5806"/>
-        <updated>2024-08-12T05:07:48.012Z</updated>
-        <content type="html"><![CDATA[9월 2일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KAIT/과기정통부] ICT 이노베이션 스퀘어 인공지능 음성 교육과정 수강생 모집 (전액무료)]]></title>
-        <id>https://festa.io/events/5805</id>
-        <link href="https://festa.io/events/5805"/>
         <updated>2024-08-12T05:07:48.012Z</updated>
         <content type="html"><![CDATA[9월 2일 (월) · 온라인]]></content>
     </entry>
