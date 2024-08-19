@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-19T08:10:14.914Z</updated>
+    <updated>2024-08-19T09:08:32.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024년도 제2회 『수원기업 IR데이』 참여기업 모집 공고]]></title>
+        <id>https://festa.io/events/5840</id>
+        <link href="https://festa.io/events/5840"/>
+        <updated>2024-08-19T09:08:31.947Z</updated>
+        <content type="html"><![CDATA[8월 31일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2030 고민타파!]]></title>
         <id>https://festa.io/events/5839</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5831"/>
         <updated>2024-08-18T16:06:11.656Z</updated>
         <content type="html"><![CDATA[9월 3일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모두의연구소 비즈클럽] Microsoft AI 개발자 시애틀양파님과 함께하는 커피챗]]></title>
-        <id>https://festa.io/events/5829</id>
-        <link href="https://festa.io/events/5829"/>
-        <updated>2024-08-17T08:08:53.721Z</updated>
-        <content type="html"><![CDATA[8월 21일 (수) · 오프라인]]></content>
     </entry>
 </feed>
