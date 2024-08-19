@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-19T03:08:13.876Z</updated>
+    <updated>2024-08-19T04:09:18.123Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 강원메타버스캠퍼스 입문~콘텐츠 전문가 양성교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5837</id>
+        <link href="https://festa.io/events/5837"/>
+        <updated>2024-08-19T04:09:17.485Z</updated>
+        <content type="html"><![CDATA[8월 27일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[중견기업 핵심인재 육성 아카데미 ★「2024 미래 모빌리티 특화 과정」 교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5834</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5827"/>
         <updated>2024-08-16T08:10:05.796Z</updated>
         <content type="html"><![CDATA[8월 28일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프론트엔드 프로젝트 캠프 : next.js 3기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5823</id>
-        <link href="https://festa.io/events/5823"/>
-        <updated>2024-08-16T06:10:30.853Z</updated>
-        <content type="html"><![CDATA[9월 20일 (금) · 오프라인]]></content>
     </entry>
 </feed>
