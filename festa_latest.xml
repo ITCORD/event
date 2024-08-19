@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-19T04:09:18.121Z</updated>
+    <updated>2024-08-19T05:07:55.120Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2030 고민타파!]]></title>
+        <id>https://festa.io/events/5839</id>
+        <link href="https://festa.io/events/5839"/>
+        <updated>2024-08-19T05:07:54.379Z</updated>
+        <content type="html"><![CDATA[8월 25일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charming Swift: Apple이 관심갖는 주요 기술과 개발 경험 공유]]></title>
+        <id>https://festa.io/events/5838</id>
+        <link href="https://festa.io/events/5838"/>
+        <updated>2024-08-19T05:07:54.379Z</updated>
+        <content type="html"><![CDATA[8월 24일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 강원메타버스캠퍼스 입문~콘텐츠 전문가 양성교육]]></title>
         <id>https://festa.io/events/5837</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5829"/>
         <updated>2024-08-17T08:08:53.721Z</updated>
         <content type="html"><![CDATA[8월 21일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 8월의 패스워드]]></title>
-        <id>https://festa.io/events/5828</id>
-        <link href="https://festa.io/events/5828"/>
-        <updated>2024-08-16T09:08:25.097Z</updated>
-        <content type="html"><![CDATA[8월 22일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[월간 세션 프로그램ㅣ코파운더를 찾으려는 사람들을 위한 50가지 질문들]]></title>
-        <id>https://festa.io/events/5827</id>
-        <link href="https://festa.io/events/5827"/>
-        <updated>2024-08-16T08:10:05.796Z</updated>
-        <content type="html"><![CDATA[8월 28일 (수) · 오프라인]]></content>
     </entry>
 </feed>
