@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-20T14:03:13.969Z</updated>
+    <updated>2024-08-20T15:07:38.392Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -34,13 +34,6 @@
         <content type="html"><![CDATA[9월 1일 (일) · 오프라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[I in We (前 걸스인텍코리아) 운영진 모집 INFO SESSION (이벤터스로 등록)]]></title>
-        <id>https://festa.io/events/5848</id>
-        <link href="https://festa.io/events/5848"/>
-        <updated>2024-08-20T04:09:27.698Z</updated>
-        <content type="html"><![CDATA[8월 19일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[사람인×Udemy '14일만에 따는 AI 자격증✌️']]></title>
         <id>https://festa.io/events/5846</id>
         <link href="https://festa.io/events/5846"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/5839"/>
         <updated>2024-08-19T05:07:54.379Z</updated>
         <content type="html"><![CDATA[8월 25일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Charming Swift: Apple이 관심갖는 주요 기술과 개발 경험 공유]]></title>
+        <id>https://festa.io/events/5838</id>
+        <link href="https://festa.io/events/5838"/>
+        <updated>2024-08-20T15:07:37.698Z</updated>
+        <content type="html"><![CDATA[8월 24일 (토) · 오프라인]]></content>
     </entry>
 </feed>
