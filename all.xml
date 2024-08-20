@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-20T00:32:04.871Z</updated>
+    <updated>2024-08-20T01:58:23.491Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[사람인×Udemy '14일만에 따는 AI 자격증✌️' (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5846</id>
+        <link href="https://festa.io/events/5846"/>
+        <updated>2024-08-20T01:58:22.827Z</updated>
+        <content type="html"><![CDATA[8월 29일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년도 제2회 『수원기업 IR데이』 참여기업 모집 공고 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5840</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5699"/>
         <updated>2024-08-19T02:01:16.863Z</updated>
         <content type="html"><![CDATA[8월 18일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[대구/경북 IT 커뮤니티 통합 컨퍼런스] Tech Together (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5831</id>
-        <link href="https://festa.io/events/5831"/>
-        <updated>2024-08-18T16:06:11.656Z</updated>
-        <content type="html"><![CDATA[9월 3일 (화) · 오프라인]]></content>
     </entry>
 </feed>
