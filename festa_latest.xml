@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-22T00:32:22.108Z</updated>
+    <updated>2024-08-22T02:00:53.355Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/5849</id>
+        <link href="https://festa.io/events/5849"/>
+        <updated>2024-08-22T02:00:52.645Z</updated>
+        <content type="html"><![CDATA[9월 1일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2024년 DPG AI Challenge 경진대회]]]></title>
         <id>https://festa.io/events/5864</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5851"/>
         <updated>2024-08-20T08:10:37.611Z</updated>
         <content type="html"><![CDATA[8월 30일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 경기 동남권 베이비부머 행복캠퍼스 프로그램(2기) 수강생 모집]]></title>
-        <id>https://festa.io/events/5850</id>
-        <link href="https://festa.io/events/5850"/>
-        <updated>2024-08-20T08:10:37.613Z</updated>
-        <content type="html"><![CDATA[8월 20일 (화) · 오프라인]]></content>
     </entry>
 </feed>
