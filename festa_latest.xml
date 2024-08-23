@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-23T00:32:04.510Z</updated>
+    <updated>2024-08-23T01:59:35.881Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료교육] 매치업 클라우드 전문가 양성과정 설명회 모집]]></title>
+        <id>https://festa.io/events/5868</id>
+        <link href="https://festa.io/events/5868"/>
+        <updated>2024-08-23T01:59:35.232Z</updated>
+        <content type="html"><![CDATA[8월 27일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AKM: 한의사 아키텍트가 들려주는 "애자일 리더십"]]></title>
+        <id>https://festa.io/events/5867</id>
+        <link href="https://festa.io/events/5867"/>
+        <updated>2024-08-23T01:59:35.235Z</updated>
+        <content type="html"><![CDATA[9월 4일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한빛앤] 개발자를 위한 필수 보고 & 커뮤니케이션 스킬 업]]></title>
         <id>https://festa.io/events/5844</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5862"/>
         <updated>2024-08-21T08:10:58.618Z</updated>
         <content type="html"><![CDATA[9월 4일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문가 특강_AI 세대와 함께 하는 행복한 삶!]]></title>
-        <id>https://festa.io/events/5861</id>
-        <link href="https://festa.io/events/5861"/>
-        <updated>2024-08-21T08:10:58.623Z</updated>
-        <content type="html"><![CDATA[9월 4일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문가 특강_책맹인류 시대, 독서하는 독종이 이긴다!]]></title>
-        <id>https://festa.io/events/5853</id>
-        <link href="https://festa.io/events/5853"/>
-        <updated>2024-08-21T08:10:58.623Z</updated>
-        <content type="html"><![CDATA[9월 11일 (수) · 오프라인]]></content>
     </entry>
 </feed>
