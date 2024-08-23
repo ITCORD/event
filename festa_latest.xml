@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-23T01:59:35.881Z</updated>
+    <updated>2024-08-23T02:34:28.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[모두의연구소][비즈세미나] 플랫폼에 대한 이해 및 AI 효율성 관리 및 내재화 방법, part2]]></title>
+        <id>https://festa.io/events/5869</id>
+        <link href="https://festa.io/events/5869"/>
+        <updated>2024-08-23T02:34:28.040Z</updated>
+        <content type="html"><![CDATA[9월 7일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료교육] 매치업 클라우드 전문가 양성과정 설명회 모집]]></title>
         <id>https://festa.io/events/5868</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5864"/>
         <updated>2024-08-21T12:12:05.779Z</updated>
         <content type="html"><![CDATA[8월 20일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문가 특강_베이비부머 세대의 창직·창업 도전하기]]></title>
-        <id>https://festa.io/events/5862</id>
-        <link href="https://festa.io/events/5862"/>
-        <updated>2024-08-21T08:10:58.618Z</updated>
-        <content type="html"><![CDATA[9월 4일 (수) · 오프라인]]></content>
     </entry>
 </feed>
