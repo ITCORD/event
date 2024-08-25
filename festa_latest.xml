@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-25T14:03:28.668Z</updated>
+    <updated>2024-08-25T15:02:43.219Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -41,13 +41,6 @@
         <content type="html"><![CDATA[8월 22일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[🌱<청년취업사관학교 새싹 관악캠퍼스 1기 교육생 모집>🌱 MICE기획, Flutter 활용 웹/앱 개발 (~8/25)]]></title>
-        <id>https://festa.io/events/5865</id>
-        <link href="https://festa.io/events/5865"/>
-        <updated>2024-08-22T02:36:46.778Z</updated>
-        <content type="html"><![CDATA[8월 22일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/5849</id>
         <link href="https://festa.io/events/5849"/>
@@ -60,5 +53,12 @@
         <link href="https://festa.io/events/5864"/>
         <updated>2024-08-23T18:09:10.192Z</updated>
         <content type="html"><![CDATA[8월 20일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[전문가 특강_베이비부머 세대의 창직·창업 도전하기]]></title>
+        <id>https://festa.io/events/5862</id>
+        <link href="https://festa.io/events/5862"/>
+        <updated>2024-08-25T15:02:42.539Z</updated>
+        <content type="html"><![CDATA[9월 4일 (수) · 오프라인]]></content>
     </entry>
 </feed>
