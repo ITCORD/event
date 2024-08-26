@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-08-26T00:33:04.739Z</updated>
+    <updated>2024-08-26T02:00:42.691Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5699</id>
+        <link href="https://festa.io/events/5699"/>
+        <updated>2024-08-26T02:00:42.040Z</updated>
+        <content type="html"><![CDATA[8월 25일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 재직자 실무역량 강화를 위한 온라인 과정 4차 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5870</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5864"/>
         <updated>2024-08-23T18:09:10.192Z</updated>
         <content type="html"><![CDATA[8월 20일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[전문가 특강_베이비부머 세대의 창직·창업 도전하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5862</id>
-        <link href="https://festa.io/events/5862"/>
-        <updated>2024-08-25T15:02:42.539Z</updated>
-        <content type="html"><![CDATA[9월 4일 (수) · 오프라인]]></content>
     </entry>
 </feed>
