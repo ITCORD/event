@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-27T13:13:02.590Z</updated>
+    <updated>2024-08-27T14:06:04.971Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[경기북부IT인커뮤니티-킵고잉 1주년 네트워킹 데이]]></title>
+        <id>https://festa.io/events/5894</id>
+        <link href="https://festa.io/events/5894"/>
+        <updated>2024-08-27T14:06:04.315Z</updated>
+        <content type="html"><![CDATA[8월 31일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버클라우드 환경에서의 제로 트러스트 구성 방안]]></title>
         <id>https://festa.io/events/5892</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5885"/>
         <updated>2024-08-27T07:07:32.539Z</updated>
         <content type="html"><![CDATA[8월 27일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DDP 디자인&아트 아티스트토크]]></title>
-        <id>https://festa.io/events/5884</id>
-        <link href="https://festa.io/events/5884"/>
-        <updated>2024-08-27T07:07:32.540Z</updated>
-        <content type="html"><![CDATA[8월 30일 (금) · 오프라인]]></content>
     </entry>
 </feed>
