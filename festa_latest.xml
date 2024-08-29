@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-29T02:03:30.449Z</updated>
+    <updated>2024-08-29T03:08:37.665Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AI 기술과 스타트업의 가능성 : 도전과 혁신 그리고 미래를 여는 포럼]]></title>
+        <id>https://festa.io/events/5902</id>
+        <link href="https://festa.io/events/5902"/>
+        <updated>2024-08-29T03:08:37.052Z</updated>
+        <content type="html"><![CDATA[9월 11일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[치유관광 힐링 페스티벌 (영동)]]></title>
+        <id>https://festa.io/events/5901</id>
+        <link href="https://festa.io/events/5901"/>
+        <updated>2024-08-29T03:08:37.052Z</updated>
+        <content type="html"><![CDATA[8월 29일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/5875</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5894"/>
         <updated>2024-08-27T14:06:04.315Z</updated>
         <content type="html"><![CDATA[8월 31일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[네이버클라우드 환경에서의 제로 트러스트 구성 방안]]></title>
-        <id>https://festa.io/events/5892</id>
-        <link href="https://festa.io/events/5892"/>
-        <updated>2024-08-27T10:07:29.926Z</updated>
-        <content type="html"><![CDATA[9월 12일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[CLOVA Studio를 활용한 RAG 구성]]></title>
-        <id>https://festa.io/events/5891</id>
-        <link href="https://festa.io/events/5891"/>
-        <updated>2024-08-27T10:07:29.926Z</updated>
-        <content type="html"><![CDATA[9월 26일 (목) · 온라인]]></content>
     </entry>
 </feed>
