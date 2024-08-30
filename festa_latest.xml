@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-08-30T04:09:55.137Z</updated>
+    <updated>2024-08-30T05:07:40.599Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 프론트엔드(React, React Native) 웹개발&앱개발자 취업캠프]]></title>
+        <id>https://festa.io/events/5912</id>
+        <link href="https://festa.io/events/5912"/>
+        <updated>2024-08-30T05:07:39.954Z</updated>
+        <content type="html"><![CDATA[9월 6일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, JAVA를 활용한 클라우드 현업 멘토 스쿨]]></title>
+        <id>https://festa.io/events/5911</id>
+        <link href="https://festa.io/events/5911"/>
+        <updated>2024-08-30T05:07:39.955Z</updated>
+        <content type="html"><![CDATA[9월 6일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KDT] 메디치 교육센터 빅데이터 애널리스트 취업교육]]></title>
+        <id>https://festa.io/events/5910</id>
+        <link href="https://festa.io/events/5910"/>
+        <updated>2024-08-30T05:07:39.956Z</updated>
+        <content type="html"><![CDATA[10월 1일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[예비 데이터 사이언티스트 선배가 들려주는 아이펠스토리]]></title>
         <id>https://festa.io/events/5909</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/5905"/>
         <updated>2024-08-30T02:04:25.511Z</updated>
         <content type="html"><![CDATA[9월 6일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 8주 단기 심화 부트캠프로 개발자 취업 준비 끝]]></title>
-        <id>https://festa.io/events/5904</id>
-        <link href="https://festa.io/events/5904"/>
-        <updated>2024-08-29T08:09:58.879Z</updated>
-        <content type="html"><![CDATA[9월 25일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[소상공인시장진흥공단 & 가비아CNS] 아마존, 쇼피, 알리바바닷컴 이해와 활용 [무료 교육 및 컨설팅 / 전국 5개 도시]]]></title>
-        <id>https://festa.io/events/5903</id>
-        <link href="https://festa.io/events/5903"/>
-        <updated>2024-08-29T06:10:35.375Z</updated>
-        <content type="html"><![CDATA[10월 16일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/5875</id>
-        <link href="https://festa.io/events/5875"/>
-        <updated>2024-08-28T12:15:03.542Z</updated>
-        <content type="html"><![CDATA[9월 7일 (토) · 오프라인]]></content>
     </entry>
 </feed>
