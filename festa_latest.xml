@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-02T06:11:43.536Z</updated>
+    <updated>2024-09-02T07:08:12.413Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로]]></title>
+        <id>https://festa.io/events/5699</id>
+        <link href="https://festa.io/events/5699"/>
+        <updated>2024-09-02T07:08:11.764Z</updated>
+        <content type="html"><![CDATA[9월 1일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청중모집] 9월 컴퍼스 포럼]]></title>
         <id>https://festa.io/events/5920</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5909"/>
         <updated>2024-08-30T04:09:54.308Z</updated>
         <content type="html"><![CDATA[9월 11일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 세미나] 실내감지 레이더 이해와 활용 세미나]]></title>
-        <id>https://festa.io/events/5908</id>
-        <link href="https://festa.io/events/5908"/>
-        <updated>2024-08-30T02:04:25.507Z</updated>
-        <content type="html"><![CDATA[9월 10일 (화) · 온라인]]></content>
     </entry>
 </feed>
