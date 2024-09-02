@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-02T07:08:12.430Z</updated>
+    <updated>2024-09-02T08:11:38.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[코드잇 스프린트] 1등 프론트엔드 부트캠프, 지금 모집중 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5925</id>
+        <link href="https://festa.io/events/5925"/>
+        <updated>2024-09-02T08:11:37.568Z</updated>
+        <content type="html"><![CDATA[9월 1일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[lab | up > /conf/4 - Make AI Scalable with Lablup (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5923</id>
+        <link href="https://festa.io/events/5923"/>
+        <updated>2024-09-02T08:11:37.569Z</updated>
+        <content type="html"><![CDATA[9월 24일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[유리 멘탈에서 다이아몬드 멘탈로 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5699</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/5911"/>
         <updated>2024-08-30T05:07:39.955Z</updated>
         <content type="html"><![CDATA[9월 6일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[KDT] 메디치 교육센터 빅데이터 애널리스트 취업교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5910</id>
-        <link href="https://festa.io/events/5910"/>
-        <updated>2024-08-30T05:07:39.956Z</updated>
-        <content type="html"><![CDATA[10월 1일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[예비 데이터 사이언티스트 선배가 들려주는 아이펠스토리 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5909</id>
-        <link href="https://festa.io/events/5909"/>
-        <updated>2024-08-30T04:09:54.308Z</updated>
-        <content type="html"><![CDATA[9월 11일 (수) · 온라인]]></content>
     </entry>
 </feed>
