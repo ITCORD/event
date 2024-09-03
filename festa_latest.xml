@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-03T04:09:13.505Z</updated>
+    <updated>2024-09-03T05:08:17.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[AUSGCON 2024 (아우쓱콘)]]></title>
+        <id>https://festa.io/events/5914</id>
+        <link href="https://festa.io/events/5914"/>
+        <updated>2024-09-02T17:03:09.457Z</updated>
+        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료]글로벌 기업 사례로 보는 안전관리 인사이트 특강]]></title>
         <id>https://festa.io/events/5931</id>
@@ -25,13 +32,6 @@
         <link href="https://festa.io/events/5928"/>
         <updated>2024-09-03T02:03:13.136Z</updated>
         <content type="html"><![CDATA[9월 20일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AUSGCON 2024 (아우쓱콘)]]></title>
-        <id>https://festa.io/events/5914</id>
-        <link href="https://festa.io/events/5914"/>
-        <updated>2024-09-02T17:03:09.457Z</updated>
-        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[위성영상을 활용한 선박 탐지 AI 경진대회]]></title>
