@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-04T07:07:45.571Z</updated>
+    <updated>2024-09-04T08:09:20.206Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울시 디지털 금융세미나] "디지털 금융인증 산업의 현황과 발전 방향"/ 아톤 우길수 대표]]></title>
+        <id>https://festa.io/events/5941</id>
+        <link href="https://festa.io/events/5941"/>
+        <updated>2024-09-04T08:09:19.455Z</updated>
+        <content type="html"><![CDATA[9월 11일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[교육비 전액지원] 백엔드 역량까지 챙기는 엘리스트랙 리액트 11기]]></title>
         <id>https://festa.io/events/5939</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5928"/>
         <updated>2024-09-03T02:03:13.136Z</updated>
         <content type="html"><![CDATA[9월 20일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[위성영상을 활용한 선박 탐지 AI 경진대회]]></title>
-        <id>https://festa.io/events/5927</id>
-        <link href="https://festa.io/events/5927"/>
-        <updated>2024-09-02T12:13:19.746Z</updated>
-        <content type="html"><![CDATA[9월 9일 (월) · 온라인]]></content>
     </entry>
 </feed>
