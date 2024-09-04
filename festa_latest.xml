@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-04T05:08:44.621Z</updated>
+    <updated>2024-09-04T07:07:45.571Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[교육비 전액지원] 백엔드 역량까지 챙기는 엘리스트랙 리액트 11기]]></title>
+        <id>https://festa.io/events/5939</id>
+        <link href="https://festa.io/events/5939"/>
+        <updated>2024-09-04T07:07:44.688Z</updated>
+        <content type="html"><![CDATA[8월 18일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[(SSI Korea 주최 - '24. 9 웨비나) 우리가 놓치고 있는 수 조원의 수익을 창출할 수 있는' 디지털 월렛']]></title>
         <id>https://festa.io/events/5936</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5927"/>
         <updated>2024-09-02T12:13:19.746Z</updated>
         <content type="html"><![CDATA[9월 9일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[제1회 강남AI예술제]]></title>
-        <id>https://festa.io/events/5926</id>
-        <link href="https://festa.io/events/5926"/>
-        <updated>2024-09-02T09:08:33.522Z</updated>
-        <content type="html"><![CDATA[9월 6일 (금) · 오프라인]]></content>
     </entry>
 </feed>
