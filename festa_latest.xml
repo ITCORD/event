@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-05T06:10:58.085Z</updated>
+    <updated>2024-09-05T07:07:44.663Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[카카오 출신 개발자와 함께하는 사전설명회 - 모두의연구소 프론트엔드 개발 과정]]></title>
+        <id>https://festa.io/events/5944</id>
+        <link href="https://festa.io/events/5944"/>
+        <updated>2024-09-05T07:07:43.980Z</updated>
+        <content type="html"><![CDATA[9월 11일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, JAVA를 활용한 클라우드 현업 멘토 스쿨]]></title>
         <id>https://festa.io/events/5943</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5914"/>
         <updated>2024-09-02T17:03:09.457Z</updated>
         <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료]글로벌 기업 사례로 보는 안전관리 인사이트 특강]]></title>
-        <id>https://festa.io/events/5931</id>
-        <link href="https://festa.io/events/5931"/>
-        <updated>2024-09-03T04:09:12.869Z</updated>
-        <content type="html"><![CDATA[9월 25일 (수) · 온라인]]></content>
     </entry>
 </feed>
