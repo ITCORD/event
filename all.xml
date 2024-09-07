@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-07T13:10:41.034Z</updated>
+    <updated>2024-09-07T14:03:22.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Scrum Alliance 에서 인증하는 Certified Scrum Master 과정 (CSM) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5952</id>
+        <link href="https://festa.io/events/5952"/>
+        <updated>2024-09-07T14:03:22.064Z</updated>
+        <content type="html"><![CDATA[10월 17일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생성형 AI와 로봇 제어의 미래: DDPM, Diffusion Policy, UMI 탐구 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5951</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/5943</id>
         <link href="https://festa.io/events/5943"/>
         <updated>2024-09-05T06:10:57.451Z</updated>
-        <content type="html"><![CDATA[9월 12일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 프론트엔드(React, React Native) 웹개발&앱개발자 취업캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5942</id>
-        <link href="https://festa.io/events/5942"/>
-        <updated>2024-09-05T06:10:57.452Z</updated>
         <content type="html"><![CDATA[9월 12일 (목) · 오프라인]]></content>
     </entry>
 </feed>
