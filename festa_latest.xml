@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-08T14:02:18.954Z</updated>
+    <updated>2024-09-08T15:02:46.965Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[DEVCON 2024]]></title>
+        <id>https://festa.io/events/5916</id>
+        <link href="https://festa.io/events/5916"/>
+        <updated>2024-09-08T15:02:46.301Z</updated>
+        <content type="html"><![CDATA[10월 12일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서류 가산점] [코드잇 스프린트] 프론트엔드 8주 단기심화 부트캠프 설명회]]></title>
         <id>https://festa.io/events/5956</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5946"/>
         <updated>2024-09-05T08:10:30.265Z</updated>
         <content type="html"><![CDATA[9월 19일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[카카오 출신 개발자와 함께하는 사전설명회 - 모두의연구소 프론트엔드 개발 과정]]></title>
-        <id>https://festa.io/events/5944</id>
-        <link href="https://festa.io/events/5944"/>
-        <updated>2024-09-05T07:07:43.980Z</updated>
-        <content type="html"><![CDATA[9월 11일 (수) · 온라인]]></content>
     </entry>
 </feed>
