@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-08T23:03:33.320Z</updated>
+    <updated>2024-09-09T00:36:30.913Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[K-Battery 미래 유망기술 세미나]]></title>
+        <id>https://festa.io/events/5957</id>
+        <link href="https://festa.io/events/5957"/>
+        <updated>2024-09-09T00:36:30.133Z</updated>
+        <content type="html"><![CDATA[9월 25일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[DEVCON 2024]]></title>
         <id>https://festa.io/events/5916</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5947"/>
         <updated>2024-09-05T09:07:45.495Z</updated>
         <content type="html"><![CDATA[9월 11일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 세미나] 기술창업 세미나]]></title>
-        <id>https://festa.io/events/5946</id>
-        <link href="https://festa.io/events/5946"/>
-        <updated>2024-09-05T08:10:30.265Z</updated>
-        <content type="html"><![CDATA[9월 19일 (목) · 온라인]]></content>
     </entry>
 </feed>
