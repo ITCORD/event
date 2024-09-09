@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-09T07:08:11.910Z</updated>
+    <updated>2024-09-09T08:11:38.500Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 빅콘테스트 개최]]></title>
+        <id>https://festa.io/events/5963</id>
+        <link href="https://festa.io/events/5963"/>
+        <updated>2024-09-09T08:11:37.848Z</updated>
+        <content type="html"><![CDATA[9월 8일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/5962</id>
+        <link href="https://festa.io/events/5962"/>
+        <updated>2024-09-09T08:11:37.854Z</updated>
+        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료교육/재직자] PLC 기초 대면 교육 (9/24,화)]]></title>
         <id>https://festa.io/events/5961</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5952"/>
         <updated>2024-09-07T14:03:22.064Z</updated>
         <content type="html"><![CDATA[10월 17일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생성형 AI와 로봇 제어의 미래: DDPM, Diffusion Policy, UMI 탐구]]></title>
-        <id>https://festa.io/events/5951</id>
-        <link href="https://festa.io/events/5951"/>
-        <updated>2024-09-07T09:04:25.701Z</updated>
-        <content type="html"><![CDATA[9월 12일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[활동가의 세계-환경편]]></title>
-        <id>https://festa.io/events/5945</id>
-        <link href="https://festa.io/events/5945"/>
-        <updated>2024-09-07T02:02:19.317Z</updated>
-        <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
     </entry>
 </feed>
