@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-09T05:08:59.274Z</updated>
+    <updated>2024-09-09T06:11:35.567Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료교육/재직자] PLC 기초 대면 교육 (9/24,화)]]></title>
+        <id>https://festa.io/events/5961</id>
+        <link href="https://festa.io/events/5961"/>
+        <updated>2024-09-09T06:11:34.798Z</updated>
+        <content type="html"><![CDATA[9월 24일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[코드잇 스프린트] 데이터 분석가 트랙 4기]]></title>
         <id>https://festa.io/events/5959</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5945"/>
         <updated>2024-09-07T02:02:19.317Z</updated>
         <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[엘리스 앱 개발 실무 트레이닝 3기 모집] 현직자와 함께 하는 Flutter 앱 기획/개발 20주 과정]]></title>
-        <id>https://festa.io/events/5950</id>
-        <link href="https://festa.io/events/5950"/>
-        <updated>2024-09-06T03:09:34.045Z</updated>
-        <content type="html"><![CDATA[9월 12일 (목) · 온라인]]></content>
     </entry>
 </feed>
