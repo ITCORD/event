@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-10T10:07:58.273Z</updated>
+    <updated>2024-09-10T11:25:53.518Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[로봇운영체제 ROS 2 특강]]></title>
+        <id>https://festa.io/events/5971</id>
+        <link href="https://festa.io/events/5971"/>
+        <updated>2024-09-10T11:25:52.867Z</updated>
+        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 대구 메타버스 전문과정 양성교육 [AI 디지털 창작 과정 in Metacity Daegu]]]></title>
         <id>https://festa.io/events/5972</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5966"/>
         <updated>2024-09-10T03:09:38.183Z</updated>
         <content type="html"><![CDATA[10월 4일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 빅콘테스트 개최]]></title>
-        <id>https://festa.io/events/5963</id>
-        <link href="https://festa.io/events/5963"/>
-        <updated>2024-09-09T08:11:37.848Z</updated>
-        <content type="html"><![CDATA[9월 8일 (일) · 온라인]]></content>
     </entry>
 </feed>
