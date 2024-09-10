@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-10T02:05:56.024Z</updated>
+    <updated>2024-09-10T03:09:38.882Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Traxion:// 열망에서, 성취까지]]></title>
+        <id>https://festa.io/events/5958</id>
+        <link href="https://festa.io/events/5958"/>
+        <updated>2024-09-10T03:09:38.182Z</updated>
+        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] UI/UX 인턴형 프로그램 과정 6기]]></title>
+        <id>https://festa.io/events/5966</id>
+        <link href="https://festa.io/events/5966"/>
+        <updated>2024-09-10T03:09:38.183Z</updated>
+        <content type="html"><![CDATA[10월 4일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 빅콘테스트 개최]]></title>
         <id>https://festa.io/events/5963</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5916"/>
         <updated>2024-09-08T15:02:46.301Z</updated>
         <content type="html"><![CDATA[10월 12일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서류 가산점] [코드잇 스프린트] 프론트엔드 8주 단기심화 부트캠프 설명회]]></title>
-        <id>https://festa.io/events/5956</id>
-        <link href="https://festa.io/events/5956"/>
-        <updated>2024-09-08T12:11:06.576Z</updated>
-        <content type="html"><![CDATA[9월 10일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Scrum Alliance 에서 인증하는 Certified Scrum Master 과정 (CSM)]]></title>
-        <id>https://festa.io/events/5952</id>
-        <link href="https://festa.io/events/5952"/>
-        <updated>2024-09-07T14:03:22.064Z</updated>
-        <content type="html"><![CDATA[10월 17일 (목) · 오프라인]]></content>
     </entry>
 </feed>
