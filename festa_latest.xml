@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-11T03:08:33.053Z</updated>
+    <updated>2024-09-11T04:10:36.523Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Traxion:// 열망에서, 성취까지]]></title>
+        <id>https://festa.io/events/5958</id>
+        <link href="https://festa.io/events/5958"/>
+        <updated>2024-09-11T04:10:35.832Z</updated>
+        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인턴십 100%] 풀스택 엔지니어 부트캠프 4기 모집중]]></title>
         <id>https://festa.io/events/5976</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5969"/>
         <updated>2024-09-10T10:07:57.653Z</updated>
         <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/5962</id>
-        <link href="https://festa.io/events/5962"/>
-        <updated>2024-09-09T08:11:37.854Z</updated>
-        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
     </entry>
 </feed>
