@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-11T07:07:41.394Z</updated>
+    <updated>2024-09-11T08:10:17.645Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[JNPMEDI 2nd Tech Meetup]]></title>
+        <id>https://festa.io/events/5984</id>
+        <link href="https://festa.io/events/5984"/>
+        <updated>2024-09-11T08:10:17.036Z</updated>
+        <content type="html"><![CDATA[10월 19일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/5962</id>
+        <link href="https://festa.io/events/5962"/>
+        <updated>2024-09-11T08:10:17.039Z</updated>
+        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Get Nursing Assignment Help at MyAssignment.live]]></title>
+        <id>https://festa.io/events/5983</id>
+        <link href="https://festa.io/events/5983"/>
+        <updated>2024-09-11T08:10:17.039Z</updated>
+        <content type="html"><![CDATA[9월 18일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Get Assignment Writing Help at My Assignment Help Expert]]></title>
         <id>https://festa.io/events/5982</id>
@@ -38,27 +59,6 @@
         <id>https://festa.io/events/5971</id>
         <link href="https://festa.io/events/5971"/>
         <updated>2024-09-10T11:25:52.867Z</updated>
-        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 대구 메타버스 전문과정 양성교육 [AI 디지털 창작 과정 in Metacity Daegu]]]></title>
-        <id>https://festa.io/events/5972</id>
-        <link href="https://festa.io/events/5972"/>
-        <updated>2024-09-10T10:07:57.649Z</updated>
-        <content type="html"><![CDATA[10월 2일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 대구 메타버스 전문과정 양성교육 [AI 콘텐츠 완성 과정 in Metacity Daegu]]]></title>
-        <id>https://festa.io/events/5974</id>
-        <link href="https://festa.io/events/5974"/>
-        <updated>2024-09-10T10:07:57.652Z</updated>
-        <content type="html"><![CDATA[10월 5일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강원 메타버스 캠퍼스 AI 콘텐츠 창작 과정]]></title>
-        <id>https://festa.io/events/5970</id>
-        <link href="https://festa.io/events/5970"/>
-        <updated>2024-09-10T10:07:57.653Z</updated>
         <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
     </entry>
 </feed>
