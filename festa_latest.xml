@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-11T10:07:51.654Z</updated>
+    <updated>2024-09-11T11:02:55.688Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[JNPMEDI 2nd Tech Meetup]]></title>
+        <id>https://festa.io/events/5987</id>
+        <link href="https://festa.io/events/5987"/>
+        <updated>2024-09-11T11:02:55.039Z</updated>
+        <content type="html"><![CDATA[10월 19일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/5962</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5971"/>
         <updated>2024-09-10T11:25:52.867Z</updated>
         <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 대구 메타버스 전문과정 양성교육 [AI 디지털 창작 과정 in Metacity Daegu]]]></title>
-        <id>https://festa.io/events/5972</id>
-        <link href="https://festa.io/events/5972"/>
-        <updated>2024-09-11T09:07:59.593Z</updated>
-        <content type="html"><![CDATA[10월 2일 (수) · 오프라인]]></content>
     </entry>
 </feed>
