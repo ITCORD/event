@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-12T08:10:01.997Z</updated>
+    <updated>2024-09-12T09:07:51.555Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Starting Point] 스타트업도 브랜딩🎨]]></title>
+        <id>https://festa.io/events/6002</id>
+        <link href="https://festa.io/events/6002"/>
+        <updated>2024-09-12T09:07:50.819Z</updated>
+        <content type="html"><![CDATA[9월 19일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Professional Statistics Assignment Help for Accurate Data Analysis]]></title>
         <id>https://festa.io/events/5998</id>
@@ -13,7 +20,7 @@
         <content type="html"><![CDATA[9월 19일 (목) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[한국문화체육관광부X한국콘텐츠진흥원] 2024 스타트업콘(Startup:CON) 행사 초대]]></title>
+        <title type="html"><![CDATA[[문화체육관광부X한국콘텐츠진흥원] 2024 스타트업콘(Startup:CON) 행사 초대]]></title>
         <id>https://festa.io/events/5997</id>
         <link href="https://festa.io/events/5997"/>
         <updated>2024-09-12T07:07:59.651Z</updated>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5990"/>
         <updated>2024-09-12T02:05:34.179Z</updated>
         <content type="html"><![CDATA[9월 19일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Pangyo Coding Marathon]]></title>
-        <id>https://festa.io/events/5989</id>
-        <link href="https://festa.io/events/5989"/>
-        <updated>2024-09-11T20:03:46.399Z</updated>
-        <content type="html"><![CDATA[9월 16일 (월) · 온라인]]></content>
     </entry>
 </feed>
