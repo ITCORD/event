@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-13T14:04:46.816Z</updated>
+    <updated>2024-09-13T15:04:54.774Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[9월 한정 선착순 배포] ㅈㅅ시도에서 해피바이러스로, 인생 역전 한 전략적 방법]]></title>
+        <id>https://festa.io/events/6016</id>
+        <link href="https://festa.io/events/6016"/>
+        <updated>2024-09-13T15:04:54.141Z</updated>
+        <content type="html"><![CDATA[9월 29일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선착순 5명] 월천만원 아끼는 마케팅 방법 SEO 검색엔진 최적화 (pdf 소책자 발송)]]></title>
         <id>https://festa.io/events/6015</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5998"/>
         <updated>2024-09-12T07:07:59.650Z</updated>
         <content type="html"><![CDATA[9월 19일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[문화체육관광부X한국콘텐츠진흥원] 2024 스타트업콘(Startup:CON) 행사 초대]]></title>
-        <id>https://festa.io/events/5997</id>
-        <link href="https://festa.io/events/5997"/>
-        <updated>2024-09-12T07:07:59.651Z</updated>
-        <content type="html"><![CDATA[8월 31일 (토) · 오프라인]]></content>
     </entry>
 </feed>
