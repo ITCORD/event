@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-13T05:08:07.879Z</updated>
+    <updated>2024-09-13T06:11:15.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024년도 제3회 『수원기업 IR데이』 참여기업 모집 공고 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6010</id>
+        <link href="https://festa.io/events/6010"/>
+        <updated>2024-09-13T06:11:14.500Z</updated>
+        <content type="html"><![CDATA[9월 25일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료교육/재직자] 전자입찰 (조달청 나라장터) 실무_입문자 비대면 무료교육(9/26, 목) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6004</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/5968"/>
         <updated>2024-09-12T03:08:33.839Z</updated>
         <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, JAVA를 활용한 클라우드 현업 멘토 스쿨 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/5991</id>
-        <link href="https://festa.io/events/5991"/>
-        <updated>2024-09-13T05:08:07.187Z</updated>
-        <content type="html"><![CDATA[9월 19일 (목) · 오프라인]]></content>
     </entry>
 </feed>
