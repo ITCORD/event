@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-13T13:14:16.151Z</updated>
+    <updated>2024-09-13T14:04:46.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[선착순 5명] 월천만원 아끼는 마케팅 방법 SEO 검색엔진 최적화 (pdf 소책자 발송)]]></title>
+        <id>https://festa.io/events/6015</id>
+        <link href="https://festa.io/events/6015"/>
+        <updated>2024-09-13T14:04:46.182Z</updated>
+        <content type="html"><![CDATA[9월 13일 (금) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선착순 5명] 월천만원 아끼는 마케팅 방법 (pdf 소책자 발송)]]></title>
+        <id>https://festa.io/events/6014</id>
+        <link href="https://festa.io/events/6014"/>
+        <updated>2024-09-13T14:04:46.185Z</updated>
+        <content type="html"><![CDATA[9월 20일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[OPEN TALK - 궤도와 함께하는 핀테크 이야기] "과학기술과 함께할 핀테크의 미래"/ 유튜버 궤도]]></title>
         <id>https://festa.io/events/6012</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/5997"/>
         <updated>2024-09-12T07:07:59.651Z</updated>
         <content type="html"><![CDATA[8월 31일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 경기 스타트업 Flex]]></title>
-        <id>https://festa.io/events/5995</id>
-        <link href="https://festa.io/events/5995"/>
-        <updated>2024-09-12T07:07:59.654Z</updated>
-        <content type="html"><![CDATA[9월 9일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/5962</id>
-        <link href="https://festa.io/events/5962"/>
-        <updated>2024-09-11T08:10:17.039Z</updated>
-        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
     </entry>
 </feed>
