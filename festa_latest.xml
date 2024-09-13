@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-13T10:07:59.901Z</updated>
+    <updated>2024-09-13T11:02:07.895Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[OPEN TALK - 궤도와 함께하는 핀테크 이야기] "과학기술과 함께할 핀테크의 미래"/ 유튜버 궤도]]></title>
+        <id>https://festa.io/events/6012</id>
+        <link href="https://festa.io/events/6012"/>
+        <updated>2024-09-13T11:02:07.263Z</updated>
+        <content type="html"><![CDATA[10월 10일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년도 제3회 『수원기업 IR데이』 참여기업 모집 공고]]></title>
         <id>https://festa.io/events/6010</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/5962"/>
         <updated>2024-09-11T08:10:17.039Z</updated>
         <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[DevFest Android in Korea 2024]]></title>
-        <id>https://festa.io/events/5968</id>
-        <link href="https://festa.io/events/5968"/>
-        <updated>2024-09-12T03:08:33.839Z</updated>
-        <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
     </entry>
 </feed>
