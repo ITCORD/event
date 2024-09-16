@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-16T05:10:03.989Z</updated>
+    <updated>2024-09-16T06:11:20.241Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[F-Lab 플러그인] IT 인프라, 얼마나 알아야 하나요?]]></title>
+        <id>https://festa.io/events/6003</id>
+        <link href="https://festa.io/events/6003"/>
+        <updated>2024-09-16T06:11:19.641Z</updated>
+        <content type="html"><![CDATA[9월 27일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[모두의연구소 x 카카오임팩트] 테크포임팩트 LAB 오픈 기념 활동 공유회]]></title>
         <id>https://festa.io/events/6017</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6004"/>
         <updated>2024-09-13T02:06:24.368Z</updated>
         <content type="html"><![CDATA[9월 26일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Starting Point] 스타트업도 브랜딩🎨]]></title>
-        <id>https://festa.io/events/6002</id>
-        <link href="https://festa.io/events/6002"/>
-        <updated>2024-09-12T09:07:50.819Z</updated>
-        <content type="html"><![CDATA[9월 19일 (목) · 오프라인]]></content>
     </entry>
 </feed>
