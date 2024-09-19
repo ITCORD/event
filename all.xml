@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-19T00:34:52.296Z</updated>
+    <updated>2024-09-19T02:07:54.794Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[부산 엘리스랩] 바로 배워서 써먹는 Swift 활용 IOS 앱개발 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6022</id>
+        <link href="https://festa.io/events/6022"/>
+        <updated>2024-09-19T02:07:54.107Z</updated>
+        <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[홈서버 워크샵 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/5960</id>
+        <link href="https://festa.io/events/5960"/>
+        <updated>2024-09-19T02:07:54.108Z</updated>
+        <content type="html"><![CDATA[11월 2일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Traxion:// 열망에서, 성취까지 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/5958</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/6016"/>
         <updated>2024-09-13T15:04:54.141Z</updated>
         <content type="html"><![CDATA[9월 29일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순 5명] 월천만원 아끼는 마케팅 방법 SEO 검색엔진 최적화 (pdf 소책자 발송) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6015</id>
-        <link href="https://festa.io/events/6015"/>
-        <updated>2024-09-13T14:04:46.182Z</updated>
-        <content type="html"><![CDATA[9월 13일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순 5명] 월천만원 아끼는 마케팅 방법 (pdf 소책자 발송) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6014</id>
-        <link href="https://festa.io/events/6014"/>
-        <updated>2024-09-13T14:04:46.185Z</updated>
-        <content type="html"><![CDATA[9월 20일 (금) · 온라인]]></content>
     </entry>
 </feed>
