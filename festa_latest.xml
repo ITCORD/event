@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-19T11:02:58.836Z</updated>
+    <updated>2024-09-19T12:13:51.476Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Traxion:// 열망에서, 성취까지]]></title>
+        <id>https://festa.io/events/5958</id>
+        <link href="https://festa.io/events/5958"/>
+        <updated>2024-09-19T12:13:50.719Z</updated>
+        <content type="html"><![CDATA[9월 21일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[코드잇 스프린트] 기초부터 차근차근 SQL 무료 특강]]></title>
         <id>https://festa.io/events/6033</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6025"/>
         <updated>2024-09-19T04:09:31.617Z</updated>
         <content type="html"><![CDATA[9월 26일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산 엘리스랩] 바로 배워서 써먹는 Swift 활용 IOS 앱개발]]></title>
-        <id>https://festa.io/events/6022</id>
-        <link href="https://festa.io/events/6022"/>
-        <updated>2024-09-19T02:07:54.107Z</updated>
-        <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
     </entry>
 </feed>
