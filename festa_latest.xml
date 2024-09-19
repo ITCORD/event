@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-19T09:07:53.828Z</updated>
+    <updated>2024-09-19T10:07:56.576Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[코드잇 스프린트] 기초부터 차근차근 SQL 무료 특강]]></title>
+        <id>https://festa.io/events/6033</id>
+        <link href="https://festa.io/events/6033"/>
+        <updated>2024-09-19T10:07:55.940Z</updated>
+        <content type="html"><![CDATA[9월 23일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024년 제2회 수원기업 IR데이 수원.판(PANN)]]></title>
         <id>https://festa.io/events/6032</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6022"/>
         <updated>2024-09-19T02:07:54.107Z</updated>
         <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[홈서버 워크샵]]></title>
-        <id>https://festa.io/events/5960</id>
-        <link href="https://festa.io/events/5960"/>
-        <updated>2024-09-19T02:07:54.108Z</updated>
-        <content type="html"><![CDATA[11월 2일 (토) · 오프라인]]></content>
     </entry>
 </feed>
