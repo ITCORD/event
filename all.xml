@@ -2,14 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-20T04:09:40.076Z</updated>
+    <updated>2024-09-20T05:07:35.231Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[서류 가산점] [코드잇 스프린트] 풀스택 부트캠프 설명회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6036</id>
+        <link href="https://festa.io/events/6036"/>
+        <updated>2024-09-20T05:07:34.580Z</updated>
+        <content type="html"><![CDATA[10월 2일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[서류 가산점] [코드잇 스프린트] 데이터분석 부트캠프 설명회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6035</id>
         <link href="https://festa.io/events/6035"/>
         <updated>2024-09-20T03:11:06.113Z</updated>
-        <content type="html"><![CDATA[9월 23일 (월) · 온라인]]></content>
+        <content type="html"><![CDATA[9월 30일 (월) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[서류 가산점] [코드잇 스프린트] 프론트엔드 부트캠프 설명회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6028"/>
         <updated>2024-09-19T07:08:36.771Z</updated>
         <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[제56차 대구스타트업 리더스포럼 with. 대경권 엔젤투자허브] (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6027</id>
-        <link href="https://festa.io/events/6027"/>
-        <updated>2024-09-19T06:11:13.631Z</updated>
-        <content type="html"><![CDATA[9월 25일 (수) · 오프라인]]></content>
     </entry>
 </feed>
