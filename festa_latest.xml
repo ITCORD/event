@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-21T08:09:29.743Z</updated>
+    <updated>2024-09-21T09:07:11.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[와일드 백엔드 4기]]></title>
+        <id>https://festa.io/events/6042</id>
+        <link href="https://festa.io/events/6042"/>
+        <updated>2024-09-21T09:07:10.689Z</updated>
+        <content type="html"><![CDATA[9월 30일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AI학교 아이펠] 피할 수 없는 AI, 그렇다면 제대로 배우세요!]]></title>
         <id>https://festa.io/events/6038</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6033"/>
         <updated>2024-09-19T10:07:55.940Z</updated>
         <content type="html"><![CDATA[9월 23일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 제2회 수원기업 IR데이 수원.판(PANN)]]></title>
-        <id>https://festa.io/events/6032</id>
-        <link href="https://festa.io/events/6032"/>
-        <updated>2024-09-21T08:09:29.068Z</updated>
-        <content type="html"><![CDATA[9월 24일 (화) · 오프라인]]></content>
     </entry>
 </feed>
