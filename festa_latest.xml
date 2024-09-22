@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-22T06:10:09.822Z</updated>
+    <updated>2024-09-22T07:02:55.386Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6028</id>
+        <link href="https://festa.io/events/6028"/>
+        <updated>2024-09-20T09:09:19.407Z</updated>
+        <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[와일드 백엔드 4기]]></title>
         <id>https://festa.io/events/6042</id>
@@ -18,13 +25,6 @@
         <link href="https://festa.io/events/6038"/>
         <updated>2024-09-20T10:08:22.987Z</updated>
         <content type="html"><![CDATA[10월 23일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/6028</id>
-        <link href="https://festa.io/events/6028"/>
-        <updated>2024-09-20T09:09:19.407Z</updated>
-        <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[부산 엘리스랩] 마케터라면 꼭 알아야 할 생성AI 이론부터 실습까지]]></title>
