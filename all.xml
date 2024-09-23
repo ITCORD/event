@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-23T08:11:26.779Z</updated>
+    <updated>2024-09-23T09:09:31.310Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Top 5 Benefits of Using Professional Assignment Help Services (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6050</id>
+        <link href="https://festa.io/events/6050"/>
+        <updated>2024-09-23T09:09:30.650Z</updated>
+        <content type="html"><![CDATA[9월 30일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 제4회 ICT콤플렉스 스타트업 투자상담회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6049</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6042"/>
         <updated>2024-09-21T09:07:10.689Z</updated>
         <content type="html"><![CDATA[9월 30일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[AI학교 아이펠] 피할 수 없는 AI, 그렇다면 제대로 배우세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6038</id>
-        <link href="https://festa.io/events/6038"/>
-        <updated>2024-09-20T10:08:22.987Z</updated>
-        <content type="html"><![CDATA[10월 23일 (수) · 온라인]]></content>
     </entry>
 </feed>
