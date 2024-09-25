@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-25T04:10:35.043Z</updated>
+    <updated>2024-09-25T05:08:10.305Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[재직자/무료교육] 디지털 트윈 입문 비대면 무료교육 (10/4, 금)]]></title>
+        <id>https://festa.io/events/6062</id>
+        <link href="https://festa.io/events/6062"/>
+        <updated>2024-09-25T05:08:09.578Z</updated>
+        <content type="html"><![CDATA[10월 4일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료교육/재직자] 10월 재직자 직무능력 향상 무료교육]]></title>
         <id>https://festa.io/events/6060</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6051"/>
         <updated>2024-09-24T05:08:07.471Z</updated>
         <content type="html"><![CDATA[10월 25일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[금융보안 위협분석 대회 FIESTA 2024]]></title>
-        <id>https://festa.io/events/6053</id>
-        <link href="https://festa.io/events/6053"/>
-        <updated>2024-09-24T02:11:09.844Z</updated>
-        <content type="html"><![CDATA[10월 4일 (금) · 온라인]]></content>
     </entry>
 </feed>
