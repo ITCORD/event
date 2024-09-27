@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-09-27T09:08:31.782Z</updated>
+    <updated>2024-09-27T10:09:05.530Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[코드잇 강영훈 CEO와 함께하는 1:1 커리어 상담 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6089</id>
+        <link href="https://festa.io/events/6089"/>
+        <updated>2024-09-27T10:09:04.812Z</updated>
+        <content type="html"><![CDATA[9월 26일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Python PIP 배포 실습 및 Airflow 소개 Hands-On! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6083</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6070"/>
         <updated>2024-09-26T02:09:52.557Z</updated>
         <content type="html"><![CDATA[10월 10일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, JAVA를 활용한 클라우드 현업 멘토 스쿨 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6069</id>
-        <link href="https://festa.io/events/6069"/>
-        <updated>2024-09-26T02:09:52.560Z</updated>
-        <content type="html"><![CDATA[10월 3일 (목) · 오프라인]]></content>
     </entry>
 </feed>
