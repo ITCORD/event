@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-27T05:08:40.283Z</updated>
+    <updated>2024-09-27T06:12:11.254Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[강남호빠 강남어게인 호스트바 cadebo.info]]></title>
+        <id>https://festa.io/events/6082</id>
+        <link href="https://festa.io/events/6082"/>
+        <updated>2024-09-27T06:12:10.616Z</updated>
+        <content type="html"><![CDATA[10월 4일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[설득력 있는 IR스피치 및 피칭전략] 세미나]]></title>
         <id>https://festa.io/events/6078</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6028"/>
         <updated>2024-09-25T08:11:01.722Z</updated>
         <content type="html"><![CDATA[9월 28일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 경기 스타트업 Flex]]></title>
-        <id>https://festa.io/events/6065</id>
-        <link href="https://festa.io/events/6065"/>
-        <updated>2024-09-25T08:11:01.723Z</updated>
-        <content type="html"><![CDATA[9월 9일 (월) · 오프라인]]></content>
     </entry>
 </feed>
