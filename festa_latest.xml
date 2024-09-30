@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-09-30T05:08:51.630Z</updated>
+    <updated>2024-09-30T06:11:59.723Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[유데미 X 웅진씽크빅 X 스나이퍼팩토리] 콘텐츠 디자인 2기 인턴형 프로그램 과정]]></title>
+        <id>https://festa.io/events/6096</id>
+        <link href="https://festa.io/events/6096"/>
+        <updated>2024-09-30T06:11:58.996Z</updated>
+        <content type="html"><![CDATA[10월 31일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[The Concept of "Assignment Helper Free" Services]]></title>
+        <id>https://festa.io/events/6095</id>
+        <link href="https://festa.io/events/6095"/>
+        <updated>2024-09-30T06:11:58.998Z</updated>
+        <content type="html"><![CDATA[10월 31일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[코드잇 강영훈 CEO와 함께하는 1:1 커리어 상담]]></title>
         <id>https://festa.io/events/6089</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6077"/>
         <updated>2024-09-27T00:35:48.343Z</updated>
         <content type="html"><![CDATA[11월 9일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료교육/재직자] 전자입찰 (조달청 나라장터) 실무_입문자 대면 교육(10/7, 월)]]></title>
-        <id>https://festa.io/events/6071</id>
-        <link href="https://festa.io/events/6071"/>
-        <updated>2024-09-26T05:08:09.875Z</updated>
-        <content type="html"><![CDATA[10월 7일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 국가전략기술 Tech Meetup Day]]></title>
-        <id>https://festa.io/events/6070</id>
-        <link href="https://festa.io/events/6070"/>
-        <updated>2024-09-26T02:09:52.557Z</updated>
-        <content type="html"><![CDATA[10월 10일 (목) · 오프라인]]></content>
     </entry>
 </feed>
