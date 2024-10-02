@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-02T08:11:00.111Z</updated>
+    <updated>2024-10-02T09:08:03.891Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[★ 총상금 6천만원, 대상팀은 채용 특전까지? 신한과 함께하는 AI 아이디어톤 (~10/31)]]></title>
+        <id>https://festa.io/events/6114</id>
+        <link href="https://festa.io/events/6114"/>
+        <updated>2024-10-02T09:08:03.303Z</updated>
+        <content type="html"><![CDATA[10월 2일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 구글 지도를 이용한 비즈니스 전략: 모빌리티]]></title>
         <id>https://festa.io/events/6113</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6107"/>
         <updated>2024-10-02T02:10:17.226Z</updated>
         <content type="html"><![CDATA[11월 12일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[부산] 데이터센터 전문인력양성 취업연계 과정 교육생 모집 공고]]></title>
-        <id>https://festa.io/events/6106</id>
-        <link href="https://festa.io/events/6106"/>
-        <updated>2024-10-02T02:10:17.229Z</updated>
-        <content type="html"><![CDATA[10월 21일 (월) · 오프라인]]></content>
     </entry>
 </feed>
