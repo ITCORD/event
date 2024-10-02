@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-02T09:08:03.884Z</updated>
+    <updated>2024-10-02T10:08:31.343Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[KAIT/과기정통부] ICT 이노베이션 스퀘어 인공지능 음성 교육과정 수강생 모집 (전액무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6117</id>
+        <link href="https://festa.io/events/6117"/>
+        <updated>2024-10-02T10:08:30.725Z</updated>
+        <content type="html"><![CDATA[10월 21일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KAIT/과기정통부] ICT 이노베이션 스퀘어 인공지능 비전컴퓨팅 교육과정 수강생 모집 (전액무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6116</id>
+        <link href="https://festa.io/events/6116"/>
+        <updated>2024-10-02T10:08:30.725Z</updated>
+        <content type="html"><![CDATA[10월 21일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[KAIT/과기정통부] ICT 이노베이션 스퀘어 디지털 신기술 교육과정 수강생 모집 (전액무료) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6115</id>
+        <link href="https://festa.io/events/6115"/>
+        <updated>2024-10-02T10:08:30.725Z</updated>
+        <content type="html"><![CDATA[10월 21일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[★ 총상금 6천만원, 대상팀은 채용 특전까지? 신한과 함께하는 AI 아이디어톤 (~10/31) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6114</id>
@@ -38,26 +59,5 @@
         <link href="https://festa.io/events/6111"/>
         <updated>2024-10-02T06:10:52.222Z</updated>
         <content type="html"><![CDATA[10월 2일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 프론트엔드(React, React Native) 웹개발&앱개발자 취업캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6110</id>
-        <link href="https://festa.io/events/6110"/>
-        <updated>2024-10-02T05:08:42.434Z</updated>
-        <content type="html"><![CDATA[10월 9일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, JAVA를 활용한 클라우드 현업 멘토 스쿨 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6109</id>
-        <link href="https://festa.io/events/6109"/>
-        <updated>2024-10-02T05:08:42.435Z</updated>
-        <content type="html"><![CDATA[10월 9일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[ AWS X 솔트웨어 ] 점프 한 방에 AWS로! 마이그레이션 세미나에서 만나보세요.🎈 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6107</id>
-        <link href="https://festa.io/events/6107"/>
-        <updated>2024-10-02T02:10:17.226Z</updated>
-        <content type="html"><![CDATA[11월 12일 (화) · 오프라인]]></content>
     </entry>
 </feed>
