@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-02T07:08:15.409Z</updated>
+    <updated>2024-10-02T08:11:00.111Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 구글 지도를 이용한 비즈니스 전략: 모빌리티]]></title>
+        <id>https://festa.io/events/6113</id>
+        <link href="https://festa.io/events/6113"/>
+        <updated>2024-10-02T08:10:59.405Z</updated>
+        <content type="html"><![CDATA[10월 15일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[알리바바닷컴 무료 세미나 (10월 23일, 서울 명동), B2B 플랫폼 이해하고 글로벌 바이어 발굴하기!]]></title>
         <id>https://festa.io/events/6112</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6106"/>
         <updated>2024-10-02T02:10:17.229Z</updated>
         <content type="html"><![CDATA[10월 21일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[BIM 프로젝트를 위한 건설/제조 솔루션 콜라보레이션 세미나]]></title>
-        <id>https://festa.io/events/6105</id>
-        <link href="https://festa.io/events/6105"/>
-        <updated>2024-10-02T02:10:17.231Z</updated>
-        <content type="html"><![CDATA[10월 16일 (수) · 오프라인]]></content>
     </entry>
 </feed>
