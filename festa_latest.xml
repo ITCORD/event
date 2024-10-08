@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-08T08:11:42.051Z</updated>
+    <updated>2024-10-08T09:08:31.503Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[모두의연구소][비즈세미나] 워크플로우 관리 및 XAI(설명 가능한 AI)]]></title>
+        <id>https://festa.io/events/6157</id>
+        <link href="https://festa.io/events/6157"/>
+        <updated>2024-10-08T09:08:30.870Z</updated>
+        <content type="html"><![CDATA[10월 19일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[100% 인턴십] 코드잇 스프린트 데이터 분석가 트랙 4기 모집중]]></title>
         <id>https://festa.io/events/6155</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6150"/>
         <updated>2024-10-08T00:35:57.891Z</updated>
         <content type="html"><![CDATA[10월 24일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[비지니스 맞춤형 AI 챗봇 개발 및 서비스 이해하기]]></title>
-        <id>https://festa.io/events/6149</id>
-        <link href="https://festa.io/events/6149"/>
-        <updated>2024-10-08T00:35:57.891Z</updated>
-        <content type="html"><![CDATA[10월 17일 (목) · 온라인]]></content>
     </entry>
 </feed>
