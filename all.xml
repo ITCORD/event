@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-10T02:10:28.473Z</updated>
+    <updated>2024-10-10T03:14:31.643Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[인턴십 100%] 풀스택 엔지니어 부트캠프 4기 모집 마감임박 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6165</id>
+        <link href="https://festa.io/events/6165"/>
+        <updated>2024-10-10T03:14:30.943Z</updated>
+        <content type="html"><![CDATA[10월 17일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[경북대 LINC 3.0] 2024 로컬 혁신 산업 전략 인재 양성 교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6163</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6155"/>
         <updated>2024-10-08T07:08:31.451Z</updated>
         <content type="html"><![CDATA[10월 16일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 여성리더스포럼-여성, 기업에 요구하라 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6156</id>
-        <link href="https://festa.io/events/6156"/>
-        <updated>2024-10-08T07:08:31.453Z</updated>
-        <content type="html"><![CDATA[10월 29일 (화) · 오프라인]]></content>
     </entry>
 </feed>
