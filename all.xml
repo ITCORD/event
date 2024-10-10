@@ -2,8 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-10T06:11:57.118Z</updated>
+    <updated>2024-10-10T07:08:23.060Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[더조은아카데미 강남, 프론트엔드(React, React Native) 웹개발&앱개발자 취업캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6170</id>
+        <link href="https://festa.io/events/6170"/>
+        <updated>2024-10-10T07:08:22.420Z</updated>
+        <content type="html"><![CDATA[10월 17일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, JAVA를 활용한 클라우드 현업 멘토 스쿨 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6169</id>
+        <link href="https://festa.io/events/6169"/>
+        <updated>2024-10-10T07:08:22.421Z</updated>
+        <content type="html"><![CDATA[10월 17일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[(주)MDS테크] FLIR 보안/자동화용 열화상 카메라 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6168</id>
+        <link href="https://festa.io/events/6168"/>
+        <updated>2024-10-10T07:08:22.422Z</updated>
+        <content type="html"><![CDATA[11월 6일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인턴십 100%] 풀스택 엔지니어 부트캠프 4기 모집 마감임박 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6165</id>
@@ -38,26 +59,5 @@
         <link href="https://festa.io/events/6084"/>
         <updated>2024-10-09T05:09:23.922Z</updated>
         <content type="html"><![CDATA[10월 15일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.10 Release Party & Seminar @Pohang (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6158</id>
-        <link href="https://festa.io/events/6158"/>
-        <updated>2024-10-08T12:13:40.049Z</updated>
-        <content type="html"><![CDATA[11월 9일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[모두의연구소][비즈세미나] 워크플로우 관리 및 XAI(설명 가능한 AI) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6157</id>
-        <link href="https://festa.io/events/6157"/>
-        <updated>2024-10-08T09:08:30.870Z</updated>
-        <content type="html"><![CDATA[10월 19일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[100% 인턴십] 코드잇 스프린트 데이터 분석가 트랙 4기 모집중 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6155</id>
-        <link href="https://festa.io/events/6155"/>
-        <updated>2024-10-08T07:08:31.451Z</updated>
-        <content type="html"><![CDATA[10월 16일 (수) · 온라인]]></content>
     </entry>
 </feed>
