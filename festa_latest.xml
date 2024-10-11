@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-11T08:11:01.486Z</updated>
+    <updated>2024-10-11T09:08:35.522Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Ubuntu 24.10 Release & 20 Years Party @Busan]]></title>
+        <id>https://festa.io/events/6183</id>
+        <link href="https://festa.io/events/6183"/>
+        <updated>2024-10-11T09:08:34.804Z</updated>
+        <content type="html"><![CDATA[10월 11일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[코드프레소] Codepresso Competition에서 IT개발 역량 분석하기]]></title>
+        <id>https://festa.io/events/6182</id>
+        <link href="https://festa.io/events/6182"/>
+        <updated>2024-10-11T09:08:34.806Z</updated>
+        <content type="html"><![CDATA[10월 26일 (토) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[100% 인턴십] [마감임박🔥] 코드잇 스프린트 프론트엔드 트랙 12기]]></title>
         <id>https://festa.io/events/6178</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6172"/>
         <updated>2024-10-11T02:09:51.372Z</updated>
         <content type="html"><![CDATA[10월 2일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/6171</id>
-        <link href="https://festa.io/events/6171"/>
-        <updated>2024-10-10T09:08:28.768Z</updated>
-        <content type="html"><![CDATA[10월 20일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[더조은아카데미 강남, 프론트엔드(React, React Native) 웹개발&앱개발자 취업캠프]]></title>
-        <id>https://festa.io/events/6170</id>
-        <link href="https://festa.io/events/6170"/>
-        <updated>2024-10-10T07:08:22.420Z</updated>
-        <content type="html"><![CDATA[10월 17일 (목) · 오프라인]]></content>
     </entry>
 </feed>
