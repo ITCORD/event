@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-12T14:03:17.723Z</updated>
+    <updated>2024-10-12T15:02:39.816Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[ETRI Open Source Tech Day 2024 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6084</id>
+        <link href="https://festa.io/events/6084"/>
+        <updated>2024-10-12T15:02:39.204Z</updated>
+        <content type="html"><![CDATA[10월 15일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6171</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/6173</id>
         <link href="https://festa.io/events/6173"/>
         <updated>2024-10-11T02:09:51.369Z</updated>
-        <content type="html"><![CDATA[10월 2일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[kakao x goorm] 구름톤 딥다이브 프론트엔드 개발자 과정 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6172</id>
-        <link href="https://festa.io/events/6172"/>
-        <updated>2024-10-11T02:09:51.372Z</updated>
         <content type="html"><![CDATA[10월 2일 (수) · 온라인]]></content>
     </entry>
 </feed>
