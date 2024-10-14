@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-14T10:09:23.491Z</updated>
+    <updated>2024-10-14T11:08:12.740Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Data Query를 활용한 클라우드 기반 데이터 분석]]></title>
+        <id>https://festa.io/events/6196</id>
+        <link href="https://festa.io/events/6196"/>
+        <updated>2024-10-14T11:08:12.092Z</updated>
+        <content type="html"><![CDATA[10월 31일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[네이버 클라우드 플랫폼 AI API 활용하기]]></title>
+        <id>https://festa.io/events/6195</id>
+        <link href="https://festa.io/events/6195"/>
+        <updated>2024-10-14T11:08:12.099Z</updated>
+        <content type="html"><![CDATA[10월 24일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6171</id>
+        <link href="https://festa.io/events/6171"/>
+        <updated>2024-10-12T09:09:02.358Z</updated>
+        <content type="html"><![CDATA[10월 20일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[환경 R&D 기술이전 설명회 in 범부처 로드쇼]]></title>
         <id>https://festa.io/events/6193</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/6186"/>
         <updated>2024-10-13T11:02:21.477Z</updated>
         <content type="html"><![CDATA[10월 13일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[ETRI Open Source Tech Day 2024]]></title>
-        <id>https://festa.io/events/6084</id>
-        <link href="https://festa.io/events/6084"/>
-        <updated>2024-10-12T15:02:39.204Z</updated>
-        <content type="html"><![CDATA[10월 15일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/6171</id>
-        <link href="https://festa.io/events/6171"/>
-        <updated>2024-10-12T09:09:02.358Z</updated>
-        <content type="html"><![CDATA[10월 20일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Ubuntu 24.10 Release & 20 Years Party @Busan]]></title>
-        <id>https://festa.io/events/6183</id>
-        <link href="https://festa.io/events/6183"/>
-        <updated>2024-10-11T09:08:34.804Z</updated>
-        <content type="html"><![CDATA[11월 16일 (토) · 오프라인]]></content>
     </entry>
 </feed>
