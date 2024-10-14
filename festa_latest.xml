@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-14T07:08:41.370Z</updated>
+    <updated>2024-10-14T08:11:49.277Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[환경 R&D 기술이전 설명회 in 범부처 로드쇼]]></title>
+        <id>https://festa.io/events/6193</id>
+        <link href="https://festa.io/events/6193"/>
+        <updated>2024-10-14T08:11:48.556Z</updated>
+        <content type="html"><![CDATA[11월 1일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청년취업사관학교 은평캠퍼스] 산업 실무 프로젝트 기반 LLM 서비스 기획 과정 교육생 모집]]></title>
         <id>https://festa.io/events/6192</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6183"/>
         <updated>2024-10-11T09:08:34.804Z</updated>
         <content type="html"><![CDATA[11월 16일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드프레소] Codepresso Competition에서 IT개발 역량 분석하기]]></title>
-        <id>https://festa.io/events/6182</id>
-        <link href="https://festa.io/events/6182"/>
-        <updated>2024-10-11T09:08:34.806Z</updated>
-        <content type="html"><![CDATA[10월 26일 (토) · 온라인]]></content>
     </entry>
 </feed>
