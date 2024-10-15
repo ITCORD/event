@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-15T04:10:20.063Z</updated>
+    <updated>2024-10-15T05:08:40.170Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[kakao x goorm] 구름톤 딥다이브 프로덕트 매니지먼트 과정 모집]]></title>
+        <id>https://festa.io/events/6204</id>
+        <link href="https://festa.io/events/6204"/>
+        <updated>2024-10-15T05:08:39.476Z</updated>
+        <content type="html"><![CDATA[11월 12일 (화) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[kakao x goorm] 구름톤 딥다이브 클라우드 네이티브 엔지니어링 과정 모집]]></title>
+        <id>https://festa.io/events/6203</id>
+        <link href="https://festa.io/events/6203"/>
+        <updated>2024-10-15T05:08:39.477Z</updated>
+        <content type="html"><![CDATA[11월 11일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 비대면 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/6200</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6193"/>
         <updated>2024-10-14T08:11:48.556Z</updated>
         <content type="html"><![CDATA[11월 1일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청년취업사관학교 은평캠퍼스] 산업 실무 프로젝트 기반 LLM 서비스 기획 과정 교육생 모집]]></title>
-        <id>https://festa.io/events/6192</id>
-        <link href="https://festa.io/events/6192"/>
-        <updated>2024-10-14T07:08:40.749Z</updated>
-        <content type="html"><![CDATA[10월 6일 (일) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[기업 실무 연계 프로젝트 인공지능 교육생 모집]]></title>
-        <id>https://festa.io/events/6191</id>
-        <link href="https://festa.io/events/6191"/>
-        <updated>2024-10-14T06:12:25.955Z</updated>
-        <content type="html"><![CDATA[10월 20일 (일) · 오프라인]]></content>
     </entry>
 </feed>
