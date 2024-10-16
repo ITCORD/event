@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-16T07:08:33.545Z</updated>
+    <updated>2024-10-16T08:11:38.161Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[K-하이테크플랫폼 X 모두의연구소 대전]그러니깐,웹페이지& PPT제작에 ChatGPT + 생성형 AI + Gamma를 곁들인 교육]]></title>
+        <id>https://festa.io/events/6222</id>
+        <link href="https://festa.io/events/6222"/>
+        <updated>2024-10-16T08:11:37.501Z</updated>
+        <content type="html"><![CDATA[10월 26일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[새싹(SeSAC) 종로캠퍼스 3기 <핀테크DX 서비스 기획자 양성 과정>]]></title>
+        <id>https://festa.io/events/6220</id>
+        <link href="https://festa.io/events/6220"/>
+        <updated>2024-10-16T08:11:37.507Z</updated>
+        <content type="html"><![CDATA[12월 4일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인턴십 100% 보장] 코드잇 스프린트 8주 단기 심화 부트캠프 모집 중]]></title>
         <id>https://festa.io/events/6219</id>
@@ -18,13 +32,6 @@
         <link href="https://festa.io/events/6218"/>
         <updated>2024-10-16T07:08:32.543Z</updated>
         <content type="html"><![CDATA[10월 28일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-하이테크플랫폼 X 모두의연구소 강남] 개발자를 위한 고급 프롬프트 엔지니어링]]></title>
-        <id>https://festa.io/events/6217</id>
-        <link href="https://festa.io/events/6217"/>
-        <updated>2024-10-16T07:08:32.545Z</updated>
-        <content type="html"><![CDATA[10월 21일 (월) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[청취사 새싹 은평 1기] 기업 연계 실무 특화 UX/UI 디자인 마스터 과정]]></title>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6019"/>
         <updated>2024-10-15T07:09:47.031Z</updated>
         <content type="html"><![CDATA[11월 16일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청년취업사관학교 종로캠퍼스] 실무요건 기반 핀테크 데이터 분석 & 서비스 기획 과정]]></title>
-        <id>https://festa.io/events/6208</id>
-        <link href="https://festa.io/events/6208"/>
-        <updated>2024-10-15T07:09:47.032Z</updated>
-        <content type="html"><![CDATA[12월 9일 (월) · 오프라인]]></content>
     </entry>
 </feed>
