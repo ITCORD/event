@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-17T00:36:01.126Z</updated>
+    <updated>2024-10-17T02:10:48.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 중소기업 기술·경영 혁신대전 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6226</id>
+        <link href="https://festa.io/events/6226"/>
+        <updated>2024-10-17T02:10:48.086Z</updated>
+        <content type="html"><![CDATA[11월 14일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국비전액무료] 폴리곤에서 현실까지!! 3D 게임 그래픽 제작의 모든 과정!! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6227</id>
+        <link href="https://festa.io/events/6227"/>
+        <updated>2024-10-17T02:10:48.087Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✅ 피그마 웹퍼블리셔 국비지원 - 하이미디어아카데미 강남점 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6224</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/6218"/>
         <updated>2024-10-16T07:08:32.543Z</updated>
         <content type="html"><![CDATA[10월 28일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청취사 새싹 은평 1기] 기업 연계 실무 특화 UX/UI 디자인 마스터 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6216</id>
-        <link href="https://festa.io/events/6216"/>
-        <updated>2024-10-16T05:08:34.383Z</updated>
-        <content type="html"><![CDATA[12월 3일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[에이콘아카데미 강남캠퍼스, 자바(JAVA)중심 풀스택 캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6215</id>
-        <link href="https://festa.io/events/6215"/>
-        <updated>2024-10-16T02:13:01.890Z</updated>
-        <content type="html"><![CDATA[10월 23일 (수) · 오프라인]]></content>
     </entry>
 </feed>
