@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-18T09:09:23.819Z</updated>
+    <updated>2024-10-18T10:10:08.407Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[코드잇 강영훈 CEO와 함께하는 1:1 커리어 상담 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6236</id>
+        <link href="https://festa.io/events/6236"/>
+        <updated>2024-10-18T10:10:07.769Z</updated>
+        <content type="html"><![CDATA[10월 18일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[「2024 블록체인 진흥주간 x 웹 3.0 컨퍼런스」 취업컨설팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6235</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6226"/>
         <updated>2024-10-17T02:10:48.086Z</updated>
         <content type="html"><![CDATA[11월 14일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국비전액무료] 폴리곤에서 현실까지!! 3D 게임 그래픽 제작의 모든 과정!! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6227</id>
-        <link href="https://festa.io/events/6227"/>
-        <updated>2024-10-17T02:10:48.087Z</updated>
-        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
     </entry>
 </feed>
