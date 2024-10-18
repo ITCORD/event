@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-18T06:11:43.852Z</updated>
+    <updated>2024-10-18T07:08:15.706Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[「2024 블록체인 진흥주간 x 웹 3.0 컨퍼런스」 취업컨설팅]]></title>
+        <id>https://festa.io/events/6235</id>
+        <link href="https://festa.io/events/6235"/>
+        <updated>2024-10-18T07:08:14.973Z</updated>
+        <content type="html"><![CDATA[11월 27일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[프로젝트캠프 : UI/UX 포트폴리오과정 2기]]></title>
         <id>https://festa.io/events/6234</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6227"/>
         <updated>2024-10-17T02:10:48.087Z</updated>
         <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ 피그마 웹퍼블리셔 국비지원 - 하이미디어아카데미 강남점]]></title>
-        <id>https://festa.io/events/6224</id>
-        <link href="https://festa.io/events/6224"/>
-        <updated>2024-10-16T10:08:57.836Z</updated>
-        <content type="html"><![CDATA[10월 25일 (금) · 오프라인]]></content>
     </entry>
 </feed>
