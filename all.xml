@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-21T09:10:06.483Z</updated>
+    <updated>2024-10-21T10:09:06.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[인공지능을 시작하기 가장 완벽한 곳, AI 학교 아이펠 코어 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6228</id>
+        <link href="https://festa.io/events/6228"/>
+        <updated>2024-10-21T10:09:05.641Z</updated>
+        <content type="html"><![CDATA[10월 20일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[취업과정10기] 전액무료 코딩부트캠프 취업과정 OPEN (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6245</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6202"/>
         <updated>2024-10-21T05:09:13.101Z</updated>
         <content type="html"><![CDATA[10월 14일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[경기도/무료]경기AI캠퍼스 리터러시 교육(MS Copilot 세미나) 참가자 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6240</id>
-        <link href="https://festa.io/events/6240"/>
-        <updated>2024-10-21T04:10:34.025Z</updated>
-        <content type="html"><![CDATA[10월 29일 (화) · 오프라인]]></content>
     </entry>
 </feed>
