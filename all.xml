@@ -2,8 +2,22 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-21T06:12:46.169Z</updated>
+    <updated>2024-10-21T07:09:18.987Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[취업과정10기] 전액무료 코딩부트캠프 취업과정 OPEN (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6245</id>
+        <link href="https://festa.io/events/6245"/>
+        <updated>2024-10-21T07:09:18.353Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[프론트엔드 프로젝트 캠프 : React 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6244</id>
+        <link href="https://festa.io/events/6244"/>
+        <updated>2024-10-21T07:09:18.360Z</updated>
+        <content type="html"><![CDATA[11월 11일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[FriendliAI 첫 서울 밋업 & GAISA 두 번째 Homebrew AI 포럼 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6243</id>
@@ -45,19 +59,5 @@
         <link href="https://festa.io/events/6240"/>
         <updated>2024-10-21T04:10:34.025Z</updated>
         <content type="html"><![CDATA[10월 29일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[kakao x goorm] 구름톤 딥다이브 생성형 AI 응용 서비스 개발자 과정 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6238</id>
-        <link href="https://festa.io/events/6238"/>
-        <updated>2024-10-21T02:13:44.162Z</updated>
-        <content type="html"><![CDATA[10월 8일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드잇 강영훈 CEO와 함께하는 1:1 커리어 상담 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6236</id>
-        <link href="https://festa.io/events/6236"/>
-        <updated>2024-10-18T10:10:07.769Z</updated>
-        <content type="html"><![CDATA[10월 18일 (금) · 온라인]]></content>
     </entry>
 </feed>
