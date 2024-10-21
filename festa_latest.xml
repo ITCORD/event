@@ -2,11 +2,46 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-21T04:10:34.648Z</updated>
+    <updated>2024-10-21T05:09:13.728Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
-        <title type="html"><![CDATA[경기AI캠퍼스 리터러시 교육(MS Copilot 세미나) 참가자 모집]]></title>
+        <title type="html"><![CDATA[FriendliAI 첫 서울 밋업 & GAISA 두 번째 Homebrew AI 포럼]]></title>
+        <id>https://festa.io/events/6243</id>
+        <link href="https://festa.io/events/6243"/>
+        <updated>2024-10-21T05:09:13.095Z</updated>
+        <content type="html"><![CDATA[11월 7일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[강남가라오케 타임 스카이 바 퍼펙트달토 노래방셔츠룸 010-4272-2870 daltokaraoke.xyz]]></title>
+        <id>https://festa.io/events/6241</id>
+        <link href="https://festa.io/events/6241"/>
+        <updated>2024-10-21T05:09:13.096Z</updated>
+        <content type="html"><![CDATA[10월 28일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6242</id>
+        <link href="https://festa.io/events/6242"/>
+        <updated>2024-10-21T05:09:13.097Z</updated>
+        <content type="html"><![CDATA[10월 26일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 비대면 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6200</id>
+        <link href="https://festa.io/events/6200"/>
+        <updated>2024-10-21T05:09:13.100Z</updated>
+        <content type="html"><![CDATA[10월 26일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[F-Lab 플러그인] 상위 1% 개발자의 성장 비법]]></title>
+        <id>https://festa.io/events/6202</id>
+        <link href="https://festa.io/events/6202"/>
+        <updated>2024-10-21T05:09:13.101Z</updated>
+        <content type="html"><![CDATA[10월 14일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[경기도/무료]경기AI캠퍼스 리터러시 교육(MS Copilot 세미나) 참가자 모집]]></title>
         <id>https://festa.io/events/6240</id>
         <link href="https://festa.io/events/6240"/>
         <updated>2024-10-21T04:10:34.025Z</updated>
@@ -25,40 +60,5 @@
         <link href="https://festa.io/events/6236"/>
         <updated>2024-10-18T10:10:07.769Z</updated>
         <content type="html"><![CDATA[10월 18일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[「2024 블록체인 진흥주간 x 웹 3.0 컨퍼런스」 취업컨설팅]]></title>
-        <id>https://festa.io/events/6235</id>
-        <link href="https://festa.io/events/6235"/>
-        <updated>2024-10-18T07:08:14.973Z</updated>
-        <content type="html"><![CDATA[11월 27일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프로젝트캠프 : UI/UX 포트폴리오과정 2기]]></title>
-        <id>https://festa.io/events/6234</id>
-        <link href="https://festa.io/events/6234"/>
-        <updated>2024-10-18T06:11:43.199Z</updated>
-        <content type="html"><![CDATA[11월 18일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[100% 인턴십] [서류 가산점] 프론트엔드 8주 심화 부트캠프 설명회 (10/23)]]></title>
-        <id>https://festa.io/events/6232</id>
-        <link href="https://festa.io/events/6232"/>
-        <updated>2024-10-18T05:08:27.497Z</updated>
-        <content type="html"><![CDATA[10월 23일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울/전액무료국비교육] 메가존클라우드 인재 양성 프로그램 (MSP/SecOps(운영,보안)]]></title>
-        <id>https://festa.io/events/6230</id>
-        <link href="https://festa.io/events/6230"/>
-        <updated>2024-10-18T03:16:00.743Z</updated>
-        <content type="html"><![CDATA[11월 16일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Let'Swift 2024]]></title>
-        <id>https://festa.io/events/5772</id>
-        <link href="https://festa.io/events/5772"/>
-        <updated>2024-10-17T13:17:39.617Z</updated>
-        <content type="html"><![CDATA[11월 25일 (월) · 오프라인]]></content>
     </entry>
 </feed>
