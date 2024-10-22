@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-22T02:12:09.963Z</updated>
+    <updated>2024-10-22T03:15:38.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[나는 강사다]]></title>
+        <id>https://festa.io/events/6248</id>
+        <link href="https://festa.io/events/6248"/>
+        <updated>2024-10-22T03:15:37.650Z</updated>
+        <content type="html"><![CDATA[10월 22일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[인공지능을 시작하기 가장 완벽한 곳, AI 학교 아이펠 코어 과정]]></title>
         <id>https://festa.io/events/6228</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6200"/>
         <updated>2024-10-21T05:09:13.100Z</updated>
         <content type="html"><![CDATA[10월 26일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[F-Lab 플러그인] Six Sense : 일잘러가 되기 위한 여섯 번째 감각, 데이터 분석 센스]]></title>
-        <id>https://festa.io/events/6202</id>
-        <link href="https://festa.io/events/6202"/>
-        <updated>2024-10-21T05:09:13.101Z</updated>
-        <content type="html"><![CDATA[10월 14일 (월) · 온라인]]></content>
     </entry>
 </feed>
