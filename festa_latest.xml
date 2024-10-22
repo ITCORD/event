@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-22T15:08:26.061Z</updated>
+    <updated>2024-10-22T16:09:08.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[세계 최조로 신원을 연결한 'Trinsic'이 알려주는 디지털 ID의 성공방정식]]></title>
+        <id>https://festa.io/events/6253</id>
+        <link href="https://festa.io/events/6253"/>
+        <updated>2024-10-22T16:09:07.369Z</updated>
+        <content type="html"><![CDATA[11월 27일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[K-하이테크플랫폼X모두의연구소][비즈세미나] LLM의 잠재력을 100% 끌어내기 위한 방법 프롬프트 엔지니어링]]></title>
         <id>https://festa.io/events/6252</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6243"/>
         <updated>2024-10-21T05:09:13.095Z</updated>
         <content type="html"><![CDATA[11월 7일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[강남가라오케 타임 스카이 바 퍼펙트달토 노래방셔츠룸 010-4272-2870 daltokaraoke.xyz]]></title>
-        <id>https://festa.io/events/6241</id>
-        <link href="https://festa.io/events/6241"/>
-        <updated>2024-10-21T05:09:13.096Z</updated>
-        <content type="html"><![CDATA[10월 28일 (월) · 온라인]]></content>
     </entry>
 </feed>
