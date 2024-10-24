@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-24T08:11:13.043Z</updated>
+    <updated>2024-10-24T09:08:51.572Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 SV GROUND DEMODAY : 소셜벤처 성장플랫폼 데모데이]]></title>
+        <id>https://festa.io/events/6285</id>
+        <link href="https://festa.io/events/6285"/>
+        <updated>2024-10-24T09:08:50.871Z</updated>
+        <content type="html"><![CDATA[10월 31일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[국비전액무료] 기획부터 제작, 연재까지!! 나만의 이야기를 웹툰으로 완성할 기회!!]]></title>
+        <id>https://festa.io/events/6284</id>
+        <link href="https://festa.io/events/6284"/>
+        <updated>2024-10-24T09:08:50.877Z</updated>
+        <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선착순 5명 무료] 강압적인 부모님과의 관계가 힘든 20,30대를 위한 필독 소책자]]></title>
         <id>https://festa.io/events/6283</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6263"/>
         <updated>2024-10-23T08:11:23.886Z</updated>
         <content type="html"><![CDATA[11월 5일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청년취업사관학교 종로캠퍼스] 실무요건 기반 핀테크 데이터 분석 & 서비스 기획 과정]]></title>
-        <id>https://festa.io/events/6262</id>
-        <link href="https://festa.io/events/6262"/>
-        <updated>2024-10-23T08:11:23.886Z</updated>
-        <content type="html"><![CDATA[12월 9일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청년취업사관학교 은평캠퍼스] 산업 실무 프로젝트 기반 LLM 서비스 기획 과정 교육생 모집]]></title>
-        <id>https://festa.io/events/6261</id>
-        <link href="https://festa.io/events/6261"/>
-        <updated>2024-10-23T08:11:23.889Z</updated>
-        <content type="html"><![CDATA[12월 3일 (화) · 오프라인]]></content>
     </entry>
 </feed>
