@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-24T07:08:18.167Z</updated>
+    <updated>2024-10-24T08:11:13.029Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[선착순 5명 무료] 강압적인 부모님과의 관계가 힘든 20,30대를 위한 필독 소책자 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6283</id>
+        <link href="https://festa.io/events/6283"/>
+        <updated>2024-10-24T08:11:12.418Z</updated>
+        <content type="html"><![CDATA[11월 11일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[한국여성벤처협회] 2024 SheVentures 데모데이 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6280</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6261"/>
         <updated>2024-10-23T08:11:23.889Z</updated>
         <content type="html"><![CDATA[12월 3일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[After 부트캠프- 추가 학습+프로젝트 모임 1기(부트캠프 수료생 대상) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6259</id>
-        <link href="https://festa.io/events/6259"/>
-        <updated>2024-10-23T06:11:34.886Z</updated>
-        <content type="html"><![CDATA[10월 23일 (수) · 온라인]]></content>
     </entry>
 </feed>
