@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-24T00:36:38.840Z</updated>
+    <updated>2024-10-24T02:11:06.236Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[국비무료]메가존클라우드 인재 양성 프로그램 교육생 모집(MSP, SecOps)(~11/10 마감)]]></title>
+        <id>https://festa.io/events/6273</id>
+        <link href="https://festa.io/events/6273"/>
+        <updated>2024-10-24T02:11:05.607Z</updated>
+        <content type="html"><![CDATA[10월 24일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[직장인 후불제 소개팅 PLOT 플롯! 35000원 상당 무료 매칭권 체험 이벤트]]></title>
         <id>https://festa.io/events/6272</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6258"/>
         <updated>2024-10-23T06:11:34.892Z</updated>
         <content type="html"><![CDATA[10월 23일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[세계 최초로 신원을 연결한 'Trinsic'이 알려주는 디지털 ID의 성공방정식]]></title>
-        <id>https://festa.io/events/6253</id>
-        <link href="https://festa.io/events/6253"/>
-        <updated>2024-10-22T16:09:07.369Z</updated>
-        <content type="html"><![CDATA[11월 27일 (수) · 온라인]]></content>
     </entry>
 </feed>
