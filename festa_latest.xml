@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-25T00:36:27.546Z</updated>
+    <updated>2024-10-25T02:12:41.925Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 빅웨이브로보틱스 테크 콘서트]]></title>
+        <id>https://festa.io/events/6289</id>
+        <link href="https://festa.io/events/6289"/>
+        <updated>2024-10-25T02:12:41.250Z</updated>
+        <content type="html"><![CDATA[11월 20일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[치유관광 힐링 페스티벌 4회 (증평)]]></title>
         <id>https://festa.io/events/6287</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6273"/>
         <updated>2024-10-24T02:11:05.607Z</updated>
         <content type="html"><![CDATA[10월 24일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인 후불제 소개팅 PLOT 플롯! 35000원 상당 무료 매칭권 체험 이벤트]]></title>
-        <id>https://festa.io/events/6272</id>
-        <link href="https://festa.io/events/6272"/>
-        <updated>2024-10-23T15:08:22.976Z</updated>
-        <content type="html"><![CDATA[10월 22일 (화) · 온라인]]></content>
     </entry>
 </feed>
