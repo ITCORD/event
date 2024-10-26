@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-26T08:09:50.293Z</updated>
+    <updated>2024-10-26T09:07:41.306Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[AI 가속화의 새로운 길: PyTorch와 NPU의 시너지 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6296</id>
+        <link href="https://festa.io/events/6296"/>
+        <updated>2024-10-26T09:07:40.621Z</updated>
+        <content type="html"><![CDATA[10월 29일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 비대면 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6292</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6284"/>
         <updated>2024-10-24T09:08:50.877Z</updated>
         <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순 5명 무료] 강압적인 부모님과의 관계가 힘든 20,30대를 위한 필독 소책자 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6283</id>
-        <link href="https://festa.io/events/6283"/>
-        <updated>2024-10-24T08:11:12.418Z</updated>
-        <content type="html"><![CDATA[11월 11일 (월) · 온라인]]></content>
     </entry>
 </feed>
