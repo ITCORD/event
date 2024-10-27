@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-27T14:02:46.902Z</updated>
+    <updated>2024-10-27T15:07:14.686Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[우리 조직에 맞는 컬쳐덱 만들기]]></title>
+        <id>https://festa.io/events/6306</id>
+        <link href="https://festa.io/events/6306"/>
+        <updated>2024-10-27T15:07:13.876Z</updated>
+        <content type="html"><![CDATA[11월 12일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI 가속화의 새로운 길: PyTorch와 NPU의 시너지]]></title>
         <id>https://festa.io/events/6296</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6285"/>
         <updated>2024-10-24T09:08:50.871Z</updated>
         <content type="html"><![CDATA[10월 31일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[국비전액무료] 기획부터 제작, 연재까지!! 나만의 이야기를 웹툰으로 완성할 기회!!]]></title>
-        <id>https://festa.io/events/6284</id>
-        <link href="https://festa.io/events/6284"/>
-        <updated>2024-10-24T09:08:50.877Z</updated>
-        <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
     </entry>
 </feed>
