@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-27T09:08:04.373Z</updated>
+    <updated>2024-10-27T10:07:59.906Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[AI 가속화의 새로운 길: PyTorch와 NPU의 시너지 (페스타 ─ 최신 밋업과 이벤트)]]></title>
