@@ -2,62 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-28T00:38:42.239Z</updated>
+    <updated>2024-10-28T02:15:46.989Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[제 4회 부산평생학습주간 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6309</id>
+        <link href="https://festa.io/events/6309"/>
+        <updated>2024-10-28T02:15:46.395Z</updated>
+        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 빅콘테스트 참가기한 연장 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6308</id>
+        <link href="https://festa.io/events/6308"/>
+        <updated>2024-10-28T02:15:46.401Z</updated>
+        <content type="html"><![CDATA[11월 18일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테라폼을 활용한 네이버 클라우드 플랫폼 인프라 생성 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6302</id>
+        <link href="https://festa.io/events/6302"/>
+        <updated>2024-10-28T02:15:46.402Z</updated>
+        <content type="html"><![CDATA[11월 7일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Functions로 서버리스 간단히 구현하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6303</id>
+        <link href="https://festa.io/events/6303"/>
+        <updated>2024-10-28T02:15:46.403Z</updated>
+        <content type="html"><![CDATA[11월 14일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[테라폼을 활용한 네이버 클라우드 플랫폼 인프라 생성 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6304</id>
+        <link href="https://festa.io/events/6304"/>
+        <updated>2024-10-28T02:15:46.404Z</updated>
+        <content type="html"><![CDATA[11월 21일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Functions로 서버리스 간단히 구현하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6305</id>
+        <link href="https://festa.io/events/6305"/>
+        <updated>2024-10-28T02:15:46.405Z</updated>
+        <content type="html"><![CDATA[11월 28일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[🚩[전액무료/의왕시] 오늘 배워서 내일 바로 써먹자! 쉽고 재미있게 라이브커머스 배우고 싶은 대표님을  모집합니다!🚩 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6307</id>
+        <link href="https://festa.io/events/6307"/>
+        <updated>2024-10-28T02:15:46.407Z</updated>
+        <content type="html"><![CDATA[11월 7일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[우리 조직에 맞는 컬쳐덱 만들기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6306</id>
         <link href="https://festa.io/events/6306"/>
         <updated>2024-10-27T15:07:13.876Z</updated>
         <content type="html"><![CDATA[11월 12일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 가속화의 새로운 길: PyTorch와 NPU의 시너지 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6296</id>
-        <link href="https://festa.io/events/6296"/>
-        <updated>2024-10-26T09:07:40.621Z</updated>
-        <content type="html"><![CDATA[10월 29일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 비대면 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6292</id>
-        <link href="https://festa.io/events/6292"/>
-        <updated>2024-10-25T04:10:43.375Z</updated>
-        <content type="html"><![CDATA[11월 4일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[(변화의 시작!) 2025 '첫' 재테크 기초반을 모집합니다!! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6291</id>
-        <link href="https://festa.io/events/6291"/>
-        <updated>2024-10-25T04:10:43.379Z</updated>
-        <content type="html"><![CDATA[11월 2일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 빅웨이브로보틱스 테크 콘서트 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6289</id>
-        <link href="https://festa.io/events/6289"/>
-        <updated>2024-10-25T02:12:41.250Z</updated>
-        <content type="html"><![CDATA[11월 20일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[치유관광 힐링 페스티벌 4회 (증평) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6287</id>
-        <link href="https://festa.io/events/6287"/>
-        <updated>2024-10-24T10:08:34.691Z</updated>
-        <content type="html"><![CDATA[10월 24일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI Hellothon 2024 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6286</id>
-        <link href="https://festa.io/events/6286"/>
-        <updated>2024-10-24T10:08:34.692Z</updated>
-        <content type="html"><![CDATA[10월 20일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 SV GROUND DEMODAY : 소셜벤처 성장플랫폼 데모데이 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6285</id>
-        <link href="https://festa.io/events/6285"/>
-        <updated>2024-10-24T09:08:50.871Z</updated>
-        <content type="html"><![CDATA[10월 31일 (목) · 오프라인]]></content>
     </entry>
 </feed>
