@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-28T05:10:04.282Z</updated>
+    <updated>2024-10-28T06:13:04.065Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[청중모집] 11월 컴퍼스 포럼]]></title>
+        <id>https://festa.io/events/6315</id>
+        <link href="https://festa.io/events/6315"/>
+        <updated>2024-10-28T06:13:03.307Z</updated>
+        <content type="html"><![CDATA[11월 5일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[한국산업기술협회] 11월 중소기업 재직자 직무능력향상 무료교육]]></title>
+        <id>https://festa.io/events/6314</id>
+        <link href="https://festa.io/events/6314"/>
+        <updated>2024-10-28T06:13:03.308Z</updated>
+        <content type="html"><![CDATA[11월 1일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이터 부트캠프 라이브 설명회 (11/13)]]></title>
         <id>https://festa.io/events/6313</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6308"/>
         <updated>2024-10-28T02:15:46.401Z</updated>
         <content type="html"><![CDATA[11월 18일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테라폼을 활용한 네이버 클라우드 플랫폼 인프라 생성]]></title>
-        <id>https://festa.io/events/6302</id>
-        <link href="https://festa.io/events/6302"/>
-        <updated>2024-10-28T02:15:46.402Z</updated>
-        <content type="html"><![CDATA[11월 7일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Functions로 서버리스 간단히 구현하기]]></title>
-        <id>https://festa.io/events/6303</id>
-        <link href="https://festa.io/events/6303"/>
-        <updated>2024-10-28T02:15:46.403Z</updated>
-        <content type="html"><![CDATA[11월 14일 (목) · 온라인]]></content>
     </entry>
 </feed>
