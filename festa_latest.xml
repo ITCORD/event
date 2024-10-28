@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-28T13:18:26.707Z</updated>
+    <updated>2024-10-28T14:08:23.032Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[마감임박] 엘리스트랙 백엔드 Basic 부트캠프]]></title>
+        <id>https://festa.io/events/6317</id>
+        <link href="https://festa.io/events/6317"/>
+        <updated>2024-10-28T14:08:22.194Z</updated>
+        <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[청중모집] 11월 컴퍼스 포럼]]></title>
         <id>https://festa.io/events/6315</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6309"/>
         <updated>2024-10-28T02:15:46.395Z</updated>
         <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 빅콘테스트 참가기한 연장]]></title>
-        <id>https://festa.io/events/6308</id>
-        <link href="https://festa.io/events/6308"/>
-        <updated>2024-10-28T02:15:46.401Z</updated>
-        <content type="html"><![CDATA[11월 18일 (월) · 온라인]]></content>
     </entry>
 </feed>
