@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-28T02:15:46.991Z</updated>
+    <updated>2024-10-28T03:20:19.580Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6310</id>
+        <link href="https://festa.io/events/6310"/>
+        <updated>2024-10-28T03:20:18.875Z</updated>
+        <content type="html"><![CDATA[11월 9일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[제 4회 부산평생학습주간]]></title>
         <id>https://festa.io/events/6309</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6307"/>
         <updated>2024-10-28T02:15:46.407Z</updated>
         <content type="html"><![CDATA[11월 7일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[우리 조직에 맞는 컬쳐덱 만들기]]></title>
-        <id>https://festa.io/events/6306</id>
-        <link href="https://festa.io/events/6306"/>
-        <updated>2024-10-27T15:07:13.876Z</updated>
-        <content type="html"><![CDATA[11월 12일 (화) · 오프라인]]></content>
     </entry>
 </feed>
