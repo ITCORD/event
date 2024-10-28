@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-28T03:20:19.580Z</updated>
+    <updated>2024-10-28T04:10:59.450Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[데이터 부트캠프 라이브 설명회 (11/13)]]></title>
+        <id>https://festa.io/events/6313</id>
+        <link href="https://festa.io/events/6313"/>
+        <updated>2024-10-28T04:10:58.799Z</updated>
+        <content type="html"><![CDATA[11월 13일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[풀스택 부트캠프 라이브 설명회 (11/6)]]></title>
+        <id>https://festa.io/events/6312</id>
+        <link href="https://festa.io/events/6312"/>
+        <updated>2024-10-28T04:10:58.800Z</updated>
+        <content type="html"><![CDATA[11월 6일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[서류가산점] [인턴십 100%] 프론트엔드 부트캠프 라이브 설명회 (11/11)]]></title>
+        <id>https://festa.io/events/6311</id>
+        <link href="https://festa.io/events/6311"/>
+        <updated>2024-10-28T04:10:58.805Z</updated>
+        <content type="html"><![CDATA[11월 11일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/6310</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/6303"/>
         <updated>2024-10-28T02:15:46.403Z</updated>
         <content type="html"><![CDATA[11월 14일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[테라폼을 활용한 네이버 클라우드 플랫폼 인프라 생성]]></title>
-        <id>https://festa.io/events/6304</id>
-        <link href="https://festa.io/events/6304"/>
-        <updated>2024-10-28T02:15:46.404Z</updated>
-        <content type="html"><![CDATA[11월 21일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Cloud Functions로 서버리스 간단히 구현하기]]></title>
-        <id>https://festa.io/events/6305</id>
-        <link href="https://festa.io/events/6305"/>
-        <updated>2024-10-28T02:15:46.405Z</updated>
-        <content type="html"><![CDATA[11월 28일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[🚩[전액무료/의왕시] 오늘 배워서 내일 바로 써먹자! 쉽고 재미있게 라이브커머스 배우고 싶은 대표님을  모집합니다!🚩]]></title>
-        <id>https://festa.io/events/6307</id>
-        <link href="https://festa.io/events/6307"/>
-        <updated>2024-10-28T02:15:46.407Z</updated>
-        <content type="html"><![CDATA[11월 7일 (목) · 온라인]]></content>
     </entry>
 </feed>
