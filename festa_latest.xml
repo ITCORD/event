@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-10-30T02:12:48.539Z</updated>
+    <updated>2024-10-30T03:16:06.850Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[메가존클라우드](무료)클라우드 운영보안 인재 양성 프로그램 교육생 모집_MSP, SecOps 엔지니어(~11/10)]]></title>
+        <id>https://festa.io/events/6327</id>
+        <link href="https://festa.io/events/6327"/>
+        <updated>2024-10-30T03:16:06.203Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 충북 디지털 위크 행사]]></title>
         <id>https://festa.io/events/6326</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6317"/>
         <updated>2024-10-28T14:08:22.194Z</updated>
         <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청중모집] 11월 컴퍼스 포럼]]></title>
-        <id>https://festa.io/events/6315</id>
-        <link href="https://festa.io/events/6315"/>
-        <updated>2024-10-28T06:13:03.307Z</updated>
-        <content type="html"><![CDATA[11월 5일 (화) · 오프라인]]></content>
     </entry>
 </feed>
