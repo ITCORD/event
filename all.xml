@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-30T00:37:24.072Z</updated>
+    <updated>2024-10-30T02:12:48.543Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[2024 충북 디지털 위크 행사 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6326</id>
+        <link href="https://festa.io/events/6326"/>
+        <updated>2024-10-30T02:12:47.897Z</updated>
+        <content type="html"><![CDATA[10월 30일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 강원 메타버스 캠퍼스 2, 3차 특강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6321</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6315"/>
         <updated>2024-10-28T06:13:03.307Z</updated>
         <content type="html"><![CDATA[11월 5일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국산업기술협회] 11월 중소기업 재직자 직무능력향상 무료교육 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6314</id>
-        <link href="https://festa.io/events/6314"/>
-        <updated>2024-10-28T06:13:03.308Z</updated>
-        <content type="html"><![CDATA[11월 1일 (금) · 오프라인]]></content>
     </entry>
 </feed>
