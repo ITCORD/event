@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-10-31T10:09:00.644Z</updated>
+    <updated>2024-10-31T11:04:45.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[을지로 코드잇에서 모각코할 스터디원을 구합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6333</id>
-        <link href="https://festa.io/events/6333"/>
-        <updated>2024-10-31T06:11:56.690Z</updated>
-        <content type="html"><![CDATA[11월 5일 (화) · 오프라인]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6310</id>
         <link href="https://festa.io/events/6310"/>
         <updated>2024-10-28T03:20:18.875Z</updated>
         <content type="html"><![CDATA[11월 9일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[을지로 코드잇에서 모각코할 스터디원을 구합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6333</id>
+        <link href="https://festa.io/events/6333"/>
+        <updated>2024-10-31T06:11:56.690Z</updated>
+        <content type="html"><![CDATA[11월 5일 (화) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[코드잇 스프린트 투어에 초대합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
