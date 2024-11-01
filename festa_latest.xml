@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-01T07:08:42.779Z</updated>
+    <updated>2024-11-01T08:10:55.563Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[아이펠 선배팅] 현직 데이터 분석가 성장기]]></title>
+        <id>https://festa.io/events/6338</id>
+        <link href="https://festa.io/events/6338"/>
+        <updated>2024-11-01T08:10:54.937Z</updated>
+        <content type="html"><![CDATA[11월 13일 (수) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[CJ올리브네트웍스] Cloud Wave 4기 (~11/24모집)]]></title>
         <id>https://festa.io/events/6335</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6327"/>
         <updated>2024-10-30T03:16:06.203Z</updated>
         <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 충북 디지털 위크 행사]]></title>
-        <id>https://festa.io/events/6326</id>
-        <link href="https://festa.io/events/6326"/>
-        <updated>2024-10-30T02:12:47.897Z</updated>
-        <content type="html"><![CDATA[10월 30일 (수) · 오프라인]]></content>
     </entry>
 </feed>
