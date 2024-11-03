@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-03T14:03:35.152Z</updated>
+    <updated>2024-11-03T15:04:14.287Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Open Contribution Jam 2024]]></title>
+        <id>https://festa.io/events/6342</id>
+        <link href="https://festa.io/events/6342"/>
+        <updated>2024-11-03T15:04:13.677Z</updated>
+        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Notion Innovators Summit Seoul 2024 | 노션 서밋 서울]]></title>
         <id>https://festa.io/events/6341</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6334"/>
         <updated>2024-10-31T15:08:19.685Z</updated>
         <content type="html"><![CDATA[11월 1일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[을지로 코드잇에서 모각코할 스터디원을 구합니다!]]></title>
-        <id>https://festa.io/events/6333</id>
-        <link href="https://festa.io/events/6333"/>
-        <updated>2024-10-31T06:11:56.690Z</updated>
-        <content type="html"><![CDATA[11월 5일 (화) · 오프라인]]></content>
     </entry>
 </feed>
