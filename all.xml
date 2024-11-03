@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-03T05:07:57.171Z</updated>
+    <updated>2024-11-03T06:12:07.950Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Notion Innovators Summit Seoul 2024 | 노션 서밋 서울 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6341</id>
+        <link href="https://festa.io/events/6341"/>
+        <updated>2024-11-03T06:12:07.282Z</updated>
+        <content type="html"><![CDATA[12월 7일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 언어/언어공학 융합 학술 박람회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6325</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6333"/>
         <updated>2024-10-31T06:11:56.690Z</updated>
         <content type="html"><![CDATA[11월 5일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[코드잇 스프린트 투어에 초대합니다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6332</id>
-        <link href="https://festa.io/events/6332"/>
-        <updated>2024-10-30T11:06:35.261Z</updated>
-        <content type="html"><![CDATA[11월 4일 (월) · 오프라인]]></content>
     </entry>
 </feed>
