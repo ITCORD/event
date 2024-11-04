@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-04T09:09:48.897Z</updated>
+    <updated>2024-11-04T10:09:28.038Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Devfest 2024 GDG Daegu]]></title>
+        <id>https://festa.io/events/6350</id>
+        <link href="https://festa.io/events/6350"/>
+        <updated>2024-11-04T10:09:27.405Z</updated>
+        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Devfest Cloud 2024]]></title>
         <id>https://festa.io/events/6330</id>
@@ -39,13 +46,6 @@
         <link href="https://festa.io/events/6341"/>
         <updated>2024-11-03T06:12:07.282Z</updated>
         <content type="html"><![CDATA[12월 7일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 언어/언어공학 융합 학술 박람회]]></title>
-        <id>https://festa.io/events/6325</id>
-        <link href="https://festa.io/events/6325"/>
-        <updated>2024-11-02T14:03:05.708Z</updated>
-        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
