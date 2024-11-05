@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-05T11:07:27.543Z</updated>
+    <updated>2024-11-05T12:14:17.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라이프스타일의 재발견 MANIFEST]]></title>
+        <id>https://festa.io/events/6362</id>
+        <link href="https://festa.io/events/6362"/>
+        <updated>2024-11-05T12:14:16.948Z</updated>
+        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액지원] 자바 부트캠프 12월(기업멘토링)]]></title>
         <id>https://festa.io/events/6360</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6346"/>
         <updated>2024-11-04T00:38:20.026Z</updated>
         <content type="html"><![CDATA[11월 3일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Open Contribution Jam 2024]]></title>
-        <id>https://festa.io/events/6342</id>
-        <link href="https://festa.io/events/6342"/>
-        <updated>2024-11-03T15:04:13.677Z</updated>
-        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
     </entry>
 </feed>
