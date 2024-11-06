@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-06T12:14:50.317Z</updated>
+    <updated>2024-11-06T13:16:05.321Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[개발자, 한 달에 책 한 권 읽기 2024년 11월~2025년 1월 모임 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6379</id>
+        <link href="https://festa.io/events/6379"/>
+        <updated>2024-11-06T13:16:04.726Z</updated>
+        <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[메가존클라우드/국비무료]솔루션아키텍트(SA), 운영보안(SecOps) 교육생 모집_11월 개강 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6376</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6360"/>
         <updated>2024-11-05T06:11:09.633Z</updated>
         <content type="html"><![CDATA[12월 3일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[청취사 새싹 은평 1기] 기업 연계 실무 특화 UX/UI 디자인 마스터 과정 2차 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6359</id>
-        <link href="https://festa.io/events/6359"/>
-        <updated>2024-11-05T06:11:09.634Z</updated>
-        <content type="html"><![CDATA[12월 4일 (수) · 오프라인]]></content>
     </entry>
 </feed>
