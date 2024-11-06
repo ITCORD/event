@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-06T05:09:05.490Z</updated>
+    <updated>2024-11-06T06:11:43.802Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[아이티런 빅데이터 전문가 부트캠프] 취업할 때까지 지원해드립니다!]]></title>
+        <id>https://festa.io/events/6374</id>
+        <link href="https://festa.io/events/6374"/>
+        <updated>2024-11-06T06:11:43.179Z</updated>
+        <content type="html"><![CDATA[11월 1일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[을지로 코드잇에서 모각코할 스터디원을 구합니다!]]></title>
         <id>https://festa.io/events/6367</id>
@@ -25,13 +32,6 @@
         <link href="https://festa.io/events/6361"/>
         <updated>2024-11-06T02:08:34.035Z</updated>
         <content type="html"><![CDATA[12월 14일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이프스타일의 재발견 MANIFEST]]></title>
-        <id>https://festa.io/events/6362</id>
-        <link href="https://festa.io/events/6362"/>
-        <updated>2024-11-05T12:14:16.948Z</updated>
-        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[전액지원] 자바 부트캠프 12월(기업멘토링)]]></title>
