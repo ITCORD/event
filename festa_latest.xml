@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-07T14:07:34.955Z</updated>
+    <updated>2024-11-07T15:07:53.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프롬프팅 All in One 웨비나 (1:1 프롬프팅 코칭까지)]]></title>
+        <id>https://festa.io/events/6385</id>
+        <link href="https://festa.io/events/6385"/>
+        <updated>2024-11-07T15:07:52.956Z</updated>
+        <content type="html"><![CDATA[11월 10일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2024 대전 청년창업사관학교 14기 데모데이]]></title>
         <id>https://festa.io/events/6389</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6376"/>
         <updated>2024-11-06T08:11:26.040Z</updated>
         <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[스나이퍼팩토리] 프로젝트캠프 : UI/UX 포트폴리오 과정 2기 (마감임박)]]></title>
-        <id>https://festa.io/events/6375</id>
-        <link href="https://festa.io/events/6375"/>
-        <updated>2024-11-06T07:08:19.912Z</updated>
-        <content type="html"><![CDATA[12월 2일 (월) · 오프라인]]></content>
     </entry>
 </feed>
