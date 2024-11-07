@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-07T06:11:33.192Z</updated>
+    <updated>2024-11-07T07:08:17.897Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[디지털 이노베이션 인사이트] 행사 안내]]></title>
+        <id>https://festa.io/events/6386</id>
+        <link href="https://festa.io/events/6386"/>
+        <updated>2024-11-07T07:08:17.120Z</updated>
+        <content type="html"><![CDATA[11월 25일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[실무에서 활용하는 AI 미드저니]]></title>
         <id>https://festa.io/events/6383</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6367"/>
         <updated>2024-11-06T03:11:57.736Z</updated>
         <content type="html"><![CDATA[11월 12일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-하이테크플랫폼 X 모두의연구소 대전] 사업계획서 및 보고서 작성 연속교육(Feat.정부지원금 사냥꾼)]]></title>
-        <id>https://festa.io/events/6366</id>
-        <link href="https://festa.io/events/6366"/>
-        <updated>2024-11-06T02:08:34.034Z</updated>
-        <content type="html"><![CDATA[11월 15일 (금) · 오프라인]]></content>
     </entry>
 </feed>
