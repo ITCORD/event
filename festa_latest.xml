@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-08T09:08:12.365Z</updated>
+    <updated>2024-11-08T10:08:10.150Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[마감임박] 엘리스트랙 백엔드 Basic 부트캠프]]></title>
+        <id>https://festa.io/events/6396</id>
+        <link href="https://festa.io/events/6396"/>
+        <updated>2024-11-08T10:08:09.551Z</updated>
+        <content type="html"><![CDATA[10월 2일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마감임박] 엘리스트랙 자율주행 데이터 실무 부트캠프]]></title>
+        <id>https://festa.io/events/6250</id>
+        <link href="https://festa.io/events/6250"/>
+        <updated>2024-11-08T10:08:09.554Z</updated>
+        <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[마감임박] 엘리스트랙 백엔드 Basic 부트캠프]]></title>
+        <id>https://festa.io/events/6317</id>
+        <link href="https://festa.io/events/6317"/>
+        <updated>2024-11-08T10:08:09.555Z</updated>
+        <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[✅  AI웹개발자심화과정 - 하이미디어아카데미 강남점]]></title>
         <id>https://festa.io/events/6394</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/6389"/>
         <updated>2024-11-07T10:08:34.338Z</updated>
         <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[생성형 AI 알면 뭐합니까? 써야 의미있죠! 생성형 AI 진짜 실무 활용법 Top7]]></title>
-        <id>https://festa.io/events/6388</id>
-        <link href="https://festa.io/events/6388"/>
-        <updated>2024-11-07T10:08:34.341Z</updated>
-        <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[디지털 이노베이션 인사이트] 행사 안내]]></title>
-        <id>https://festa.io/events/6386</id>
-        <link href="https://festa.io/events/6386"/>
-        <updated>2024-11-07T07:08:17.120Z</updated>
-        <content type="html"><![CDATA[11월 25일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[실무에서 활용하는 AI 미드저니]]></title>
-        <id>https://festa.io/events/6383</id>
-        <link href="https://festa.io/events/6383"/>
-        <updated>2024-11-07T05:08:25.734Z</updated>
-        <content type="html"><![CDATA[11월 12일 (화) · 온라인]]></content>
     </entry>
 </feed>
