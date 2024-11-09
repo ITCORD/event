@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-09T05:07:20.110Z</updated>
+    <updated>2024-11-09T06:09:32.607Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[라이프스타일의 재발견 MANIFEST]]></title>
+        <id>https://festa.io/events/6362</id>
+        <link href="https://festa.io/events/6362"/>
+        <updated>2024-11-07T16:09:25.175Z</updated>
+        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[Counterspell: Seoul]]></title>
         <id>https://festa.io/events/6364</id>
@@ -46,13 +53,6 @@
         <link href="https://festa.io/events/6391"/>
         <updated>2024-11-08T02:09:07.137Z</updated>
         <content type="html"><![CDATA[12월 9일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[라이프스타일의 재발견 MANIFEST]]></title>
-        <id>https://festa.io/events/6362</id>
-        <link href="https://festa.io/events/6362"/>
-        <updated>2024-11-07T16:09:25.175Z</updated>
-        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[프롬프팅 All in One 웨비나 (1:1 프롬프팅 코칭까지)]]></title>
