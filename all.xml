@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-10T05:07:35.412Z</updated>
+    <updated>2024-11-10T06:09:43.593Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[라이프스타일의 재발견 MANIFEST (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -54,10 +54,10 @@
         <content type="html"><![CDATA[12월 9일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[프롬프팅 All in One 웨비나 (1:1 프롬프팅 코칭까지) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6385</id>
-        <link href="https://festa.io/events/6385"/>
-        <updated>2024-11-07T15:07:52.956Z</updated>
-        <content type="html"><![CDATA[11월 10일 (일) · 온라인]]></content>
+        <title type="html"><![CDATA[2024 대전 청년창업사관학교 14기 데모데이 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6389</id>
+        <link href="https://festa.io/events/6389"/>
+        <updated>2024-11-10T06:09:43.006Z</updated>
+        <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
     </entry>
 </feed>
