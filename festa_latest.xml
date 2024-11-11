@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-11T07:08:11.121Z</updated>
+    <updated>2024-11-11T08:11:34.951Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[애플 디벨로퍼 아카데미 | SHOWCASE 24]]></title>
+        <id>https://festa.io/events/6406</id>
+        <link href="https://festa.io/events/6406"/>
+        <updated>2024-11-11T08:11:34.241Z</updated>
+        <content type="html"><![CDATA[12월 5일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[메가존 얼라이언스 클라우드 인재 양성 프로그램 참여자 모집!]]></title>
+        <id>https://festa.io/events/6405</id>
+        <link href="https://festa.io/events/6405"/>
+        <updated>2024-11-11T08:11:34.243Z</updated>
+        <content type="html"><![CDATA[11월 26일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[코드프레소 제 2회 Competition 사전 신청자 모집] 개발 실력 검증하고 포지션 제안 받으세요!]]></title>
         <id>https://festa.io/events/6404</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6396"/>
         <updated>2024-11-08T10:08:09.551Z</updated>
         <content type="html"><![CDATA[10월 2일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마감임박] 엘리스트랙 자율주행 데이터 실무 부트캠프]]></title>
-        <id>https://festa.io/events/6250</id>
-        <link href="https://festa.io/events/6250"/>
-        <updated>2024-11-08T10:08:09.554Z</updated>
-        <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[마감임박] 엘리스트랙 백엔드 Basic 부트캠프]]></title>
-        <id>https://festa.io/events/6317</id>
-        <link href="https://festa.io/events/6317"/>
-        <updated>2024-11-08T10:08:09.555Z</updated>
-        <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
     </entry>
 </feed>
