@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-11T15:08:09.840Z</updated>
+    <updated>2024-11-11T16:09:33.585Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[Devfest Incheon / Songdo 2024 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6324</id>
+        <link href="https://festa.io/events/6324"/>
+        <updated>2024-11-11T05:08:45.669Z</updated>
+        <content type="html"><![CDATA[12월 21일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인사이트 캠퍼스X새싹 신청자 이벤트] 청년취업사관학교 은평캠퍼스 LLM 데이터 분석 & 서비스 기획 과정 신청 프로모션 (친구 추천&30만원 상당의 온라인 강의 제공 이벤트) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6408</id>
@@ -31,13 +38,6 @@
         <link href="https://festa.io/events/6404"/>
         <updated>2024-11-11T06:11:48.783Z</updated>
         <content type="html"><![CDATA[11월 30일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devfest Incheon / Songdo 2024 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6324</id>
-        <link href="https://festa.io/events/6324"/>
-        <updated>2024-11-11T05:08:45.669Z</updated>
-        <content type="html"><![CDATA[12월 21일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024충남 스타트업 컨퍼런스 (페스타 ─ 최신 밋업과 이벤트)]]></title>
