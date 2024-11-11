@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-11T04:10:10.820Z</updated>
+    <updated>2024-11-11T05:08:46.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[Devfest Incheon / Songdo 2024]]></title>
+        <id>https://festa.io/events/6324</id>
+        <link href="https://festa.io/events/6324"/>
+        <updated>2024-11-11T05:08:45.669Z</updated>
+        <content type="html"><![CDATA[12월 21일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024충남 스타트업 컨퍼런스]]></title>
+        <id>https://festa.io/events/6399</id>
+        <link href="https://festa.io/events/6399"/>
+        <updated>2024-11-11T05:08:45.678Z</updated>
+        <content type="html"><![CDATA[11월 26일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[라이프스타일의 재발견 MANIFEST]]></title>
         <id>https://festa.io/events/6362</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6394"/>
         <updated>2024-11-08T06:11:45.264Z</updated>
         <content type="html"><![CDATA[12월 27일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[쇼핑몰제작,마케팅,CRM 무료 온라인 클래스]]></title>
-        <id>https://festa.io/events/6391</id>
-        <link href="https://festa.io/events/6391"/>
-        <updated>2024-11-08T02:09:07.137Z</updated>
-        <content type="html"><![CDATA[12월 9일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 대전 청년창업사관학교 14기 데모데이]]></title>
-        <id>https://festa.io/events/6389</id>
-        <link href="https://festa.io/events/6389"/>
-        <updated>2024-11-10T06:09:43.006Z</updated>
-        <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
     </entry>
 </feed>
