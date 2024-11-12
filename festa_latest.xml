@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-12T04:09:56.054Z</updated>
+    <updated>2024-11-12T05:08:31.273Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[파이토치 한국 사용자 모임 제4회 세미나]]></title>
+        <id>https://festa.io/events/6409</id>
+        <link href="https://festa.io/events/6409"/>
+        <updated>2024-11-12T05:08:30.537Z</updated>
+        <content type="html"><![CDATA[11월 30일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[K-하이테크플랫폼X모두의연구소][비즈세미나] 생성형 AI의 비즈니스 도입]]></title>
         <id>https://festa.io/events/6411</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6404"/>
         <updated>2024-11-11T06:11:48.783Z</updated>
         <content type="html"><![CDATA[11월 30일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024충남 스타트업 컨퍼런스]]></title>
-        <id>https://festa.io/events/6399</id>
-        <link href="https://festa.io/events/6399"/>
-        <updated>2024-11-11T05:08:45.678Z</updated>
-        <content type="html"><![CDATA[11월 26일 (화) · 오프라인]]></content>
     </entry>
 </feed>
