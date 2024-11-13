@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-13T09:08:13.470Z</updated>
+    <updated>2024-11-13T10:08:36.626Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[🚩[총 상금100만원!] SW분야에 관심 있는 창원시 고등학생을 모집합니다!🚩]]></title>
+        <id>https://festa.io/events/6427</id>
+        <link href="https://festa.io/events/6427"/>
+        <updated>2024-11-13T10:08:36.024Z</updated>
+        <content type="html"><![CDATA[11월 10일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024 한국의집 한식 포럼 <파인 다이닝, 전통 한식의 근본을 담다>]]></title>
+        <id>https://festa.io/events/6425</id>
+        <link href="https://festa.io/events/6425"/>
+        <updated>2024-11-13T10:08:36.026Z</updated>
+        <content type="html"><![CDATA[12월 6일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[코드포부산 11월 밋업데이]]></title>
+        <id>https://festa.io/events/6426</id>
+        <link href="https://festa.io/events/6426"/>
+        <updated>2024-11-13T10:08:36.028Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/6414</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/6421"/>
         <updated>2024-11-13T06:11:41.720Z</updated>
         <content type="html"><![CDATA[11월 25일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDGoC 24 11월 Open Seminar]]></title>
-        <id>https://festa.io/events/6419</id>
-        <link href="https://festa.io/events/6419"/>
-        <updated>2024-11-13T05:08:40.486Z</updated>
-        <content type="html"><![CDATA[11월 21일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[풀스택 개발자 국비지원 (핀테크 서비스)]]></title>
-        <id>https://festa.io/events/6418</id>
-        <link href="https://festa.io/events/6418"/>
-        <updated>2024-11-13T03:13:19.264Z</updated>
-        <content type="html"><![CDATA[11월 25일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인사이트 캠퍼스X새싹 신청자 이벤트] 청년취업사관학교 종로캠퍼스 실무요건 기반 핀테크 데이터 분석 & 서비스 기획 과정 신청 프로모션 (친구 추천&30만원 상당의 온라인 강의 제공 이벤트)]]></title>
-        <id>https://festa.io/events/6417</id>
-        <link href="https://festa.io/events/6417"/>
-        <updated>2024-11-13T02:09:30.421Z</updated>
-        <content type="html"><![CDATA[11월 11일 (월) · 오프라인]]></content>
     </entry>
 </feed>
