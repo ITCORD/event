@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-13T07:08:24.492Z</updated>
+    <updated>2024-11-13T08:10:52.910Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6414</id>
+        <link href="https://festa.io/events/6414"/>
+        <updated>2024-11-12T09:08:15.716Z</updated>
+        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2024년 경상북도 투자유치 설명회]]></title>
+        <id>https://festa.io/events/6423</id>
+        <link href="https://festa.io/events/6423"/>
+        <updated>2024-11-13T08:10:52.260Z</updated>
+        <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[2025 미리보는 세미나] AI 협업툴 업무레벨 혁신 전략]]></title>
         <id>https://festa.io/events/6422</id>
@@ -13,7 +27,7 @@
         <content type="html"><![CDATA[11월 13일 (수) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[외항사 디스커션 원데이 클래스]]></title>
+        <title type="html"><![CDATA[외항사 디스커션 원데이 모의 실습(캐세이퍼시픽, 에티하드 출신 코치2명)]]></title>
         <id>https://festa.io/events/6420</id>
         <link href="https://festa.io/events/6420"/>
         <updated>2024-11-13T06:11:41.719Z</updated>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6417"/>
         <updated>2024-11-13T02:09:30.421Z</updated>
         <content type="html"><![CDATA[11월 11일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/6414</id>
-        <link href="https://festa.io/events/6414"/>
-        <updated>2024-11-12T09:08:15.716Z</updated>
-        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 DevOps Gala Day]]></title>
-        <id>https://festa.io/events/6413</id>
-        <link href="https://festa.io/events/6413"/>
-        <updated>2024-11-12T07:07:57.034Z</updated>
-        <content type="html"><![CDATA[11월 15일 (금) · 오프라인]]></content>
     </entry>
 </feed>
