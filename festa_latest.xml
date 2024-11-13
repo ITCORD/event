@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-13T04:10:15.632Z</updated>
+    <updated>2024-11-13T05:08:41.160Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[GDGoC 24 11월 Open Seminar]]></title>
+        <id>https://festa.io/events/6419</id>
+        <link href="https://festa.io/events/6419"/>
+        <updated>2024-11-13T05:08:40.486Z</updated>
+        <content type="html"><![CDATA[11월 21일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[풀스택 개발자 국비지원 (핀테크 서비스)]]></title>
         <id>https://festa.io/events/6418</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6410"/>
         <updated>2024-11-12T02:07:44.075Z</updated>
         <content type="html"><![CDATA[11월 21일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devfest Incheon / Songdo 2024]]></title>
-        <id>https://festa.io/events/6324</id>
-        <link href="https://festa.io/events/6324"/>
-        <updated>2024-11-11T05:08:45.669Z</updated>
-        <content type="html"><![CDATA[12월 21일 (토) · 오프라인]]></content>
     </entry>
 </feed>
