@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-13T05:08:41.160Z</updated>
+    <updated>2024-11-13T06:11:42.317Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[외항사 디스커션 원데이 클래스]]></title>
+        <id>https://festa.io/events/6420</id>
+        <link href="https://festa.io/events/6420"/>
+        <updated>2024-11-13T06:11:41.719Z</updated>
+        <content type="html"><![CDATA[12월 14일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[AI 기반 디자이너 브랜드 만들기 – 실전 브랜딩 과정]]></title>
+        <id>https://festa.io/events/6421</id>
+        <link href="https://festa.io/events/6421"/>
+        <updated>2024-11-13T06:11:41.720Z</updated>
+        <content type="html"><![CDATA[11월 25일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[GDGoC 24 11월 Open Seminar]]></title>
         <id>https://festa.io/events/6419</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6409"/>
         <updated>2024-11-12T05:08:30.537Z</updated>
         <content type="html"><![CDATA[11월 30일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-하이테크플랫폼X모두의연구소][비즈세미나] 생성형 AI의 비즈니스 도입]]></title>
-        <id>https://festa.io/events/6411</id>
-        <link href="https://festa.io/events/6411"/>
-        <updated>2024-11-12T04:09:55.374Z</updated>
-        <content type="html"><![CDATA[11월 25일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[시미즈 쿠니오의 명작 '분장실'로 초대합니다]]></title>
-        <id>https://festa.io/events/6410</id>
-        <link href="https://festa.io/events/6410"/>
-        <updated>2024-11-12T02:07:44.075Z</updated>
-        <content type="html"><![CDATA[11월 21일 (목) · 오프라인]]></content>
     </entry>
 </feed>
