@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-14T04:10:19.179Z</updated>
+    <updated>2024-11-14T05:08:28.933Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6414</id>
+        <link href="https://festa.io/events/6414"/>
+        <updated>2024-11-12T09:08:15.716Z</updated>
+        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[🚩[총 상금100만원!] SW분야에 관심 있는 창원시 고등학생을 모집합니다!🚩]]></title>
         <id>https://festa.io/events/6427</id>
@@ -25,13 +32,6 @@
         <link href="https://festa.io/events/6426"/>
         <updated>2024-11-13T10:08:36.028Z</updated>
         <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/6414</id>
-        <link href="https://festa.io/events/6414"/>
-        <updated>2024-11-12T09:08:15.716Z</updated>
-        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[2024년 경상북도 투자유치 설명회]]></title>
