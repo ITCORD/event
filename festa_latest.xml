@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-15T06:12:14.069Z</updated>
+    <updated>2024-11-15T07:08:46.148Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[예술대전 맥(脈)]]></title>
+        <id>https://festa.io/events/6432</id>
+        <link href="https://festa.io/events/6432"/>
+        <updated>2024-11-15T07:08:45.473Z</updated>
+        <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인턴십 100%] 1등 프론트엔드 부트캠프, 곧 마감]]></title>
         <id>https://festa.io/events/6431</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6422"/>
         <updated>2024-11-13T07:08:23.780Z</updated>
         <content type="html"><![CDATA[11월 13일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[외항사 디스커션 원데이 모의 실습(캐세이퍼시픽, 에티하드 출신 코치2명)]]></title>
-        <id>https://festa.io/events/6420</id>
-        <link href="https://festa.io/events/6420"/>
-        <updated>2024-11-13T06:11:41.719Z</updated>
-        <content type="html"><![CDATA[12월 14일 (토) · 오프라인]]></content>
     </entry>
 </feed>
