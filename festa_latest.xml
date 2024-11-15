@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-15T09:08:54.414Z</updated>
+    <updated>2024-11-15T10:09:24.804Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[고객과의 첫 만남,  예비창업가를 위한 서비스 시작 성공공식법 만들기]]></title>
+        <id>https://festa.io/events/6436</id>
+        <link href="https://festa.io/events/6436"/>
+        <updated>2024-11-15T10:09:24.162Z</updated>
+        <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[(주)엑스퍼트컨설팅] 엑스퍼트 강사사관학교 1기 모집 (~12/16)]]></title>
         <id>https://festa.io/events/6433</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6426"/>
         <updated>2024-11-13T10:08:36.028Z</updated>
         <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 경상북도 투자유치 설명회]]></title>
-        <id>https://festa.io/events/6423</id>
-        <link href="https://festa.io/events/6423"/>
-        <updated>2024-11-13T08:10:52.260Z</updated>
-        <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
     </entry>
 </feed>
