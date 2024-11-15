@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-15T05:08:39.036Z</updated>
+    <updated>2024-11-15T06:12:14.069Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[인턴십 100%] 1등 프론트엔드 부트캠프, 곧 마감]]></title>
+        <id>https://festa.io/events/6431</id>
+        <link href="https://festa.io/events/6431"/>
+        <updated>2024-11-15T06:12:13.255Z</updated>
+        <content type="html"><![CDATA[11월 28일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/6414</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6420"/>
         <updated>2024-11-13T06:11:41.719Z</updated>
         <content type="html"><![CDATA[12월 14일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[AI 기반 디자이너 브랜드 만들기 – 실전 브랜딩 과정]]></title>
-        <id>https://festa.io/events/6421</id>
-        <link href="https://festa.io/events/6421"/>
-        <updated>2024-11-13T06:11:41.720Z</updated>
-        <content type="html"><![CDATA[11월 25일 (월) · 온라인]]></content>
     </entry>
 </feed>
