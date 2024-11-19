@@ -2,62 +2,62 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-19T06:12:27.960Z</updated>
+    <updated>2024-11-19T07:08:57.766Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[데이터로 살펴보는 우리 고객과 제품 성과 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6465</id>
+        <link href="https://festa.io/events/6465"/>
+        <updated>2024-11-19T07:08:57.094Z</updated>
+        <content type="html"><![CDATA[12월 12일 (목) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선착순 15명] 19살도 가능한 무자본 창업 A-Z 대학생.ver (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6461</id>
+        <link href="https://festa.io/events/6461"/>
+        <updated>2024-11-19T07:08:57.095Z</updated>
+        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[돈 쓰는 사람이 벌 줄도 안다! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6464</id>
+        <link href="https://festa.io/events/6464"/>
+        <updated>2024-11-19T07:08:57.096Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[남들보다 돈을 앞당겨서 버는 방법 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6463</id>
+        <link href="https://festa.io/events/6463"/>
+        <updated>2024-11-19T07:08:57.098Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[투자에는 나이가 없다! 맞춤형 재테크 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6462</id>
+        <link href="https://festa.io/events/6462"/>
+        <updated>2024-11-19T07:08:57.102Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[부자를 꿈꾸는 사람을 위한 재테크 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6460</id>
+        <link href="https://festa.io/events/6460"/>
+        <updated>2024-11-19T07:08:57.102Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[땅테크가 하고싶다! 토지투자 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6459</id>
+        <link href="https://festa.io/events/6459"/>
+        <updated>2024-11-19T07:08:57.104Z</updated>
+        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[언제까지 공부만 할래? (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6458</id>
         <link href="https://festa.io/events/6458"/>
         <updated>2024-11-19T06:12:27.259Z</updated>
         <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인을 위한 재테크 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6457</id>
-        <link href="https://festa.io/events/6457"/>
-        <updated>2024-11-19T06:12:27.259Z</updated>
-        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[끝나가는 용의 해 재테크로 화룡점정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6456</id>
-        <link href="https://festa.io/events/6456"/>
-        <updated>2024-11-19T06:12:27.260Z</updated>
-        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 교육] 테라폼 활용 IaC 교육 | 코드로 관리하는 NHN Cloud with Terraform (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6455</id>
-        <link href="https://festa.io/events/6455"/>
-        <updated>2024-11-19T06:12:27.262Z</updated>
-        <content type="html"><![CDATA[11월 25일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순30명] 300명이 극찬한 인스타그램 컨셉 책자 이벤트 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6453</id>
-        <link href="https://festa.io/events/6453"/>
-        <updated>2024-11-19T06:12:27.263Z</updated>
-        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[알고해야 돈이 되는 재테크 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6454</id>
-        <link href="https://festa.io/events/6454"/>
-        <updated>2024-11-19T06:12:27.265Z</updated>
-        <content type="html"><![CDATA[11월 20일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[MZ세대를 위한 재테크 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6451</id>
-        <link href="https://festa.io/events/6451"/>
-        <updated>2024-11-19T06:12:27.267Z</updated>
-        <content type="html"><![CDATA[11월 20일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[GDGoC Flutter, UXUI Conference (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6450</id>
-        <link href="https://festa.io/events/6450"/>
-        <updated>2024-11-19T06:12:27.269Z</updated>
-        <content type="html"><![CDATA[11월 23일 (토) · 오프라인]]></content>
     </entry>
 </feed>
