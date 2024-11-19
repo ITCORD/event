@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-19T08:11:34.991Z</updated>
+    <updated>2024-11-19T09:09:07.256Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[인턴십 100% 보장] 2024년 마지막, 프론트엔드 8주 단기 심화 부트캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6470</id>
+        <link href="https://festa.io/events/6470"/>
+        <updated>2024-11-19T09:09:06.512Z</updated>
+        <content type="html"><![CDATA[12월 12일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[데이터로 살펴보는 우리 고객과 제품 성과 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6465</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/6459</id>
         <link href="https://festa.io/events/6459"/>
         <updated>2024-11-19T07:08:57.104Z</updated>
-        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[언제까지 공부만 할래? (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6458</id>
-        <link href="https://festa.io/events/6458"/>
-        <updated>2024-11-19T06:12:27.259Z</updated>
         <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
     </entry>
 </feed>
