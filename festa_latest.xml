@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-19T04:10:52.417Z</updated>
+    <updated>2024-11-19T05:09:17.832Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
     <entry>
@@ -10,7 +10,7 @@
         <id>https://festa.io/events/6449</id>
         <link href="https://festa.io/events/6449"/>
         <updated>2024-11-19T03:22:11.088Z</updated>
-        <content type="html"><![CDATA[11월 18일 (월) · 오프라인]]></content>
+        <content type="html"><![CDATA[12월 4일 (수) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
