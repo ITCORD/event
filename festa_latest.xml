@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-20T03:21:01.893Z</updated>
+    <updated>2024-11-20T04:10:26.848Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[소상공인 펀딩 스쿨]]></title>
+        <id>https://festa.io/events/6473</id>
+        <link href="https://festa.io/events/6473"/>
+        <updated>2024-11-20T04:10:26.097Z</updated>
+        <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[Starting Point]🥩돈까스 디깅 포럼 : 돈까스덕후 다은님의 돈까스라이팅]]></title>
         <id>https://festa.io/events/6471</id>
@@ -51,13 +58,6 @@
         <title type="html"><![CDATA[투자에는 나이가 없다! 맞춤형 재테크 세미나]]></title>
         <id>https://festa.io/events/6462</id>
         <link href="https://festa.io/events/6462"/>
-        <updated>2024-11-19T07:08:57.102Z</updated>
-        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[부자를 꿈꾸는 사람을 위한 재테크 세미나]]></title>
-        <id>https://festa.io/events/6460</id>
-        <link href="https://festa.io/events/6460"/>
         <updated>2024-11-19T07:08:57.102Z</updated>
         <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
     </entry>
