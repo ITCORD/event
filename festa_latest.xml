@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-20T21:08:03.109Z</updated>
+    <updated>2024-11-20T22:07:48.917Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CommUNITED: 커뮤나이티드 - 네트워킹]]></title>
+        <id>https://festa.io/events/6478</id>
+        <link href="https://festa.io/events/6478"/>
+        <updated>2024-11-20T22:07:48.265Z</updated>
+        <content type="html"><![CDATA[11월 24일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[센텀 디지털 위크 × Dev·Design 컨퍼런스]]></title>
         <id>https://festa.io/events/6476</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6461"/>
         <updated>2024-11-19T07:08:57.095Z</updated>
         <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[돈 쓰는 사람이 벌 줄도 안다!]]></title>
-        <id>https://festa.io/events/6464</id>
-        <link href="https://festa.io/events/6464"/>
-        <updated>2024-11-19T07:08:57.096Z</updated>
-        <content type="html"><![CDATA[11월 19일 (화) · 오프라인]]></content>
     </entry>
 </feed>
