@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-21T00:38:08.636Z</updated>
+    <updated>2024-11-21T02:15:51.101Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[CommUNITED: 커뮤나이티드 - 네트워킹 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -33,6 +33,13 @@
         <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
     </entry>
     <entry>
+        <title type="html"><![CDATA[데브콘 서울 : 십이월엔 셀프 회고 릴레이 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6472</id>
+        <link href="https://festa.io/events/6472"/>
+        <updated>2024-11-21T02:15:50.283Z</updated>
+        <content type="html"><![CDATA[12월 8일 (일) · 오프라인]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[[Starting Point]🥩돈까스 디깅 포럼 : 돈까스덕후 다은님의 돈까스라이팅 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6471</id>
         <link href="https://festa.io/events/6471"/>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6465"/>
         <updated>2024-11-19T07:08:57.094Z</updated>
         <content type="html"><![CDATA[12월 12일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순 15명] 19살도 가능한 무자본 창업 A-Z 대학생.ver (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6461</id>
-        <link href="https://festa.io/events/6461"/>
-        <updated>2024-11-19T07:08:57.095Z</updated>
-        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
     </entry>
 </feed>
