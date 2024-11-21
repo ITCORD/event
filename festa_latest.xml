@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-21T06:11:49.110Z</updated>
+    <updated>2024-11-21T07:08:53.870Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[프롬프팅 고인물이 알려주는 프롬프트 엔지니어링 A to Z]]></title>
+        <id>https://festa.io/events/6481</id>
+        <link href="https://festa.io/events/6481"/>
+        <updated>2024-11-21T07:08:53.199Z</updated>
+        <content type="html"><![CDATA[11월 25일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[청년취업사관학교 새싹SeSAC_언리얼 엔진과 생성형AI를 활용한 게임 개발자 양성과정]]></title>
         <id>https://festa.io/events/6480</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6471"/>
         <updated>2024-11-19T17:07:54.026Z</updated>
         <content type="html"><![CDATA[11월 26일 (화) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인턴십 100% 보장] 2024년 마지막, 프론트엔드 8주 단기 심화 부트캠프]]></title>
-        <id>https://festa.io/events/6470</id>
-        <link href="https://festa.io/events/6470"/>
-        <updated>2024-11-19T09:09:06.512Z</updated>
-        <content type="html"><![CDATA[12월 12일 (목) · 온라인]]></content>
     </entry>
 </feed>
