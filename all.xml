@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-11-22T03:21:49.744Z</updated>
+    <updated>2024-11-22T04:10:58.258Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[서류 가산점] 프론트엔드 8주 단기심화 부트캠프 설명회 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6485</id>
+        <link href="https://festa.io/events/6485"/>
+        <updated>2024-11-22T04:10:57.549Z</updated>
+        <content type="html"><![CDATA[11월 25일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[미술품 재테크 입문자를 위한 아트테크 강의 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6484</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6476"/>
         <updated>2024-11-20T10:09:17.991Z</updated>
         <content type="html"><![CDATA[11월 27일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[연말 기업 단체 교육/정재승/흑백요리사/티니핑/김헌성/리멤버/리얼월드 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6475</id>
-        <link href="https://festa.io/events/6475"/>
-        <updated>2024-11-20T08:11:36.710Z</updated>
-        <content type="html"><![CDATA[12월 6일 (금) · 오프라인]]></content>
     </entry>
 </feed>
