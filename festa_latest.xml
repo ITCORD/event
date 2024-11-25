@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-25T06:13:04.700Z</updated>
+    <updated>2024-11-25T07:09:21.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 예술인 일거리 <팝업! 예술로 자브로> 참여자 사전등록 (~12/4까지)]]></title>
+        <id>https://festa.io/events/6500</id>
+        <link href="https://festa.io/events/6500"/>
+        <updated>2024-11-25T07:09:20.684Z</updated>
+        <content type="html"><![CDATA[12월 5일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[큐시즘 제2회 전시회 Chemical Synergy]]></title>
         <id>https://festa.io/events/6497</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6484"/>
         <updated>2024-11-22T00:38:33.806Z</updated>
         <content type="html"><![CDATA[11월 23일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료 세미나] 트래킹 레이더 이해]]></title>
-        <id>https://festa.io/events/6483</id>
-        <link href="https://festa.io/events/6483"/>
-        <updated>2024-11-21T08:11:14.727Z</updated>
-        <content type="html"><![CDATA[12월 10일 (화) · 온라인]]></content>
     </entry>
 </feed>
