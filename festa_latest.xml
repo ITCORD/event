@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-26T13:20:56.813Z</updated>
+    <updated>2024-11-26T14:08:23.429Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[선착순 9명] 따라만 해도 돈이 생기는 인스타그램 수익화 성공법칙!]]></title>
+        <id>https://festa.io/events/6466</id>
+        <link href="https://festa.io/events/6466"/>
+        <updated>2024-11-26T14:08:22.733Z</updated>
+        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선착순 9명] 부업에서 본업으로!! 무자본 창업 비밀 노트 PDF]]></title>
+        <id>https://festa.io/events/6468</id>
+        <link href="https://festa.io/events/6468"/>
+        <updated>2024-11-26T14:08:22.737Z</updated>
+        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[선착순 19명] 생활비 부족한 사람 주목!! 하루 두 시간 투자해서 부수입 50만 원 만들자!]]></title>
+        <id>https://festa.io/events/6474</id>
+        <link href="https://festa.io/events/6474"/>
+        <updated>2024-11-26T14:08:22.737Z</updated>
+        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선착순 9명] 프리랜서 300명이 신청한 나만의 창업 아이템 시크릿 책자]]></title>
         <id>https://festa.io/events/6519</id>
@@ -38,27 +59,6 @@
         <id>https://festa.io/events/6513</id>
         <link href="https://festa.io/events/6513"/>
         <updated>2024-11-26T07:09:06.152Z</updated>
-        <content type="html"><![CDATA[12월 6일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재직자 무료강의] ChatGPT & 미드저니 활용한 6시간 원데이 클래스 (서울&부산 선착순 신청)]]></title>
-        <id>https://festa.io/events/6517</id>
-        <link href="https://festa.io/events/6517"/>
-        <updated>2024-11-26T07:09:06.153Z</updated>
-        <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서울시/SBA] AI서비스기획자 부트캠프 3기]]></title>
-        <id>https://festa.io/events/6515</id>
-        <link href="https://festa.io/events/6515"/>
-        <updated>2024-11-26T06:11:58.395Z</updated>
-        <content type="html"><![CDATA[10월 17일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[K-하이테크플랫폼 X 모두의연구소 대전] 피그마 슬라이드로 발표자료 만들기]]></title>
-        <id>https://festa.io/events/6514</id>
-        <link href="https://festa.io/events/6514"/>
-        <updated>2024-11-26T06:11:58.399Z</updated>
         <content type="html"><![CDATA[12월 6일 (금) · 오프라인]]></content>
     </entry>
 </feed>
