@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-26T04:11:43.948Z</updated>
+    <updated>2024-11-26T05:09:16.227Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울시x서울경제진흥원] 콘텐츠 퍼포먼스 마케팅 전문가 과정(AI활용) 2기]]></title>
+        <id>https://festa.io/events/6511</id>
+        <link href="https://festa.io/events/6511"/>
+        <updated>2024-11-26T05:09:15.491Z</updated>
+        <content type="html"><![CDATA[12월 9일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[마이크로소프트] OPEN AI 기반 데이터활용 및 디지털 전환 트렌드 세미나(12/4)]]></title>
         <id>https://festa.io/events/6510</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6492"/>
         <updated>2024-11-23T10:07:45.563Z</updated>
         <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[삐약톤 : 캠퍼스 대항전]]></title>
-        <id>https://festa.io/events/6381</id>
-        <link href="https://festa.io/events/6381"/>
-        <updated>2024-11-22T09:08:54.618Z</updated>
-        <content type="html"><![CDATA[12월 14일 (토) · 오프라인]]></content>
     </entry>
 </feed>
