@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-26T02:17:45.466Z</updated>
+    <updated>2024-11-26T03:23:16.916Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[마이크로소프트] OPEN AI 기반 데이터활용 및 디지털 전환 트렌드 세미나(12/4)]]></title>
+        <id>https://festa.io/events/6510</id>
+        <link href="https://festa.io/events/6510"/>
+        <updated>2024-11-26T03:23:16.247Z</updated>
+        <content type="html"><![CDATA[12월 4일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[채용연계 컴피티션] (~11/27 13시) 모집 마감 D-1! 코드프레소 컴피티션 신청 마지막 기회]]></title>
         <id>https://festa.io/events/6509</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6381"/>
         <updated>2024-11-22T09:08:54.618Z</updated>
         <content type="html"><![CDATA[12월 14일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료교육/재직자] 12월 재직자 직무능력 향상 무료교육]]></title>
-        <id>https://festa.io/events/6487</id>
-        <link href="https://festa.io/events/6487"/>
-        <updated>2024-11-22T07:09:02.175Z</updated>
-        <content type="html"><![CDATA[12월 31일 (화) · 오프라인]]></content>
     </entry>
 </feed>
