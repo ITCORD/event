@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-27T02:19:52.782Z</updated>
+    <updated>2024-11-27T03:25:16.562Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[애플리케이션 성능 모니터링 APM 무상컨설팅 '티타임' 이벤트]]></title>
+        <id>https://festa.io/events/6521</id>
+        <link href="https://festa.io/events/6521"/>
+        <updated>2024-11-27T03:25:15.903Z</updated>
+        <content type="html"><![CDATA[12월 4일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[선착순 9명] 따라만 해도 돈이 생기는 인스타그램 수익화 성공법칙!]]></title>
         <id>https://festa.io/events/6466</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6265"/>
         <updated>2024-11-26T07:09:06.149Z</updated>
         <content type="html"><![CDATA[11월 27일 (수) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024 동계 로보티즈 오픈랩 행사]]></title>
-        <id>https://festa.io/events/6513</id>
-        <link href="https://festa.io/events/6513"/>
-        <updated>2024-11-26T07:09:06.152Z</updated>
-        <content type="html"><![CDATA[12월 6일 (금) · 오프라인]]></content>
     </entry>
 </feed>
