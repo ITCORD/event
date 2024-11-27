@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-27T11:07:24.231Z</updated>
+    <updated>2024-11-27T12:15:17.364Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[랭체인과 CLOVA Studio]]></title>
+        <id>https://festa.io/events/6530</id>
+        <link href="https://festa.io/events/6530"/>
+        <updated>2024-11-27T12:15:16.706Z</updated>
+        <content type="html"><![CDATA[12월 26일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transit VPC를 활용한 중앙집중식 네트워크 관리하기]]></title>
+        <id>https://festa.io/events/6529</id>
+        <link href="https://festa.io/events/6529"/>
+        <updated>2024-11-27T12:15:16.710Z</updated>
+        <content type="html"><![CDATA[12월 19일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[랭체인과 CLOVA Studio]]></title>
+        <id>https://festa.io/events/6528</id>
+        <link href="https://festa.io/events/6528"/>
+        <updated>2024-11-27T12:15:16.710Z</updated>
+        <content type="html"><![CDATA[12월 12일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Transit VPC를 활용한 중앙집중식 네트워크 관리하기]]></title>
+        <id>https://festa.io/events/6522</id>
+        <link href="https://festa.io/events/6522"/>
+        <updated>2024-11-27T12:15:16.711Z</updated>
+        <content type="html"><![CDATA[12월 5일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[생성형 Ai를 활용한 3D 컨텐츠 제작 웨비나]]></title>
         <id>https://festa.io/events/6524</id>
@@ -32,33 +60,5 @@
         <link href="https://festa.io/events/6521"/>
         <updated>2024-11-27T03:25:15.903Z</updated>
         <content type="html"><![CDATA[12월 4일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순 9명] 따라만 해도 돈이 생기는 인스타그램 수익화 성공법칙!]]></title>
-        <id>https://festa.io/events/6466</id>
-        <link href="https://festa.io/events/6466"/>
-        <updated>2024-11-26T14:08:22.733Z</updated>
-        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순 9명] 부업에서 본업으로!! 무자본 창업 비밀 노트 PDF]]></title>
-        <id>https://festa.io/events/6468</id>
-        <link href="https://festa.io/events/6468"/>
-        <updated>2024-11-26T14:08:22.737Z</updated>
-        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순 19명] 생활비 부족한 사람 주목!! 하루 두 시간 투자해서 부수입 50만 원 만들자!]]></title>
-        <id>https://festa.io/events/6474</id>
-        <link href="https://festa.io/events/6474"/>
-        <updated>2024-11-26T14:08:22.737Z</updated>
-        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[선착순 9명] 프리랜서 300명이 신청한 나만의 창업 아이템 시크릿 책자]]></title>
-        <id>https://festa.io/events/6519</id>
-        <link href="https://festa.io/events/6519"/>
-        <updated>2024-11-26T13:20:56.193Z</updated>
-        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
     </entry>
 </feed>
