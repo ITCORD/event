@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-28T00:39:27.363Z</updated>
+    <updated>2024-11-28T02:19:18.005Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[서울시/SBA] 디지털마케터 취업스쿨 3기]]></title>
+        <id>https://festa.io/events/6531</id>
+        <link href="https://festa.io/events/6531"/>
+        <updated>2024-11-28T02:19:17.391Z</updated>
+        <content type="html"><![CDATA[11월 28일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[랭체인과 CLOVA Studio]]></title>
         <id>https://festa.io/events/6530</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6499"/>
         <updated>2024-11-27T06:13:22.495Z</updated>
         <content type="html"><![CDATA[12월 18일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[애플리케이션 성능 모니터링 APM 무상컨설팅 '티타임' 이벤트]]></title>
-        <id>https://festa.io/events/6521</id>
-        <link href="https://festa.io/events/6521"/>
-        <updated>2024-11-27T03:25:15.903Z</updated>
-        <content type="html"><![CDATA[12월 4일 (수) · 오프라인]]></content>
     </entry>
 </feed>
