@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-11-29T06:12:02.677Z</updated>
+    <updated>2024-11-29T07:08:58.292Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[한컴 X 스나이퍼팩토리] 한컴 AI 아카데미 과정]]></title>
+        <id>https://festa.io/events/6543</id>
+        <link href="https://festa.io/events/6543"/>
+        <updated>2024-11-29T07:08:57.631Z</updated>
+        <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료교육/재직자] 전자입찰 (조달청 나라장터) 실무_입문자 대면 교육(12.9, 월)]]></title>
         <id>https://festa.io/events/6541</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6346"/>
         <updated>2024-11-28T03:25:43.971Z</updated>
         <content type="html"><![CDATA[12월 7일 (토) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[온라인 공유 작업실 "모각-O" (모각-땡)]]></title>
-        <id>https://festa.io/events/6535</id>
-        <link href="https://festa.io/events/6535"/>
-        <updated>2024-11-28T03:25:43.972Z</updated>
-        <content type="html"><![CDATA[12월 8일 (일) · 온라인]]></content>
     </entry>
 </feed>
