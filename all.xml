@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-03T03:29:34.011Z</updated>
+    <updated>2024-12-03T04:10:45.927Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[가산점 지급] AI 엔지니어 부트캠프 라이브 설명회에 초대합니다. (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6564</id>
+        <link href="https://festa.io/events/6564"/>
+        <updated>2024-12-03T04:10:45.236Z</updated>
+        <content type="html"><![CDATA[12월 10일 (화) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[가산점 지급] 프로덕트 디자인 부트캠프 라이브 설명회에 초대합니다. (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6563</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6544"/>
         <updated>2024-11-29T08:11:28.023Z</updated>
         <content type="html"><![CDATA[12월 9일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한컴 X 스나이퍼팩토리] 한컴 AI 아카데미 과정 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6543</id>
-        <link href="https://festa.io/events/6543"/>
-        <updated>2024-11-29T07:08:57.631Z</updated>
-        <content type="html"><![CDATA[11월 29일 (금) · 오프라인]]></content>
     </entry>
 </feed>
