@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-04T18:11:43.584Z</updated>
+    <updated>2024-12-04T19:09:23.907Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[AI4HER APAC 2024 - 윤리적 AI와 지속 가능한 미래를 설계하다 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6592</id>
+        <link href="https://festa.io/events/6592"/>
+        <updated>2024-12-04T19:09:23.263Z</updated>
+        <content type="html"><![CDATA[12월 12일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[AI학교 아이펠] 피할 수 없는 AI, 그렇다면 제대로 배우세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6038</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6572"/>
         <updated>2024-12-03T08:11:56.848Z</updated>
         <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가산점 지급] AI 엔지니어 부트캠프 라이브 설명회에 초대합니다. (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6564</id>
-        <link href="https://festa.io/events/6564"/>
-        <updated>2024-12-03T04:10:45.236Z</updated>
-        <content type="html"><![CDATA[12월 10일 (화) · 온라인]]></content>
     </entry>
 </feed>
