@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-04T12:15:29.178Z</updated>
+    <updated>2024-12-04T13:21:02.698Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[AI학교 아이펠] 피할 수 없는 AI, 그렇다면 제대로 배우세요! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6038</id>
+        <link href="https://festa.io/events/6038"/>
+        <updated>2024-12-04T13:21:01.779Z</updated>
+        <content type="html"><![CDATA[12월 30일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[인턴십 100%] Spring 백엔드 부트캠프 모집 중 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6584</id>
@@ -51,13 +58,6 @@
         <id>https://festa.io/events/6564</id>
         <link href="https://festa.io/events/6564"/>
         <updated>2024-12-03T04:10:45.236Z</updated>
-        <content type="html"><![CDATA[12월 10일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[가산점 지급] 프로덕트 디자인 부트캠프 라이브 설명회에 초대합니다. (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6563</id>
-        <link href="https://festa.io/events/6563"/>
-        <updated>2024-12-03T03:29:33.377Z</updated>
         <content type="html"><![CDATA[12월 10일 (화) · 온라인]]></content>
     </entry>
 </feed>
