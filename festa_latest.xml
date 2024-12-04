@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-04T05:08:48.554Z</updated>
+    <updated>2024-12-04T06:12:34.800Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[인턴십 100%] Spring 백엔드 부트캠프 모집 중]]></title>
+        <id>https://festa.io/events/6584</id>
+        <link href="https://festa.io/events/6584"/>
+        <updated>2024-12-04T06:12:34.116Z</updated>
+        <content type="html"><![CDATA[12월 30일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[2025년 근로계약서 무료 웨비나]]></title>
+        <id>https://festa.io/events/6585</id>
+        <link href="https://festa.io/events/6585"/>
+        <updated>2024-12-04T06:12:34.117Z</updated>
+        <content type="html"><![CDATA[12월 18일 (수) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[원자력 미래기술 아이디어 부트캠프]]></title>
+        <id>https://festa.io/events/6581</id>
+        <link href="https://festa.io/events/6581"/>
+        <updated>2024-12-04T06:12:34.119Z</updated>
+        <content type="html"><![CDATA[12월 23일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국모다it 오프라인 네트워킹 이벤트]]></title>
         <id>https://festa.io/events/6552</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/6563"/>
         <updated>2024-12-03T03:29:33.377Z</updated>
         <content type="html"><![CDATA[12월 10일 (화) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[서류 가산점] Node.js 백엔드 부트캠프 라이브 설명회에 초대합니다.]]></title>
-        <id>https://festa.io/events/6562</id>
-        <link href="https://festa.io/events/6562"/>
-        <updated>2024-12-03T03:29:33.380Z</updated>
-        <content type="html"><![CDATA[12월 9일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 딥러닝 기반 AI 엔지니어 부트캠프 모집]]></title>
-        <id>https://festa.io/events/6526</id>
-        <link href="https://festa.io/events/6526"/>
-        <updated>2024-12-02T06:13:03.498Z</updated>
-        <content type="html"><![CDATA[11월 18일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재직자/무료교육] 디지털 트윈 입문 비대면 무료교육 (12/16, 월)]]></title>
-        <id>https://festa.io/events/6554</id>
-        <link href="https://festa.io/events/6554"/>
-        <updated>2024-12-02T06:13:03.501Z</updated>
-        <content type="html"><![CDATA[12월 16일 (월) · 온라인]]></content>
     </entry>
 </feed>
