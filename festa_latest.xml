@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-05T05:09:01.932Z</updated>
+    <updated>2024-12-05T06:12:20.494Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[재직자/무료교육] 24년 마지막 교육 ! 재료선정 및 열처리 기술 무료교육안내 (12.26.~27.)]]></title>
+        <id>https://festa.io/events/6594</id>
+        <link href="https://festa.io/events/6594"/>
+        <updated>2024-12-05T06:12:19.862Z</updated>
+        <content type="html"><![CDATA[12월 26일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[AI4HER APAC 2024 - 윤리적 AI와 지속 가능한 미래를 설계하다]]></title>
         <id>https://festa.io/events/6592</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6575"/>
         <updated>2024-12-03T08:11:56.843Z</updated>
         <content type="html"><![CDATA[1월 6일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 합격 포트폴리오의 정답, 프로덕트 디자이너 부트캠프]]></title>
-        <id>https://festa.io/events/6572</id>
-        <link href="https://festa.io/events/6572"/>
-        <updated>2024-12-03T08:11:56.848Z</updated>
-        <content type="html"><![CDATA[12월 1일 (일) · 온라인]]></content>
     </entry>
 </feed>
