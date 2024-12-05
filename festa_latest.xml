@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-05T06:12:20.494Z</updated>
+    <updated>2024-12-05T07:09:06.498Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재직자/무료교육] PLC 및 로봇 통합제어(PLC+HMI+로봇+비전제어) 비대면 무료교육안내 (12.23.~24.)]]></title>
+        <id>https://festa.io/events/6596</id>
+        <link href="https://festa.io/events/6596"/>
+        <updated>2024-12-05T07:09:05.837Z</updated>
+        <content type="html"><![CDATA[12월 23일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[건대] 홍쌤 중국어 스터디 | 자기개발 |]]></title>
+        <id>https://festa.io/events/6595</id>
+        <link href="https://festa.io/events/6595"/>
+        <updated>2024-12-05T07:09:05.838Z</updated>
+        <content type="html"><![CDATA[12월 4일 (수) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[재직자/무료교육] 24년 마지막 교육 ! 재료선정 및 열처리 기술 무료교육안내 (12.26.~27.)]]></title>
         <id>https://festa.io/events/6594</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6581"/>
         <updated>2024-12-04T06:12:34.119Z</updated>
         <content type="html"><![CDATA[12월 23일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국모다it 오프라인 네트워킹 이벤트]]></title>
-        <id>https://festa.io/events/6552</id>
-        <link href="https://festa.io/events/6552"/>
-        <updated>2024-12-03T11:07:07.938Z</updated>
-        <content type="html"><![CDATA[12월 13일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[✅ 피그마활용 UI/UX 웹디자인&웹퍼블리셔 국비지원 - 하이미디어아카데미 구로점]]></title>
-        <id>https://festa.io/events/6575</id>
-        <link href="https://festa.io/events/6575"/>
-        <updated>2024-12-03T08:11:56.843Z</updated>
-        <content type="html"><![CDATA[1월 6일 (월) · 오프라인]]></content>
     </entry>
 </feed>
