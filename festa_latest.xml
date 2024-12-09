@@ -2,9 +2,23 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-09T08:12:42.049Z</updated>
+    <updated>2024-12-09T09:10:04.067Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[Mattermost x InfoGrab] Mattermost Korea Night 협업의 미래를 함께 그리다]]></title>
+        <id>https://festa.io/events/6613</id>
+        <link href="https://festa.io/events/6613"/>
+        <updated>2024-12-09T09:10:03.409Z</updated>
+        <content type="html"><![CDATA[12월 10일 (화) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[서울바이오허브 입주스타트업 투자지원사업 데모데이 참관객 모집]]></title>
+        <id>https://festa.io/events/6612</id>
+        <link href="https://festa.io/events/6612"/>
+        <updated>2024-12-09T09:10:03.411Z</updated>
+        <content type="html"><![CDATA[12월 16일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[100% 인턴십] 코드잇 스프린트 풀스택 엔지니어 부트캠프 6기 모집중]]></title>
         <id>https://festa.io/events/6611</id>
@@ -46,19 +60,5 @@
         <link href="https://festa.io/events/6601"/>
         <updated>2024-12-06T08:11:50.453Z</updated>
         <content type="html"><![CDATA[12월 6일 (금) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[프론트&백엔드 포트폴리오 교육생 모집]]></title>
-        <id>https://festa.io/events/6600</id>
-        <link href="https://festa.io/events/6600"/>
-        <updated>2024-12-06T07:08:54.849Z</updated>
-        <content type="html"><![CDATA[12월 5일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료교육/재직자] 전자입찰 (조달청 나라장터) 실무_입문자 비대면 무료교육(12/19. 목)]]></title>
-        <id>https://festa.io/events/6599</id>
-        <link href="https://festa.io/events/6599"/>
-        <updated>2024-12-06T06:12:21.279Z</updated>
-        <content type="html"><![CDATA[12월 19일 (목) · 온라인]]></content>
     </entry>
 </feed>
