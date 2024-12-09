@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-09T05:09:42.217Z</updated>
+    <updated>2024-12-09T06:12:59.977Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[12/13(금) 세미나 초청] AI에 대한 모든 것, AI 마켓 데이에서 알아보세요!]]></title>
+        <id>https://festa.io/events/6609</id>
+        <link href="https://festa.io/events/6609"/>
+        <updated>2024-12-09T06:12:59.324Z</updated>
+        <content type="html"><![CDATA[12월 13일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[재직자/무료교육] 용접결함 검사 및 비파괴시험 대면 무료교육 (12/26~27)]]></title>
         <id>https://festa.io/events/6608</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6598"/>
         <updated>2024-12-06T03:27:34.768Z</updated>
         <content type="html"><![CDATA[12월 30일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재직자/무료교육] 기계요소 및 요소기술(12/17,화) 회로기판 고장수리 (12/18,수) 비대면 무료교육]]></title>
-        <id>https://festa.io/events/6597</id>
-        <link href="https://festa.io/events/6597"/>
-        <updated>2024-12-06T02:20:44.797Z</updated>
-        <content type="html"><![CDATA[12월 18일 (수) · 온라인]]></content>
     </entry>
 </feed>
