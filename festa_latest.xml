@@ -2,22 +2,29 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-10T10:09:56.797Z</updated>
+    <updated>2024-12-10T11:07:32.380Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[전액 국비지원] 엘리스트랙 소프트웨어 QA 트랙 교육생 모집]]></title>
+        <id>https://festa.io/events/6615</id>
+        <link href="https://festa.io/events/6615"/>
+        <updated>2024-12-10T11:07:31.754Z</updated>
+        <content type="html"><![CDATA[11월 25일 (월) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[전액 국비지원] 엘리스트랙 Unity 게임 개발 트랙 교육생 모집]]></title>
+        <id>https://festa.io/events/6614</id>
+        <link href="https://festa.io/events/6614"/>
+        <updated>2024-12-10T11:07:31.756Z</updated>
+        <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/6580</id>
         <link href="https://festa.io/events/6580"/>
         <updated>2024-12-10T07:08:56.338Z</updated>
         <content type="html"><![CDATA[12월 21일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[Mattermost x InfoGrab] Mattermost Korea Night 협업의 미래를 함께 그리다]]></title>
-        <id>https://festa.io/events/6613</id>
-        <link href="https://festa.io/events/6613"/>
-        <updated>2024-12-09T09:10:03.409Z</updated>
-        <content type="html"><![CDATA[12월 10일 (화) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울바이오허브 입주스타트업 투자지원사업 데모데이 참관객 모집]]></title>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6607"/>
         <updated>2024-12-09T02:24:35.198Z</updated>
         <content type="html"><![CDATA[1월 16일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[Devfest 2024 Deajeon]]></title>
-        <id>https://festa.io/events/6602</id>
-        <link href="https://festa.io/events/6602"/>
-        <updated>2024-12-07T16:08:49.805Z</updated>
-        <content type="html"><![CDATA[12월 20일 (금) · 오프라인]]></content>
     </entry>
 </feed>
