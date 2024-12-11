@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-11T06:13:06.275Z</updated>
+    <updated>2024-12-11T07:09:31.903Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[국모다it IT취준생&부트캠프 교육생 오프라인 세미나&네트워킹]]></title>
+        <id>https://festa.io/events/6620</id>
+        <link href="https://festa.io/events/6620"/>
+        <updated>2024-12-11T07:09:31.137Z</updated>
+        <content type="html"><![CDATA[12월 14일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[100% 인턴십] 코드잇 스프린트 데이터 분석가 부트캠프 6기 모집 중]]></title>
         <id>https://festa.io/events/6618</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6609"/>
         <updated>2024-12-09T06:12:59.324Z</updated>
         <content type="html"><![CDATA[12월 13일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재직자/무료교육] 용접결함 검사 및 비파괴시험 대면 무료교육 (12/26~27)]]></title>
-        <id>https://festa.io/events/6608</id>
-        <link href="https://festa.io/events/6608"/>
-        <updated>2024-12-09T05:09:41.398Z</updated>
-        <content type="html"><![CDATA[12월 26일 (목) · 오프라인]]></content>
     </entry>
 </feed>
