@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-11T00:39:58.444Z</updated>
+    <updated>2024-12-11T02:21:12.425Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[100% 인턴십] 코드잇 스프린트 데이터 분석가 부트캠프 6기 모집 중]]></title>
+        <id>https://festa.io/events/6618</id>
+        <link href="https://festa.io/events/6618"/>
+        <updated>2024-12-11T02:21:11.770Z</updated>
+        <content type="html"><![CDATA[1월 16일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[전액 국비지원] 엘리스트랙 소프트웨어 QA 트랙 교육생 모집]]></title>
         <id>https://festa.io/events/6615</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6608"/>
         <updated>2024-12-09T05:09:41.398Z</updated>
         <content type="html"><![CDATA[12월 26일 (목) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인턴십 100%] Node.js 백엔드 부트캠프 모집 중]]></title>
-        <id>https://festa.io/events/6607</id>
-        <link href="https://festa.io/events/6607"/>
-        <updated>2024-12-09T02:24:35.198Z</updated>
-        <content type="html"><![CDATA[1월 16일 (목) · 온라인]]></content>
     </entry>
 </feed>
