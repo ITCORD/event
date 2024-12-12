@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-11T23:08:29.430Z</updated>
+    <updated>2024-12-12T00:39:31.700Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6580</id>
+        <link href="https://festa.io/events/6580"/>
+        <updated>2024-12-10T07:08:56.338Z</updated>
+        <content type="html"><![CDATA[12월 21일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국모다it IT취준생&부트캠프 교육생 오프라인 세미나&네트워킹 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6620</id>
@@ -31,13 +38,6 @@
         <link href="https://festa.io/events/6614"/>
         <updated>2024-12-10T11:07:31.756Z</updated>
         <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6580</id>
-        <link href="https://festa.io/events/6580"/>
-        <updated>2024-12-10T07:08:56.338Z</updated>
-        <content type="html"><![CDATA[12월 21일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[서울바이오허브 입주스타트업 투자지원사업 데모데이 참관객 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
