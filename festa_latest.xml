@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-13T04:11:07.367Z</updated>
+    <updated>2024-12-13T05:08:57.724Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료취업교육]K디지털 트레이닝 클라우드 풀스텍개발자 과정 모집]]></title>
+        <id>https://festa.io/events/6633</id>
+        <link href="https://festa.io/events/6633"/>
+        <updated>2024-12-13T05:08:57.080Z</updated>
+        <content type="html"><![CDATA[12월 30일 (월) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[RetroFest 2024: Back to the Future, 미래를 위한 돌아보기]]></title>
         <id>https://festa.io/events/6631</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6614"/>
         <updated>2024-12-10T11:07:31.756Z</updated>
         <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[서울바이오허브 입주스타트업 투자지원사업 데모데이 참관객 모집]]></title>
-        <id>https://festa.io/events/6612</id>
-        <link href="https://festa.io/events/6612"/>
-        <updated>2024-12-09T09:10:03.411Z</updated>
-        <content type="html"><![CDATA[12월 16일 (월) · 오프라인]]></content>
     </entry>
 </feed>
