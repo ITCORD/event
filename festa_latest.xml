@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-13T05:08:57.724Z</updated>
+    <updated>2024-12-13T06:12:17.406Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[돈 공부 이렇게 해라]]></title>
+        <id>https://festa.io/events/6634</id>
+        <link href="https://festa.io/events/6634"/>
+        <updated>2024-12-13T06:12:16.607Z</updated>
+        <content type="html"><![CDATA[12월 13일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료취업교육]K디지털 트레이닝 클라우드 풀스텍개발자 과정 모집]]></title>
         <id>https://festa.io/events/6633</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6615"/>
         <updated>2024-12-10T11:07:31.754Z</updated>
         <content type="html"><![CDATA[11월 25일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 국비지원] 엘리스트랙 Unity 게임 개발 트랙 교육생 모집]]></title>
-        <id>https://festa.io/events/6614</id>
-        <link href="https://festa.io/events/6614"/>
-        <updated>2024-12-10T11:07:31.756Z</updated>
-        <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
     </entry>
 </feed>
