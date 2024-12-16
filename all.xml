@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-16T06:13:18.624Z</updated>
+    <updated>2024-12-16T07:09:39.423Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[웨비나] 2025년 설계 체크리스트! (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6638</id>
+        <link href="https://festa.io/events/6638"/>
+        <updated>2024-12-16T07:09:38.695Z</updated>
+        <content type="html"><![CDATA[12월 16일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[돈 공부 이렇게 해라 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6634</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6615"/>
         <updated>2024-12-10T11:07:31.754Z</updated>
         <content type="html"><![CDATA[11월 25일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 국비지원] 엘리스트랙 Unity 게임 개발 트랙 교육생 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6614</id>
-        <link href="https://festa.io/events/6614"/>
-        <updated>2024-12-14T08:10:34.668Z</updated>
-        <content type="html"><![CDATA[11월 24일 (일) · 온라인]]></content>
     </entry>
 </feed>
