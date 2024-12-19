@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-19T05:09:14.580Z</updated>
+    <updated>2024-12-19T06:12:05.515Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[2024 서대문구 청년벤처 육성사업 최종성과공유회 참관]]></title>
+        <id>https://festa.io/events/6657</id>
+        <link href="https://festa.io/events/6657"/>
+        <updated>2024-12-19T06:12:04.817Z</updated>
+        <content type="html"><![CDATA[12월 26일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/6580</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6634"/>
         <updated>2024-12-13T06:12:16.607Z</updated>
         <content type="html"><![CDATA[12월 13일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[무료취업교육]K디지털 트레이닝 클라우드 풀스텍개발자 과정 모집]]></title>
-        <id>https://festa.io/events/6633</id>
-        <link href="https://festa.io/events/6633"/>
-        <updated>2024-12-13T05:08:57.080Z</updated>
-        <content type="html"><![CDATA[12월 30일 (월) · 오프라인]]></content>
     </entry>
 </feed>
