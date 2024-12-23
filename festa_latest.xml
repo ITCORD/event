@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2024-12-23T10:09:30.423Z</updated>
+    <updated>2024-12-23T11:03:46.045Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6673</id>
+        <link href="https://festa.io/events/6673"/>
+        <updated>2024-12-23T11:03:45.336Z</updated>
+        <content type="html"><![CDATA[12월 29일 (일) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[재직자/무료교육] 위험물 취급 및 안전관리 대면무료교육 (12.30. 월)]]></title>
         <id>https://festa.io/events/6672</id>
@@ -18,13 +25,6 @@
         <link href="https://festa.io/events/6671"/>
         <updated>2024-12-23T06:12:23.584Z</updated>
         <content type="html"><![CDATA[12월 30일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/6580</id>
-        <link href="https://festa.io/events/6580"/>
-        <updated>2024-12-19T00:38:53.732Z</updated>
-        <content type="html"><![CDATA[12월 28일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오라클아카데미] 빅데이터 시스템 튜닝/고가용성 시스템 구축 데이터 트랙 1기 신청자 모집]]></title>
