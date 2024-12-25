@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-25T10:08:43.496Z</updated>
+    <updated>2024-12-25T11:03:30.472Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[[전액 국비지원] AI 사업 개발자 양성 부트캠프 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -16,7 +16,7 @@
         <id>https://festa.io/events/6673</id>
         <link href="https://festa.io/events/6673"/>
         <updated>2024-12-23T11:03:45.336Z</updated>
-        <content type="html"><![CDATA[12월 29일 (일) · 오프라인]]></content>
+        <content type="html"><![CDATA[12월 28일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[재직자/무료교육] 3D프린터기반 제품설계&모델링 기초 실무 비대면 무료교육 안내(12/30~31) (페스타 ─ 최신 밋업과 이벤트)]]></title>
