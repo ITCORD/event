@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2024-12-30T08:11:56.026Z</updated>
+    <updated>2024-12-30T09:09:00.652Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <entry>
         <title type="html"><![CDATA[독서 속도2-7배상승! 속독과 긍정적인 사고력과 집중력을 길러주는 락독 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
@@ -33,20 +33,6 @@
         <content type="html"><![CDATA[12월 30일 (월) · 온라인]]></content>
     </entry>
     <entry>
-        <title type="html"><![CDATA[[재직자/무료교육] 위험물 취급 및 안전관리 대면무료교육 (12.30. 월) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6672</id>
-        <link href="https://festa.io/events/6672"/>
-        <updated>2024-12-23T06:12:23.580Z</updated>
-        <content type="html"><![CDATA[12월 30일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[재직자/무료교육] 디지털 트윈 입문 비대면 무료교육 (12/30, 월) (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6671</id>
-        <link href="https://festa.io/events/6671"/>
-        <updated>2024-12-23T06:12:23.584Z</updated>
-        <content type="html"><![CDATA[12월 30일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
         <title type="html"><![CDATA[[오라클아카데미] 빅데이터 시스템 튜닝/고가용성 시스템 구축 데이터 트랙 1기 신청자 모집 (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6659</id>
         <link href="https://festa.io/events/6659"/>
@@ -59,5 +45,19 @@
         <link href="https://festa.io/events/6661"/>
         <updated>2024-12-20T02:10:59.545Z</updated>
         <content type="html"><![CDATA[1월 10일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[한컴 AI 아카데미 과정 선착순 28명 모집 (~1/12까지) (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6658</id>
+        <link href="https://festa.io/events/6658"/>
+        <updated>2024-12-30T09:09:00.014Z</updated>
+        <content type="html"><![CDATA[1월 20일 (월) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[DevFest Jeju 2024 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6648</id>
+        <link href="https://festa.io/events/6648"/>
+        <updated>2024-12-30T09:09:00.014Z</updated>
+        <content type="html"><![CDATA[1월 5일 (일) · 오프라인]]></content>
     </entry>
 </feed>
