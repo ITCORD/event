@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2025-01-02T09:08:25.740Z</updated>
+    <updated>2025-01-02T10:08:44.754Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[인턴십 100%] Node.js 백엔드 부트캠프 모집 중]]></title>
+        <id>https://festa.io/events/6691</id>
+        <link href="https://festa.io/events/6691"/>
+        <updated>2025-01-02T10:08:44.008Z</updated>
+        <content type="html"><![CDATA[1월 16일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[CLOVA Speech와 Dubbing으로 나만의 영상 만들기]]></title>
         <id>https://festa.io/events/6688</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6680"/>
         <updated>2024-12-28T05:08:03.474Z</updated>
         <content type="html"><![CDATA[1월 8일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[전액 국비지원] AI 사업 개발자 양성 부트캠프]]></title>
-        <id>https://festa.io/events/6675</id>
-        <link href="https://festa.io/events/6675"/>
-        <updated>2024-12-24T07:08:01.069Z</updated>
-        <content type="html"><![CDATA[12월 22일 (일) · 온라인]]></content>
     </entry>
 </feed>
