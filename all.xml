@@ -2,21 +2,21 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-02T00:36:07.052Z</updated>
+    <updated>2025-01-02T02:09:12.322Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <entry>
-        <title type="html"><![CDATA[[인턴십 100% 보장] 프론트엔드 8주 단기 심화 부트캠프 모집 마감 임박 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6685</id>
-        <link href="https://festa.io/events/6685"/>
-        <updated>2024-12-31T06:11:05.871Z</updated>
-        <content type="html"><![CDATA[1월 16일 (목) · 온라인]]></content>
-    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게! (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6683</id>
         <link href="https://festa.io/events/6683"/>
         <updated>2024-12-30T11:03:11.620Z</updated>
         <content type="html"><![CDATA[1월 4일 (토) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[인턴십 100% 보장] 프론트엔드 8주 단기 심화 부트캠프 모집 마감 임박 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6685</id>
+        <link href="https://festa.io/events/6685"/>
+        <updated>2024-12-31T06:11:05.871Z</updated>
+        <content type="html"><![CDATA[1월 16일 (목) · 온라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[독서 속도2-7배상승! 속독과 긍정적인 사고력과 집중력을 길러주는 락독 세미나 (페스타 ─ 최신 밋업과 이벤트)]]></title>
