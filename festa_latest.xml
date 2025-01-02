@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2025-01-02T05:08:34.787Z</updated>
+    <updated>2025-01-02T06:11:14.409Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[CLOVA Speech와 Dubbing으로 나만의 영상 만들기]]></title>
+        <id>https://festa.io/events/6688</id>
+        <link href="https://festa.io/events/6688"/>
+        <updated>2025-01-02T06:11:13.783Z</updated>
+        <content type="html"><![CDATA[1월 23일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[Cloud Outbound Mailer에 메일 도메인 등록하기]]></title>
+        <id>https://festa.io/events/6687</id>
+        <link href="https://festa.io/events/6687"/>
+        <updated>2025-01-02T06:11:13.784Z</updated>
+        <content type="html"><![CDATA[1월 16일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[CLOVA Speech와 Dubbing으로 나만의 영상 만들기]]></title>
+        <id>https://festa.io/events/6686</id>
+        <link href="https://festa.io/events/6686"/>
+        <updated>2025-01-02T06:11:13.784Z</updated>
+        <content type="html"><![CDATA[1월 9일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
         <id>https://festa.io/events/6683</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/6675"/>
         <updated>2024-12-24T07:08:01.069Z</updated>
         <content type="html"><![CDATA[12월 22일 (일) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[오라클아카데미] 빅데이터 시스템 튜닝/고가용성 시스템 구축 데이터 트랙 1기 신청자 모집]]></title>
-        <id>https://festa.io/events/6659</id>
-        <link href="https://festa.io/events/6659"/>
-        <updated>2024-12-19T08:11:46.938Z</updated>
-        <content type="html"><![CDATA[12월 13일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[한국산업기술협회 세미나] 2025년 미래 유망 기술에 트렌드를 입히다]]></title>
-        <id>https://festa.io/events/6661</id>
-        <link href="https://festa.io/events/6661"/>
-        <updated>2024-12-20T02:10:59.545Z</updated>
-        <content type="html"><![CDATA[1월 10일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[한컴 AI 아카데미 과정 선착순 28명 모집 (~1/12까지)]]></title>
-        <id>https://festa.io/events/6658</id>
-        <link href="https://festa.io/events/6658"/>
-        <updated>2024-12-31T09:08:38.904Z</updated>
-        <content type="html"><![CDATA[1월 20일 (월) · 오프라인]]></content>
     </entry>
 </feed>
