@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2025-01-03T06:11:12.290Z</updated>
+    <updated>2025-01-03T07:08:25.204Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[무료교육/재직자] 25년 1월 재직자 직무능력 향상 무료교육]]></title>
+        <id>https://festa.io/events/6695</id>
+        <link href="https://festa.io/events/6695"/>
+        <updated>2025-01-03T07:08:24.564Z</updated>
+        <content type="html"><![CDATA[1월 31일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[25/1/22 (수)_챗GPT 생성AI를 활용한 스마트워크/업무자동화 유료특강]]></title>
         <id>https://festa.io/events/6694</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6686"/>
         <updated>2025-01-02T06:11:13.784Z</updated>
         <content type="html"><![CDATA[1월 9일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[인턴십 100% 보장] 프론트엔드 8주 단기 심화 부트캠프 모집 마감 임박]]></title>
-        <id>https://festa.io/events/6685</id>
-        <link href="https://festa.io/events/6685"/>
-        <updated>2024-12-31T06:11:05.871Z</updated>
-        <content type="html"><![CDATA[1월 16일 (목) · 온라인]]></content>
     </entry>
 </feed>
