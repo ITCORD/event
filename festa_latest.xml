@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2025-01-10T05:09:04.617Z</updated>
+    <updated>2025-01-10T06:11:59.165Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[오라클] SQL Developer, EXADATA, OCI, Anaconda, SPSS 활용 데이터전문가 국비교육 안내]]></title>
+        <id>https://festa.io/events/6705</id>
+        <link href="https://festa.io/events/6705"/>
+        <updated>2025-01-10T06:11:58.433Z</updated>
+        <content type="html"><![CDATA[12월 12일 (목) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[2025 블레이버스 MVP 개발 해커톤]]></title>
         <id>https://festa.io/events/6702</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6694"/>
         <updated>2025-01-03T03:13:40.100Z</updated>
         <content type="html"><![CDATA[1월 22일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[1/24(금) 2025년 정부지원사업 및 지원방향(R&D사업계획서 작성방법과 성공사례/질의응답)]]></title>
-        <id>https://festa.io/events/6693</id>
-        <link href="https://festa.io/events/6693"/>
-        <updated>2025-01-03T02:10:56.506Z</updated>
-        <content type="html"><![CDATA[1월 24일 (금) · 오프라인]]></content>
     </entry>
 </feed>
