@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2025-01-14T05:08:07.773Z</updated>
+    <updated>2025-01-14T06:11:07.211Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[[유데미] 4주 완성 챌린지: 성공하는 영문 이력서와 영어 면접]]></title>
+        <id>https://festa.io/events/6712</id>
+        <link href="https://festa.io/events/6712"/>
+        <updated>2025-01-14T06:11:06.459Z</updated>
+        <content type="html"><![CDATA[12월 23일 (월) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[무료특강/1월] 미치도록 하고싶은 초.격.차 지식창업]]></title>
         <id>https://festa.io/events/6711</id>
@@ -53,12 +60,5 @@
         <link href="https://festa.io/events/6698"/>
         <updated>2025-01-07T03:16:06.263Z</updated>
         <content type="html"><![CDATA[5월 9일 (금) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[2024년 2학기 Blaybus 성과공유회]]></title>
-        <id>https://festa.io/events/6699</id>
-        <link href="https://festa.io/events/6699"/>
-        <updated>2025-01-07T03:16:06.264Z</updated>
-        <content type="html"><![CDATA[1월 22일 (수) · 오프라인]]></content>
     </entry>
 </feed>
