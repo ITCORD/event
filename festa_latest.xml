@@ -2,9 +2,16 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2025-01-14T07:08:20.702Z</updated>
+    <updated>2025-01-14T08:10:47.403Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
+        <id>https://festa.io/events/6697</id>
+        <link href="https://festa.io/events/6697"/>
+        <updated>2025-01-06T08:11:48.219Z</updated>
+        <content type="html"><![CDATA[1월 18일 (토) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[[유데미] 4주 완성 챌린지: 성공하는 영문 이력서와 영어 면접]]></title>
         <id>https://festa.io/events/6712</id>
@@ -25,13 +32,6 @@
         <link href="https://festa.io/events/6710"/>
         <updated>2025-01-13T11:07:31.990Z</updated>
         <content type="html"><![CDATA[1월 20일 (월) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[재테크 함께해요! : 1대1 클래스로 심도있게!]]></title>
-        <id>https://festa.io/events/6697</id>
-        <link href="https://festa.io/events/6697"/>
-        <updated>2025-01-06T08:11:48.219Z</updated>
-        <content type="html"><![CDATA[1월 18일 (토) · 오프라인]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[[오라클] SQL Developer, EXADATA, OCI, Anaconda, SPSS 활용 데이터전문가 국비교육 안내]]></title>
