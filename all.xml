@@ -2,8 +2,15 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://ITCORD.github.io/event/all.xml</id>
     <title>Combined feed</title>
-    <updated>2025-01-17T04:10:00.818Z</updated>
+    <updated>2025-01-17T05:08:06.946Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
+    <entry>
+        <title type="html"><![CDATA[[실제 합격 사업계획서 PDF 제공] 2025년 예창패X초창패 정복하기 (페스타 ─ 최신 밋업과 이벤트)]]></title>
+        <id>https://festa.io/events/6726</id>
+        <link href="https://festa.io/events/6726"/>
+        <updated>2025-01-17T05:08:06.330Z</updated>
+        <content type="html"><![CDATA[2월 7일 (금) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[해외연수와 인턴기회까지! 한컴 AI 아카데미 교육 과정(1/22 마감) (페스타 ─ 최신 밋업과 이벤트)]]></title>
         <id>https://festa.io/events/6725</id>
@@ -52,12 +59,5 @@
         <link href="https://festa.io/events/6716"/>
         <updated>2025-01-14T12:14:15.071Z</updated>
         <content type="html"><![CDATA[2월 10일 (월) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[북토크 1/19  | 부산 보수동 책방 골목 피스카인드홈 | 독립출판물 <시선이 머무는 순간들> 사진전 기념 북 토크 (페스타 ─ 최신 밋업과 이벤트)]]></title>
-        <id>https://festa.io/events/6715</id>
-        <link href="https://festa.io/events/6715"/>
-        <updated>2025-01-14T12:14:15.072Z</updated>
-        <content type="html"><![CDATA[1월 19일 (일) · 오프라인]]></content>
     </entry>
 </feed>
