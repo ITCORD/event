@@ -2,9 +2,37 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2025-01-23T06:11:05.131Z</updated>
+    <updated>2025-01-23T07:08:08.633Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 클라우드 플랫폼의 Multi-CDN, Global Edge 살펴보기]]></title>
+        <id>https://festa.io/events/6742</id>
+        <link href="https://festa.io/events/6742"/>
+        <updated>2025-01-23T07:08:07.970Z</updated>
+        <content type="html"><![CDATA[2월 6일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[생산성 UP! 생성형 ai를 활용한 데이터 분석 및 보고서 작성]]></title>
+        <id>https://festa.io/events/6741</id>
+        <link href="https://festa.io/events/6741"/>
+        <updated>2025-01-23T07:08:07.970Z</updated>
+        <content type="html"><![CDATA[2월 14일 (금) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RocketBoost] Ai 응용 웹/앱 개발자 부트캠프]]></title>
+        <id>https://festa.io/events/6740</id>
+        <link href="https://festa.io/events/6740"/>
+        <updated>2025-01-23T07:08:07.971Z</updated>
+        <content type="html"><![CDATA[1월 22일 (수) · 오프라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[[RocketBoost] 블록체인 엔지니어 부트캠프]]></title>
+        <id>https://festa.io/events/6739</id>
+        <link href="https://festa.io/events/6739"/>
+        <updated>2025-01-23T07:08:07.971Z</updated>
+        <content type="html"><![CDATA[1월 31일 (금) · 오프라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[국모다it 정보처리기사 실기 준비 스터디]]></title>
         <id>https://festa.io/events/6738</id>
@@ -32,33 +60,5 @@
         <link href="https://festa.io/events/6733"/>
         <updated>2025-01-20T07:09:15.259Z</updated>
         <content type="html"><![CDATA[2월 8일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[로폼 2025년 주주총회 웨비나]]></title>
-        <id>https://festa.io/events/6732</id>
-        <link href="https://festa.io/events/6732"/>
-        <updated>2025-01-20T03:11:49.442Z</updated>
-        <content type="html"><![CDATA[2월 13일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 데이터 분석가 부트캠프 7기 모집 중]]></title>
-        <id>https://festa.io/events/6729</id>
-        <link href="https://festa.io/events/6729"/>
-        <updated>2025-01-17T09:08:21.643Z</updated>
-        <content type="html"><![CDATA[2월 13일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국모다it 신년 coffee 모임+신년 계획세우기]]></title>
-        <id>https://festa.io/events/6728</id>
-        <link href="https://festa.io/events/6728"/>
-        <updated>2025-01-17T08:10:28.105Z</updated>
-        <content type="html"><![CDATA[1월 25일 (토) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[[코드잇 스프린트] 프론트엔드 8주 단기 심화 부트캠프 모집중]]></title>
-        <id>https://festa.io/events/6727</id>
-        <link href="https://festa.io/events/6727"/>
-        <updated>2025-01-17T06:10:56.519Z</updated>
-        <content type="html"><![CDATA[2월 13일 (목) · 온라인]]></content>
     </entry>
 </feed>
