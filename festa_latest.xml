@@ -2,9 +2,30 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://festa.io/explore</id>
     <title>페스타 ─ 최신 밋업과 이벤트</title>
-    <updated>2025-01-23T07:08:08.633Z</updated>
+    <updated>2025-01-23T08:11:20.297Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <icon>https://festa.io/public/ny/favicon/android-icon-192x192.png</icon>
+    <entry>
+        <title type="html"><![CDATA[네이버 클라우드 플랫폼의 Multi-CDN, Global Edge 살펴보기]]></title>
+        <id>https://festa.io/events/6744</id>
+        <link href="https://festa.io/events/6744"/>
+        <updated>2025-01-23T08:11:19.518Z</updated>
+        <content type="html"><![CDATA[2월 20일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클로바 노트, B2B로 활용하기]]></title>
+        <id>https://festa.io/events/6743</id>
+        <link href="https://festa.io/events/6743"/>
+        <updated>2025-01-23T08:11:19.519Z</updated>
+        <content type="html"><![CDATA[2월 13일 (목) · 온라인]]></content>
+    </entry>
+    <entry>
+        <title type="html"><![CDATA[클로바 노트, B2B로 활용하기]]></title>
+        <id>https://festa.io/events/6745</id>
+        <link href="https://festa.io/events/6745"/>
+        <updated>2025-01-23T08:11:19.520Z</updated>
+        <content type="html"><![CDATA[2월 27일 (목) · 온라인]]></content>
+    </entry>
     <entry>
         <title type="html"><![CDATA[네이버 클라우드 플랫폼의 Multi-CDN, Global Edge 살펴보기]]></title>
         <id>https://festa.io/events/6742</id>
@@ -39,26 +60,5 @@
         <link href="https://festa.io/events/6738"/>
         <updated>2025-01-23T06:11:04.520Z</updated>
         <content type="html"><![CDATA[1월 30일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[국모다it 리눅스 마스터 1급 스터디]]></title>
-        <id>https://festa.io/events/6737</id>
-        <link href="https://festa.io/events/6737"/>
-        <updated>2025-01-23T06:11:04.524Z</updated>
-        <content type="html"><![CDATA[1월 30일 (목) · 온라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[직장인을 위한 부동산 투자 & 재테크 클래스]]></title>
-        <id>https://festa.io/events/6736</id>
-        <link href="https://festa.io/events/6736"/>
-        <updated>2025-01-22T09:08:43.366Z</updated>
-        <content type="html"><![CDATA[1월 22일 (수) · 오프라인]]></content>
-    </entry>
-    <entry>
-        <title type="html"><![CDATA[인제는대학관광학부]]></title>
-        <id>https://festa.io/events/6733</id>
-        <link href="https://festa.io/events/6733"/>
-        <updated>2025-01-20T07:09:15.259Z</updated>
-        <content type="html"><![CDATA[2월 8일 (토) · 오프라인]]></content>
     </entry>
 </feed>
